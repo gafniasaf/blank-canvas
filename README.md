@@ -1,36 +1,115 @@
-# Local INDD Extraction & Embedding Pipeline
+# BookGen — Book Publishing Pipeline
 
-This project automates extracting text from InDesign (`.indd`) files via the local InDesign MCP server, normalizes and upserts it into Postgres (with pgvector), and batches embeddings for semantic search.
+End-to-end automated pipeline for generating, rendering, and validating educational books. Includes an InDesign extraction layer, a Supabase-backed job queue with worker strategies, and a real-time React dashboard for monitoring.
+
+## Architecture
+
+```
+┌─────────────────┐     ┌──────────────────┐     ┌────────────────────┐
+│  Pipeline        │     │  BookGen Worker   │     │  Dashboard (React) │
+│  CLI / MCP       │────▶│  (runner.ts)      │◀───▶│  Real-time UI      │
+│  enqueue/monitor │     │  11 strategies    │     │  Jobs · Books · Log│
+└─────────────────┘     └──────────────────┘     └────────────────────┘
+         │                       │
+         ▼                       ▼
+   ┌───────────┐         ┌──────────────┐
+   │ Supabase  │         │ PrinceXML /  │
+   │ Postgres  │         │ Puppeteer    │
+   │ + pgvector│         │ PDF render   │
+   └───────────┘         └──────────────┘
+```
+
+## Modules
+
+| Directory | Purpose |
+|---|---|
+| `bookgen/` | Main app — React dashboard + worker runner + MCP server |
+| `bookgen/src/strategies/` | Pipeline step implementations (generate, assemble, render, validate…) |
+| `bookgen/cli/` | CLI tools: `enqueue`, `monitor`, `status` |
+| `bookgen/bookgen-mcp/` | MCP server for AI agent control plane |
+| `new_pipeline/` | HTML/PDF rendering pipeline (PrinceXML, design tokens, validation) |
+| `worker/` | Dockerized worker for cloud deployment (Node + Python + PrinceXML) |
+| `db/` | Postgres schema migrations (pgvector) |
 
 ## Prerequisites
-- macOS with Adobe InDesign installed and running.
-- InDesign MCP server running locally (HTTP): `node Projects/indesign-mcp-server/src/http-server.js` (default `http://127.0.0.1:3001`).
-- Postgres with `pgvector` installed (e.g., `brew install postgresql@16` then `CREATE EXTENSION vector;`).
-- Node 18+.
+
+- Node 18+
+- macOS with Adobe InDesign (for INDD extraction)
+- Postgres with `pgvector` extension
+- PrinceXML (for PDF rendering)
+- Python 3 with `pdfplumber`, `numpy` (for validation scripts)
 
 ## Setup
-1) Copy env template:
-   - `cp env.example .env` (then set `DATABASE_URL`, `OPENAI_API_KEY`, `MCP_URL`, paths).
-2) Install deps: `npm install`.
-3) Apply schema: `npm run migrate` (requires `psql` on PATH).
-4) Place INDD files under `designs/` (or set `INDESIGN_INPUT_DIR`).
 
-MCP config: a sample is in `mcp.example.json`. If your tooling supports `.cursor/mcp.json`, point it at `http://127.0.0.1:3001`.
+1. Copy env template: `cp env.example .env`
+2. Set required vars: `DATABASE_URL`, `OPENAI_API_KEY`, `VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`
+3. Install dependencies: `npm install`
+4. Apply DB schema: `npm run migrate`
 
 ## Commands
-- Extract & ingest INDD stories to Postgres and JSON:
-  - `npm run extract`
-  - Output JSON: `output/extracted.json`.
-- Embed canonical text into pgvector:
-  - `npm run embed`
-  - Optional semantic check: `npm run embed -- --query "grade 5 fractions"`.
 
-## Schema (pgvector)
+### Dashboard (React UI)
+```bash
+cd bookgen
+npm run dev          # Start dev server with HMR
+npm run build        # Production build
+```
+
+### Worker
+```bash
+cd bookgen
+npm run dev:worker   # Start job polling worker
+npm run dev:mcp      # Start MCP control plane server
+```
+
+### CLI
+```bash
+cd bookgen
+npm run cli:enqueue  # Queue a new pipeline job
+npm run cli:monitor  # Watch job progress
+npm run cli:status   # Check pipeline status
+```
+
+### INDD Extraction
+```bash
+npm run extract      # Extract stories from INDD → Postgres + JSON
+npm run embed        # Batch-embed text into pgvector
+```
+
+### PDF Rendering (new_pipeline)
+```bash
+cd new_pipeline
+npm run build:ch1    # Full chapter build: tokens → export → render → validate
+npm run render       # Render HTML to PDF via PrinceXML
+```
+
+## Dashboard
+
+The React dashboard (`bookgen/src/`) provides:
+
+- **Book Registry** — view all registered books with metadata
+- **Job Table** — live status of all pipeline jobs (pending, running, done, failed)
+- **Event Log** — real-time stream of pipeline events
+- **Stats Bar** — aggregate counts by job status
+
+Connects to Supabase for real-time updates via `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`. Falls back to demo data when not connected.
+
+## Database Schema
+
 `db/001_init.sql` creates:
-- `content`: canonical rows (`content_id`, `source_text`, `validated_text`, `status`, `metadata`, `embedding vector(1536)`).
-- `content_versions`: versioned text history.
-- IVFFLAT index on `content.embedding`, plus supporting indexes.
+- `content` — canonical text rows with `embedding vector(1536)`
+- `content_versions` — versioned text history
+- `book_registry` — registered books and metadata
+- `pipeline_jobs` — job queue with status tracking
+- `pipeline_events` — event log for real-time monitoring
 
-## Text normalization
-Extraction normalizes whitespace, removes hyphenated line breaks, collapses multi-blank lines, and trims.
+## Docker (Cloud Worker)
 
+```bash
+docker build -f worker/Dockerfile -t bookgen-worker .
+docker run --env-file .env bookgen-worker
+```
+
+## License
+
+Private — all rights reserved.
