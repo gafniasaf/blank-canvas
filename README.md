@@ -113,3 +113,6 @@ docker run --env-file .env bookgen-worker
 ## License
 
 Private — all rights reserved.
+
+---
+*Last synced from Lovable: 2026-02-18*
