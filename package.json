@@ -17,7 +17,9 @@
     "report:text:approval-sample": "ts-node scripts/generate-text-approval-sample.ts",
     "migrate": "psql \"$DATABASE_URL\" -f db/001_init.sql",
     "extract": "ts-node scripts/extract.ts",
-    "embed": "ts-node scripts/embed.ts"
+    "embed": "ts-node scripts/embed.ts",
+    "build:dev": "vite build --mode development",
+    "build": "vite build"
   },
   "keywords": [],
   "author": "",
