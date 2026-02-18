@@ -1,0 +1,32 @@
+{
+  "dca644c3-2b68-4539-b436-63d0c033a419": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch10/linked/Image 2.7 Onderdelen van SMART.png",
+      "alt": "Afbeelding 10.1: Onderdelen van SMART.",
+      "figureNumber": "Afbeelding 10.1:",
+      "caption": "Onderdelen van SMART.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "21795173-2b42-44f4-a21c-d990d05c0ab8": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch10/linked/Image 3.2 Voorbeeld van de invulling van een zorgplan.png",
+      "alt": "Afbeelding 10.2: Voorbeeld van de invulling van een zorgplan.",
+      "figureNumber": "Afbeelding 10.2:",
+      "caption": "Voorbeeld van de invulling van een zorgplan.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "b333eb68-eb93-4e01-9de9-d9729adf2af1": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch10/linked/Image 6.3 Controleer het zorgplan en pas het waar nodig aan.png",
+      "alt": "Afbeelding 10.3: Controleer het zorgplan en pas het waar nodig aan.",
+      "figureNumber": "Afbeelding 10.3:",
+      "caption": "Controleer het zorgplan en pas het waar nodig aan.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

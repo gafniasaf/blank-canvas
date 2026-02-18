@@ -1,0 +1,38 @@
+[
+  {
+    "originalFilename": "MAF_Ch12_Img05.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img05.TIF",
+    "localFilename": "MAF_Ch12_Img05.png",
+    "localPath": "new_pipeline/assets/images/ch12/MAF_Ch12_Img05.png",
+    "usedInFigureLabels": [
+      "Afbeelding 12.5:"
+    ]
+  },
+  {
+    "originalFilename": "MAF_Ch12_Img08.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img08.TIF",
+    "localFilename": "MAF_Ch12_Img08.png",
+    "localPath": "new_pipeline/assets/images/ch12/MAF_Ch12_Img08.png",
+    "usedInFigureLabels": [
+      "Afbeelding 12.8:"
+    ]
+  },
+  {
+    "originalFilename": "MAF_Ch12_Img11.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img11.TIF",
+    "localFilename": "MAF_Ch12_Img11.png",
+    "localPath": "new_pipeline/assets/images/ch12/MAF_Ch12_Img11.png",
+    "usedInFigureLabels": [
+      "Afbeelding 12.11:"
+    ]
+  },
+  {
+    "originalFilename": "MAF_Ch12_Img4.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img4.TIF",
+    "localFilename": "MAF_Ch12_Img4.png",
+    "localPath": "new_pipeline/assets/images/ch12/MAF_Ch12_Img4.png",
+    "usedInFigureLabels": [
+      "Afbeelding 12.4:"
+    ]
+  }
+]

@@ -1,0 +1,191 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 6468
+  },
+  "chapter": "15",
+  "chapterRange": {
+    "endOff": 188,
+    "ok": true,
+    "startOff": 172
+  },
+  "exportedAt": "Sat Jan 03 2026 22:48:14 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "kortademigheid;",
+        "beforeText": "Je moet bij het klaarmaken van voedsel voor een zorgvrager niet alleen rekening houden met hygiëne, maar ook met eventuele allergieën en dieeteisen die de zorgvrager heeft. Als je dat namelijk niet doet, kan de gezondheid van de zorgvrager ernstig gevaar lopen. Zorgvragers kunnen voedselallergieën en voedselintoleranties hebben. Deze begrippen worden vaak door elkaar gebruikt, maar het zijn verschillende dingen.",
+        "pageDocumentOffset": 175,
+        "paragraphIndexInBodyStory": 2954,
+        "text": "Een voedselallergie heeft te maken met het immuunsysteem. Als de zorgvrager allergisch is voor een voedingsmiddel, dan maakt het lichaam antistoffen tegen eiwitten uit dat product aan. Deze eiwitten, ook wel allergenen genoemd, ziet het lichaam dan als lichaamsvreemd. De aangemaakte antistoffen gaan een reactie aan met de allergenen, waardoor de zorgvrager veel klachten kan krijgen, zoals:",
+        "x": 15,
+        "y": 133.765927929352
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch15/Afbeelding_15.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Voorbeelden van voedingsmiddelen waarvoor zorgvragers allergisch kunnen zijn.",
+        "bounds": null,
+        "label": "Afbeelding 15.1:",
+        "raw": "Afbeelding 15.1 Voorbeelden van voedingsmiddelen waarvoor zorgvragers allergisch kunnen zijn.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch15/Afbeelding_15.1.png",
+        "bounds": [
+          161.28078079224,
+          28.0563432222222,
+          234.780780792242,
+          166.238101222222
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk15_15.1_Voorbeelden van voedingsmiddelen waarvoor mensen allergisch kunnen zijn.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk15_15.1_Voorbeelden%20van%20voedingsmiddelen%20waarvoor%20mensen%20allergisch%20kunnen%20zijn.tif"
+      },
+      "page": {
+        "documentOffset": 175,
+        "name": "162"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Stel vragen aan de zorgvrager over gezondheid, eten en gewicht.",
+        "beforeText": "bij risico op ondervoeding: de zorgvrager één keer per maand wegen;",
+        "pageDocumentOffset": 178,
+        "paragraphIndexInBodyStory": 3019,
+        "text": "bij ondervoeding: de zorgvrager bij voorkeur elke week wegen, maar minimaal elke maand. Weeg de zorgvrager ook voordat hij of zij een afspraak met de diëtist heeft.",
+        "x": 221.999999830458,
+        "y": 22.6659279293464
+      },
+      "asset": null,
+      "caption": {
+        "body": "De SNAQ-vragenlijst.",
+        "bounds": null,
+        "label": "Afbeelding 15.2:",
+        "raw": "Afbeelding 15.2 De SNAQ-vragenlijst.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          297.000001102024,
+          110.999999999998,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk15_15.2_ De SNAQ vragenlijst.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk15_15.2_%20De%20SNAQ%20vragenlijst.tif"
+      },
+      "page": {
+        "documentOffset": 178,
+        "name": "165"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿15.4.2  Oorzaken van ondervoeding",
+        "pageDocumentOffset": 178,
+        "paragraphIndexInBodyStory": 3036,
+        "text": "Vaak is de oorzaak van ondervoeding te weinig eten, maar dit kan veel verschillende redenen hebben. Meestal eet een zorgvrager minder doordat hij of zij minder eetlust heeft. Sommige zorgvragers hebben altijd al een slechte eetlust, wat ook weer kan komen door verschillende omstandigheden.",
+        "x": 297,
+        "y": 136.049999999993
+      },
+      "asset": null,
+      "caption": {
+        "body": "Ondervoeding wordt niet alleen veroorzaakt door te weinig beschikbare voeding.",
+        "bounds": null,
+        "label": "Afbeelding 15.3:",
+        "raw": "Afbeelding 15.3  Ondervoeding wordt niet alleen veroorzaakt door te weinig beschikbare voeding.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          165.023726851848,
+          305.489986758762,
+          207.813912751848,
+          366.510014428902
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk15_15.3_Ondervoeding wordt niet alleen veroorzaakt door te weinig beschikbare voeding.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk15_15.3_Ondervoeding%20wordt%20niet%20alleen%20veroorzaakt%20door%20te%20weinig%20beschikbare%20voeding.tif"
+      },
+      "page": {
+        "documentOffset": 178,
+        "name": "165"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij de chronische ziekte obesitas treedt te veel vetstapeling op. De zorgvrager loopt dan risico op het krijgen van veel verschillende gezondheidsproblemen. Als zorgvragers meer voedsel eten dan nodig is voor de hoeveelheid lichamelijke activiteit, ontstaat bij hen obesitas. Net als ondervoeding is obesitas dus een verstoring in de energiebalans.",
+        "pageDocumentOffset": 181,
+        "paragraphIndexInBodyStory": 3117,
+        "text": "Bij een BMI van hoger dan 30 heb je obesitas. Vanaf een BMI van hoger dan 40 spreken we van morbide obesitas.",
+        "x": 15,
+        "y": 112.59926126268
+      },
+      "asset": null,
+      "caption": {
+        "body": "Obesitas is een verstoring in de energiebalans.",
+        "bounds": null,
+        "label": "Afbeelding 15.4:",
+        "raw": "Afbeelding 15.4 Obesitas is een verstoring in de energiebalans.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          126.756321447864,
+          15.0000011020236,
+          176.769861099702,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk15_15.5_Obesitas.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk15_15.5_Obesitas.jpg"
+      },
+      "page": {
+        "documentOffset": 181,
+        "name": "168"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "monitoren van het gewicht. Monitoren betekent in de gaten houden. Je moet de zorgvrager dus regelmatig wegen. Het is genoeg om één keer per week op de weegschaal te staan. Doe dit elke keer op hetzelfde moment van de dag. ’s Avonds heb je namelijk een ander gewicht dan ’s ochtends. De zorgvrager moet meer bewegen en minder consumeren als het gewicht weer toeneemt, want dan is de balans niet goed.",
+        "pageDocumentOffset": 183,
+        "paragraphIndexInBodyStory": 3163,
+        "text": "In bijzondere gevallen kunnen we een operatie uitvoeren om obesitas te behandelen. Dat doen we soms bij een BMI van hoger dan 40. Mogelijke operaties zijn een maagverkleining en het aanbrengen van een maagband. Bij deze operaties wordt de maaginhoud verkleind, zodat de zorgvrager minder kan eten. Op die manier krijgt de zorgvrager minder voedingsstoffen binnen en zal hij of zij afvallen.",
+        "x": 15,
+        "y": 133.3214834849
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voedingsmiddelen die veel vetten en suikers bevatten.",
+        "bounds": null,
+        "label": "Afbeelding 15.5:",
+        "raw": "Afbeelding 15.5 Voedingsmiddelen die veel vetten en suikers bevatten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          172.172988114533,
+          15.0000011020237,
+          228.485700555051,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk15_15.6_Voedingsmiddelen die veel vetten en suikers bevatten.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk15_15.6_Voedingsmiddelen%20die%20veel%20vetten%20en%20suikers%20bevatten.tif"
+      },
+      "page": {
+        "documentOffset": 183,
+        "name": "170"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

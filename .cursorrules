@@ -1,0 +1,67 @@
+# Cursor Project Rules (InDesign/TestRun)
+These rules exist to prevent “drift” from our established pipeline, validations, and sources of truth.
+If a change conflicts with these rules, **stop** and ask before proceeding.
+
+## Source of truth (numbering + topics)
+- **Multi-book source of truth (for scaling to 12 books)**: `books/manifest.json`
+  - Each book declares its canonical N4 source INDD + canonical IDML snapshot + baseline INDD + template profile.
+- **Canonical numbering/topic backbone**: the original A&F **N4** book in Downloads  
+  `/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd`
+- **Canonical snapshot for deterministic checks**: exported IDML from that INDD  
+  `./_source_exports/MBO_A&F_4_9789083251370_03.2024__FROM_DOWNLOADS.idml`  
+  (Generate via `export-n4-idml-from-downloads.jsx`)
+- **Rewrite JSON output** (legacy name; used by the JSON-first rewrite pipeline): `~/Desktop/rewrites_for_indesign.json`
+
+## Rewrite pipeline mode (current default)
+- We are **Prince-first** now (no InDesign apply). Use `--mode prince` (default) in rewrite scripts.
+- `--mode indesign` remains available as a legacy option for deterministic apply-safe JSON.
+
+## Current output target (student books)
+- We generate **student-facing PDFs** via `new_pipeline/` (Prince).  
+  - **No teacher PDFs** (no KD appendix) in the default workflow for now.
+  - Student content must stay **KD-free** (no codes/tags/“KD” mentions); KD is only an internal steering lens.
+
+## Mandatory gates (must be green before calling anything “validated”)
+- **Numbering gate (N4 backbone)**: JSON must use only (chapter, paragraph, subparagraph) keys that exist in the N4 snapshot and must include `subparagraph_number` (even if `null`).  
+  Script: `scripts/verify-json-numbering-vs-n4.py`
+- **JSON structural gate**: `npm run preflight:json -- <json>` must pass (no `\\r`, Option A markers, safe layer placement, etc).
+- **Prince layout validation suite**: run the validation suite in `new_pipeline/` on the newest rendered PDF output (page-fill/column-balance/box gaps/bullet splits/etc).
+  - Standard entry points: `cd new_pipeline && npm run build:chapter ...` or `npm run build:book ...`
+
+### Legacy (only if using InDesign again)
+- Coverage gate / applied-rewrites proof gate / InDesign validation suite are only relevant for InDesign apply flows.
+
+## InDesign safety (non-negotiable)
+- Never modify the baseline INDD in-place. Always `saveACopy` and work on the copy.
+- Always hard-gate that `app.activeDocument` is the intended document before editing.
+- Post-passes (headings/soft-hyphens) must run on the newest rewritten output, not on the baseline.
+
+## Formatting rules (non-negotiable)
+- **Option A** headings only: `\n\n<<BOLD_START>>In de praktijk:<<BOLD_END>> ...` and `\n\n<<BOLD_START>>Verdieping:<<BOLD_END>> ...` (label bold only, colon required, inline text after colon).
+- After the colon, start lowercase **except** abbreviation-like tokens (DNA/AB0/ATP…).
+- **Layer placement**: never place praktijk/verdieping inside list-intro paragraphs ending with `:` when followed by bullet runs; prefer placing the block in a normal body paragraph after the bullet run.
+- **2-column bullet hygiene**: no nested bullet levels in main body text; convert long/explanatory bullets into normal body paragraphs via `normalize-bullets-chapter.jsx` (validated by `scan-nested-bullets.jsx`).
+- Remove invisible soft hyphens (U+00AD) from body text.
+- Body text should be `LEFT_JUSTIFIED` (justify with last line left); avoid `FULLY_JUSTIFIED` (justify-all). Single-word justification should be left.
+
+## Terminology (non-negotiable; student-facing)
+- Use **“zorgvrager”** (never cliënt/client).
+- Use **“zorgprofessional”** (never verpleegkundige).
+
+## KD 2025 scope (WIP)
+- Target teaching context: **KD 2025** (zorg domain: Verzorgende IG / MBO Verpleegkundige).
+- Repo note: we have the **KD 2025 workprocess codes/titles** in `docs/kd/kd_2025_workprocesses.json`, but we do **not** have the full KD text/definitions or a validated section→KD mapping yet, so do **not** claim KD coverage.
+- Context: `docs/KD_2025_CONTEXT.md`
+- Planned mapping: `docs/kd/README.md`
+
+## DB/Docker discipline
+- Use real Supabase env vars (no dummy/test placeholders in code/scripts).
+- If Docker/Supabase is started for a task, stop it after the task is finished.
+
+## Keep rules in sync
+If system rules change (paths, thresholds, validations, formatting conventions), update:
+- `docs/CURSOR_RULES.md` (canonical explanation)
+- `.cursorrules`
+- `.cursor/rules/*`
+
+

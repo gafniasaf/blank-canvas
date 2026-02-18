@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3066
+  },
+  "chapter": "25",
+  "chapterRange": {
+    "endOff": 274,
+    "ok": true,
+    "startOff": 268
+  },
+  "exportedAt": "Sat Jan 03 2026 22:53:52 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿25.3.10  Cognitieve stoornissen",
+        "beforeText": "﻿25.3.9  Neurologische aandoeningen",
+        "pageDocumentOffset": 271,
+        "paragraphIndexInBodyStory": 4931,
+        "text": "Belangrijke neurologische aandoeningen zijn beroerten en de ziekte van Parkinson en MS (multiple sclerose). Zorgvragers kunnen bij neurologische aandoeningen over het algemeen minder goed hun bewegingen controleren. Hun balans, spierkracht en houding kunnen hierdoor verstoord raken. Daarnaast kunnen zorgvragers door neurologische stoornissen ook gevoelsstoornissen krijgen, waardoor ze de ondergrond en het veranderen van hun lichaamshouding niet meer goed kunnen aanvoelen.",
+        "x": 102,
+        "y": 67.8825945960113
+      },
+      "asset": null,
+      "caption": {
+        "body": "Duizeligheid verhoogt het risico op vallen.",
+        "bounds": null,
+        "label": "Afbeelding 25.1:",
+        "raw": "Afbeelding 25.1 Duizeligheid verhoogt het risico op vallen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          71.3952103367521,
+          15.0000011020237,
+          123.395210336753,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk25_25.1_Duizeligheid verhoogt het risico op vallen.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk25_25.1_Duizeligheid%20verhoogt%20het%20risico%20op%20vallen.jpeg"
+      },
+      "page": {
+        "documentOffset": 271,
+        "name": "258"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿25.3.12  Zichtproblemen",
+        "pageDocumentOffset": 272,
+        "paragraphIndexInBodyStory": 4942,
+        "text": "Als een zorgvrager minder goed kan zien, struikelt hij of zij sneller over bijvoorbeeld afstapjes of stoepranden. Daardoor hebben zorgvragers die problemen hebben met zicht, een grotere kans om te vallen.",
+        "x": 210,
+        "y": 48.1270390404558
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verminderd zicht verhoogt de kans op vallen.",
+        "bounds": null,
+        "label": "Afbeelding 25.2:",
+        "raw": "Afbeelding 25.2 Verminderd zicht verhoogt de kans op vallen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          67.2229881145332,
+          210.000001102024,
+          119.209988114537,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk25_25.2_Verminderd zicht verhoogt de kans op vallen.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk25_25.2_Verminderd%20zicht%20verhoogt%20de%20kans%20op%20vallen.jpg"
+      },
+      "page": {
+        "documentOffset": 272,
+        "name": "259"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

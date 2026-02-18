@@ -1,0 +1,92 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 13384
+  },
+  "chapter": "7",
+  "chapterRange": {
+    "endOff": 152,
+    "ok": true,
+    "startOff": 122
+  },
+  "exportedAt": "Sat Jan 03 2026 01:20:07 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Arena: bekend bij jezelf en bij anderen",
+        "beforeText": "Dit zie je schematisch in afbeelding 7.1; daarna lees je wat dit precies inhoudt. Aan het slot van deze paragraaf staat een voorbeeld dat dit model illustreert.",
+        "pageDocumentOffset": 142,
+        "paragraphIndexInBodyStory": 1847,
+        "text": "In afbeelding 7.1 hebben de kwadranten dezelfde, vaste omvang, maar in werkelijkheid zijn ze verschillend van grootte en dynamisch: het ene gebied kan groter zijn dan het andere, en als je een bepaald gebied vergroot, verklein je een ander gebied. Het kader is dus wel een echte grens: de gebieden kunnen daar niet buiten komen.",
+        "x": 187.5,
+        "y": 15.1235708448622
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het Johari-venster.",
+        "bounds": null,
+        "label": "Afbeelding 7.1:",
+        "raw": "Afbeelding 7.1 Het Johari-venster.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.1.png",
+        "bounds": [
+          7.49999999875244,
+          239,
+          109.638143830168,
+          331.567156926932
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 142,
+        "name": "131"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Je probeert dit alternatief uit in een nieuwe situatie.",
+        "pageDocumentOffset": 145,
+        "paragraphIndexInBodyStory": 1897,
+        "text": "Stap 1 en 5 zijn feitelijk dezelfde stappen: met stap 5 ben je namelijk weer aangekomen bij stap 1 en begint de cyclus opnieuw. De onderwijskundige Fred Korthagen ontwikkelde het model voor het onderwijs, maar het is natuurlijk in allerlei situaties bruikbaar. Als je de cyclus stapsgewijs toepast, leer je om op een systematische manier te reflecteren.",
+        "x": 17.5,
+        "y": 15.1235708448622
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het reflectiemodel van Korthagen.",
+        "bounds": null,
+        "label": "Afbeelding 7.2:",
+        "raw": "Afbeelding 7.2 Het reflectiemodel van Korthagen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.2.png",
+        "bounds": [
+          33.6332583448601,
+          17.5,
+          112.640832182585,
+          112.647713040744
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "134"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+}

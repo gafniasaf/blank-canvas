@@ -1,0 +1,30 @@
+{
+  "571e0e35-a71d-4e57-aeec-5d9121b97f5e": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch10/linked/4.1 Over wat normaal is zijn we het niet altijd eens.jpeg",
+      "alt": "Afbeelding 10.1: Over wat normaal is, zijn we het niet altijd eens.",
+      "figureNumber": "Afbeelding 10.1:",
+      "caption": "Over wat normaal is, zijn we het niet altijd eens.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "1351e1a9-470c-4c39-b66c-16c6546e46cb": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch10/linked/WBF_4.2_Handen schudden bij het voorstellen is een norm.jpeg",
+      "alt": "Afbeelding 10.2: Handen schudden bij het voorstellen is een norm.",
+      "figureNumber": "Afbeelding 10.2:",
+      "caption": "Handen schudden bij het voorstellen is een norm.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch10/linked/4.3 Normen veranderen.jpeg",
+      "alt": "Afbeelding 10.3: Normen veranderen.",
+      "figureNumber": "Afbeelding 10.3:",
+      "caption": "Normen veranderen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3621
+  },
+  "chapter": "11",
+  "chapterRange": {
+    "endOff": 134,
+    "ok": true,
+    "startOff": 126
+  },
+  "exportedAt": "Sat Jan 03 2026 22:45:25 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "controleer de voeten dagelijks op blaren, wondjes en kloofjes. Kijk hiervoor ook tussen de tenen. Laat een zorgvrager met diabetes de wondjes niet zelf behandelen. De zorgvrager kan dan namelijk ontstekingen krijgen;",
+        "beforeText": "was dagelijks de voeten met lauw water. Gebruik bij het wassen weinig zeep;",
+        "pageDocumentOffset": 133,
+        "paragraphIndexInBodyStory": 2089,
+        "text": "laat de zorgvrager voetgymnastiek doen. Hierbij moeten de voeten bijvoorbeeld draaien en op en neer bewegen. Beweging kan namelijk helpen tegen voetproblemen, doordat het de doorbloeding stimuleert;",
+        "x": 20.9999998304579,
+        "y": 101.373552110459
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch11/Afbeelding_11.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Voetverzorging bij diabetes.",
+        "bounds": null,
+        "label": "Afbeelding 11.10:",
+        "raw": "Afbeelding 11.10 Voetverzorging bij diabetes.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch11/Afbeelding_11.10.png",
+        "bounds": [
+          131.051072225752,
+          15,
+          234.117738892417,
+          180
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.10_Voetverzorging bij diabetes.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.10_Voetverzorging%20bij%20diabetes.tif"
+      },
+      "page": {
+        "documentOffset": 133,
+        "name": "120"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het is goed om dagelijks voeten te wassen met lauwwarm water en eventueel zeep. Je kan bij het wassen van voeten beter geen voetbad gebruiken. Dat verweekt namelijk de huid. Als dit gebeurt, heeft de huid meer kans op wondjes. Daarnaast is de huid de barrière tussen het inwendige lichaam en de buitenwereld. Als de huid verweekt is, kan het zijn taak als barrière minder goed uitvoeren. Infecties ontstaan namelijk makkelijker met meer wondjes.",
+        "beforeText": "wondjes;",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 1940,
+        "text": "likdoorns.",
+        "x": 215.999999830458,
+        "y": 160.024421588804
+      },
+      "asset": null,
+      "caption": {
+        "body": "Droog de voeten goed af, vooral tussen de tenen.",
+        "bounds": null,
+        "label": "Afbeelding 11.1:",
+        "raw": "Afbeelding 11.1 Droog de voeten goed af, vooral tussen de tenen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          158.8925928851,
+          297.000001102024,
+          232.649999995195,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.1_Droog de voeten goed af, met name tussen de tenen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.1_Droog%20de%20voeten%20goed%20af%2C%20met%20name%20tussen%20de%20tenen.tif"
+      },
+      "page": {
+        "documentOffset": 126,
+        "name": "113"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een vijl;",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 1952,
+        "text": "handdoeken.",
+        "x": 20.9999998304579,
+        "y": 60.9652214050273
+      },
+      "asset": null,
+      "caption": {
+        "body": "Benodigdheden voor voet- en handverzorging.",
+        "bounds": null,
+        "label": "Afbeelding 11.2:",
+        "raw": "Afbeelding 11.2 Benodigdheden voor voet- en handverzorging.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          65.2445038124355,
+          15.0000011020237,
+          108.05000000001,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.2 Benodigdheden voor hand- en voetverzorging.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.2%20Benodigdheden%20voor%20hand-%20en%20voetverzorging.png"
+      },
+      "page": {
+        "documentOffset": 127,
+        "name": "114"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "gebruik vloeibare zeep in plaats van een stuk zeep. Op een los stuk zeep kunnen bacteriën zich namelijk verzamelen;",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 1964,
+        "text": "gebruik een droge en schone handdoek.",
+        "x": 107.999999830458,
+        "y": 113.565927929347
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorg dat de nagels schoon zijn.",
+        "bounds": null,
+        "label": "Afbeelding 11.3:",
+        "raw": "Afbeelding 11.3  Zorg dat de nagels schoon zijn.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          117.845210336753,
+          102.000001102024,
+          166.934013425556,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.3_Zorg ervoor dat de nagels schoon zijn.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.3_Zorg%20ervoor%20dat%20de%20nagels%20schoon%20zijn.tif"
+      },
+      "page": {
+        "documentOffset": 127,
+        "name": "114"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de nagelvijl;",
+        "pageDocumentOffset": 128,
+        "paragraphIndexInBodyStory": 1984,
+        "text": "de nageltang.",
+        "x": 302.999999830458,
+        "y": 125.943705707124
+      },
+      "asset": null,
+      "caption": {
+        "body": "Knip de teennagels recht.",
+        "bounds": null,
+        "label": "Afbeelding 11.4:",
+        "raw": "Afbeelding 11.4 Knip de teennagels recht.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          130.222988114532,
+          297.000001102024,
+          182.194448048671,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.4_Knip de teennagels recht.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.4_Knip%20de%20teennagels%20recht.tif"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "115"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Desinfecteer je handen.",
+        "pageDocumentOffset": 129,
+        "paragraphIndexInBodyStory": 2012,
+        "text": "￼  Noteer de handeling en eventuele bevindingen.",
+        "x": 102,
+        "y": 23.5305555555535
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vijl de teennagels glad na het knippen.",
+        "bounds": null,
+        "label": "Afbeelding 11.5:",
+        "raw": "Afbeelding 11.5 Vijl de teennagels glad na het knippen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          33.7487268518472,
+          102.000001102024,
+          76.7487268518406,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.5_Vijf de teennagels glad na het knippen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.5_Vijf%20de%20teennagels%20glad%20na%20het%20knippen.tif"
+      },
+      "page": {
+        "documentOffset": 129,
+        "name": "116"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Vijl de nagels en nagelranden glad na het knippen.",
+        "beforeText": "￼  Wanneer de nagels schoon en droog zijn, leg je een handdoek onder de hand of voet.",
+        "pageDocumentOffset": 129,
+        "paragraphIndexInBodyStory": 2003,
+        "text": "￼  Knip de nagels. Knip de vingernagels rond en de teennagels recht.",
+        "x": 15,
+        "y": 127.688150151569
+      },
+      "asset": null,
+      "caption": {
+        "body": "Help de zorgvrager bij het aantrekken van de sokken.",
+        "bounds": null,
+        "label": "Afbeelding 11.6:",
+        "raw": "Afbeelding 11.6 Help de zorgvrager bij het aantrekken van de sokken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          138.416898148136,
+          102.000001102024,
+          179.416898148136,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.6_Help de zorgvrager bij het aantrekken van zijn sokken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.6_Help%20de%20zorgvrager%20bij%20het%20aantrekken%20van%20zijn%20sokken.tif"
+      },
+      "page": {
+        "documentOffset": 129,
+        "name": "116"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "het beste is een zool van een stroef materiaal, zoals rubber. Een profiel kan ook geschikt zijn;",
+        "beforeText": "kijk hoe de schoen buigt. Een goede schoen buigt alleen op plekken waar de voet ook buigt. Een voorbeeld van zo’n plek is op het punt van de tenen;",
+        "pageDocumentOffset": 130,
+        "paragraphIndexInBodyStory": 2034,
+        "text": "een zool mag niet te slap zijn. Buig de neus en de hak van de schoen naar elkaar toe om dit te testen. Als het buigen met moeite gaat, is de zool stevig genoeg;",
+        "x": 302.999999830458,
+        "y": 37.4825945960131
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorg dat schoenen de juiste pasvorm hebben.",
+        "bounds": null,
+        "label": "Afbeelding 11.7:",
+        "raw": "Afbeelding 11.7 Zorg dat schoenen de juiste pasvorm hebben.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36.8229881145324,
+          210.000001102024,
+          76.919863114532,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.7_Zorg ervoor dat schoenen de juiste pasvorm hebben.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.7_Zorg%20ervoor%20dat%20schoenen%20de%20juiste%20pasvorm%20hebben.tif"
+      },
+      "page": {
+        "documentOffset": 130,
+        "name": "117"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿11.4.1  Wat is eelt?",
+        "pageDocumentOffset": 131,
+        "paragraphIndexInBodyStory": 2058,
+        "text": "Het buitenste laagje van je huid noemen we de opperhuid. Eelt is een plaatselijke verdikking van de buitenste laag van je huid. Eelt ontstaat op plekken waar de huid te maken krijgt met wrijving of druk. Eigenlijk is eelt een beschermlaagje dat voorkomt dat de opperhuid beschadigd raakt. De onderkant van de voet krijgt vaak de meeste druk, dus eelt zit meestal onder de voet . Je kan eelt met een eeltvijl of eeltrasp verwijderen. Eerst schuur je met de eeltrasp de dikste eeltlagen weg. Daarna maak je de huid met de eeltvijl weer glad. Wanneer je dit doet, blijven op de voet geen harde velletjes achter.",
+        "x": 15,
+        "y": 122.743705707125
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verwijder eelt met een eeltrasp.",
+        "bounds": null,
+        "label": "Afbeelding 11.8:",
+        "raw": "Afbeelding 11.8 Verwijder eelt met een eeltrasp.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          186.289654781197,
+          15.0000011020237,
+          230.289654781197,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.8_Verwijder eelt met een eeltrasp.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.8_Verwijder%20eelt%20met%20een%20eeltrasp.tif"
+      },
+      "page": {
+        "documentOffset": 131,
+        "name": "118"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿11.4.1  Wat is eelt?",
+        "pageDocumentOffset": 131,
+        "paragraphIndexInBodyStory": 2058,
+        "text": "Het buitenste laagje van je huid noemen we de opperhuid. Eelt is een plaatselijke verdikking van de buitenste laag van je huid. Eelt ontstaat op plekken waar de huid te maken krijgt met wrijving of druk. Eigenlijk is eelt een beschermlaagje dat voorkomt dat de opperhuid beschadigd raakt. De onderkant van de voet krijgt vaak de meeste druk, dus eelt zit meestal onder de voet . Je kan eelt met een eeltvijl of eeltrasp verwijderen. Eerst schuur je met de eeltrasp de dikste eeltlagen weg. Daarna maak je de huid met de eeltvijl weer glad. Wanneer je dit doet, blijven op de voet geen harde velletjes achter.",
+        "x": 15,
+        "y": 122.743705707125
+      },
+      "asset": null,
+      "caption": {
+        "body": "Soorten schimmelinfecties van de nagel.",
+        "bounds": null,
+        "label": "Afbeelding 11.9:",
+        "raw": "Afbeelding 11.9 Soorten schimmelinfecties van de nagel.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          147.972281590213,
+          102.000001102024,
+          228.390098965721,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk11_11.9 Soorten schimmelinfecties van de nagel.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk11_11.9%20Soorten%20schimmelinfecties%20van%20de%20nagel.png"
+      },
+      "page": {
+        "documentOffset": 131,
+        "name": "118"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 53,
+    "words": 2369
+  },
+  "chapter": "5",
+  "chapterRange": {
+    "endOff": 85,
+    "ok": true,
+    "startOff": 79
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:37 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "gegevens over de gezondheid van een zorgvrager via e-mail zijn verstuurd zonder versleuteling.",
+        "pageDocumentOffset": 83,
+        "paragraphIndexInBodyStory": 67,
+        "text": "Bij een datalek moet de zorgorganisatie dit volgens de AVG melden aan de Autoriteit Persoonsgegevens.",
+        "x": 49.6062992125985,
+        "y": 223.208547276772
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het medisch dossier mag alleen opgevraagd worden met toestemming van de zorgvrager.",
+        "bounds": null,
+        "label": "Afbeelding 5.1:",
+        "raw": "Afbeelding 5.1 Het medisch dossier mag alleen opgevraagd worden met toestemming van de zorgvrager.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          249.676952788584,
+          53.7025570606623,
+          474.387930975332,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 6.8 Het medisch dossier mag alleen opgevraagd worden met toestemming van de zorgvrager.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.8%20Het%20medisch%20dossier%20mag%20alleen%20opgevraagd%20worden%20met%20toestemming%20van%20de%20zorgvrager.tif"
+      },
+      "page": {
+        "documentOffset": 83,
+        "name": "70"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

@@ -1,0 +1,30 @@
+{
+  "bbc8f1f9-5328-4bda-a1b9-539f76bda9d6": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch8/linked/WBF_6.1 Elektronisch dossier beschikbaar via tablet.jpg",
+      "alt": "Afbeelding 8.1: Elektronisch dossier beschikbaar via tablet.",
+      "figureNumber": "Afbeelding 8.1:",
+      "caption": "Elektronisch dossier beschikbaar via tablet.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "f741cfb0-f16b-4f45-8aca-38d338178ce1": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch8/linked/WBF_6.5_Je geeft uitleg aan de zorgvrager over de mogelijkheden en werking van een tablet.jpeg",
+      "alt": "Afbeelding 8.2: Je geeft uitleg aan de zorgvrager over de mogelijkheden en werking van een tablet.",
+      "figureNumber": "Afbeelding 8.2:",
+      "caption": "Je geeft uitleg aan de zorgvrager over de mogelijkheden en werking van een tablet.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch8/linked/Afbeelding 1.5.png",
+      "alt": "Afbeelding 9.1: Drie onderdelen van evidence-based practice.",
+      "figureNumber": "Afbeelding 9.1:",
+      "caption": "Drie onderdelen van evidence-based practice.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

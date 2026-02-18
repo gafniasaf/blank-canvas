@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "id": "test_gezondheid_welzijn_n3",
+    "title": "Gezondheid en Welzijn voor het MBO",
+    "level": "n3",
+    "isbn": "978-90-0000-001-0",
+    "publisher": "BookGen Test",
+    "edition": "1e druk 2026"
+  },
+  "chapters": [
+    {
+      "number": "1",
+      "title": "Gezondheid en ziekte",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "Wat is gezondheid?",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.1.1",
+              "number": "1.1.1",
+              "title": "De definitie van gezondheid",
+              "content": [
+                { "type": "paragraph", "id": "p-1.1.1-001", "basis": "Gezondheid is meer dan alleen de afwezigheid van ziekte. De Wereldgezondheidsorganisatie (WHO) definieert gezondheid als een toestand van volledig lichamelijk, geestelijk en sociaal welzijn.", "paragraphNumber": 1 },
+                { "type": "paragraph", "id": "p-1.1.1-002", "basis": "Als <strong>zorgprofessional</strong> kijk je naar de hele persoon. Je let niet alleen op klachten, maar ook op hoe de <strong>zorgvrager</strong> zich voelt en functioneert in het dagelijks leven.", "paragraphNumber": 2 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.2",
+              "number": "1.1.2",
+              "title": "Positieve gezondheid",
+              "content": [
+                { "type": "paragraph", "id": "p-1.1.2-001", "basis": "Het concept <strong>positieve gezondheid</strong> van Machteld Huber richt zich op het vermogen van mensen om zich aan te passen en eigen regie te voeren. Dit is belangrijk voor de <strong>zorgvrager</strong>.", "paragraphNumber": 3 },
+                { "type": "paragraph", "id": "p-1.1.2-002", "basis": "Positieve gezondheid kent zes dimensies: lichaamsfuncties, mentaal welbevinden, zingeving, kwaliteit van leven, meedoen en dagelijks functioneren.", "paragraphNumber": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "Determinanten van gezondheid",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.2.1",
+              "number": "1.2.1",
+              "title": "Biologische determinanten",
+              "content": [
+                { "type": "paragraph", "id": "p-1.2.1-001", "basis": "<strong>Biologische determinanten</strong> zijn factoren die te maken hebben met je lichaam, zoals erfelijkheid, leeftijd en geslacht. Deze factoren kun je niet veranderen.", "paragraphNumber": 5 },
+                { "type": "paragraph", "id": "p-1.2.1-002", "basis": "Als <strong>zorgprofessional</strong> houd je rekening met biologische factoren bij het maken van een zorgplan voor de <strong>zorgvrager</strong>.", "paragraphNumber": 6 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.2.2",
+              "number": "1.2.2",
+              "title": "Leefstijl en gedrag",
+              "content": [
+                { "type": "paragraph", "id": "p-1.2.2-001", "basis": "<strong>Leefstijl</strong> is een belangrijke determinant van gezondheid. Denk aan voeding, beweging, roken en alcoholgebruik. De <strong>zorgvrager</strong> kan hier zelf invloed op uitoefenen.", "paragraphNumber": 7 },
+                { "type": "paragraph", "id": "p-1.2.2-002", "basis": "Als <strong>zorgprofessional</strong> ondersteun je de <strong>zorgvrager</strong> bij het maken van gezonde keuzes. Je geeft voorlichting en motiveert.", "paragraphNumber": 8 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "Preventie",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.3.1",
+              "number": "1.3.1",
+              "title": "Primaire preventie",
+              "content": [
+                { "type": "paragraph", "id": "p-1.3.1-001", "basis": "<strong>Primaire preventie</strong> richt zich op het voorkomen van ziekten voordat ze ontstaan. Voorbeelden zijn vaccinaties, voorlichting over gezonde voeding en bewegen.", "paragraphNumber": 9 },
+                { "type": "paragraph", "id": "p-1.3.1-002", "basis": "De <strong>zorgprofessional</strong> speelt een belangrijke rol bij primaire preventie door de <strong>zorgvrager</strong> te informeren over gezond gedrag.", "paragraphNumber": 10 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.3.2",
+              "number": "1.3.2",
+              "title": "Secundaire en tertiaire preventie",
+              "content": [
+                { "type": "paragraph", "id": "p-1.3.2-001", "basis": "<strong>Secundaire preventie</strong> is gericht op het vroeg opsporen van ziekten, bijvoorbeeld via bevolkingsonderzoeken. <strong>Tertiaire preventie</strong> richt zich op het voorkomen van verergering bij bestaande aandoeningen.", "paragraphNumber": 11 },
+                { "type": "paragraph", "id": "p-1.3.2-002", "basis": "Bij alle vormen van preventie is de samenwerking tussen de <strong>zorgprofessional</strong> en de <strong>zorgvrager</strong> essentieel.", "paragraphNumber": 12 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "De zorgvrager centraal",
+      "sections": [
+        {
+          "number": "2.1",
+          "title": "Behoeften van de zorgvrager",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "2.1.1",
+              "number": "2.1.1",
+              "title": "Lichamelijke behoeften",
+              "content": [
+                { "type": "paragraph", "id": "p-2.1.1-001", "basis": "De <strong>zorgvrager</strong> heeft <strong>lichamelijke behoeften</strong> zoals voeding, beweging, rust en persoonlijke verzorging. Als <strong>zorgprofessional</strong> ondersteun je hierbij.", "paragraphNumber": 1 },
+                { "type": "paragraph", "id": "p-2.1.1-002", "basis": "Je observeert de <strong>zorgvrager</strong> en signaleert veranderingen in het lichamelijk functioneren. Dit rapporteer je aan het zorgteam.", "paragraphNumber": 2 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "2.1.2",
+              "number": "2.1.2",
+              "title": "Psychosociale behoeften",
+              "content": [
+                { "type": "paragraph", "id": "p-2.1.2-001", "basis": "Naast lichamelijke behoeften heeft de <strong>zorgvrager</strong> ook <strong>psychosociale behoeften</strong>: behoefte aan contact, veiligheid, waardering en autonomie.", "paragraphNumber": 3 },
+                { "type": "paragraph", "id": "p-2.1.2-002", "basis": "De <strong>zorgprofessional</strong> besteedt aandacht aan het <strong>emotioneel welzijn</strong> van de <strong>zorgvrager</strong> en creëert een vertrouwensband.", "paragraphNumber": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.2",
+          "title": "Communicatie in de zorg",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "2.2.1",
+              "number": "2.2.1",
+              "title": "Verbale en non-verbale communicatie",
+              "content": [
+                { "type": "paragraph", "id": "p-2.2.1-001", "basis": "<strong>Verbale communicatie</strong> is communicatie met woorden. <strong>Non-verbale communicatie</strong> gaat via lichaamstaal, gezichtsuitdrukkingen en gebaren.", "paragraphNumber": 5 },
+                { "type": "paragraph", "id": "p-2.2.1-002", "basis": "Als <strong>zorgprofessional</strong> let je op zowel wat de <strong>zorgvrager</strong> zegt als hoe diegene het zegt. Congruentie tussen verbale en non-verbale signalen is belangrijk.", "paragraphNumber": 6 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "2.2.2",
+              "number": "2.2.2",
+              "title": "Actief luisteren",
+              "content": [
+                { "type": "paragraph", "id": "p-2.2.2-001", "basis": "<strong>Actief luisteren</strong> betekent dat je je volledig concentreert op wat de <strong>zorgvrager</strong> vertelt. Je stelt open vragen, vat samen en toont empathie.", "paragraphNumber": 7 },
+                { "type": "paragraph", "id": "p-2.2.2-002", "basis": "Door actief te luisteren voelt de <strong>zorgvrager</strong> zich gehoord en serieus genomen. Dit versterkt de <strong>therapeutische relatie</strong>.", "paragraphNumber": 8 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "2.3",
+          "title": "Culturele diversiteit",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "2.3.1",
+              "number": "2.3.1",
+              "title": "Cultuur en zorg",
+              "content": [
+                { "type": "paragraph", "id": "p-2.3.1-001", "basis": "<strong>Culturele diversiteit</strong> betekent dat de <strong>zorgvrager</strong> verschillende culturele achtergronden kan hebben. Dit beïnvloedt de beleving van ziekte en gezondheid.", "paragraphNumber": 9 },
+                { "type": "paragraph", "id": "p-2.3.1-002", "basis": "De <strong>zorgprofessional</strong> toont <strong>culturele sensitiviteit</strong>: respect voor andere waarden, normen en gewoonten rond gezondheid en zorg.", "paragraphNumber": 10 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "2.3.2",
+              "number": "2.3.2",
+              "title": "Taalbarrières en tolken",
+              "content": [
+                { "type": "paragraph", "id": "p-2.3.2-001", "basis": "Een <strong>taalbarrière</strong> kan de communicatie tussen <strong>zorgprofessional</strong> en <strong>zorgvrager</strong> bemoeilijken. In dat geval kan een professionele tolk ingeschakeld worden.", "paragraphNumber": 11 },
+                { "type": "paragraph", "id": "p-2.3.2-002", "basis": "Gebruik nooit familieleden als tolk bij medische gesprekken. Dit kan leiden tot onvolledige of onjuiste vertaling en privacy-problemen.", "paragraphNumber": 12 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "Veiligheid in de zorg",
+      "sections": [
+        {
+          "number": "3.1",
+          "title": "Hygiëne",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "3.1.1",
+              "number": "3.1.1",
+              "title": "Handhygiëne",
+              "content": [
+                { "type": "paragraph", "id": "p-3.1.1-001", "basis": "<strong>Handhygiëne</strong> is de belangrijkste maatregel om infecties te voorkomen in de zorg. De <strong>zorgprofessional</strong> wast of desinfecteert de handen op de juiste momenten.", "paragraphNumber": 1 },
+                { "type": "paragraph", "id": "p-3.1.1-002", "basis": "De vijf momenten van handhygiëne (WHO): voor contact met de <strong>zorgvrager</strong>, voor een schone handeling, na blootstelling aan lichaamsvloeistoffen, na contact met de <strong>zorgvrager</strong>, na contact met de omgeving.", "paragraphNumber": 2 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "3.1.2",
+              "number": "3.1.2",
+              "title": "Persoonlijke beschermingsmiddelen",
+              "content": [
+                { "type": "paragraph", "id": "p-3.1.2-001", "basis": "<strong>Persoonlijke beschermingsmiddelen</strong> (PBM) zoals handschoenen, schorten en mondneusmaskers beschermen zowel de <strong>zorgprofessional</strong> als de <strong>zorgvrager</strong>.", "paragraphNumber": 3 },
+                { "type": "paragraph", "id": "p-3.1.2-002", "basis": "Het correct aan- en uittrekken van PBM voorkomt <strong>kruisbesmetting</strong>. Volg altijd het protocol van je instelling.", "paragraphNumber": 4 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.2",
+          "title": "Medicatieveiligheid",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "3.2.1",
+              "number": "3.2.1",
+              "title": "De vijf juistheden",
+              "content": [
+                { "type": "paragraph", "id": "p-3.2.1-001", "basis": "Bij het toedienen van medicatie controleer je altijd de <strong>vijf juistheden</strong>: de juiste <strong>zorgvrager</strong>, het juiste medicijn, de juiste dosering, de juiste toedieningsweg en het juiste tijdstip.", "paragraphNumber": 5 },
+                { "type": "paragraph", "id": "p-3.2.1-002", "basis": "De <strong>zorgprofessional</strong> mag nooit medicatie toedienen zonder deze controles uitgevoerd te hebben. Bij twijfel altijd overleggen met een collega of apotheker.", "paragraphNumber": 6 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "3.2.2",
+              "number": "3.2.2",
+              "title": "Medicatiefouten melden",
+              "content": [
+                { "type": "paragraph", "id": "p-3.2.2-001", "basis": "Een <strong>medicatiefout</strong> moet altijd gemeld worden, ook als er geen schade is opgetreden. Melden is geen falen maar bijdragen aan een <strong>veiligheidscultuur</strong>.", "paragraphNumber": 7 },
+                { "type": "paragraph", "id": "p-3.2.2-002", "basis": "De <strong>zorgprofessional</strong> gebruikt het MIC-formulier (Melding Incidenten Cliënten) om fouten te registreren. De melding wordt anoniem geanalyseerd om herhaling te voorkomen.", "paragraphNumber": 8 }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "3.3",
+          "title": "Valpreventie",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "3.3.1",
+              "number": "3.3.1",
+              "title": "Risicofactoren voor vallen",
+              "content": [
+                { "type": "paragraph", "id": "p-3.3.1-001", "basis": "<strong>Valrisico</strong> wordt beïnvloed door factoren zoals leeftijd, medicatiegebruik, verminderd gezichtsvermogen en een onveilige omgeving. De <strong>zorgprofessional</strong> screent de <strong>zorgvrager</strong> op valrisico.", "paragraphNumber": 9 },
+                { "type": "paragraph", "id": "p-3.3.1-002", "basis": "De <strong>Morse Fall Scale</strong> en de <strong>STRATIFY-score</strong> zijn veelgebruikte instrumenten om het valrisico van de <strong>zorgvrager</strong> in te schatten.", "paragraphNumber": 10 }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "3.3.2",
+              "number": "3.3.2",
+              "title": "Preventieve maatregelen",
+              "content": [
+                { "type": "paragraph", "id": "p-3.3.2-001", "basis": "Preventieve maatregelen omvatten het aanpassen van de <strong>woonomgeving</strong> (verlichting, drempels, antislipmatten), het gebruik van hulpmiddelen (rollator, wandelstok) en <strong>valtraining</strong>.", "paragraphNumber": 11 },
+                { "type": "paragraph", "id": "p-3.3.2-002", "basis": "De <strong>zorgprofessional</strong> betrekt de <strong>zorgvrager</strong> actief bij het valpreventieplan. Samen bespreek je welke maatregelen haalbaar en acceptabel zijn.", "paragraphNumber": 12 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "export": {
+    "exportedAt": "2026-02-13T09:00:00.000Z",
+    "source": "bookgen",
+    "schemaVersion": "1.0"
+  }
+}
+

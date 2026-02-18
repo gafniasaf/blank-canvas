@@ -1,0 +1,660 @@
+{
+  "670bc0b1-5858-4d89-b2e4-39f39c6dc79e": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.10.png",
+      "alt": "Afbeelding 4.10: De kauwspieren.",
+      "figureNumber": "Afbeelding 4.10:",
+      "caption": "De kauwspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ff89c3ab-ab78-4412-8853-7e245b365537": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.11.png",
+      "alt": "Afbeelding 4.11: De oogspieren.",
+      "figureNumber": "Afbeelding 4.11:",
+      "caption": "De oogspieren.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f0f3109f-bc86-45e2-8f6f-25fbc0ba0067": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.12.png",
+      "alt": "Afbeelding 4.12: De halsspieren.",
+      "figureNumber": "Afbeelding 4.12:",
+      "caption": "De halsspieren.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "254e668c-7fa1-4993-bd6e-9377ae7fe3d1": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_CH4_Img_4.13.png",
+      "alt": "Afbeelding 4.13: De hoofdspalkspier.",
+      "figureNumber": "Afbeelding 4.13:",
+      "caption": "De hoofdspalkspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4544ebc6-3203-4456-83e0-be37d6b886cd": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.14.png",
+      "alt": "Afbeelding 4.14: De rugstrekker.",
+      "figureNumber": "Afbeelding 4.14:",
+      "caption": "De rugstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "fd075af5-b6b5-4adb-90e5-3efc87e7b94b": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.15.png",
+      "alt": "Afbeelding 4.15: De spier van de halve ruggengraat.",
+      "figureNumber": "Afbeelding 4.15:",
+      "caption": "De spier van de halve ruggengraat.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.16.png",
+      "alt": "Afbeelding 4.16: De meermalen gespleten rugspier.",
+      "figureNumber": "Afbeelding 4.16:",
+      "caption": "De meermalen gespleten rugspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.17.png",
+      "alt": "Afbeelding 4.17: Draaispieren van de rug.",
+      "figureNumber": "Afbeelding 4.17:",
+      "caption": "Draaispieren van de rug.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.18.png",
+      "alt": "Afbeelding 4.18: De tussenribspieren.",
+      "figureNumber": "Afbeelding 4.18:",
+      "caption": "De tussenribspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "de8aa8a5-d358-4678-80bb-30d2608043bd": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.20.png",
+      "alt": "Afbeelding 4.19: Het middenrif.",
+      "figureNumber": "Afbeelding 4.19:",
+      "caption": "Het middenrif.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.20.png",
+      "alt": "Afbeelding 4.20: De rechte buikspier.",
+      "figureNumber": "Afbeelding 4.20:",
+      "caption": "De rechte buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "eeb0a00f-890d-48ba-a00c-3a1cd6d7660c": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.1.png",
+      "alt": "Afbeelding 4.1: De structuur van de verschillende soorten spierweefsel.",
+      "figureNumber": "Afbeelding 4.1:",
+      "caption": "De structuur van de verschillende soorten spierweefsel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "56c30883-59e4-40a1-a8ad-6afc76aa268f": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.21.png",
+      "alt": "Afbeelding 4.21: De binnenste schuine buikspier.",
+      "figureNumber": "Afbeelding 4.21:",
+      "caption": "De binnenste schuine buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.21.png",
+      "alt": "Afbeelding 4.22: De buitenste schuine buikspier.",
+      "figureNumber": "Afbeelding 4.22:",
+      "caption": "De buitenste schuine buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9f032fc0-78c4-41bb-8a32-2f19760760b6": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.23.png",
+      "alt": "Afbeelding 4.23: De bekkenbodemspieren.",
+      "figureNumber": "Afbeelding 4.23:",
+      "caption": "De bekkenbodemspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4f26b7ff-2f8d-4f87-b823-44afde07778f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.24.png",
+      "alt": "Afbeelding 4.24: De monnikskapspier.",
+      "figureNumber": "Afbeelding 4.24:",
+      "caption": "De monnikskapspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.25.png",
+      "alt": "Afbeelding 4.25: De kleine borstspier.",
+      "figureNumber": "Afbeelding 4.25:",
+      "caption": "De kleine borstspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7bbe707c-a3a6-4dec-b674-ca0775aaf821": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.26.png",
+      "alt": "Afbeelding 4.26: De ruitvormige spier.",
+      "figureNumber": "Afbeelding 4.26:",
+      "caption": "De ruitvormige spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.27.png",
+      "alt": "Afbeelding 4.27: De schouderbladheffer.",
+      "figureNumber": "Afbeelding 4.27:",
+      "caption": "De schouderbladheffer.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2922f61f-bd92-4faa-b2de-fa106157d9de": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.28.png",
+      "alt": "Afbeelding 4.28: De voorste gezaagde spier.",
+      "figureNumber": "Afbeelding 4.28:",
+      "caption": "De voorste gezaagde spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.29.png",
+      "alt": "Afbeelding 4.29: De ondersleutelbeenspier.",
+      "figureNumber": "Afbeelding 4.29:",
+      "caption": "De ondersleutelbeenspier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "98c54a31-8fbb-441f-a718-8a7a63dae79f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.2.png",
+      "alt": "Afbeelding 4.2: Dwarsdoorsnede van een skeletspier.",
+      "figureNumber": "Afbeelding 4.2:",
+      "caption": "Dwarsdoorsnede van een skeletspier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1c2e5a92-9fd3-44eb-8eac-d5b7c8578121": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.30.png",
+      "alt": "Afbeelding 4.30: De deltaspier.",
+      "figureNumber": "Afbeelding 4.30:",
+      "caption": "De deltaspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "32525154-a8f9-40ae-96d4-08a6b6d041b6": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.31.png",
+      "alt": "Afbeelding 4.31: De bovendoornspier.",
+      "figureNumber": "Afbeelding 4.31:",
+      "caption": "De bovendoornspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.32.png",
+      "alt": "Afbeelding 4.32: De onderschouderbladspier.",
+      "figureNumber": "Afbeelding 4.32:",
+      "caption": "De onderschouderbladspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "07bf8753-9584-4dc6-9a8a-623c04fdb34a": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.33.png",
+      "alt": "Afbeelding 4.33: De grote ronde spier.",
+      "figureNumber": "Afbeelding 4.33:",
+      "caption": "De grote ronde spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f2e31db9-605d-4d60-92c8-daf234296ada": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.34.png",
+      "alt": "Afbeelding 4.34: De onderdoornspier.",
+      "figureNumber": "Afbeelding 4.34:",
+      "caption": "De onderdoornspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "996e9620-ce44-491d-bbc1-b876bca28c76": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.35.png",
+      "alt": "Afbeelding 4.35: De kleine ronde spier.",
+      "figureNumber": "Afbeelding 4.35:",
+      "caption": "De kleine ronde spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.36.png",
+      "alt": "Afbeelding 4.36: De brede rugspier.",
+      "figureNumber": "Afbeelding 4.36:",
+      "caption": "De brede rugspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "5690ceee-41f4-4234-82c7-d6d052baf2e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.37.png",
+      "alt": "Afbeelding 4.37: De ravenbek-armspier.",
+      "figureNumber": "Afbeelding 4.37:",
+      "caption": "De ravenbek-armspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "8a1bff78-3c73-4521-8196-39be4951a843": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.38.png",
+      "alt": "Afbeelding 4.38: De grote borstspier.",
+      "figureNumber": "Afbeelding 4.38:",
+      "caption": "De grote borstspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7ddf8dc4-b77b-48d5-bb67-ab19d83a4f3c": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.39.png",
+      "alt": "Afbeelding 4.39: De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+      "figureNumber": "Afbeelding 4.39:",
+      "caption": "De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ab0ac57f-d15d-41db-bd70-8e1a159fe255": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.3.png",
+      "alt": "Afbeelding 4.3: De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+      "figureNumber": "Afbeelding 4.3:",
+      "caption": "De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f9ed9a5c-404c-40a7-bd18-ec92e4151b5f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.40.png",
+      "alt": "Afbeelding 4.40: De tweehoofdige bovenarmspier.",
+      "figureNumber": "Afbeelding 4.40:",
+      "caption": "De tweehoofdige bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.41.png",
+      "alt": "Afbeelding 4.41: De driehoofdige bovenarmspier.",
+      "figureNumber": "Afbeelding 4.41:",
+      "caption": "De driehoofdige bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "1478ece8-5e04-4e8c-abb7-2b9d72ea749d": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.42.png",
+      "alt": "Afbeelding 4.42: De bovenarmspier.",
+      "figureNumber": "Afbeelding 4.42:",
+      "caption": "De bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.43.png",
+      "alt": "Afbeelding 4.43: De opperarm-spaakbeenspier.",
+      "figureNumber": "Afbeelding 4.43:",
+      "caption": "De opperarm-spaakbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.44.png",
+      "alt": "Afbeelding 4.44: De supinatiespier.",
+      "figureNumber": "Afbeelding 4.44:",
+      "caption": "De supinatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ec57492e-112d-4411-8eac-17aa43dd5f21": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.45.png",
+      "alt": "Afbeelding 4.45: De vierkante pronatiespier.",
+      "figureNumber": "Afbeelding 4.45:",
+      "caption": "De vierkante pronatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.46.png",
+      "alt": "Afbeelding 4.46: De ronde pronatiespier.",
+      "figureNumber": "Afbeelding 4.46:",
+      "caption": "De ronde pronatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "441b9334-1c19-4033-8000-f5822cbc21ea": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.47.png",
+      "alt": "Afbeelding 4.47: De ulnaire handbuiger.",
+      "figureNumber": "Afbeelding 4.47:",
+      "caption": "De ulnaire handbuiger.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7f53a63f-140c-4fed-99b9-989ddf0aadf0": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.48.png",
+      "alt": "Afbeelding 4.48: De radiale handbuiger.",
+      "figureNumber": "Afbeelding 4.48:",
+      "caption": "De radiale handbuiger.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "713eaf78-a46c-440b-9c6d-7a397d4fbefc": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.49.png",
+      "alt": "Afbeelding 4.49: De lange handpalmspier.",
+      "figureNumber": "Afbeelding 4.49:",
+      "caption": "De lange handpalmspier.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e8e8d51a-7272-444d-87ea-064872f3f2ad": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.4.png",
+      "alt": "Afbeelding 4.4: Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+      "figureNumber": "Afbeelding 4.4:",
+      "caption": "Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "a5ad92bf-fef9-4720-b2f9-b36ff9fa7165": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.50.png",
+      "alt": "Afbeelding 4.50: De ulnaire handstrekker.",
+      "figureNumber": "Afbeelding 4.50:",
+      "caption": "De ulnaire handstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e03bacb1-5ea4-41bb-97a0-12f831968fa8": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.51.png",
+      "alt": "Afbeelding 4.51: De radiale handstrekker.",
+      "figureNumber": "Afbeelding 4.51:",
+      "caption": "De radiale handstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.52.png",
+      "alt": "Afbeelding 4.52: De handspieren.",
+      "figureNumber": "Afbeelding 4.52:",
+      "caption": "De handspieren.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.55.png",
+      "alt": "Afbeelding 4.55: De kleine bilspier.",
+      "figureNumber": "Afbeelding 4.55:",
+      "caption": "De kleine bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.57.png",
+      "alt": "Afbeelding 4.57: De darmbeenspier.",
+      "figureNumber": "Afbeelding 4.57:",
+      "caption": "De darmbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.58.png",
+      "alt": "Afbeelding 4.58: De grote dij-adductor.",
+      "figureNumber": "Afbeelding 4.58:",
+      "caption": "De grote dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "fecfdd2b-64f4-4994-b14b-44d13fe4c679": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.53.png",
+      "alt": "Afbeelding 4.53: De grote bilspier.",
+      "figureNumber": "Afbeelding 4.53:",
+      "caption": "De grote bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.54.png",
+      "alt": "Afbeelding 4.54: De middelste bilspier.",
+      "figureNumber": "Afbeelding 4.54:",
+      "caption": "De middelste bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.59.png",
+      "alt": "Afbeelding 4.59: De korte dij-adductor.",
+      "figureNumber": "Afbeelding 4.59:",
+      "caption": "De korte dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.60.png",
+      "alt": "Afbeelding 4.60: De lange dij-adductor.",
+      "figureNumber": "Afbeelding 4.60:",
+      "caption": "De lange dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "6e052f4f-1f88-4cd9-b3a2-a95c3652315d": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.56.png",
+      "alt": "Afbeelding 4.56: De grote lendenspier.",
+      "figureNumber": "Afbeelding 4.56:",
+      "caption": "De grote lendenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b67e5354-178e-4e9f-807f-7006288dec68": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.5.png",
+      "alt": "Afbeelding 4.5: Overzicht van een sarcomeer.",
+      "figureNumber": "Afbeelding 4.5:",
+      "caption": "Overzicht van een sarcomeer.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "dc6203af-a410-4ea8-945b-f14c0c327c9c": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.61.png",
+      "alt": "Afbeelding 4.61: De schaambeenkamspier.",
+      "figureNumber": "Afbeelding 4.61:",
+      "caption": "De schaambeenkamspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.64.png",
+      "alt": "Afbeelding 4.64: De kleermakersspier.",
+      "figureNumber": "Afbeelding 4.64:",
+      "caption": "De kleermakersspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.65.png",
+      "alt": "Afbeelding 4.65: De rechte dijbeenspier.",
+      "figureNumber": "Afbeelding 4.65:",
+      "caption": "De rechte dijbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "aab988de-934d-4595-9bf8-b7a834dc5b74": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.62.png",
+      "alt": "Afbeelding 4.62: De slanke spier.",
+      "figureNumber": "Afbeelding 4.62:",
+      "caption": "De slanke spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "deba6b49-58d3-4c70-b15f-6187efe8805f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.63.png",
+      "alt": "Afbeelding 4.63: De hamstrings.",
+      "figureNumber": "Afbeelding 4.63:",
+      "caption": "De hamstrings.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.66.png",
+      "alt": "Afbeelding 4.66: De brede zijspier.",
+      "figureNumber": "Afbeelding 4.66:",
+      "caption": "De brede zijspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f0d40752-40a3-4b0e-8367-a0284684be9a": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.67.png",
+      "alt": "Afbeelding 4.67: De brede middenspier.",
+      "figureNumber": "Afbeelding 4.67:",
+      "caption": "De brede middenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.68.png",
+      "alt": "Afbeelding 4.68: De middelste brede spier.",
+      "figureNumber": "Afbeelding 4.68:",
+      "caption": "De middelste brede spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "921a21cb-3cb9-43c5-a09d-eb82d746ba07": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.69.png",
+      "alt": "Afbeelding 4.69: De tweehoofdige kuitspier.",
+      "figureNumber": "Afbeelding 4.69:",
+      "caption": "De tweehoofdige kuitspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.70.png",
+      "alt": "Afbeelding 4.70: De scholspier.",
+      "figureNumber": "Afbeelding 4.70:",
+      "caption": "De scholspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7f2cf37f-837e-4e8d-804d-1b132ebfcece": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.6.png",
+      "alt": "Afbeelding 4.6: Overzicht van een motorneuron.",
+      "figureNumber": "Afbeelding 4.6:",
+      "caption": "Overzicht van een motorneuron.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2b8ef73e-9db8-4a4c-a4ab-3a5df53cb49e": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.71.png",
+      "alt": "Afbeelding 4.71: De voorste scheenbeenspier.",
+      "figureNumber": "Afbeelding 4.71:",
+      "caption": "De voorste scheenbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f6c86b11-0a74-496a-85d5-5f0e38de9c77": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.7.png",
+      "alt": "Afbeelding 4.7: Spiervezel met motorische eindplaat.",
+      "figureNumber": "Afbeelding 4.7:",
+      "caption": "Spiervezel met motorische eindplaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2c90dcc4-a9f3-4b06-8fb3-0757b7fb24c1": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.08.png",
+      "alt": "Afbeelding 4.8: Spieren van de nek en het gezicht (zijaanzicht).",
+      "figureNumber": "Afbeelding 4.8:",
+      "caption": "Spieren van de nek en het gezicht (zijaanzicht).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cb643192-3af2-4d5f-96f2-aea01eac7829": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img9.png",
+      "alt": "Afbeelding 4.9: Spieren van de nek en het gezicht (vooraanzicht).",
+      "figureNumber": "Afbeelding 4.9:",
+      "caption": "Spieren van de nek en het gezicht (vooraanzicht).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

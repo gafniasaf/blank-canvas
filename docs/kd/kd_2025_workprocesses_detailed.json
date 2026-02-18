@@ -1,0 +1,256 @@
+{
+  "version": "KD 2025 (workprocess details: keywords/explanations/examples; user-provided)",
+  "scope": {
+    "sector": "Zorg",
+    "qualifications": [
+      {
+        "name": "Verzorgende IG",
+        "level": 3,
+        "notes": "Uses BASISDEEL (B1) workprocesses at N3 complexity; profile kerntaak P1-K1 has no own workprocesses."
+      },
+      {
+        "name": "Mbo-Verpleegkundige",
+        "level": 4,
+        "notes": "Uses BASISDEEL (B1) plus PROFIELDEEL niveau 4 (P2-K1)."
+      }
+    ]
+  },
+  "provenance": {
+    "source": "user_provided_chat",
+    "captured_at": "2025-12-26",
+    "notes": [
+      "Codes/titles are treated as official identifiers (as provided).",
+      "The per-workprocess explanations/keywords/examples/notes/moduleCount are user-provided summaries and are NOT the full official KD text/definitions."
+    ]
+  },
+  "workprocesses": [
+    {
+      "code": "B1-K1-W1",
+      "title": "Inventariseert de zorgbehoefte",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Verzamelt informatie via observatie en gesprek, signaleert veranderingen en rapporteert bevindingen.",
+      "keywords": ["Observeren", "signaleren", "inventariseren", "gespreksvaardigheden", "rapporteren", "SBAR"],
+      "example": "Intakegesprek + vitale functies observeren, pijn signaleren en rapporteren in het zorgdossier (SBAR).",
+      "notes": "Meer nadruk op systematisch inventariseren en gespreksvaardigheden. Observatie en rapportage zijn nu expliciet gescheiden van diagnose (die bij niveau 4 hoort).",
+      "moduleCount": 45
+    },
+    {
+      "code": "B1-K1-W2",
+      "title": "Stelt het zorgplan op en stuurt bij",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Maakt samen met de zorgvrager een zorgplan met doelen en afspraken en stuurt bij op basis van evaluatie.",
+      "keywords": ["Zorgplan", "doelen", "interventies", "evalueren", "bijsturen", "verpleegkundig proces", "samen beslissen"],
+      "example": "Doelen (zelf douchen, medicatie beheren) afspreken; na 2 weken voortgang evalueren en plan aanpassen.",
+      "notes": "Zorgplan opstellen is nu een apart werkproces. Verpleegkundige diagnose (niveau 4) is verplaatst naar P2-K1-W1. Focus op samen beslissen met de zorgvrager.",
+      "moduleCount": 32
+    },
+    {
+      "code": "B1-K1-W3",
+      "title": "Voert interventies uit",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Voert interventies uit volgens het zorgplan, registreert handelingen en evalueert het effect.",
+      "keywords": ["Interventies", "zorgverlening", "behoud", "herstel", "bevordering", "gezondheid", "registreren", "evalueren"],
+      "example": "Mobiliseren na operatie met tillift volgens protocol; registreren en effect evalueren.",
+      "notes": "Interventies zijn nu een apart werkproces. Meer nadruk op registreren en evalueren. Duidelijker onderscheid met verpleegtechnische handelingen (W4).",
+      "moduleCount": 38
+    },
+    {
+      "code": "B1-K1-W4",
+      "title": "Voert verpleegtechnische handelingen uit",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Voert verpleegtechnische handelingen uit binnen bevoegdheden (Wet BIG), veilig en aseptisch; signaleert complicaties.",
+      "keywords": ["Verpleegtechnisch", "Wet BIG", "aseptisch", "hygiënisch", "complicaties", "injecteren", "katheteriseren", "wondverzorging", "medicatie"],
+      "example": "Insuline-injectie: bevoegdheid/patiëntgegevens checken, aseptisch werken, reactie observeren en rapporteren.",
+      "notes": "Meer nadruk op bevoegdheidsgrenzen (Wet BIG), hygiëne/duurzaamheid en proactief signaleren van complicaties. Veiligheid en kwaliteit centraler.",
+      "moduleCount": 67
+    },
+    {
+      "code": "B1-K1-W5",
+      "title": "Handelt in acute situaties",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Herkent acute situaties en handelt volgens protocollen/BLS, schakelt hulp in en rapporteert/reflecteert achteraf.",
+      "keywords": ["Acute situaties", "crisis", "BLS", "reanimatie", "protocollen", "afwijken", "rapporteren", "hulp inschakelen"],
+      "example": "Bewoner bewusteloos: BLS starten, hulp roepen, incident rapporteren en nabespreken.",
+      "notes": "Expliciet: mag afwijken van protocollen (met onderbouwing). Meer nadruk op rapportage achteraf en leren van incidenten.",
+      "moduleCount": 28
+    },
+    {
+      "code": "B1-K1-W6",
+      "title": "Geeft informatie en advies",
+      "kerntaak_code": "B1-K1",
+      "kerntaak_title": "Biedt zorg, ondersteuning en begeleiding",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Geeft voorlichting/advies over gezondheid, preventie, leefstijl, medicatie, voeding en hygiëne; ondersteunt ook digitale vaardigheden.",
+      "keywords": ["Voorlichting", "advies", "preventie", "leefstijl", "medicatie", "voeding", "hygiëne", "digitale vaardigheden", "gezondheidsbevordering"],
+      "example": "Diabetes-voorlichting: voeding/beweging, medicatie-instructies, helpen met zorg-app.",
+      "notes": "Digitale vaardigheden expliciet toegevoegd. Bredere scope: sociale contacten, preventie, leefstijl. Coachen van zorgvragers/naasten hoort bij niveau 4 (P2-K1-W2).",
+      "moduleCount": 54
+    },
+    {
+      "code": "B1-K2-W1",
+      "title": "Stemt af met informele zorgverleners",
+      "kerntaak_code": "B1-K2",
+      "kerntaak_title": "Stemt de zorg en ondersteuning af",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Betrekt mantelzorgers/naasten, signaleert overbelasting en biedt ondersteuning, met respect voor grenzen en wensen.",
+      "keywords": ["Mantelzorg", "naasten", "informele zorg", "overbelasting", "ondersteuning", "grenzen respecteren", "samen beslissen"],
+      "example": "Bespreekt thuissituatie met dochter, signaleert overbelasting en verwijst naar mantelzorgondersteuning.",
+      "notes": "Nieuwe kerntaak! Afstemming met mantelzorg is nu expliciet een apart werkproces. Focus op signaleren overbelasting en ondersteunen van mantelzorgers.",
+      "moduleCount": 23
+    },
+    {
+      "code": "B1-K2-W2",
+      "title": "Werkt samen met professionals",
+      "kerntaak_code": "B1-K2",
+      "kerntaak_title": "Stemt de zorg en ondersteuning af",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Werkt interprofessioneel samen, draagt gestructureerd over (bv. SBAR) en stemt zorg af binnen de zorgketen.",
+      "keywords": ["Interprofessioneel", "overleg", "SBAR", "overdracht", "zorgketen", "samenwerking", "communicatie", "multidisciplinair"],
+      "example": "MDO + SBAR-overdracht; medicatiewijziging afstemmen met arts; fysio informeren over mobiliteitsplan.",
+      "notes": "Samenwerking en overdracht nu expliciet apart werkproces. Meer nadruk op interprofessioneel werken en gestructureerde overdracht (SBAR).",
+      "moduleCount": 41
+    },
+    {
+      "code": "B1-K3-W1",
+      "title": "Innoveert met zorgtechnologie en ethiek",
+      "kerntaak_code": "B1-K3",
+      "kerntaak_title": "Draagt bij aan kwaliteit van zorg",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Past zorgtechnologie toe, weegt ethische dilemma’s af, kent AI/digitale veiligheidsrisico’s en werkt duurzaam (SDG’s).",
+      "keywords": ["Zorgtechnologie", "innovatie", "ethiek", "AI", "digitale veiligheid", "risico's", "SDG's", "duurzaamheid"],
+      "example": "Zorg-app inzetten, privacy/ethiek bespreken, bijdragen aan duurzaam afvalbeleid.",
+      "notes": "Compleet nieuw werkproces! AI, digitale veiligheid, ethiek en SDG's zijn nu expliciet opgenomen. Technologie breder dan alleen devices.",
+      "moduleCount": 19
+    },
+    {
+      "code": "B1-K3-W2",
+      "title": "Evalueert en ontwikkelt zich",
+      "kerntaak_code": "B1-K3",
+      "kerntaak_title": "Draagt bij aan kwaliteit van zorg",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Reflecteert op eigen handelen, vraagt/verwerkt feedback (feedforward), gebruikt leerstrategieën en redeneerhulpen en ontwikkelt zich professioneel.",
+      "keywords": ["Reflectie", "feedback", "feedforward", "leerstrategieën", "kritisch denken", "redeneerhulpen", "professionele ontwikkeling"],
+      "example": "Reflectie op lastig gesprek, feedback vragen, verbeterplan opstellen met reflectiemodel.",
+      "notes": "Feedforward, leerstrategieën, kritisch denken en redeneerhulpen zijn nu expliciet benoemd. Professionele ontwikkeling krijgt meer aandacht.",
+      "moduleCount": 36
+    },
+    {
+      "code": "B1-K3-W3",
+      "title": "Draagt bij aan een veilige werkomgeving",
+      "kerntaak_code": "B1-K3",
+      "kerntaak_title": "Draagt bij aan kwaliteit van zorg",
+      "kd_part": "basisdeel",
+      "track": "basis",
+      "levels": [3, 4],
+      "explanation_short": "Draagt bij aan sociale/fysieke veiligheid, herkent/meldt grensoverschrijding, werkt assertief en bewaakt beroepsvitaliteit.",
+      "keywords": ["Sociale veiligheid", "fysieke veiligheid", "grensoverschrijdend gedrag", "assertiviteit", "beroepsvitaliteit", "ontruiming", "calamiteiten"],
+      "example": "Ongewenst gedrag signaleren en melden; grenzen stellen; werkdruk bewaken met pauzes.",
+      "notes": "Sociale veiligheid, grensoverschrijdend gedrag, assertiviteit en beroepsvitaliteit zijn nu expliciet toegevoegd. Veiligheid breder dan alleen fysieke aspecten.",
+      "moduleCount": 27
+    },
+    {
+      "code": "P2-K1-W1",
+      "title": "Stelt verpleegkundige diagnose",
+      "kerntaak_code": "P2-K1",
+      "kerntaak_title": "Voert verpleegkundige taken uit (Niveau 4)",
+      "kd_part": "profieldeel_n4",
+      "track": "verdieping",
+      "levels": [4],
+      "explanation_short": "Stelt op basis van klinisch redeneren de verpleegkundige diagnose en plant interventies; onderbouwt met EBP/wetenschap.",
+      "keywords": ["Klinisch redeneren", "verpleegkundige diagnose", "EBP", "evidence-based", "wetenschappelijk onderbouwen", "interventies plannen"],
+      "example": "Diagnose ‘risico op decubitus’ stellen, onderbouwen met literatuur en preventieve interventies plannen.",
+      "notes": "Diagnose is nu expliciet niveau 4 werkproces. Klinisch redeneren en EBP centraler; wetenschappelijke onderbouwing vereist.",
+      "moduleCount": 31
+    },
+    {
+      "code": "P2-K1-W2",
+      "title": "Coacht en begeleidt collega's",
+      "kerntaak_code": "P2-K1",
+      "kerntaak_title": "Voert verpleegkundige taken uit (Niveau 4)",
+      "kd_part": "profieldeel_n4",
+      "track": "verdieping",
+      "levels": [4],
+      "explanation_short": "Coacht en begeleidt collega’s/stagiaires/nieuwe medewerkers; geeft feedback; bevordert professionele ontwikkeling en samen beslissen.",
+      "keywords": ["Coachen", "begeleiden", "stagiaires", "feedback", "samen beslissen", "professionele ontwikkeling", "mentorschap"],
+      "example": "Stagiaire begeleiden bij medicatieronde, feedback geven, collega coachen in familiegesprek.",
+      "notes": "Nieuw werkproces; coaching/begeleiding nu expliciet niveau 4 met focus op feedback en ontwikkeling.",
+      "moduleCount": 18
+    },
+    {
+      "code": "P2-K1-W3",
+      "title": "Coördineert en optimaliseert zorg",
+      "kerntaak_code": "P2-K1",
+      "kerntaak_title": "Voert verpleegkundige taken uit (Niveau 4)",
+      "kd_part": "profieldeel_n4",
+      "track": "verdieping",
+      "levels": [4],
+      "explanation_short": "Coördineert zorgprocessen, optimaliseert zorgverlening en draagt bij aan kwaliteitsverbetering; past EBP toe en evalueert systematisch.",
+      "keywords": ["Coördineren", "optimaliseren", "kwaliteitsverbetering", "EBP", "organiseren", "plannen", "evalueren", "systematisch"],
+      "example": "Complexe patiënt: multidisciplinair afstemmen, zorg plannen/organiseren, effecten systematisch evalueren en optimaliseren.",
+      "notes": "Coördinatie en optimalisatie nu expliciet niveau 4; EBP en systematisch evalueren centraal.",
+      "moduleCount": 25
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

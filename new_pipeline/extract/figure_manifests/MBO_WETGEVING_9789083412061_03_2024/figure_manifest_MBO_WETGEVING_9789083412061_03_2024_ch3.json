@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 1493
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 44,
+    "ok": true,
+    "startOff": 39
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:38 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de zorgprofessional volledig te informeren;",
+        "pageDocumentOffset": 41,
+        "paragraphIndexInBodyStory": 317,
+        "text": "goed mee te werken aan onderzoek en behandeling.",
+        "x": 25.500000111262,
+        "y": 120.431904178195
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verpleegkundige geeft zorgvrager toelichting over de inhoud van zijn of haar dossier.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 Verpleegkundige geeft zorgvrager toelichting over de inhoud van zijn of haar dossier.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          124.683258344862,
+          17.5,
+          214.732467233751,
+          149.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_3.7_Verpleegkundige geeft zorgvrager toelichting over de inhoud van zijn of haar dossier.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_3.7_Verpleegkundige%20geeft%20zorgvrager%20toelichting%20over%20de%20inhoud%20van%20zijn%20of%20haar%20dossier.jpg"
+      },
+      "page": {
+        "documentOffset": 41,
+        "name": "28"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.2 De zorgprofessional en zorgvrager hebben de plicht elkaar goed te informeren.",
+        "beforeText": "Afbeelding 3.1 Verpleegkundige geeft zorgvrager toelichting over de inhoud van zijn of haar dossier.",
+        "pageDocumentOffset": 42,
+        "paragraphIndexInBodyStory": 320,
+        "text": "￼",
+        "x": 187.5,
+        "y": 95.4167416551393
+      },
+      "asset": null,
+      "caption": {
+        "body": "De zorgprofessional en zorgvrager hebben de plicht elkaar goed te informeren.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 De zorgprofessional en zorgvrager hebben de plicht elkaar goed te informeren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.7,
+          187.5,
+          95.4167416551393,
+          319.60986650255
+        ],
+        "kind": "link",
+        "linkName": "3.6 De zorgprofessional en zorgvrager hebben de plicht elkaar goed te informeren.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/3.6%20De%20zorgprofessional%20en%20zorgvrager%20hebben%20de%20plicht%20elkaar%20goed%20te%20informeren.jpeg"
+      },
+      "page": {
+        "documentOffset": 42,
+        "name": "29"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

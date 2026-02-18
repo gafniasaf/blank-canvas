@@ -1,0 +1,170 @@
+{
+  "bodyFrames": {
+    "left": {
+      "frames": [
+        {
+          "bounds": [
+            12.7,
+            17.5,
+            220,
+            152.5
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 8
+        }
+      ],
+      "masterName": "A-Basis",
+      "pagesSeen": 22,
+      "signature": "13,17,220,152"
+    },
+    "right": {
+      "frames": [
+        {
+          "bounds": [
+            12.6999999999997,
+            187.5,
+            219.999999999999,
+            322.5
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 8
+        }
+      ],
+      "masterName": "A-Basis",
+      "pagesSeen": 22,
+      "signature": "13,188,220,322"
+    },
+    "unknown": {
+      "frames": [],
+      "masterName": "",
+      "pagesSeen": 0,
+      "signature": ""
+    }
+  },
+  "bodyStory": {
+    "index": 21,
+    "words": 22660
+  },
+  "book_id": "MBO_WETGEVING_9789083412061_03_2024",
+  "document": {
+    "facingPages": true,
+    "horizontalMeasurementUnits": "MILLIMETERS",
+    "name": "MBO Wetgeving_9789083412061_03.2024.indd",
+    "pages": 168
+  },
+  "generated_at": "2026-01-03_00-38-40",
+  "masters": {
+    "all": [
+      "A-Basis",
+      "B-Inhoudsopgave",
+      "C-Hoofdstukopening",
+      "D-Front Matter BLANK",
+      "E-Voorword",
+      "F-Index",
+      "G-Section",
+      "H-Master",
+      "I-Master"
+    ],
+    "bodyCandidates": [
+      {
+        "count": 74,
+        "name": "A-Basis"
+      },
+      {
+        "count": 10,
+        "name": "C-Hoofdstukopening"
+      }
+    ],
+    "openerCandidates": [
+      {
+        "count": 6,
+        "name": "C-Hoofdstukopening"
+      },
+      {
+        "count": 1,
+        "name": "D-Front Matter BLANK"
+      },
+      {
+        "count": 1,
+        "name": "A-Basis"
+      },
+      {
+        "count": 1,
+        "name": "(none)"
+      }
+    ]
+  },
+  "paragraphStyleCandidates": {
+    "chapterHeader": [
+      {
+        "count": 10,
+        "name": "•Hoofdstuktitel"
+      },
+      {
+        "count": 9,
+        "name": "Deel Header"
+      },
+      {
+        "count": 5,
+        "name": "•Stappenplan tekst + nummer"
+      },
+      {
+        "count": 1,
+        "name": "•Hoofdstukkop"
+      },
+      {
+        "count": 1,
+        "name": "•Paragraafkop"
+      },
+      {
+        "count": 1,
+        "name": "_Bullets Justified (space after)"
+      }
+    ],
+    "listLike": [
+      {
+        "count": 318,
+        "name": "_Bullets Justified"
+      },
+      {
+        "count": 90,
+        "name": "_Bullets Justified (space after)"
+      },
+      {
+        "count": 66,
+        "name": "_Bullets Lvl 2"
+      },
+      {
+        "count": 16,
+        "name": "_Nummer List (Continue)"
+      },
+      {
+        "count": 11,
+        "name": "_Nummer List (End)"
+      },
+      {
+        "count": 10,
+        "name": "_Stappenplan bullets"
+      },
+      {
+        "count": 10,
+        "name": "_Nummer List (Start)"
+      },
+      {
+        "count": 2,
+        "name": "_Bullets Lvl 2 spcae after"
+      }
+    ],
+    "numberedHeadings": [
+      {
+        "count": 1,
+        "name": "•Paragraafkop"
+      }
+    ]
+  },
+  "source": {
+    "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd",
+    "canonical_n4_idml_path": "./_source_exports/MBO_WETGEVING_9789083412061_03_2024__FROM_DOWNLOADS.idml",
+    "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+  }
+}

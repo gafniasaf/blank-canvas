@@ -1,0 +1,22 @@
+{
+  "576641ed-c814-42a9-adc2-0c65ca385e48": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.1.png",
+      "alt": "Afbeelding 7.1: Het Johari-venster.",
+      "figureNumber": "Afbeelding 7.1:",
+      "caption": "Het Johari-venster.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2b3b54a2-4fe5-4255-80ea-3f76c3689c8a": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.2.png",
+      "alt": "Afbeelding 7.2: Het reflectiemodel van Korthagen.",
+      "figureNumber": "Afbeelding 7.2:",
+      "caption": "Het reflectiemodel van Korthagen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

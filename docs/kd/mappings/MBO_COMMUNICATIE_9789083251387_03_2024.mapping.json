@@ -1,0 +1,4555 @@
+{
+  "version": 1,
+  "book_id": "MBO_COMMUNICATIE_9789083251387_03_2024",
+  "generated_at": "2025-12-26T20:24:00",
+  "source": {
+    "idml_path": "/Users/asafgafni/Desktop/InDesign/TestRun/_source_exports/MBO_COMMUNICATIE_9789083251387_03_2024__FROM_DOWNLOADS.idml",
+    "note": "Skeleton generated from numbered headings in canonical IDML snapshot."
+  },
+  "entries": [
+    {
+      "key": "1.1",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Informatie uitwisselen",
+      "source_heading_text": "1.1 Informatie uitwisselen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.1.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "De zender en ontvanger",
+      "source_heading_text": "1.1.1 De zender en ontvanger",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.1.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "De boodschap",
+      "source_heading_text": "1.1.2 De boodschap",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.1.3",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "De boodschap coderen",
+      "source_heading_text": "1.1.3 De boodschap coderen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.1.4",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "De boodschap decoderen",
+      "source_heading_text": "1.1.4 De boodschap decoderen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Vormen van communicatie",
+      "source_heading_text": "1.2 Vormen van communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Verbale communicatie",
+      "source_heading_text": "1.2.1 Verbale communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Non-verbale communicatie",
+      "source_heading_text": "1.2.2 Non-verbale communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2.3",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Totale communicatie",
+      "source_heading_text": "1.2.3 Totale communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2.4",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Communicatie op afstand",
+      "source_heading_text": "1.2.4 Communicatie op afstand",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2.5",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Eenzijdige en tweezijdige communicatie",
+      "source_heading_text": "1.2.5 Eenzijdige en tweezijdige communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.3",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Vier aspecten van een boodschap",
+      "source_heading_text": "1.3 Vier aspecten van een boodschap",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.3.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Het inhoudelijke aspect",
+      "source_heading_text": "1.3.1 Het inhoudelijke aspect",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.3.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Het expressieve aspect",
+      "source_heading_text": "1.3.2 Het expressieve aspect",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.3.3",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Het relationele aspect",
+      "source_heading_text": "1.3.3 Het relationele aspect",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.3.4",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Het appellerende aspect",
+      "source_heading_text": "1.3.4 Het appellerende aspect",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.4",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Ruis in de mondelinge communicatie",
+      "source_heading_text": "1.4 Ruis in de mondelinge communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.4.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Externe ruis",
+      "source_heading_text": "1.4.1 Externe ruis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.4.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Interne ruis",
+      "source_heading_text": "1.4.2 Interne ruis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.4.3",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Psychologische ruis",
+      "source_heading_text": "1.4.3 Psychologische ruis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.4.4",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 4,
+      "subparagraph": 4,
+      "title": "Semantische ruis",
+      "source_heading_text": "1.4.4 Semantische ruis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.5",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Overdracht en tegenoverdracht",
+      "source_heading_text": "1.5 Overdracht en tegenoverdracht",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.5.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Projectie op de zorgprofessional",
+      "source_heading_text": "1.5.1 Projectie op de zorgprofessional",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.5.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Projectie op de zorgvrager",
+      "source_heading_text": "1.5.2 Projectie op de zorgvrager",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.6",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Interpersoonlijke afstand tijdens mondelinge communicatie",
+      "source_heading_text": "1.6 Interpersoonlijke afstand tijdens mondelinge communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.6.1",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "De intieme zone",
+      "source_heading_text": "1.6.1 De intieme zone",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.6.2",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "De persoonlijke zone",
+      "source_heading_text": "1.6.2 De persoonlijke zone",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.6.3",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "De sociale zone",
+      "source_heading_text": "1.6.3 De sociale zone",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.6.4",
+      "kind": "subparagraph",
+      "chapter": 1,
+      "paragraph": 6,
+      "subparagraph": 4,
+      "title": "De publieke zone",
+      "source_heading_text": "1.6.4 De publieke zone",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.1",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Storing in het proces van communicatie",
+      "source_heading_text": "2.1 Storing in het proces van communicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.1.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "De boodschap goed laten overkomen",
+      "source_heading_text": "2.1.1 De boodschap goed laten overkomen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.1.2",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Omgaan met onderlinge verhoudingen",
+      "source_heading_text": "2.1.2 Omgaan met onderlinge verhoudingen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Storing in de communicatie zelf: tien valkuilen",
+      "source_heading_text": "2.2 Storing in de communicatie zelf: tien valkuilen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Attribueren",
+      "source_heading_text": "2.2.1 Attribueren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.2",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Bagatelliseren",
+      "source_heading_text": "2.2.2 Bagatelliseren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.3",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Diagnosticeren",
+      "source_heading_text": "2.2.3 Diagnosticeren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.4",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Drogredenen gebruiken",
+      "source_heading_text": "2.2.4 Drogredenen gebruiken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.5",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Interpreteren",
+      "source_heading_text": "2.2.5 Interpreteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.6",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "Je laten leiden door het halo- of hoorneffect",
+      "source_heading_text": "2.2.6 Je laten leiden door het halo- of hoorneffect",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.7",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 7,
+      "title": "Van je eigen kennis uitgaan",
+      "source_heading_text": "2.2.7 Van je eigen kennis uitgaan",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.8",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 8,
+      "title": "Moraliseren",
+      "source_heading_text": "2.2.8 Moraliseren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.9",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 9,
+      "title": "Papegaaien",
+      "source_heading_text": "2.2.9 Papegaaien",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2.10",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": 10,
+      "title": "Van stereotypen en vooroordelen uitgaan",
+      "source_heading_text": "2.2.10 Van stereotypen en vooroordelen uitgaan",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Storing door taalproblemen",
+      "source_heading_text": "2.3 Storing door taalproblemen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Omgaan met laaggeletterde mensen",
+      "source_heading_text": "2.3.1 Omgaan met laaggeletterde mensen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3.2",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Omgaan met taalstoornissen",
+      "source_heading_text": "2.3.2 Omgaan met taalstoornissen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3.3",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Omgaan met taalverschillen",
+      "source_heading_text": "2.3.3 Omgaan met taalverschillen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3.4",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Omgaan met tolken",
+      "source_heading_text": "2.3.4 Omgaan met tolken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.4",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Storing bij communicatie in een groep",
+      "source_heading_text": "2.4 Storing bij communicatie in een groep",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.4.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Communicatie en groepsdynamiek",
+      "source_heading_text": "2.4.1 Communicatie en groepsdynamiek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.4.2",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Zorgen voor een goede groepscommunicatie",
+      "source_heading_text": "2.4.2 Zorgen voor een goede groepscommunicatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.1",
+      "kind": "paragraph",
+      "chapter": 3,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Cultuurverschillen",
+      "source_heading_text": "3.1 Cultuurverschillen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.1.1",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Diversiteit",
+      "source_heading_text": "3.1.1 Diversiteit",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.1.2",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Vooroordelen en discriminatie",
+      "source_heading_text": "3.1.2 Vooroordelen en discriminatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2",
+      "kind": "paragraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Cultuurdimensies",
+      "source_heading_text": "3.2 Cultuurdimensies",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.1",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Kleine machtsafstand versus grote machtsafstand",
+      "source_heading_text": "3.2.1 Kleine machtsafstand versus grote machtsafstand",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.2",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Individualisme versus collectivisme",
+      "source_heading_text": "3.2.2 Individualisme versus collectivisme",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.3",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Masculiniteit versus feminiteit",
+      "source_heading_text": "3.2.3 Masculiniteit versus feminiteit",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.4",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Lage onzekerheidsvermijding versus hoge onzekerheidsvermijding",
+      "source_heading_text": "3.2.4 Lage onzekerheidsvermijding versus hoge onzekerheidsvermijding",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.5",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Kortetermijngerichtheid versus langetermijngerichtheid",
+      "source_heading_text": "3.2.5 Kortetermijngerichtheid versus langetermijngerichtheid",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.6",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "Hedonisme versus soberheid",
+      "source_heading_text": "3.2.6 Hedonisme versus soberheid",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.3",
+      "kind": "paragraph",
+      "chapter": 3,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Interculturele communicatiemethoden",
+      "source_heading_text": "3.3 Interculturele communicatiemethoden",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.3.1",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "De bospadmethode",
+      "source_heading_text": "3.3.1 De bospadmethode",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.3.2",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "De driestappenmethode van Pinto",
+      "source_heading_text": "3.3.2 De driestappenmethode van Pinto",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.3.3",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Het Campinha-Bacote-praktijkmodel",
+      "source_heading_text": "3.3.3 Het Campinha-Bacote-praktijkmodel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Gespreksfasen",
+      "source_heading_text": "4.1 Gespreksfasen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "De opening",
+      "source_heading_text": "4.1.1 De opening",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "De kern",
+      "source_heading_text": "4.1.2 De kern",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1.3",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "De afsluiting",
+      "source_heading_text": "4.1.3 De afsluiting",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Gespreksdoelen bereiken",
+      "source_heading_text": "4.2 Gespreksdoelen bereiken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Kennis, houding en gedrag",
+      "source_heading_text": "4.2.1 Kennis, houding en gedrag",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Het SMART-principe",
+      "source_heading_text": "4.2.2 Het SMART-principe",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.3",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "De boodschap in ontvangst nemen",
+      "source_heading_text": "4.3 De boodschap in ontvangst nemen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.3.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Actief luisteren",
+      "source_heading_text": "4.3.1 Actief luisteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.3.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Samenvatten",
+      "source_heading_text": "4.3.2 Samenvatten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.3.3",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Doorvragen",
+      "source_heading_text": "4.3.3 Doorvragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Goede vragen stellen",
+      "source_heading_text": "4.4 Goede vragen stellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Open en gesloten vragen",
+      "source_heading_text": "4.4.1 Open en gesloten vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Directe en indirecte vragen",
+      "source_heading_text": "4.4.2 Directe en indirecte vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.3",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Informatieve vragen",
+      "source_heading_text": "4.4.3 Informatieve vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.4",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 4,
+      "title": "Verhelderende vragen",
+      "source_heading_text": "4.4.4 Verhelderende vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.5",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 5,
+      "title": "Controlevragen",
+      "source_heading_text": "4.4.5 Controlevragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.6",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 6,
+      "title": "Onderzoekende vragen",
+      "source_heading_text": "4.4.6 Onderzoekende vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.7",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 7,
+      "title": "Opinievragen",
+      "source_heading_text": "4.4.7 Opinievragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.8",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 8,
+      "title": "Confronterende vragen",
+      "source_heading_text": "4.4.8 Confronterende vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.5",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Valkuilen bij vragen stellen",
+      "source_heading_text": "4.5 Valkuilen bij vragen stellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.5.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Suggestieve vragen",
+      "source_heading_text": "4.5.1 Suggestieve vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.5.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Dubbele vragen",
+      "source_heading_text": "4.5.2 Dubbele vragen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Ezelsbruggetjes bij gespreksvoering",
+      "source_heading_text": "4.6 Ezelsbruggetjes bij gespreksvoering",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Laat OMA thuis",
+      "source_heading_text": "4.6.1 Laat OMA thuis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "Denk aan ANNA",
+      "source_heading_text": "4.6.2 Denk aan ANNA",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.3",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "Smeer NIVEA",
+      "source_heading_text": "4.6.3 Smeer NIVEA",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.4",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 4,
+      "title": "Wees een OEN",
+      "source_heading_text": "4.6.4 Wees een OEN",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.5",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 5,
+      "title": "DIK is mooi",
+      "source_heading_text": "4.6.5 DIK is mooi",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.6",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 6,
+      "title": "Doe als een KOE",
+      "source_heading_text": "4.6.6 Doe als een KOE",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.6.7",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 6,
+      "subparagraph": 7,
+      "title": "Voer het gesprek als een HELD",
+      "source_heading_text": "4.6.7 Voer het gesprek als een HELD",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.1",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Het intakegesprek",
+      "source_heading_text": "5.1 Het intakegesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.1.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Het doel van het intakegesprek",
+      "source_heading_text": "5.1.1 Het doel van het intakegesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.1.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "De structuur van het intakegesprek",
+      "source_heading_text": "5.1.2 De structuur van het intakegesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.1.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij het intakegesprek",
+      "source_heading_text": "5.1.3 Aandachtspunten bij het intakegesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Het slechtnieuwsgesprek",
+      "source_heading_text": "5.2 Het slechtnieuwsgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Het doel van het slechtnieuwsgesprek",
+      "source_heading_text": "5.2.1 Het doel van het slechtnieuwsgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "De structuur van het slechtnieuwsgesprek",
+      "source_heading_text": "5.2.2 De structuur van het slechtnieuwsgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij het slechtnieuwsgesprek",
+      "source_heading_text": "5.2.3 Aandachtspunten bij het slechtnieuwsgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.3",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Het klachtengesprek",
+      "source_heading_text": "5.3 Het klachtengesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.3.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Het doel van het klachtengesprek",
+      "source_heading_text": "5.3.1 Het doel van het klachtengesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.3.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "De structuur van het klachtengesprek",
+      "source_heading_text": "5.3.2 De structuur van het klachtengesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.3.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij het klachtengesprek",
+      "source_heading_text": "5.3.3 Aandachtspunten bij het klachtengesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.4",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Een professioneel telefoongesprek",
+      "source_heading_text": "5.4 Een professioneel telefoongesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.4.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Het doel van een professioneel telefoongesprek",
+      "source_heading_text": "5.4.1 Het doel van een professioneel telefoongesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.4.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "De structuur van een professioneel telefoongesprek",
+      "source_heading_text": "5.4.2 De structuur van een professioneel telefoongesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.4.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij een professioneel telefoongesprek",
+      "source_heading_text": "5.4.3 Aandachtspunten bij een professioneel telefoongesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.5",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Beeldbellen",
+      "source_heading_text": "5.5 Beeldbellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.5.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Het doel van beeldbellen",
+      "source_heading_text": "5.5.1 Het doel van beeldbellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.5.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Aandachtspunten bij het beeldbellen",
+      "source_heading_text": "5.5.2 Aandachtspunten bij het beeldbellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.6",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "E-mail",
+      "source_heading_text": "5.6 E-mail",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.6.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Het doel van e-mail",
+      "source_heading_text": "5.6.1 Het doel van e-mail",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.6.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "De structuur van een e-mailbericht",
+      "source_heading_text": "5.6.2 De structuur van een e-mailbericht",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.6.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij e-mail",
+      "source_heading_text": "5.6.3 Aandachtspunten bij e-mail",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.7",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 7,
+      "subparagraph": null,
+      "title": "Groepsgesprekken met zorgvragers",
+      "source_heading_text": "5.7 Groepsgesprekken met zorgvragers",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.7.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 7,
+      "subparagraph": 1,
+      "title": "Het doel van groepsgesprekken",
+      "source_heading_text": "5.7.1 Het doel van groepsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.7.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 7,
+      "subparagraph": 2,
+      "title": "De structuur van groepsgesprekken",
+      "source_heading_text": "5.7.2 De structuur van groepsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.7.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 7,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij groepsgesprekken",
+      "source_heading_text": "5.7.3 Aandachtspunten bij groepsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Zes fasen van gedragsverandering",
+      "source_heading_text": "6.1 Zes fasen van gedragsverandering",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Openstaan voor gedragsverandering",
+      "source_heading_text": "6.1.1 Openstaan voor gedragsverandering",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Advies, instructie of voorlichting begrijpen",
+      "source_heading_text": "6.1.2 Advies, instructie of voorlichting begrijpen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Willen veranderen",
+      "source_heading_text": "6.1.3 Willen veranderen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Kunnen veranderen",
+      "source_heading_text": "6.1.4 Kunnen veranderen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.5",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Doen",
+      "source_heading_text": "6.1.5 Doen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1.6",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": 6,
+      "title": "Blijven doen",
+      "source_heading_text": "6.1.6 Blijven doen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Advies geven",
+      "source_heading_text": "6.2 Advies geven",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Het doel van het adviesgesprek",
+      "source_heading_text": "6.2.1 Het doel van het adviesgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Verschillende adviesmodellen",
+      "source_heading_text": "6.2.2 Verschillende adviesmodellen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "De structuur van het adviesgesprek",
+      "source_heading_text": "6.2.3 De structuur van het adviesgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "De WHAM-methode",
+      "source_heading_text": "6.2.4 De WHAM-methode",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.5",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtspunten bij het adviesgesprek",
+      "source_heading_text": "6.2.5 Aandachtspunten bij het adviesgesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Instructie geven",
+      "source_heading_text": "6.3 Instructie geven",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Het doel van de instructie",
+      "source_heading_text": "6.3.1 Het doel van de instructie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "De structuur van de instructie",
+      "source_heading_text": "6.3.2 De structuur van de instructie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij instructie geven",
+      "source_heading_text": "6.3.3 Aandachtspunten bij instructie geven",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Voorlichting geven",
+      "source_heading_text": "6.4 Voorlichting geven",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Het doel van de voorlichting",
+      "source_heading_text": "6.4.1 Het doel van de voorlichting",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "De structuur van de voorlichting",
+      "source_heading_text": "6.4.2 De structuur van de voorlichting",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Aandachtspunten bij voorlichting geven",
+      "source_heading_text": "6.4.3 Aandachtspunten bij voorlichting geven",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Motiverende gesprekken",
+      "source_heading_text": "6.5 Motiverende gesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Het doel van een motiverend gesprek",
+      "source_heading_text": "6.5.1 Het doel van een motiverend gesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Drie stijlen van motiverende gesprekken",
+      "source_heading_text": "6.5.2 Drie stijlen van motiverende gesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 3,
+      "title": "De structuur van een motiverend gesprek",
+      "source_heading_text": "6.5.3 De structuur van een motiverend gesprek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 4,
+      "title": "Aandachtspunten bij motiverende gesprekken",
+      "source_heading_text": "6.5.4 Aandachtspunten bij motiverende gesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Coachings- en counselingsgesprekken",
+      "source_heading_text": "6.6 Coachings- en counselingsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Het doel van coachings- en counselingsgesprekken",
+      "source_heading_text": "6.6.1 Het doel van coachings- en counselingsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "De structuur van counselingsgesprekken",
+      "source_heading_text": "6.6.2 De structuur van counselingsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "De structuur van coachingsgesprekken",
+      "source_heading_text": "6.6.3 De structuur van coachingsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": 4,
+      "title": "Aandachtspunten bij coachings- en counselingsgesprekken",
+      "source_heading_text": "6.6.4 Aandachtspunten bij coachings- en counselingsgesprekken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "In een team werken",
+      "source_heading_text": "7.1 In een team werken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Samen een doel bereiken",
+      "source_heading_text": "7.1.1 Samen een doel bereiken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Interdisciplinair en multidisciplinair samenwerken",
+      "source_heading_text": "7.1.2 Interdisciplinair en multidisciplinair samenwerken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Overdracht van informatie met de SBAR-methode",
+      "source_heading_text": "7.1.3 Overdracht van informatie met de SBAR-methode",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Effectief vergaderen",
+      "source_heading_text": "7.2 Effectief vergaderen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Het doel van een vergadering",
+      "source_heading_text": "7.2.1 Het doel van een vergadering",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "De structuur van een vergadering",
+      "source_heading_text": "7.2.2 De structuur van een vergadering",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.3",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Intervisie",
+      "source_heading_text": "7.3 Intervisie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.3.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Het doel van intervisie",
+      "source_heading_text": "7.3.1 Het doel van intervisie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.3.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Intervisiemethoden",
+      "source_heading_text": "7.3.2 Intervisiemethoden",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.4",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Presenteren",
+      "source_heading_text": "7.4 Presenteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.4.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Een presentatie voorbereiden",
+      "source_heading_text": "7.4.1 Een presentatie voorbereiden",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.4.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Een presentatie uitvoeren",
+      "source_heading_text": "7.4.2 Een presentatie uitvoeren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.5",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Klinische les",
+      "source_heading_text": "7.5 Klinische les",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.5.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Het doel van de klinische les",
+      "source_heading_text": "7.5.1 Het doel van de klinische les",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.5.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Vormen van klinische lessen",
+      "source_heading_text": "7.5.2 Vormen van klinische lessen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.5.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 5,
+      "subparagraph": 3,
+      "title": "Een klinische les uitvoeren",
+      "source_heading_text": "7.5.3 Een klinische les uitvoeren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.6",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Zelfbewust communiceren",
+      "source_heading_text": "7.6 Zelfbewust communiceren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.6.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Assertief communiceren",
+      "source_heading_text": "7.6.1 Assertief communiceren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.6.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "Subassertief communiceren",
+      "source_heading_text": "7.6.2 Subassertief communiceren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.6.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "Agressief communiceren",
+      "source_heading_text": "7.6.3 Agressief communiceren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.6.4",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 6,
+      "subparagraph": 4,
+      "title": "Opkomen voor jezelf",
+      "source_heading_text": "7.6.4 Opkomen voor jezelf",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.7",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 7,
+      "subparagraph": null,
+      "title": "Feedback",
+      "source_heading_text": "7.7 Feedback",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.7.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 7,
+      "subparagraph": 1,
+      "title": "Feedback geven en ontvangen",
+      "source_heading_text": "7.7.1 Feedback geven en ontvangen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.7.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 7,
+      "subparagraph": 2,
+      "title": "Positieve feedback",
+      "source_heading_text": "7.7.2 Positieve feedback",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.7.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 7,
+      "subparagraph": 3,
+      "title": "Negatieve feedback",
+      "source_heading_text": "7.7.3 Negatieve feedback",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.7.4",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 7,
+      "subparagraph": 4,
+      "title": "Het Johari-venster",
+      "source_heading_text": "7.7.4 Het Johari-venster",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.8",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 8,
+      "subparagraph": null,
+      "title": "Reflecteren",
+      "source_heading_text": "7.8 Reflecteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.8.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 8,
+      "subparagraph": 1,
+      "title": "Het doel van reflecteren",
+      "source_heading_text": "7.8.1 Het doel van reflecteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.8.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 8,
+      "subparagraph": 2,
+      "title": "Methoden om te reflecteren",
+      "source_heading_text": "7.8.2 Methoden om te reflecteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.8.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 8,
+      "subparagraph": 3,
+      "title": "Excuseren",
+      "source_heading_text": "7.8.3 Excuseren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.9",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 9,
+      "subparagraph": null,
+      "title": "Netwerken",
+      "source_heading_text": "7.9 Netwerken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.9.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 9,
+      "subparagraph": 1,
+      "title": "Het doel van netwerken",
+      "source_heading_text": "7.9.1 Het doel van netwerken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.9.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 9,
+      "subparagraph": 2,
+      "title": "Persoonlijk netwerken",
+      "source_heading_text": "7.9.2 Persoonlijk netwerken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.9.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 9,
+      "subparagraph": 3,
+      "title": "Online netwerken",
+      "source_heading_text": "7.9.3 Online netwerken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Omgaan met conflicten",
+      "source_heading_text": "8.1 Omgaan met conflicten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Wat is een conflict?",
+      "source_heading_text": "8.1.1 Wat is een conflict?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Roos van Leary",
+      "source_heading_text": "8.1.2 Roos van Leary",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.3",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Een conflict hanteren",
+      "source_heading_text": "8.1.3 Een conflict hanteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.4",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "De-escalerend communiceren",
+      "source_heading_text": "8.1.4 De-escalerend communiceren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.5",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Bemiddelen bij een conflict",
+      "source_heading_text": "8.1.5 Bemiddelen bij een conflict",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Omgaan met agressie",
+      "source_heading_text": "8.2 Omgaan met agressie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Wat is agressief gedrag?",
+      "source_heading_text": "8.2.1 Wat is agressief gedrag?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Oorzaken van agressie",
+      "source_heading_text": "8.2.2 Oorzaken van agressie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.3",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Agressie hanteren",
+      "source_heading_text": "8.2.3 Agressie hanteren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Crisis",
+      "source_heading_text": "8.3 Crisis",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Wat is een crisis?",
+      "source_heading_text": "8.3.1 Wat is een crisis?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Reageren op een crisissituatie",
+      "source_heading_text": "8.3.2 Reageren op een crisissituatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "basis",
+      "suggested_kd_workprocesses": [
+        "B1-K2-W2",
+        "B1-K1-W6",
+        "B1-K1-W1"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_INFO_ADVICE_HEALTH"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    }
+  ],
+  "suggestions": {
+    "suggested_at": "2025-12-26T20:24:52",
+    "note": "AUTO heuristic suggestions in suggested_* fields only (final fields unchanged)."
+  }
+}

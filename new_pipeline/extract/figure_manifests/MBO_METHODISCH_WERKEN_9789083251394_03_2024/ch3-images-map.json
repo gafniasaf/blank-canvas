@@ -1,0 +1,20 @@
+[
+  {
+    "originalFilename": "Image 2.2 Cyclus van klinisch redeneren.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 2.2 Cyclus van klinisch redeneren.tif",
+    "localFilename": "Image 2.2 Cyclus van klinisch redeneren.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch3/linked/Image 2.2 Cyclus van klinisch redeneren.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image 2.3 SBAR.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 2.3 SBAR.tif",
+    "localFilename": "Image 2.3 SBAR.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch3/linked/Image 2.3 SBAR.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.2:"
+    ]
+  }
+]

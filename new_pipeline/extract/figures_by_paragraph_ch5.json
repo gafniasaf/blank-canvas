@@ -1,0 +1,162 @@
+{
+  "1d4aa1dc-c1bc-4af8-b226-73602da393a0": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.10.png",
+      "alt": "Afbeelding 5.10: Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+      "figureNumber": "Afbeelding 5.10:",
+      "caption": "Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "470b79fc-c44c-4e31-83f1-a1fb6bdb03ef": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.11.png",
+      "alt": "Afbeelding 5.11: Anatomie van de alveoli en de respiratoire membraan.",
+      "figureNumber": "Afbeelding 5.11:",
+      "caption": "Anatomie van de alveoli en de respiratoire membraan.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7525c09e-6185-4eb0-8fd3-26fd6014cf86": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.12.png",
+      "alt": "Afbeelding 5.12: Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+      "figureNumber": "Afbeelding 5.12:",
+      "caption": "Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "90d1342e-4dc0-48fe-939b-3f9fd8b0151c": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.13.png",
+      "alt": "Afbeelding 5.13: Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+      "figureNumber": "Afbeelding 5.13:",
+      "caption": "Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "12c79384-e375-4005-9a56-3af94cf03d65": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.14.png",
+      "alt": "Afbeelding 5.14: De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+      "figureNumber": "Afbeelding 5.14:",
+      "caption": "De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "001a6292-4bc2-4e09-bfb5-6b5699849742": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.15.png",
+      "alt": "Afbeelding 5.15: Zuurstof bindt aan hemoglobinemoleculen.",
+      "figureNumber": "Afbeelding 5.15:",
+      "caption": "Zuurstof bindt aan hemoglobinemoleculen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "2b2d5a47-85f2-4a06-a8a9-fb5011b27e57": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.16.png",
+      "alt": "Afbeelding 5.16: Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+      "figureNumber": "Afbeelding 5.16:",
+      "caption": "Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7b2ec9cf-9ad9-4939-823e-12d0b3f93a0b": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.1.png",
+      "alt": "Afbeelding 5.1: Anatomie van de luchtwegen – vooraanzicht.",
+      "figureNumber": "Afbeelding 5.1:",
+      "caption": "Anatomie van de luchtwegen – vooraanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b5fe85ab-e2a0-42d8-acab-5b34a9ef681d": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.2.png",
+      "alt": "Afbeelding 5.2: Overzicht van de luchtwegen, van groot naar klein.",
+      "figureNumber": "Afbeelding 5.2:",
+      "caption": "Overzicht van de luchtwegen, van groot naar klein.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e6de1e34-fa87-4554-b4c8-d0c253ac96bc": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.3.png",
+      "alt": "Afbeelding 5.3: Vertakkingen van de grote luchtwegen – vooraanzicht.",
+      "figureNumber": "Afbeelding 5.3:",
+      "caption": "Vertakkingen van de grote luchtwegen – vooraanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d1f121af-6d58-46f0-9340-c4e2ddaa5566": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.4.png",
+      "alt": "Afbeelding 5.4: Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+      "figureNumber": "Afbeelding 5.4:",
+      "caption": "Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d716dbcb-d968-463f-bd37-8ed3c34b7090": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.5.png",
+      "alt": "Afbeelding 5.5: Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+      "figureNumber": "Afbeelding 5.5:",
+      "caption": "Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9135ad78-e33f-4ad3-b259-dc3ed472b21e": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.6.png",
+      "alt": "Afbeelding 5.6: Anatomie van de keelholte – doorsnede met zijaanzicht.",
+      "figureNumber": "Afbeelding 5.6:",
+      "caption": "Anatomie van de keelholte – doorsnede met zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "844c25ab-ce9a-4fc6-b505-a728748e4ea0": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.7.png",
+      "alt": "Afbeelding 5.7: Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+      "figureNumber": "Afbeelding 5.7:",
+      "caption": "Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "dc5ad916-c315-4e5a-b6c2-1b17f19a1270": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.8.png",
+      "alt": "Afbeelding 5.8: Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+      "figureNumber": "Afbeelding 5.8:",
+      "caption": "Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ee48296f-5d2d-43bd-969d-c1ace422f905": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.9.png",
+      "alt": "Afbeelding 5.9: Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+      "figureNumber": "Afbeelding 5.9:",
+      "caption": "Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

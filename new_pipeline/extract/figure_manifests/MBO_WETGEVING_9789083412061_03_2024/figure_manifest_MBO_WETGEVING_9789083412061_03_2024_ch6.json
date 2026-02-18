@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 1124
+  },
+  "chapter": "6",
+  "chapterRange": {
+    "endOff": 62,
+    "ok": true,
+    "startOff": 58
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:44 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.2 De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.",
+        "beforeText": "Als de gemeente de Wmo-aanvraag heeft goedgekeurd en de zorgvrager de voorziening heeft, moet deze voorziening een bepaalde tijd meegaan voordat de zorgvrager recht heeft op een nieuwe voorziening. Het is dus de verantwoordelijkheid van de zorgvrager om goed voor de voorziening te zorgen. Als de zorgvrager bijvoorbeeld een rolstoel krijgt waar hij of zij niet goed mee omgaat, krijgt de zorgvrager geen nieuwe rolstoel als die binnen een te korte tijd kapotgaat. Vaak mag de zorgvrager pas na een aantal jaar een nieuwe rolstoel aanvragen. Als het niet de schuld van een zorgvrager is dat een voorziening kapot gaat, bijvoorbeeld als die door iemand anders kapot wordt gemaakt, mag de zorgvrager wel een nieuwe voorziening aanvragen.",
+        "pageDocumentOffset": 59,
+        "paragraphIndexInBodyStory": 508,
+        "text": "￼",
+        "x": 17.5,
+        "y": 117.244804627603
+      },
+      "asset": null,
+      "caption": {
+        "body": "De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.",
+        "bounds": null,
+        "label": "Afbeelding 6.2:",
+        "raw": "Afbeelding 6.2 De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          27.0471472337507,
+          17.5,
+          117.244804627603,
+          152.5
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.5-1_De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.5-1_De%20samenstelling%20van%20een%20gemeente%20bepaalt%20de%20hoogte%20van%20het%20Wmo-bedrag.png"
+      },
+      "page": {
+        "documentOffset": 59,
+        "name": "46"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een parkeerplaats;",
+        "pageDocumentOffset": 60,
+        "paragraphIndexInBodyStory": 529,
+        "text": "als dit nodig is kan een zorgvrager medische begeleiding krijgen bij vervoer.",
+        "x": 199.499999976688,
+        "y": 47.22634862264
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een scootmobiel wordt vergoed vanuit de Wmo.",
+        "bounds": null,
+        "label": "Afbeelding 6.3:",
+        "raw": "Afbeelding 6.3 Een scootmobiel wordt vergoed vanuit de Wmo.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          51.4777027893062,
+          187.5,
+          147.748143019617,
+          313.04394956958
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.2_Een scootmobiel wordt vergoed vanuit de Wmo.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.2_Een%20scootmobiel%20wordt%20vergoed%20vanuit%20de%20Wmo.jpg"
+      },
+      "page": {
+        "documentOffset": 60,
+        "name": "47"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.4 De zorgvrager helpen een brief te begrijpen.",
+        "beforeText": "hulp in het huishouden. Bijvoorbeeld bij het opruimen en schoonmaken. In sommige gemeenten valt dit wel onder de algemene voorzieningen.",
+        "pageDocumentOffset": 61,
+        "paragraphIndexInBodyStory": 539,
+        "text": "￼",
+        "x": 17.5,
+        "y": 102.749208888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "De zorgvrager helpen een brief te begrijpen.",
+        "bounds": null,
+        "label": "Afbeelding 6.4:",
+        "raw": "Afbeelding 6.4 De zorgvrager helpen een brief te begrijpen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.7,
+          17.5,
+          102.749208888889,
+          149.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.3_De zorgvrager helpen de brief te begrijpen.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.3_De%20zorgvrager%20helpen%20de%20brief%20te%20begrijpen.jpg"
+      },
+      "page": {
+        "documentOffset": 61,
+        "name": "48"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

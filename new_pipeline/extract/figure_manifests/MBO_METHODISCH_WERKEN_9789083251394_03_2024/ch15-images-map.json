@@ -1,0 +1,83 @@
+[
+  {
+    "originalFilename": "Afbeelding 2_6b.png",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Afbeelding 2_6b.png",
+    "localFilename": "Afbeelding 2_6b.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Afbeelding 2_6b.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.10 De assen van de ICNP.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.10 De assen van de ICNP.tif",
+    "localFilename": "Image 3.10 De assen van de ICNP.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.10 De assen van de ICNP.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.8:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.3 Opbouw van de NANDA-classificatie.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.3 Opbouw van de NANDA-classificatie.tif",
+    "localFilename": "Image 3.3 Opbouw van de NANDA-classificatie.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.3 Opbouw van de NANDA-classificatie.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.tif",
+    "localFilename": "Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.5 Het ICF-model.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.5 Het ICF-model.tif",
+    "localFilename": "Image 3.5 Het ICF-model.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.5 Het ICF-model.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.6 Een ingevuld ICF-model.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.6 Een ingevuld ICF-model.tif",
+    "localFilename": "Image 3.6 Een ingevuld ICF-model.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.6 Een ingevuld ICF-model.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image 3.7 Het zorgproces volgens het Omaha System.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 3.7 Het zorgproces volgens het Omaha System.tif",
+    "localFilename": "Image 3.7 Het zorgproces volgens het Omaha System.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.7 Het zorgproces volgens het Omaha System.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image 4.1 AAIDD-model.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 4.1 AAIDD-model.tif",
+    "localFilename": "Image 4.1 AAIDD-model.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 4.1 AAIDD-model.png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.9:"
+    ]
+  },
+  {
+    "originalFilename": "MicrosoftTeams-image (4).png",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/MicrosoftTeams-image (4).png",
+    "localFilename": "MicrosoftTeams-image (4).png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/MicrosoftTeams-image (4).png",
+    "usedInFigureLabels": [
+      "Afbeelding 15.7:"
+    ]
+  }
+]

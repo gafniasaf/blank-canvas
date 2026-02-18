@@ -1,0 +1,152 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 2364
+  },
+  "chapter": "18",
+  "chapterRange": {
+    "endOff": 224,
+    "ok": true,
+    "startOff": 218
+  },
+  "exportedAt": "Sat Jan 03 2026 22:50:21 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿18.1  Inleiding",
+        "beforeText": "Je weet hoe je bij de zorgvrager het beste een tampon kan verwijderen en inbrengen.",
+        "pageDocumentOffset": 218,
+        "paragraphIndexInBodyStory": 3971,
+        "text": "Je weet hoe je de menstruatie en de menstruatiecyclus van de zorgvrager kan observeren en waarom dat belangrijk is.",
+        "x": 224.000000111262,
+        "y": 107.102199366577
+      },
+      "asset": null,
+      "caption": {
+        "body": "De menstruatiecyclus.",
+        "bounds": null,
+        "label": "Afbeelding 18.1:",
+        "raw": "Afbeelding 18.1 De menstruatiecyclus.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          120.320370662873,
+          293.768587663439,
+          213.803495191467,
+          378.231410702429
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk18_18.1_De menstruatiecyclus.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk18_18.1_De%20menstruatiecyclus.tif"
+      },
+      "page": {
+        "documentOffset": 218,
+        "name": "205"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een handdoek;",
+        "pageDocumentOffset": 220,
+        "paragraphIndexInBodyStory": 4003,
+        "text": "een celstofmatje of onderhanddoek.",
+        "x": 215.999999830458,
+        "y": 125.943705707127
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het reinigen van de schaamstreek bij een vrouw.",
+        "bounds": null,
+        "label": "Afbeelding 18.2:",
+        "raw": "Afbeelding 18.2 Het reinigen van de schaamstreek bij een vrouw.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          130.222988114532,
+          210.000001102024,
+          176.410299292784,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk18_18.2_Het reinigen van de schaamstreek bij een vrouw.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk18_18.2_Het%20reinigen%20van%20de%20schaamstreek%20bij%20een%20vrouw.tif"
+      },
+      "page": {
+        "documentOffset": 220,
+        "name": "207"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Soms kan een zorgvrager haar maandverband niet zelf verwisselen. In dit geval doe jij dit voor haar. Je vertelt de zorgvrager dat je dit gaat doen en je zorgt dat alle benodigdheden klaarstaan. Je hebt de volgende materialen nodig bij het verwisselen van maandverband:",
+        "beforeText": "Een belangrijke taak voor jou als zorgprofessional is het geven van informatie. Handelingen zoals het ondersteunen van de zorgvrager bij het verschonen van tampons of maandverband kunnen ook behoren tot jouw taken. De persoonlijke verzorging is hierbij erg belangrijk.",
+        "pageDocumentOffset": 220,
+        "paragraphIndexInBodyStory": 3997,
+        "text": "Je moet de schaamstreek van de zorgvrager tijdens de menstruatie vaker schoonmaken om vieze geurtjes en infecties te voorkomen. Ondersteun de zorgvrager minimaal één keer per dag bij het reinigen van het gebied rond de vagina met lauwwarm water. Gebruik daarbij geen zeep. Draag bij voorkeur plastic handschoenen wanneer je het maandverband verschoont. Het is namelijk van belang dat je niet in aanraking komt met het menstruatievocht, omdat hier schadelijke bacteriën en virussen in kunnen zitten.",
+        "x": 210,
+        "y": 22.6659279293464
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verbanden die gebruikt worden tijdens de menstruatie.",
+        "bounds": null,
+        "label": "Afbeelding 18.3:",
+        "raw": "Afbeelding 18.3 Verbanden die gebruikt worden tijdens de menstruatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          51.6396547812016,
+          297.000001102024,
+          101.639654781199,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk18_18.3_Verbanden die gebruikt worden tijdens de menstruatie.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk18_18.3_Verbanden%20die%20gebruikt%20worden%20tijdens%20de%20menstruatie.tif"
+      },
+      "page": {
+        "documentOffset": 220,
+        "name": "207"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "maandverband kan onder bepaalde (strakke) kleding zichtbaar zijn;",
+        "pageDocumentOffset": 222,
+        "paragraphIndexInBodyStory": 4072,
+        "text": "door schuren van het maandverband kan de zorgvrager last krijgen van irritaties.",
+        "x": 215.999999830458,
+        "y": 105.613888888885
+      },
+      "asset": null,
+      "caption": {
+        "body": "‘De pil’ in de pillenstrip.",
+        "bounds": null,
+        "label": "Afbeelding 18.4:",
+        "raw": "Afbeelding 18.4 ‘De pil’ in de pillenstrip.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          114.832060185185,
+          210.000001102024,
+          223.603488756614,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk18_18.4_De pil in de pillenstrip.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk18_18.4_De%20pil%20in%20de%20pillenstrip.tif"
+      },
+      "page": {
+        "documentOffset": 222,
+        "name": "209"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

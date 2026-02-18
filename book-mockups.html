@@ -1,0 +1,1301 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Page Mockups – Anatomie en fysiologie</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+3:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <style>
+    /* ========================================
+       DESIGN TOKENS
+       ======================================== */
+    :root {
+      /* Brand Colors */
+      --hbo-donkerblauw: #1e3a5f;
+      --vp-groen: #2ba573;
+      --vp-groen-light: #4cc793;
+      --text-black: #222222;
+      --text-gray: #666666;
+      --text-light-gray: #888888;
+      --bg-white: #ffffff;
+      --bg-off-white: #f9f9f9;
+      --accent-blue: #007bc7; /* For buttons/links */
+      
+      /* Typography */
+      --font-heading: 'Inter', sans-serif; /* Fallback for Facit */
+      --font-body: 'Source Sans 3', sans-serif; /* Fallback for FreightSans */
+      
+      /* Page Dimensions (A4-ish for screen) */
+      --page-width: 210mm;
+      --page-height: 297mm;
+      
+      /* Menu */
+      --menu-bg: #333;
+      --menu-text: #fff;
+    }
+
+    /* ========================================
+       RESET & BASE
+       ======================================== */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #e0e0e0;
+      font-family: var(--font-body);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      padding: 40px 20px;
+    }
+
+    /* ========================================
+       UI CONTROLS (Menu)
+       ======================================== */
+    .app-controls {
+      position: fixed;
+      top: 20px;
+      right: 20px;
+      z-index: 1000;
+    }
+
+    .hamburger-btn {
+      background: var(--hbo-donkerblauw);
+      color: white;
+      border: none;
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: transform 0.2s ease;
+    }
+
+    .hamburger-btn:hover {
+      transform: scale(1.05);
+    }
+
+    .hamburger-line {
+      width: 24px;
+      height: 2px;
+      background: white;
+      border-radius: 2px;
+      transition: all 0.3s ease;
+    }
+
+    /* Menu Open State Animation */
+    .nav-menu.active ~ .hamburger-btn .hamburger-line:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+    .nav-menu.active ~ .hamburger-btn .hamburger-line:nth-child(2) {
+      opacity: 0;
+    }
+    .nav-menu.active ~ .hamburger-btn .hamburger-line:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    .nav-menu {
+      position: absolute;
+      top: 60px;
+      right: 0;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+      width: 240px;
+      overflow: hidden;
+      opacity: 0;
+      transform: translateY(-10px);
+      pointer-events: none;
+      transition: all 0.3s ease;
+    }
+
+    .nav-menu.active {
+      opacity: 1;
+      transform: translateY(0);
+      pointer-events: auto;
+    }
+
+    .nav-item {
+      padding: 12px 20px;
+      border-bottom: 1px solid #eee;
+      cursor: pointer;
+      font-family: var(--font-heading);
+      font-size: 14px;
+      color: var(--text-black);
+      transition: background 0.2s;
+      text-decoration: none;
+      display: block;
+    }
+
+    .nav-item:hover {
+      background: var(--bg-off-white);
+      color: var(--vp-groen);
+    }
+
+    .nav-item.active {
+      background: var(--vp-groen);
+      color: white;
+    }
+
+    .nav-item:last-child {
+      border-bottom: none;
+    }
+
+    /* ========================================
+       PAGE CONTAINER
+       ======================================== */
+    .page-container {
+      width: var(--page-width);
+      min-height: var(--page-height);
+      background: white;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+      position: relative;
+      display: none; /* Hidden by default */
+      overflow: hidden;
+    }
+
+    .page-container.visible {
+      display: block;
+      animation: fadeIn 0.4s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* ========================================
+       1. TITLE PAGE STYLE
+       ======================================== */
+    .page-title-content {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      padding: 20mm;
+      padding-top: 80mm; /* Visual adjustment based on screenshot */
+    }
+
+    .main-title {
+      font-family: var(--font-heading);
+      color: var(--hbo-donkerblauw);
+      font-size: 32pt;
+      font-weight: 700;
+      line-height: 1.2;
+      margin-bottom: 10mm;
+    }
+    
+    .main-title em {
+      font-style: italic;
+    }
+
+    .authors {
+      font-family: var(--font-heading);
+      color: var(--vp-groen);
+      font-size: 12pt;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-weight: 500;
+      margin-bottom: 50mm;
+      line-height: 1.8;
+    }
+
+    .logo-placeholder {
+      margin-top: auto;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-heading);
+      font-weight: 700;
+      color: var(--hbo-donkerblauw);
+      font-size: 18pt;
+    }
+
+    .logo-icon {
+      width: 40px;
+      height: 40px;
+      background: conic-gradient(from 45deg, var(--hbo-donkerblauw) 25%, var(--accent-blue) 0 50%, var(--hbo-donkerblauw) 0 75%, var(--accent-blue) 0);
+      border-radius: 50%;
+    }
+
+    /* ========================================
+       2. COLOPHON STYLE
+       ======================================== */
+    .colophon-content {
+      padding: 20mm;
+      padding-top: 150mm; /* Push content to bottom half */
+      font-size: 8pt;
+      color: var(--text-black);
+      line-height: 1.5;
+    }
+
+    .colophon-block {
+      margin-bottom: 4mm;
+    }
+
+    .isbn {
+      margin-bottom: 4mm;
+    }
+
+    .legal-text {
+      font-size: 7.5pt;
+      text-align: justify;
+      color: var(--text-black);
+      margin-top: 8mm;
+      line-height: 1.4;
+    }
+
+    /* ========================================
+       3. PROMO PAGE (Mboleren)
+       ======================================== */
+    .promo-header {
+      background: var(--vp-groen);
+      height: 15mm;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+
+    .promo-content {
+      padding: 30mm 20mm 20mm;
+    }
+
+    .promo-logo-wrapper {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      margin-bottom: 6mm;
+    }
+
+    .promo-logo-text {
+      font-family: var(--font-heading);
+      font-weight: 900;
+      font-size: 42pt;
+      color: var(--hbo-donkerblauw);
+      line-height: 1;
+    }
+
+    .promo-logo-icon {
+      width: 32px;
+      height: 32px;
+      background: conic-gradient(from 45deg, var(--hbo-donkerblauw) 25%, var(--accent-blue) 0 50%, var(--hbo-donkerblauw) 0 75%, var(--accent-blue) 0);
+      border-radius: 50%;
+      margin: 0 2px;
+    }
+
+    .promo-subtitle {
+      font-family: var(--font-heading);
+      font-size: 24pt;
+      color: var(--hbo-donkerblauw);
+      letter-spacing: 1px;
+      margin-bottom: 10mm;
+      text-transform: uppercase;
+    }
+
+    .promo-text {
+      font-size: 10pt;
+      margin-bottom: 6mm;
+      line-height: 1.5;
+    }
+    
+    .promo-h3 {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      font-size: 11pt;
+      margin-bottom: 2mm;
+      color: #000;
+    }
+
+    .promo-btn {
+      display: inline-flex;
+      align-items: center;
+      background: var(--hbo-donkerblauw);
+      color: white;
+      padding: 12px 24px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-family: var(--font-heading);
+      font-weight: 600;
+      margin: 8mm 0;
+      gap: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+    
+    .play-icon {
+      width: 0; 
+      height: 0; 
+      border-top: 6px solid transparent;
+      border-bottom: 6px solid transparent;
+      border-left: 10px solid white;
+    }
+
+    /* ========================================
+       4. TOC STYLE (Integrated)
+       ======================================== */
+    .toc-header {
+      background: var(--vp-groen);
+      padding: 28px 18mm 32px;
+      position: relative;
+    }
+    
+    .toc-header h1 {
+      font-family: var(--font-heading);
+      font-size: 42px;
+      font-weight: 700;
+      color: white;
+      letter-spacing: -0.5px;
+    }
+    
+    .toc-header::after {
+      content: '';
+      position: absolute;
+      bottom: -16px;
+      left: 18mm;
+      width: 0;
+      height: 0;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-top: 16px solid var(--vp-groen);
+    }
+    
+    .toc-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10mm;
+      padding: 32px 18mm 20mm;
+    }
+    
+    .toc-item {
+      display: flex;
+      align-items: baseline;
+      margin-bottom: 4px;
+    }
+    
+    .toc-lvl-1 {
+      margin-top: 16px;
+      margin-bottom: 8px;
+      font-family: var(--font-heading);
+      font-weight: 700;
+      color: var(--hbo-donkerblauw);
+      font-size: 12pt;
+    }
+    
+    .toc-lvl-2 {
+      margin-top: 8px;
+      margin-bottom: 4px;
+      font-family: var(--font-heading);
+      font-weight: 600;
+      color: var(--vp-groen);
+      font-size: 10pt;
+    }
+    
+    .toc-lvl-3 {
+      font-size: 9pt;
+      color: var(--text-black);
+    }
+    
+    .toc-num { min-width: 30px; }
+    .toc-label { flex: 1; }
+    .toc-page { color: var(--text-gray); font-variant-numeric: tabular-nums; }
+
+    /* ========================================
+       5. CHAPTER OPENER STYLE
+       ======================================== */
+    .opener-visual {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 80%;
+      height: 80%;
+      /* Abstract representation of anatomy illustration */
+      background: 
+        radial-gradient(circle at 70% 30%, rgba(204, 102, 51, 0.2) 0%, transparent 40%),
+        radial-gradient(circle at 30% 60%, rgba(51, 102, 204, 0.2) 0%, transparent 50%);
+      z-index: 0;
+    }
+    
+    .opener-visual svg {
+      position: absolute;
+      top: 10%;
+      right: 10%;
+      width: 80%;
+      height: 80%;
+      opacity: 0.8;
+    }
+    
+    .opener-content {
+      position: relative;
+      z-index: 1;
+      padding: 20mm;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      background: linear-gradient(to right, rgba(255,255,255,0.9) 0%, rgba(255,255,255,0) 50%);
+    }
+    
+    .opener-title {
+      font-family: var(--font-heading);
+      font-size: 42pt;
+      font-weight: 800;
+      color: var(--vp-groen); /* Based on page_0021.png which has green title */
+      text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      margin-bottom: 20mm;
+    }
+    
+    .opener-subtitle {
+      font-family: var(--font-heading);
+      font-size: 18pt;
+      font-weight: 700;
+      color: var(--hbo-donkerblauw);
+      margin-bottom: 4mm;
+    }
+
+    /* ========================================
+       6. INDEX (REGISTER) STYLE
+       ======================================== */
+    .index-header {
+      background: var(--vp-groen);
+      padding: 28px 18mm 32px;
+      position: relative;
+    }
+    
+    .index-header h1 {
+      font-family: var(--font-heading);
+      font-size: 42px;
+      font-weight: 700;
+      font-style: italic;
+      color: white;
+      letter-spacing: -0.5px;
+    }
+    
+    .index-header::after {
+      content: '';
+      position: absolute;
+      bottom: -16px;
+      left: 18mm;
+      width: 0;
+      height: 0;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-top: 16px solid var(--vp-groen);
+    }
+    
+    .index-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 6mm;
+      padding: 32px 18mm 20mm;
+      font-size: 8pt;
+      line-height: 1.4;
+    }
+    
+    .index-col {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .index-letter {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      color: var(--vp-groen);
+      font-size: 14pt;
+      margin-top: 12px;
+      margin-bottom: 6px;
+    }
+    
+    .index-letter:first-child {
+      margin-top: 0;
+    }
+    
+    .index-entry {
+      margin-bottom: 2px;
+      color: var(--text-black);
+    }
+    
+    .index-term {
+      /* Term name stays default */
+    }
+    
+    .index-pages {
+      color: var(--text-gray);
+    }
+    
+    .index-sub {
+      padding-left: 10px;
+      font-size: 7.5pt;
+      color: var(--text-gray);
+    }
+
+    /* ========================================
+       7. BEGRIPPEN (GLOSSARY) STYLE
+       ======================================== */
+    .begrippen-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12mm;
+      padding: 20mm 18mm;
+    }
+    
+    .begrip-item {
+      margin-bottom: 6mm;
+      font-size: 9pt;
+      line-height: 1.4;
+      color: var(--text-black);
+    }
+    
+    .begrip-term {
+      font-family: var(--font-heading);
+      font-weight: 700;
+      color: var(--vp-groen);
+      font-size: 11pt;
+      display: block;
+      margin-bottom: 1mm;
+    }
+    
+    .begrip-latin {
+      font-weight: 400;
+      font-style: italic;
+    }
+
+    .begrippen-footer {
+      position: absolute;
+      bottom: 12mm;
+      right: 18mm;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-family: var(--font-heading);
+      font-size: 9pt;
+      color: var(--hbo-donkerblauw);
+      letter-spacing: 1px;
+      font-weight: 600;
+    }
+
+    .page-num-circle {
+      background: var(--hbo-donkerblauw);
+      color: white;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+    }
+
+  </style>
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <div class="app-controls">
+    <div class="nav-menu" id="navMenu">
+      <a href="#title" class="nav-item" id="nav-title">1. Titelpagina</a>
+      <a href="#colophon" class="nav-item" id="nav-colophon">2. Colofon</a>
+      <a href="#toc" class="nav-item" id="nav-toc">3. Inhoudsopgave</a>
+      <a href="#promo" class="nav-item" id="nav-promo">4. Mboleren.nl</a>
+      <a href="#opener" class="nav-item" id="nav-opener">5. Hoofdstuk Intro</a>
+      <a href="#index" class="nav-item" id="nav-index">6. Register (Index)</a>
+      <a href="#begrippen" class="nav-item" id="nav-begrippen">7. Begrippenlijst</a>
+    </div>
+    <button class="hamburger-btn" onclick="toggleMenu()" aria-label="Menu">
+      <div class="hamburger-line"></div>
+      <div class="hamburger-line"></div>
+      <div class="hamburger-line"></div>
+    </button>
+  </div>
+
+  <!-- PAGE 1: TITLE PAGE -->
+  <div id="page-title" class="page-container visible">
+    <div class="page-title-content">
+      <h1 class="main-title">
+        Anatomie en<br>
+        fysiologie<br>
+        <em>voor het mbo</em>
+      </h1>
+      
+      <div class="authors">
+        Asaf Gafni<br>
+        Stefan van Wonderen<br>
+        Steven C. Glas
+      </div>
+      
+      <div class="logo-placeholder">
+        <div class="logo-icon"></div>
+        ExpertCollege
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 2: COLOPHON -->
+  <div id="page-colophon" class="page-container">
+    <div class="colophon-content">
+      <div class="isbn">
+        <strong>ISBN:</strong> 9789083251370
+      </div>
+      
+      <div class="colophon-block">
+        <strong>NUR:</strong> 184
+      </div>
+      
+      <div class="colophon-block">
+        <strong>Trefwoorden:</strong> anatomie, fysiologie, klinisch redeneren, zorg
+      </div>
+      
+      <div class="colophon-block" style="margin-top: 10mm;">
+        Dit is een uitgave van ExpertCollege, Gondel 1, 1186 MJ Amstelveen
+      </div>
+      
+      <div class="colophon-block">
+        <strong>Website:</strong> www.expertcollege.com
+      </div>
+      
+      <div class="colophon-block">
+        <strong>E-mail:</strong> info@expertcollege.com
+      </div>
+      
+      <div class="colophon-block" style="margin-top: 6mm;">
+        <strong>Omslag:</strong> ExpertCollege
+      </div>
+      
+      <div class="colophon-block">
+        <strong>Opmaak:</strong> ExpertCollege en Ruben Moonen
+      </div>
+      
+      <div class="colophon-block">
+        <strong>Opmaakbegeleiding:</strong> RKM Publishing – Ruben Moonen
+      </div>
+      
+      <div class="colophon-block" style="margin-top: 6mm;">
+        <strong>Met dank aan:</strong><br>
+        Anne Rorije, Marije Tel, Mees van Zijverden, Melisa Durkut, Milou Buijk
+      </div>
+      
+      <div class="legal-text">
+        © Copyright 2024 ExpertCollege<br><br>
+        Alle rechten voorbehouden. Niets uit deze uitgave mag worden verveelvoudigd, opgeslagen in een geautomatiseerd gegevensbestand, of openbaar gemaakt, in enige vorm of op enige wijze, hetzij elektronisch, mechanisch, door fotokopieën, opnamen, of enige andere manier, zonder voorafgaande toestemming van de uitgever. Voor zover het maken van kopieën uit deze uitgave is toegestaan op grond van artikel 16B Auteurswet 1912 j° het Besluit van 20 juni 1974, St.b. 351, zoals gewijzigd bij Besluit van 23 augustus 1985, St.b. 471 en artikel 17 Auteurswet 1912, dient men de daarvoor wettelijk verschuldigde vergoedingen te voldoen aan de Stichting Reprorecht.
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 3: TOC -->
+  <div id="page-toc" class="page-container">
+    <header class="toc-header">
+      <h1>Inhoudsopgave</h1>
+    </header>
+    
+    <div class="toc-grid">
+      <!-- Left Col -->
+      <div class="col">
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-label">Introductie</div>
+          <div class="toc-page">xv</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-1">
+          <div class="toc-num">1</div>
+          <div class="toc-label">De cel</div>
+          <div class="toc-page">1</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">1.1</div>
+          <div class="toc-label">De cel</div>
+          <div class="toc-page">3</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-3">
+          <div class="toc-num">1.1.1</div>
+          <div class="toc-label">De cel</div>
+          <div class="toc-page">3</div>
+        </div>
+        <div class="toc-item toc-lvl-3">
+          <div class="toc-num">1.1.2</div>
+          <div class="toc-label">De celmembraan</div>
+          <div class="toc-page">3</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">1.2</div>
+          <div class="toc-label">Eiwitsynthese</div>
+          <div class="toc-page">14</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-1">
+          <div class="toc-num">2</div>
+          <div class="toc-label">De huid</div>
+          <div class="toc-page">33</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">2.1</div>
+          <div class="toc-label">De huid</div>
+          <div class="toc-page">34</div>
+        </div>
+      </div>
+      
+      <!-- Right Col -->
+      <div class="col">
+        <div class="toc-item toc-lvl-1">
+          <div class="toc-num">3</div>
+          <div class="toc-label">Het skelet</div>
+          <div class="toc-page">47</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">3.1</div>
+          <div class="toc-label">Inleiding</div>
+          <div class="toc-page">48</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">3.2</div>
+          <div class="toc-label">Bouw van het bot</div>
+          <div class="toc-page">50</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-3">
+          <div class="toc-num">3.2.1</div>
+          <div class="toc-label">Botmatrix en botcellen</div>
+          <div class="toc-page">50</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-1">
+          <div class="toc-num">4</div>
+          <div class="toc-label">De spieren</div>
+          <div class="toc-page">91</div>
+        </div>
+        
+        <div class="toc-item toc-lvl-2">
+          <div class="toc-num">4.1</div>
+          <div class="toc-label">Soorten spieren</div>
+          <div class="toc-page">92</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 4: PROMO (Mboleren) -->
+  <div id="page-promo" class="page-container">
+    <div class="promo-header"></div>
+    <div class="promo-content">
+      <div class="promo-logo-wrapper">
+        <div class="promo-logo-text">MB</div>
+        <div class="promo-logo-icon"></div>
+        <div class="promo-logo-text">LEREN.NL</div>
+      </div>
+      
+      <p class="promo-text">
+        Mboleren.nl is het online leerplatform van ExpertCollege. Dankzij de interactieve opgaven, video’s en animaties van onze e-learningmodulen kun je het studiemateriaal onder de knie krijgen op een toegankelijke en efficiënte manier.
+      </p>
+      
+      <h3 class="promo-h3">Over de e-learningmodulen</h3>
+      <p class="promo-text">
+        Onze e-learningmodulen zijn zo opgebouwd dat het studiemateriaal duidelijk en overzichtelijk is. Dankzij deze opbouw hoef je niet onnodig lang bezig te zijn met studiemateriaal dat je al beheerst.
+      </p>
+      
+      <h3 class="promo-h3">Interactieve animaties in de e-learningmodulen</h3>
+      
+      <a href="#" class="promo-btn">
+        <div class="play-icon"></div>
+        Bekijk de interactieve animatie online
+      </a>
+      
+      <p class="promo-text" style="margin-top: 10mm;">
+        In de e-learningmodulen van mboleren.nl kun je, afhankelijk van de specifieke module, de volgende interactieve materialen vinden:
+      </p>
+      
+      <ul style="margin-left: 20px; font-size: 10pt; line-height: 1.5;">
+        <li style="margin-bottom: 8px;"><strong>videomateriaal</strong>: Onze video's en animaties helpen je om het studiemateriaal nog beter te beheersen.</li>
+        <li style="margin-bottom: 8px;"><strong>skillstrainers</strong>: In ons videomateriaal kun je daarnaast skillstrainers tegenkomen.</li>
+        <li><strong>simulaties</strong>: Ten slotte kun je bepaalde handelingen oefenen met behulp van simulaties.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- PAGE 5: OPENER -->
+  <div id="page-opener" class="page-container" style="background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);">
+    <div class="opener-visual">
+        <!-- Abstract representation of anatomy illustration -->
+        <svg viewBox="0 0 100 100" preserveAspectRatio="xMidYMid slice">
+            <defs>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+                <feMerge>
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
+            </defs>
+            
+            <!-- Abstract cells / DNA strand elements -->
+            <path d="M20 80 Q 50 20 80 80" stroke="#cc6633" stroke-width="2" fill="none" opacity="0.6" />
+            <path d="M25 80 Q 55 20 85 80" stroke="#3366cc" stroke-width="2" fill="none" opacity="0.6" />
+            
+            <circle cx="30" cy="40" r="5" fill="#2ba573" opacity="0.8" />
+            <circle cx="70" cy="60" r="8" fill="#1e3a5f" opacity="0.6" />
+            <circle cx="50" cy="30" r="4" fill="#cc9966" opacity="0.7" />
+        </svg>
+    </div>
+    <div class="opener-content">
+      <div class="opener-subtitle">De opbouw van het organisme</div>
+      <h1 class="opener-title">Introductie</h1>
+    </div>
+  </div>
+
+  <!-- PAGE 6: INDEX (REGISTER) -->
+  <div id="page-index" class="page-container">
+    <header class="index-header">
+      <h1>Index</h1>
+    </header>
+    
+    <div class="index-grid">
+      <!-- Column 1 -->
+      <div class="index-col">
+        <div class="index-letter">A</div>
+        <div class="index-entry">
+          <span class="index-term">aanliggende kern,</span>
+          <span class="index-pages">320</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">AB0-systeem,</span>
+          <span class="index-pages">226, 249–53</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">abductoren,</span>
+          <span class="index-pages">125</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">accommodatie,</span>
+          <span class="index-pages">459</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">accommoderen,</span>
+          <span class="index-pages">454–55</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">achillespees,</span>
+          <span class="index-pages">134</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">achterhoorns,</span>
+          <span class="index-pages">328</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">achterste oogkamer,</span>
+          <span class="index-pages">453, 455</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">acidose,</span>
+          <span class="index-pages">174</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">ACTH,</span>
+          <span class="index-pages">402, 404, 406, 417, 419–20</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">actief transport,</span>
+          <span class="index-pages">26–27</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">actiepotentiaal,</span>
+          <span class="index-pages">98, 187, 190–91, 195–96, 331</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">actieve immunisatie,</span>
+          <span class="index-pages">247</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">actinefilamenten,</span>
+          <span class="index-pages">96</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adductoren,</span>
+          <span class="index-pages">125</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adenine,</span>
+          <span class="index-pages">14–16, 18</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adenohypofyse,</span>
+          <span class="index-pages">397–98, 401</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adenosinetrifosfaat,</span>
+          <span class="index-pages">8</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adequate prikkel,</span>
+          <span class="index-pages">442</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">aders,</span>
+          <span class="index-pages">35, 162–65, 197, 201, 203, 208–12, 261, 286–87, 339, 358–59</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">ADH,</span>
+          <span class="index-pages">214, 348–50, 392, 398–400</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">adrenaline,</span>
+          <span class="index-pages">214, 311, 392, 417, 421, 431, 437</span>
+        </div>
+        
+        <div class="index-letter">B</div>
+        <div class="index-entry">
+          <span class="index-term">baarmoeder,</span>
+          <span class="index-pages">113, 262–64, 354, 356, 363–67, 376, 380–82, 386, 395, 399, 402–3, 421, 423–24</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">baarmoederslijmvlies,</span>
+          <span class="index-pages">364, 366, 381–82, 403, 423</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">balzak,</span>
+          <span class="index-pages">354, 358, 403</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">basofielen,</span>
+          <span class="index-pages">233–34, 241</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">beenmerg,</span>
+          <span class="index-pages">49, 51–52, 56, 70, 78, 214–18, 236, 239, 244–45, 352, 425</span>
+        </div>
+      </div>
+      
+      <!-- Column 2 -->
+      <div class="index-col">
+        <div class="index-entry">
+          <span class="index-term">bekerkraakbeentjes,</span>
+          <span class="index-pages">145, 147</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bekkenbodem,</span>
+          <span class="index-pages">113–14, 261, 384</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bevruchting,</span>
+          <span class="index-pages">354, 366, 369, 376, 381, 383–87</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bicarbonaat,</span>
+          <span class="index-pages">172, 174, 278, 352, 426</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bicarbonaatbuffersysteem,</span>
+          <span class="index-pages">350</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bifurcatie,</span>
+          <span class="index-pages">148</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bijbal,</span>
+          <span class="index-pages">359–60, 378, 422</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bijnier,</span>
+          <span class="index-pages">350, 401, 404, 416–19, 421, 437</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bijnierschors,</span>
+          <span class="index-pages">422</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bijschildklieren,</span>
+          <span class="index-pages">406, 409, 412–13</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">binnenbekleding van het hart,</span>
+          <span class="index-pages">180</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">binnenoor,</span>
+          <span class="index-pages">445–47</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bloed,</span>
+          <span class="index-pages">51–52, 153, 156–75, 178–88, 196–204, 206–15, 217–22, 238–40, 251–53, 258–61, 286–92, 336–52, 390–91, 393–400, 406, 408–10, 412–16, 418–19, 421–22, 428–31</span>
+        </div>
+        <div class="index-sub">samenstelling, 162, 214, 345</div>
+        <div class="index-sub">zuurgraad, 153, 173–75, 341</div>
+        <div class="index-entry">
+          <span class="index-term">bloedarmoede,</span>
+          <span class="index-pages">170, 352</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">bloeddruk,</span>
+          <span class="index-pages">209, 211–14, 340, 342, 344–45, 348–51, 403, 408, 417–18, 420–22, 425, 431</span>
+        </div>
+        <div class="index-sub">meten, 212, 344, 350</div>
+        
+        <div class="index-letter">C</div>
+        <div class="index-entry">
+          <span class="index-term">calcitonine,</span>
+          <span class="index-pages">409, 412–14</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">capillair basaalmembraan,</span>
+          <span class="index-pages">158</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">capillairen,</span>
+          <span class="index-pages">35, 149–50, 158, 161, 202, 205–7, 212, 243</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">capillair endotheel,</span>
+          <span class="index-pages">158</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">carbaminohemoglobine,</span>
+          <span class="index-pages">169, 172</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">catecholamines,</span>
+          <span class="index-pages">416–17</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">C-cellen,</span>
+          <span class="index-pages">412</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">CCK,</span>
+          <span class="index-pages">425</span>
+        </div>
+      </div>
+      
+      <!-- Column 3 -->
+      <div class="index-col">
+        <div class="index-entry">
+          <span class="index-term">cel,</span>
+          <span class="index-pages">1–32, 161, 189–90, 216–17, 230–31, 234–35, 237, 239–41, 329–31, 368–69, 371–73, 375–76, 385, 387, 391–92</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">celcyclus,</span>
+          <span class="index-pages">2, 13, 19, 21, 23, 369</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">celdeling,</span>
+          <span class="index-pages">7, 10, 12–13, 20–23, 26, 368–69, 371, 374, 376</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">celdifferentiatie,</span>
+          <span class="index-pages">22</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">celkern,</span>
+          <span class="index-pages">2–3, 6–7, 9, 12–14, 16, 19–23, 25–26, 215–16, 218–19, 368, 372, 374</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">celmembraan,</span>
+          <span class="index-pages">2–6, 9, 11, 26–29, 332, 392</span>
+        </div>
+        <div class="index-sub">functies, 5, 11</div>
+        <div class="index-sub">opbouw, 6</div>
+        <div class="index-entry">
+          <span class="index-term">centrale groeve,</span>
+          <span class="index-pages">321, 454</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">centrale zenuwstelsel,</span>
+          <span class="index-pages">68, 306–7, 309, 325, 330, 333</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">centriolen,</span>
+          <span class="index-pages">12</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">centromeer,</span>
+          <span class="index-pages">21, 23, 25, 368, 371</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">centrosomen,</span>
+          <span class="index-pages">12, 373</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">cerebellum,</span>
+          <span class="index-pages">318</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">cerebrum,</span>
+          <span class="index-pages">313</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">chemosensoren,</span>
+          <span class="index-pages">443</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">chemotaxis,</span>
+          <span class="index-pages">232</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">cholecystokinine (CCK),</span>
+          <span class="index-pages">425</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">chromatide,</span>
+          <span class="index-pages">21, 26, 368, 373</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">chromatine,</span>
+          <span class="index-pages">21, 369</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">chromosomen,</span>
+          <span class="index-pages">6, 14, 19–26, 367–78, 385, 387</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">circulatie,</span>
+          <span class="index-pages">163, 207, 209, 424</span>
+        </div>
+        <div class="index-entry">
+          <span class="index-term">circulatiestelsel,</span>
+          <span class="index-pages">177–224</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- PAGE 7: BEGRIPPEN -->
+  <div id="page-begrippen" class="page-container">
+    <div class="begrippen-grid">
+      <!-- Left Column -->
+      <div class="begrippen-col">
+        <div class="begrip-item">
+          <span class="begrip-term">Synoviaal gewricht</span>
+          De meest voorkomende soort botverbinding in je lichaam, dat grote bewegingen tussen botten mogelijk maakt, bijvoorbeeld het kniegewricht.
+        </div>
+        
+        <div class="begrip-item">
+          <span class="begrip-term">Systemische reactie</span>
+          Een reactie die in het hele lichaam optreedt.
+        </div>
+        
+        <div class="begrip-item">
+          <span class="begrip-term">Systole</span>
+          Het samentrekken van het hart tijdens de hartcyclus.
+        </div>
+        
+        <div class="begrip-item">
+          <span class="begrip-term">T-lymfocyt</span>
+          Een witte bloedcel die geholpen moet worden om ziekteverwekkers te herkennen.
+        </div>
+        
+        <div class="begrip-item">
+          <span class="begrip-term">Talg</span>
+          Huidsmeer, een vetachtige substantie die een beschermende werking heeft tegen uitdroging van de huid.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Talgklieren</span>
+          Klieren die talg produceren.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Tandhals</span>
+          Het gedeelte van de tand of kies dat is bedekt met tandvlees.
+        </div>
+      </div>
+      
+      <!-- Right Column -->
+      <div class="begrippen-col">
+        <div class="begrip-item">
+          <span class="begrip-term">Tastzin</span>
+          Het vermogen om te voelen dat je iets aanraakt of aangeraakt wordt.
+        </div>
+        
+        <div class="begrip-item">
+          <span class="begrip-term">Tastlichaampjes van Meissner</span>
+          Bevinden zich vooral op onbehaarde lichaamsdelen, dus de handpalmen, voetzolen en vingertoppen (vooral wijsvinger en duim) en zijn in staat zeer nauwkeurig voorwerpen op de tast te herkennen.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Tastlichaampjes van Merkel</span>
+          Schijfvormige tastlichaampjes die dienen voor de fijne tast en lichte aanraking. Ze zijn vooral gevoelig voor druk op de huid.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Tepelhof</span>
+          Een donker gekleurd gebied rondom de tepel; hierin zitten veel zenuwuiteinden, die reageren op kou en seksuele opwinding.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Tongbeen <span class="begrip-latin">(Os hyoideum)</span></span>
+          Het botje waaraan de tong aan de achterkant vastzit.
+        </div>
+
+        <div class="begrip-item">
+          <span class="begrip-term">Zwaardvormig aanhangsel <span class="begrip-latin">(Processus xiphoideus)</span></span>
+          Het onderste, en kleinste, deel van het borstbeen.
+        </div>
+      </div>
+    </div>
+    
+    <div class="begrippen-footer">
+      BEGRIPPEN
+      <div class="page-num-circle">486</div>
+    </div>
+  </div>
+
+  <script>
+    function toggleMenu() {
+      document.getElementById('navMenu').classList.toggle('active');
+    }
+
+    function updateView() {
+      // Get hash or default to #title
+      let hash = window.location.hash.replace('#', '') || 'title';
+      
+      // Supported pages
+      const pages = ['title', 'colophon', 'toc', 'promo', 'opener', 'index', 'begrippen'];
+      if (!pages.includes(hash)) hash = 'title';
+      
+      // Hide all pages
+      document.querySelectorAll('.page-container').forEach(el => {
+        el.classList.remove('visible');
+      });
+      
+      // Update menu active state
+      document.querySelectorAll('.nav-item').forEach(el => {
+        el.classList.remove('active');
+      });
+      
+      // Show selected page
+      const pageEl = document.getElementById('page-' + hash);
+      if (pageEl) pageEl.classList.add('visible');
+      
+      // Set active menu item
+      const navItem = document.getElementById('nav-' + hash);
+      if (navItem) navItem.classList.add('active');
+      
+      // Close menu if open
+      document.getElementById('navMenu').classList.remove('active');
+      
+      // Scroll to top
+      window.scrollTo(0, 0);
+    }
+
+    // Initialize
+    window.addEventListener('load', updateView);
+    window.addEventListener('hashchange', updateView);
+  </script>
+</body>
+</html>

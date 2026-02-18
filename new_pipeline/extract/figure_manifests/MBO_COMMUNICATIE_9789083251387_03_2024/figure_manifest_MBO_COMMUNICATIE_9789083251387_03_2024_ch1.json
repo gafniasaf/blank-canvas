@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 10566
+  },
+  "chapter": "1",
+  "chapterRange": {
+    "endOff": 32,
+    "ok": true,
+    "startOff": 12
+  },
+  "exportedAt": "Sat Jan 03 2026 00:46:56 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿1.1.1  De zender en ontvanger",
+        "pageDocumentOffset": 13,
+        "paragraphIndexInBodyStory": 14,
+        "text": "Bij communicatie gaat het om het proces van informatie-uitwisseling tussen mensen. Je kunt ook communiceren met dieren en dieren communiceren onderling ook, maar daar gaat het in dit boek niet over. Je kunt informatie bewust en onbewust geven, ontvangen en interpreteren. Hoe werkt die informatie-uitwisseling? Dat zie je in afbeelding 1.1.",
+        "x": 17.5,
+        "y": 37.7680152893066
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zender en ontvanger wisselen informatie uit.",
+        "bounds": null,
+        "label": "Afbeelding 1.1:",
+        "raw": "Afbeelding 1.1 Zender en ontvanger wisselen informatie uit.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          56.2777027893068,
+          18.2323807610406,
+          132.269977514307,
+          151.767622206663
+        ],
+        "kind": "link",
+        "linkName": "Communication_Image_08.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Communicatie_9789083251387_03/Links/Communication_Image_08.png"
+      },
+      "page": {
+        "documentOffset": 13,
+        "name": "2"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+}

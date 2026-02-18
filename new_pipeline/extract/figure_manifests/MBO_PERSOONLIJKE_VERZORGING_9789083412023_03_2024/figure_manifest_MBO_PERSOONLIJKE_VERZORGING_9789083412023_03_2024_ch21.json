@@ -1,0 +1,89 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 1729
+  },
+  "chapter": "21",
+  "chapterRange": {
+    "endOff": 238,
+    "ok": true,
+    "startOff": 234
+  },
+  "exportedAt": "Sat Jan 03 2026 22:51:03 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "een minder goede vochtinname en daardoor uitdroging (dehydratie);",
+        "beforeText": "Braken vindt niemand fijn. Het kan voor zorgvragers emotioneel zwaar zijn als zij last hebben van ﻿persisterend (voortdurend) braken. Bovendien geeft braken lichamelijke klachten. De kwaliteit van leven van de zorgvrager wordt minder door deze emotionele en lichamelijke klachten.",
+        "pageDocumentOffset": 235,
+        "paragraphIndexInBodyStory": 4245,
+        "text": "Misselijkheid en persisterend braken kunnen onder meer leiden tot:",
+        "x": 102,
+        "y": 22.6659279293464
+      },
+      "asset": null,
+      "caption": {
+        "body": "Soms is het nodig om een zorgvrager te laten braken.",
+        "bounds": null,
+        "label": "Afbeelding 21.1:",
+        "raw": "Afbeelding 21.1 Soms is het nodig om een zorgvrager te laten braken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          15.0000011020237,
+          137.000000000002,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 21_21.1_Soms is het nodig iemand te laten braken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2021_21.1_Soms%20is%20het%20nodig%20iemand%20te%20laten%20braken.tif"
+      },
+      "page": {
+        "documentOffset": 235,
+        "name": "222"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Meestal is braken een lichamelijke reactie ter bescherming van het lichaam. Misselijkheid en braken kunnen bijvoorbeeld veroorzaakt worden door:",
+        "beforeText": "￼  Schrijf de geobserveerde kenmerken in de rapportage.",
+        "pageDocumentOffset": 238,
+        "paragraphIndexInBodyStory": 4334,
+        "text": "Samenvatting￼",
+        "x": 210,
+        "y": 142.134757072724
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch21/Afbeelding_21.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het stap voor stap uitvoeren van de stabiele zijligging.",
+        "bounds": null,
+        "label": "Afbeelding 21.2:",
+        "raw": "Afbeelding 21.2 Het stap voor stap uitvoeren van de stabiele zijligging.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch21/Afbeelding_21.2.png",
+        "bounds": [
+          21.6341048805964,
+          210.74006457433,
+          117.683477182405,
+          374.612713203448
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 21_21.2_Het stap voor stao uitvoeren van de stabiele zijligging.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2021_21.2_Het%20stap%20voor%20stao%20uitvoeren%20van%20de%20stabiele%20zijligging.tif"
+      },
+      "page": {
+        "documentOffset": 238,
+        "name": "225"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

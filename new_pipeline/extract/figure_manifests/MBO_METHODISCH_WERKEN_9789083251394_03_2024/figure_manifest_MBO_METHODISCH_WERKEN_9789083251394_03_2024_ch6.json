@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 53,
+    "words": 4239
+  },
+  "chapter": "6",
+  "chapterRange": {
+    "endOff": 97,
+    "ok": true,
+    "startOff": 87
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:39 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Alle momenten dat je contact hebt met de zorgvrager, ben je bezig met gespreksvoering. In deze (vaak korte) gesprekken kan je steeds weer nieuwe informatie krijgen. Het voeren van gesprekken is daarom een vorm van gegevens verzamelen die blijft doorgaan. Behalve korte gesprekken, is het ook goed om eens echt met de zorgvrager te gaan zitten voor een gesprek. Je neemt dan de tijd voor het gesprek en geeft aandacht aan de zorgvrager. Een bijzondere vorm van zo’n langer en gepland gesprek is het keukentafelgesprek. Dit gesprek is een persoonlijk gesprek dat een zorgvrager met zorgprofessionals en de gemeente voert. Door deze gesprekken kan je inschatten welke zorg de zorgvrager nodig heeft. Dit gesprek wordt vaak in het huis van de zorgvrager gehouden. Daarom noemen we het een keukentafelgesprek. Een zorgvrager kan zelf een keukentafelgesprek aanvragen, bijvoorbeeld als hij of zij hulp nodig heeft om thuis te kunnen wonen. De zorgvrager kan ook hulp nodig hebben om mee te kunnen doen in de samenleving. Hij of zij vraagt het gesprek dan zelf aan bij de gemeente. Een familielid of huisarts kan ook een keukentafelgesprek voor een zorgvrager aanvragen.",
+        "pageDocumentOffset": 88,
+        "paragraphIndexInBodyStory": 93,
+        "text": "Tijdens een keukentafelgesprek kan de zorgvrager aangeven wat hij of zij nodig heeft en de situatie uitleggen. Met die informatie maak je een inschatting van de persoonlijke situatie van de zorgvrager. Je kijkt samen met de andere aanwezigen welke hulp nodig is. Je bedenkt ook samen wat een mogelijke oplossing kan zijn. Het keukentafelgesprek is dus een belangrijk gesprek. Ook kan de gemeente een zorgindicatie geven. In deze zorgindicatie staat welke zorg de zorgvrager nodig heeft en hoeveel van deze zorg nodig is. Dit is belangrijk voor de zorgvrager om de zorg vergoed te krijgen.",
+        "x": 531.496062992126,
+        "y": 317.043192946068
+      },
+      "asset": null,
+      "caption": {
+        "body": "Keukentafelgesprek.",
+        "bounds": null,
+        "label": "Afbeelding 6.1:",
+        "raw": "Afbeelding 6.1 Keukentafelgesprek.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          408.511598457873,
+          531.496062992126,
+          606.936795308269,
+          829.430835184604
+        ],
+        "kind": "link",
+        "linkName": "Methodisch werken_Chapter4_4.2_Keukentafelgesprek.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Methodisch%20werken_Chapter4_4.2_Keukentafelgesprek.jpeg"
+      },
+      "page": {
+        "documentOffset": 88,
+        "name": "75"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.2 Voorbeeld observatie gedrag.",
+        "beforeText": "Het signaleren van gedrag hoef je niet bij elke zorgvrager te doen. Je doet dit alleen als een zorgvrager probleemgedrag laat zien. Je kan ook de zorgvrager zelf laten helpen bij het opschrijven van het gedrag. Als je de zorgvrager bij het opschrijven laat helpen, noemen we dit een signaleringsplan. De zorgvrager beschrijft dan wat volgens hem of haar gebeurt voordat het gedrag voorkomt. Ook beschrijft de zorgvrager wat in de toekomst mogelijk is om het gedrag te voorkomen. Op basis van deze informatie wordt dan een signaleringsplan gemaakt. Dit maakt de zorgvrager samen met de behandelend zorgprofessional. Het liefst wordt ook het sociale netwerk van de zorgvrager betrokken bij het maken van het plan. Het signaleringsplan kan altijd worden veranderd als dit nodig is.",
+        "pageDocumentOffset": 92,
+        "paragraphIndexInBodyStory": 122,
+        "text": "￼",
+        "x": 535.59232084019,
+        "y": 385.919999999998
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld observatie gedrag.",
+        "bounds": null,
+        "label": "Afbeelding 6.2:",
+        "raw": "Afbeelding 6.2 Voorbeeld observatie gedrag.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          535.59232084019,
+          385.919999999998,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 2.4 Voorbeeld observatie gedrag.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.4%20Voorbeeld%20observatie%20gedrag.tif"
+      },
+      "page": {
+        "documentOffset": 92,
+        "name": "79"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

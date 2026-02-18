@@ -1,0 +1,366 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 6425
+  },
+  "chapter": "12",
+  "chapterRange": {
+    "endOff": 152,
+    "ok": true,
+    "startOff": 136
+  },
+  "exportedAt": "Sat Jan 03 2026 22:46:08 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Samenvatting",
+        "beforeText": "trimmen. Je kan met een speciale neushaartrimmer het overtollige haar uit de neus verwijderen. Het nadeel van een trimmer is dat het haar snel teruggroeit;",
+        "pageDocumentOffset": 151,
+        "paragraphIndexInBodyStory": 2527,
+        "text": "harsen. Het voordeel van harsen is dat het haar voor langere tijd wegblijft. Bij het harsen smeer je eerst een speciale warme was uit op de neusharen. Vervolgens trek je de haren uit de neus met een speciaal waxpapiertje. Dit kan pijnlijk zijn. Het resultaat is bij harsen, net als bij epileren, wel goed.",
+        "x": 108.00000028801,
+        "y": 57.2381501515686
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het snuiten van de neus is minder goed dan het ophalen van de neus.",
+        "bounds": null,
+        "label": "Afbeelding 12.10:",
+        "raw": "Afbeelding 12.10 Het snuiten van de neus is minder goed dan het ophalen van de neus.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          68.1833927013235,
+          15.0000011020237,
+          108.536705004166,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.10_Het snuiten van de neus is minder goed dan het ophalen van de neus.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.10_Het%20snuiten%20van%20de%20neus%20is%20minder%20goed%20dan%20het%20ophalen%20van%20de%20neus.tif"
+      },
+      "page": {
+        "documentOffset": 151,
+        "name": "138"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿12.1  Inleiding oren",
+        "beforeText": "Je kan beschrijven hoe je bij een zorgvrager een oogprothese inbrengt.",
+        "pageDocumentOffset": 136,
+        "paragraphIndexInBodyStory": 2139,
+        "text": "Je kan uitleggen aan zorgvragers hoe zij het beste kunnen niezen en snuiten.",
+        "x": 224.000000111262,
+        "y": 141.731205707124
+      },
+      "asset": null,
+      "caption": {
+        "body": "Oren kunnen zonder problemen gewassen worden.",
+        "bounds": null,
+        "label": "Afbeelding 12.1:",
+        "raw": "Afbeelding 12.1 Oren kunnen zonder problemen gewassen worden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          150.010488114531,
+          297.000001102024,
+          189.309109860319,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.1_Oren kunnen zonder problemen gewassen worden.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.1_Oren%20kunnen%20zonder%20problemen%20gewassen%20worden.tif"
+      },
+      "page": {
+        "documentOffset": 136,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je mag alleen oorsmeer verwijderen dat zichtbaar is aan het begin van de gehoorgang. Het oorsmeer kan je verwijderen met een wattenstaafje. In plaats daarvan kan je ook een opgerold watje gebruiken. Je gebruikt één van deze twee opties om de kans dat je het binnenoor beschadigt zo klein mogelijk te maken. Gebruik dus geen hardere dingen om het oor schoon te maken, zoals:",
+        "beforeText": "Als de zorgvrager te veel oorsmeer heeft, kan dat wel zorgen dat het gehoor achteruitgaat. Je kan oorsmeer het beste verwijderen met een wattenstaafje. In plaats daarvan kan je ook een opgerold vochtig watje gebruiken. De doktersassistent kan de oren uitspuiten als het niet lukt om het oorsmeer weg te halen.",
+        "pageDocumentOffset": 137,
+        "paragraphIndexInBodyStory": 2150,
+        "text": "﻿12.1.1  Oren schoonmaken￼",
+        "x": 15,
+        "y": 128.641288887419
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch12/Afbeelding_12.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het wattenstaafje mag niet te diep in de gehoorgang gebracht worden.",
+        "bounds": null,
+        "label": "Afbeelding 12.2:",
+        "raw": "Afbeelding 12.2 Het wattenstaafje mag niet te diep in de gehoorgang gebracht worden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch12/Afbeelding_12.2.png",
+        "bounds": [
+          19.999999999998,
+          23.2499999999999,
+          109.294441908642,
+          171.75
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.2_Het wattenstaafje mag niet te diep in de gehoorgang.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.2_Het%20wattenstaafje%20mag%20niet%20te%20diep%20in%20de%20gehoorgang.tif"
+      },
+      "page": {
+        "documentOffset": 137,
+        "name": "124"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Vooral mannen hebben vaak last van te veel oor-haar. Dit overtollige oorhaar ontstaat door het hormoon testosteron. De oorharen worden meestal na het dertigste levensjaar langer en dikker. De zorgvrager kan onverzorgd lijken als het oorhaar zichtbaar is. Het is daarom voor de zorgvrager fijn als je de zichtbare oorharen verwijdert. Manieren om oorharen te verwijderen zijn:",
+        "beforeText": "￼  Gooi het wattenstaafje weg.",
+        "pageDocumentOffset": 138,
+        "paragraphIndexInBodyStory": 2165,
+        "text": "﻿12.1.2  Oorhaartjes verwijderen",
+        "x": 210,
+        "y": 23.3929991828051
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een hoortoestel is eigenlijk een kleine luidspreker die in het oor wordt geplaatst.",
+        "bounds": null,
+        "label": "Afbeelding 12.3:",
+        "raw": "Afbeelding 12.3 Een hoortoestel is eigenlijk een kleine luidspreker die in het oor wordt geplaatst.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          297.000001102024,
+          87.9295774647862,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.3_Een hoortoestel is eigenlijk een kleine luidspreker die in het oor wordt geplaatst.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.3_Een%20hoortoestel%20is%20eigenlijk%20een%20kleine%20luidspreker%20die%20in%20het%20oor%20wordt%20geplaatst.tif"
+      },
+      "page": {
+        "documentOffset": 138,
+        "name": "125"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De binnenkant van het koppelstuk maak je elke week schoon met de reinigingsborstel. Je kan het koppelstuk meestal eenvoudig losklikken. In dit stuk zit soms opgehoopt vuil. Het schoonmaken van de binnenkant van het koppelstuk is dus belangrijk. Neem contact op met de arts of audioloog bij:",
+        "beforeText": "Een gehoorimplantaat zet geluid om in elektrische pulsen die de gehoorzenuw direct stimuleren. Met deze implantaat kunnen zorgvragers die nog maar beperkt kunnen horen opnieuw geluiden en klanken horen. Het gehoorimplantaat wordt onder de huid aangebracht. Het implantaat zelf zit dus onder de huid, maar aan de buitenkant zit achter het oor nog een koppelstuk. Dit stuk moet goed verzorgd worden. Hiermee verklein je namelijk het risico op complicaties.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 2219,
+        "text": "Tijdens de eerste weken maak je de buitenzijde van het koppelstuk schoon met het bijgeleverde zachte reinigingsborsteltje. Zorg dat de borstelharen naar de buitenzijde gericht zijn. Verwijder daarnaast huidresten die rond de basis van het koppelstuk opgehoopt zitten. Je kan het koppelstuk met het borsteltje reinigen tijdens een douche of bad. Gebruik hierbij warm water en milde zeep. Na het douchen of baden kan je de laatste huidresten verwijderen met een alcoholvrij doekje.￼",
+        "x": 210,
+        "y": 86.8652214050281
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch12/Afbeelding_12.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een gehoorimplantaat.",
+        "bounds": null,
+        "label": "Afbeelding 12.4:",
+        "raw": "Afbeelding 12.4 Een gehoorimplantaat.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch12/Afbeelding_12.4.png",
+        "bounds": [
+          135.713923398578,
+          212,
+          244.891779285005,
+          337.61978
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.4_Een gehoorimplantaat.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.4_Een%20gehoorimplantaat.tif"
+      },
+      "page": {
+        "documentOffset": 140,
+        "name": "127"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Laat een druppel midden in de onderste conjunctivaalzak vallen door voorzichtig in het flesje te knijpen. De conjunctivaalzak is het stukje rode slijmvlies dat tussen de wimpers van het onderooglid en het oog zit, het ’gootje’.",
+        "beforeText": "￼  Voorkom dat de zorgvrager een onverwachte schrikbeweging maakt met het hoofd. Dit doe je door goed aan te geven wat je gaat doen. De ogen zijn namelijk kwetsbaar en het hoornvlies is zeer gevoelig.",
+        "pageDocumentOffset": 142,
+        "paragraphIndexInBodyStory": 2258,
+        "text": "￼  Gebruik een gaasje om het onderooglid naar beneden te trekken. Je kan ook vragen of de zorgvrager dit wil doen met één vinger.",
+        "x": 210,
+        "y": 22.8249999999979
+      },
+      "asset": null,
+      "caption": {
+        "body": "Laat een druppel midden in de onderste conjunctivaalzak vallen.",
+        "bounds": null,
+        "label": "Afbeelding 12.5:",
+        "raw": "Afbeelding 12.5 Laat een druppel midden in de onderste conjunctivaalzak vallen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          297.000001102024,
+          71.999999999999,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.5 Laat een druppel middenin de onderste conjunctivaalzak vallen - mist.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.5%20Laat%20een%20druppel%20middenin%20de%20onderste%20conjunctivaalzak%20vallen%20-%20mist.jpg"
+      },
+      "page": {
+        "documentOffset": 142,
+        "name": "129"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de zorgvrager ziet alles minder scherp nadat de zalf is aangebracht. Het is daarom handig om de zalf voor het slapengaan aan te brengen. Als de zalf in het ziekenhuis is aangebracht, kan de zorgvrager niet zelf naar huis rijden;",
+        "pageDocumentOffset": 143,
+        "paragraphIndexInBodyStory": 2304,
+        "text": "wanneer in de thuissituatie de wimpers de tube raken, hoef je deze niet weg te gooien. Als je de tube schoonmaakt, mag je hem opnieuw gebruiken.",
+        "x": 108.000000072691,
+        "y": 118.786111111109
+      },
+      "asset": null,
+      "caption": {
+        "body": "Breng de oogzalf bij voorkeur aan voor het slapengaan.",
+        "bounds": null,
+        "label": "Afbeelding 12.6:",
+        "raw": "Afbeelding 12.6 Breng de oogzalf bij voorkeur aan voor het slapengaan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          132.943171296292,
+          102.000001102024,
+          172.919232232096,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.6_Breng de oogzalf bij voorkeur aan voor het slapengaan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.6_Breng%20de%20oogzalf%20bij%20voorkeur%20aan%20voor%20het%20slapengaan.tif"
+      },
+      "page": {
+        "documentOffset": 143,
+        "name": "130"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Herhaal dezelfde stappen vervolgens aan de andere kant.",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 2389,
+        "text": "￼  als de ogen moeten worden gedruppeld, moet je soms eerst de contactlenzen verwijderen.",
+        "x": 297,
+        "y": 158.599999999999
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het inzetten van zachte lenzen.",
+        "bounds": null,
+        "label": "Afbeelding 12.7:",
+        "raw": "Afbeelding 12.7 Het inzetten van zachte lenzen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          170.698726851848,
+          297.000001102024,
+          228.178217658072,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.7_Het inzetten van zachte lenzen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.7_Het%20inzetten%20van%20zachte%20lenzen.tif"
+      },
+      "page": {
+        "documentOffset": 146,
+        "name": "133"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Was de handen.",
+        "pageDocumentOffset": 147,
+        "paragraphIndexInBodyStory": 2428,
+        "text": "￼  Noteer de handeling en eventuele bevindingen.",
+        "x": 102,
+        "y": 159.504816818236
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een zuignapje (‘zuigertje’) om harde lenzen mee te verwijderen.",
+        "bounds": null,
+        "label": "Afbeelding 12.8:",
+        "raw": "Afbeelding 12.8 Een zuignapje (‘zuigertje’) om harde lenzen mee te verwijderen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          169.722988114533,
+          114.909737438626,
+          225.588688114535,
+          167.090261438626
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.8_Een zuignapje om harde lenzen mee te verwijderen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.8_Een%20zuignapje%20om%20harde%20lenzen%20mee%20te%20verwijderen.tif"
+      },
+      "page": {
+        "documentOffset": 147,
+        "name": "134"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "lenzendoosjes en bewaaretuis moet je dagelijks reinigen. Je gebruikt hiervoor een mild wasmiddel en een zacht borsteltje. Je kan ook lenzenvloeistof en warm, stromend kraanwater gebruiken. Droog het lenzendoosje en het bewaaretui daarna goed. Het hoornvlies kan anders namelijk besmet worden door bepaalde bacteriën en parasieten die in kraanwater voorkomen;",
+        "pageDocumentOffset": 148,
+        "paragraphIndexInBodyStory": 2465,
+        "text": "zorg dat de lenzen niet in aanraking kunnen komen met kraanwater. Je voorkomt hiermee besmetting.",
+        "x": 303.000000072691,
+        "y": 188.174999999996
+      },
+      "asset": null,
+      "caption": {
+        "body": "Lenzenbakje en lenzenvloeistof.",
+        "bounds": null,
+        "label": "Afbeelding 12.9:",
+        "raw": "Afbeelding 12.9 Lenzenbakje en lenzenvloeistof.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          197.393171296295,
+          297.000001102024,
+          237.393171296297,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk12_12.9_Lenzenbakje en lenzenvloeistof.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk12_12.9_Lenzenbakje%20en%20lenzenvloeistof.jpg"
+      },
+      "page": {
+        "documentOffset": 148,
+        "name": "135"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

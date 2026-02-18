@@ -1,0 +1,176 @@
+{
+  "bodyFrames": {
+    "left": {
+      "frames": [
+        {
+          "bounds": [
+            20.0000000003933,
+            14.9999999994699,
+            244.999999999995,
+            92.9999999994699
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 4.23333333333333
+        },
+        {
+          "bounds": [
+            20.0000000003984,
+            101.999999999937,
+            245,
+            179.999999999937
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 4.23333333333333
+        }
+      ],
+      "masterName": "F-Chapter 3",
+      "pagesSeen": 11,
+      "signature": "20,15,245,93|20,102,245,180"
+    },
+    "right": {
+      "frames": [
+        {
+          "bounds": [
+            19.999999999998,
+            210,
+            245,
+            288
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 4.23333333333333
+        },
+        {
+          "bounds": [
+            20.0000000005678,
+            296.999999999937,
+            245,
+            374.999999999937
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 4.23333333333333
+        }
+      ],
+      "masterName": "F-Chapter 3",
+      "pagesSeen": 12,
+      "signature": "20,210,245,288|20,297,245,375"
+    },
+    "unknown": {
+      "frames": [],
+      "masterName": "",
+      "pagesSeen": 0,
+      "signature": ""
+    }
+  },
+  "bodyStory": {
+    "index": 1007,
+    "words": 14830
+  },
+  "book_id": "MBO_AF4_2024_COMMON_CORE",
+  "document": {
+    "facingPages": true,
+    "horizontalMeasurementUnits": "MILLIMETERS",
+    "name": "MBO A&F 4_9789083251370_03.2024.indd",
+    "pages": 520
+  },
+  "generated_at": "2025-12-23_22-34-36",
+  "masters": {
+    "all": [
+      "A-Base",
+      "A-Master",
+      "B-Master",
+      "C--BORDER (3 columns)",
+      "C-BORDER",
+      "C-Index",
+      "C-Inhoudsopgave",
+      "C-Inleiding",
+      "D-Chapter 1",
+      "E-Chapter 2",
+      "F-Chapter 3",
+      "G-Chapter 4",
+      "H-Begrippen",
+      "I-Begrippen basis",
+      "J-Master"
+    ],
+    "bodyCandidates": [
+      {
+        "count": 46,
+        "name": "F-Chapter 3"
+      }
+    ],
+    "openerCandidates": [
+      {
+        "count": 177,
+        "name": "F-Chapter 3"
+      },
+      {
+        "count": 15,
+        "name": "D-Chapter 1"
+      },
+      {
+        "count": 14,
+        "name": "B-Master"
+      },
+      {
+        "count": 4,
+        "name": "E-Chapter 2"
+      },
+      {
+        "count": 1,
+        "name": "J-Master"
+      },
+      {
+        "count": 1,
+        "name": "C-BORDER"
+      },
+      {
+        "count": 1,
+        "name": "A-Master"
+      }
+    ]
+  },
+  "paragraphStyleCandidates": {
+    "chapterHeader": [
+      {
+        "count": 47,
+        "name": "_Subchapter Header"
+      },
+      {
+        "count": 13,
+        "name": "_Numbered Paragraph"
+      },
+      {
+        "count": 4,
+        "name": "_Chapter Header"
+      }
+    ],
+    "listLike": [
+      {
+        "count": 118,
+        "name": "_Bullets"
+      },
+      {
+        "count": 40,
+        "name": "_Bullets lvl 2"
+      },
+      {
+        "count": 3,
+        "name": "_Bullets text"
+      }
+    ],
+    "numberedHeadings": [
+      {
+        "count": 47,
+        "name": "_Subchapter Header"
+      },
+      {
+        "count": 4,
+        "name": "_Chapter Header"
+      }
+    ]
+  },
+  "source": {
+    "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd",
+    "canonical_n4_idml_path": "./_source_exports/MBO_A&F_4_9789083251370_03.2024__FROM_DOWNLOADS.idml",
+    "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+  }
+}

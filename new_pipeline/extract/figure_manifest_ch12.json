@@ -1,0 +1,581 @@
+{
+  "bodyStory": {
+    "index": 582,
+    "words": 11517
+  },
+  "chapter": "12",
+  "chapterRange": {
+    "endOff": 444,
+    "ok": true,
+    "startOff": 408
+  },
+  "exportedAt": "Thu Dec 25 2025 17:27:20 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Je schildklier maakt de volgende drie hormonen aan:",
+        "beforeText": "bloeddruk. Deze hormonen zorgen dat de druk waarmee bloed door je vaten stroomt niet te hoog en niet te laag is;",
+        "pageDocumentOffset": 427,
+        "paragraphIndexInBodyStory": 180,
+        "text": "hartslag. Deze hormonen zorgen dat je hart niet te snel en niet te langzaam klopt.",
+        "x": 22.000000026491,
+        "y": 132.888888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van schildklierhormoon.",
+        "bounds": null,
+        "label": "Afbeelding 12.10:",
+        "raw": "Afbeelding 12.10 Schematisch overzicht van schildklierhormoon.",
+        "styleName": "ParaStyle05 Leading=Auto"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.10.png",
+        "bounds": [
+          8.56706767230959,
+          45.8805555555556,
+          116.805154549919,
+          140.842882090237
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img09.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img09.TIF"
+      },
+      "page": {
+        "documentOffset": 428,
+        "name": "409"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Bijschildklierhormonen zorgen dat je meer calcium in het bloed krijgt. Hiervoor zijn verschillende organen nodig. Bijschildklierhormonen werken op de:",
+        "beforeText": "Bijschildklierhormonen worden gemaakt door de bijschildklieren. Dit zijn ongeveer vier kleine kliertjes die tegen de achterkant van de schildklier aanliggen. Ze zijn zo groot als erwten. De bijschildklier noemen we ook wel parathyreoïd. Bijschildklierhormoon noemen we daarom parathyreoïdhormoon of parathormoon.",
+        "pageDocumentOffset": 432,
+        "paragraphIndexInBodyStory": 236,
+        "text": "Bijschildklierhormonen zorgen dat je steeds genoeg calcium in je bloed hebt. Het hormoon werkt samen met vitamine D3 en calcitonine. Als je te weinig calcium in het bloed hebt, maak je meer bijschildklierhormonen aan. Als je te veel calcium in het bloed hebt, maak je juist minder bijschildklierhormonen.",
+        "x": 209.99999999947,
+        "y": 217.555555555559
+      },
+      "asset": null,
+      "caption": {
+        "body": "Schematisch overzicht van de glucosehouding.",
+        "bounds": null,
+        "label": "Afbeelding 12.11:",
+        "raw": "Afbeelding 12.11 Schematisch overzicht van de glucosehouding.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          170.966994935104,
+          260.188300520089,
+          193.691615023918,
+          324.830502974836
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 432,
+        "name": "414"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Op deze manier zorgen glucose en insuline voor een stabiel suikergehalte in het bloed. Als deze twee hormonen goed samenwerken, maakt het niet zoveel uit of je zojuist veel of juist minder hebt gegeten. De hoeveelheid suiker in het bloed blijft gelijk. Het suikergehalte is goed als je tussen 60 en 160 mg glucose per liter bloed meet.",
+        "beforeText": "insuline. Als je glucose te hoog is, geeft de alvleesklier meer insuline af. Dit bindt aan de cellen waardoor deze het signaal krijgen om meer glucose op te nemen. Doordat de cellen meer glucose opnemen, blijft minder glucose over in het bloed. Insuline helpt met het omzetten van glucose naar een andere stof. Dit noemen we glycogeen. Deze omzetting gebeurt omdat je glucose niet op kunt slaan in je lichaam. Opslaan is nodig bij te veel glucose. Hiervoor heb je glycogeen nodig. Dit zorgt voor het opslaan van glucose in je lever en je skeletspieren. Als je bijvoorbeeld een stuk gaat hardlopen, wordt het opgeslagen glycogeen gebruikt als energie;",
+        "pageDocumentOffset": 434,
+        "paragraphIndexInBodyStory": 249,
+        "text": "glucagon. Als je een tijdje minder hebt gegeten, heb je minder glucose in het bloed. Op dat moment geeft de alvleesklier glucagon af aan het bloed. Glucose is in de lever en skeletspieren opgeslagen als glycogeen. Glucagon zorgt dat je glycogeen weer terug omzet naar glucose. De glucose gaat daarna naar het bloed, waardoor de hoeveelheid glucose weer hoog genoeg wordt. Als je glucose daarna weer te hoog is, komt minder glucagon vrij.",
+        "x": 217.000000025961,
+        "y": 104.66666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bijnier.",
+        "bounds": null,
+        "label": "Afbeelding 12.12:",
+        "raw": "Afbeelding 12.12 De bijnier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.12.png",
+        "bounds": [
+          126.825637578095,
+          233.535599719333,
+          259.07729060206,
+          365.787252743301
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img12.TIF"
+      },
+      "page": {
+        "documentOffset": 434,
+        "name": "416"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Sommige zorgvragers maken te veel of juist te weinig geslachtshormonen aan voor de geboorte. Als dat gebeurt, ontwikkelen de geslachtsorganen niet goed. Dit zijn de penis bij een man en de vagina bij de vrouw, maar ook de organen die in het lichaam ontwikkelen. Voorbeelden daarvan zijn de baarmoeder bij de vrouw en de prostaat bij de man.",
+        "beforeText": "androgenen. Deze zijn vooral bij mannen belangrijk, maar vrouwen maken dit ook een beetje aan.",
+        "pageDocumentOffset": 438,
+        "paragraphIndexInBodyStory": 288,
+        "text": "Deze aanmaak gebeurt door twee delen in je hersenen: de hypothalamus en de hypofyse. Deze delen maken adrenocorticotroop hormoon (ACTH). Dit hormoon zorgt daarna voor de vorming van oestrogeen en androgeen.",
+        "x": 209.99999999947,
+        "y": 48.2222222222254
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+        "bounds": null,
+        "label": "Afbeelding 12.13:",
+        "raw": "Afbeelding 12.13 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.13.png",
+        "bounds": [
+          74.5611111111691,
+          209.99999999947,
+          243.250841262928,
+          375.825277777715
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img13.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img13.TIF"
+      },
+      "page": {
+        "documentOffset": 438,
+        "name": "420"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "12.3.16  De geslachtsklieren",
+        "beforeText": "Door de aanwezigheid van angiotensine II komt aldosteron vrij uit de bijnierschors. Als aldosteron op je nieren werkt, neemt het bloed zout op. Daardoor krijg je meer zout in je bloed. Dit zout wordt niet uitgeplast. De nieren zorgen vervolgens dat zout in het bloed in balans komt met water. Door het vele zout trekt water namelijk ook naar het bloed. Daardoor stijgt je bloedvolume en je bloeddruk.",
+        "pageDocumentOffset": 440,
+        "paragraphIndexInBodyStory": 307,
+        "text": "Het systeem dat zorgt voor deze balans in je bloeddruk en zoutgehalte met al deze stoffen, heet het renine-angiotensine-aldosteronsysteem (RAAS). Het zorgt ook dat als je bloeddruk weer normaal is, geen renine meer vrijkomt. Het RAAS-systeem wordt daardoor niet meer in gang gezet. Als dat niet gebeurt, ontstaat ook geen hogere bloeddruk. De bloeddruk blijft dan normaal.",
+        "x": 296.999999999937,
+        "y": 194.977777777771
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van een testikel.",
+        "bounds": null,
+        "label": "Afbeelding 12.14:",
+        "raw": "Afbeelding 12.14 Doorsnede van een testikel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.14.png",
+        "bounds": [
+          17.6820354043118,
+          221.630864981514,
+          149.822222222236,
+          353.77105179943
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 440,
+        "name": "422"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Mannen en vrouwen planten zich voort via het voortplantingsstelsel:",
+        "beforeText": "Het systeem dat zorgt voor deze balans in je bloeddruk en zoutgehalte met al deze stoffen, heet het renine-angiotensine-aldosteronsysteem (RAAS). Het zorgt ook dat als je bloeddruk weer normaal is, geen renine meer vrijkomt. Het RAAS-systeem wordt daardoor niet meer in gang gezet. Als dat niet gebeurt, ontstaat ook geen hogere bloeddruk. De bloeddruk blijft dan normaal.",
+        "pageDocumentOffset": 441,
+        "paragraphIndexInBodyStory": 308,
+        "text": "12.3.16  De geslachtsklieren",
+        "x": 15,
+        "y": 132.888888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+        "bounds": null,
+        "label": "Afbeelding 12.15:",
+        "raw": "Afbeelding 12.15 Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.15.png",
+        "bounds": [
+          15.0000000000768,
+          23.3435853785501,
+          111.500000000081,
+          175.74358537855
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img15.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img15.TIF"
+      },
+      "page": {
+        "documentOffset": 441,
+        "name": "423"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "12.1.3  Hormoonproductie",
+        "beforeText": "steroïdhormonen zijn vettig, waardoor ze niet goed oplossen in water. Aangezien bloed voor een groot deel uit water bestaat, lossen deze hormonen dus niet goed op in je bloed. Ze kunnen zich dan ook niet via je bloed naar andere delen van je lichaam verplaatsen. Om dit probleem op te lossen, binden steroïdhormonen soms aan transporteiwitten die wel goed oplossen in water. De steroïdhormonen die gebonden zijn aan deze eiwitten lossen daardoor ook op in je bloed. Transporteiwitten zorgen dus dat steroïdhormonen via je bloed bij andere lichaamsdelen kunnen komen. Als de hormonen bij hun doelwitcel zijn, worden ze losgekoppeld van het transporteiwit. Het steroïdhormoon gaat dan de cel in. Steroïdhormonen zijn stabieler als ze gebonden zijn aan een transporteiwit. Daardoor worden ze minder snel afgebroken en is hun levensduur dus langer;",
+        "pageDocumentOffset": 412,
+        "paragraphIndexInBodyStory": 39,
+        "text": "eiwithormonen lossen wel goed op in je bloed en hoeven daarom niet aan transporteiwitten te binden om zich via het bloed naar een ander lichaamsdeel te verplaatsen. Als gevolg hiervan zijn ze kwetsbaarder en worden ze sneller afgebroken dan steroïdhormonen. De halfwaardetijd van een eiwithormoon is daardoor ook korter dan die van een steroïdhormoon.",
+        "x": 304.000000026428,
+        "y": 234.488888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Levensduur van hormonen.",
+        "bounds": null,
+        "label": "Afbeelding 12.1:",
+        "raw": "Afbeelding 12.1 Levensduur van hormonen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.1.png",
+        "bounds": [
+          20.4744461341886,
+          238.052213896961,
+          172.238215921526,
+          351.875041237462
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 411,
+        "name": "394"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "12.1.3  Hormoonproductie",
+        "beforeText": "steroïdhormonen zijn vettig, waardoor ze niet goed oplossen in water. Aangezien bloed voor een groot deel uit water bestaat, lossen deze hormonen dus niet goed op in je bloed. Ze kunnen zich dan ook niet via je bloed naar andere delen van je lichaam verplaatsen. Om dit probleem op te lossen, binden steroïdhormonen soms aan transporteiwitten die wel goed oplossen in water. De steroïdhormonen die gebonden zijn aan deze eiwitten lossen daardoor ook op in je bloed. Transporteiwitten zorgen dus dat steroïdhormonen via je bloed bij andere lichaamsdelen kunnen komen. Als de hormonen bij hun doelwitcel zijn, worden ze losgekoppeld van het transporteiwit. Het steroïdhormoon gaat dan de cel in. Steroïdhormonen zijn stabieler als ze gebonden zijn aan een transporteiwit. Daardoor worden ze minder snel afgebroken en is hun levensduur dus langer;",
+        "pageDocumentOffset": 412,
+        "paragraphIndexInBodyStory": 39,
+        "text": "eiwithormonen lossen wel goed op in je bloed en hoeven daarom niet aan transporteiwitten te binden om zich via het bloed naar een ander lichaamsdeel te verplaatsen. Als gevolg hiervan zijn ze kwetsbaarder en worden ze sneller afgebroken dan steroïdhormonen. De halfwaardetijd van een eiwithormoon is daardoor ook korter dan die van een steroïdhormoon.",
+        "x": 304.000000026428,
+        "y": 234.488888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van het hormoonstelsel.",
+        "bounds": null,
+        "label": "Afbeelding 12.2:",
+        "raw": "Afbeelding 12.2 Overzicht van het hormoonstelsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.2.png",
+        "bounds": [
+          20.4744461341886,
+          238.052213896961,
+          172.238215921526,
+          351.875041237462
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 412,
+        "name": "394"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "12.2.2  De hypofyse-achterkwab",
+        "beforeText": "De hypofyse heeft andere functies dan de hypothalamus. De hypofyse maakt hormonen aan die vervolgens andere organen in je lichaam aansturen. Hormonen worden gemaakt in speciale organen, die we klieren noemen. De hypofyse is dus zelf ook een klier. Het orgaan ligt onder de hersenen en is ongeveer even groot als een erwtje. De hypofyse heeft een voorkant (voorkwab of adenohypofyse) en een achterkant (achterkwab of neurohypofyse). De voor- en achterkwab maken allebei andere hormonen aan.",
+        "pageDocumentOffset": 416,
+        "paragraphIndexInBodyStory": 82,
+        "text": "De hypothalamus en de hypofyse werken met elkaar samen. We noemen deze samenwerking ook wel de hypothalamus-hypofyse-as. De organen zitten aan elkaar vast met een soort steel, die we de hypofysesteel noemen. De hypothalamus stuurt via deze steel signalen naar de hypofyse. Hierdoor krijgt de hypofyse de opdracht om hormonen aan te maken. Daarnaast regelt de hypothalamus dat de hypofyse deze hormonen op het juiste moment naar je organen stuurt.",
+        "x": 209.99999999947,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Hypothalamus-hypofyse-as.",
+        "bounds": null,
+        "label": "Afbeelding 12.3:",
+        "raw": "Afbeelding 12.3 Hypothalamus-hypofyse-as.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.3.png",
+        "bounds": [
+          13.1340473437618,
+          203.76217059247,
+          131.318191043976,
+          361.652748866863
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img03.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img03.TIF"
+      },
+      "page": {
+        "documentOffset": 416,
+        "name": "398"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Oxytocine is een hormoon dat vrouwen aan het einde van hun zwangerschap of tijdens de bevalling aanmaken. Oxytocine heeft verschillende functies, zoals het:",
+        "beforeText": "Deze hormonen worden gemaakt door zenuwcellen (neuronen). We noemen ze daarom ook wel neurohormonen. De zenuwcellen bevinden zich in de hypothalamus en in de achterkwab van de hypofyse. Nadat de hypothalamus de neurohormonen gemaakt heeft, verplaatsen ze zich naar de zenuwcellen in de achterkwab van de hypofyse. Daar worden ze opgeslagen. Om deze hormonen vervolgens af te geven aan het bloed, heeft de hypofyse eerst een signaal nodig. Dit signaal komt vanuit de hypothalamus. Op het moment dat de zenuwcellen van de hypofyseachterkwab dit signaal krijgen, geven ze de hormonen af aan het bloed. Dit noemen we neurosecretie. Het woord ‘neuro’ komt van de zenuwcellen die de hormonen afgeven. ‘Secretie’ is een ander woord voor afgifte.",
+        "pageDocumentOffset": 417,
+        "paragraphIndexInBodyStory": 88,
+        "text": "Een zorgvrager maakt het antidiuretisch hormoon (ADH) aan als hij of zij te veel zout in het bloed heeft zitten. Te veel zout in het bloed kan zorgen voor klachten die uiteenlopen van lichte misselijkheid tot bewusteloosheid. Soms overlijden zorgvragers zelfs door een te grote hoeveelheid zout in het lichaam. De hypothalamus krijgt een signaal via speciale sensoren als een zorgvrager te veel zout in het bloed heeft. Deze sensoren noemen we osmosensoren. De sensoren geven een signaal af als de osmotische waarde in het bloed te hoog is. De osmotische waarde is de hoeveelheid zout in het bloed vergeleken met de hoeveelheid water. Stel, je doet tien schepjes zout in een borrelglaasje met water. Dan is de osmotische waarde hoger dan wanneer je maar één schepje zout in een borrelglaasje met water doet. Als de osmotische waarde van het bloed te hoog is, merkt de hypothalamus dit. De hypothalamus maakt dan ADH aan. Dit wordt vervolgens via de hypofysesteel naar de achterkwab van de hypofyse gestuurd. Daar geeft de hypofyse het ADH af aan het bloed. De nieren reageren op het ADH door meer water vast te houden. Hierdoor plast de zorgvrager minder water. Als de zorgvrager meer water in het lichaam vasthoudt, heeft de zorgvrager ook meer water in het bloed. Hierdoor gaat de osmotische waarde van het bloed juist naar beneden. Je kan dit vergelijken met het oplossen van tien schepjes zout in een gewoon drinkglas met water, in plaats van een borrelglaasje. Je hebt evenveel zout opgelost, maar dan in een grotere hoeveelheid water. In het lichaam zorgt de afgifte van ADH voor minder zout per liter bloed dan eerst. Dit merken de osmosensoren op, waardoor ze een nieuw signaal naar de hypothalamus sturen. De hypothalamus hoeft dus even geen ADH meer af te geven. Het proces waarbij het hormoon zijn eigen aanmaak of afgifte regelt, noemen we negatieve feedback.",
+        "x": 15,
+        "y": 223.200000000003
+      },
+      "asset": null,
+      "caption": {
+        "body": "De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+        "bounds": null,
+        "label": "Afbeelding 12.4:",
+        "raw": "Afbeelding 12.4 De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          -1.73644732131531,
+          12.1685143448434,
+          186.863888888892,
+          180.281485655156
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 417,
+        "name": "399"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "starten van de bevalling. Oxytocine helpt bij het op gang brengen van de bevalling. In het begin en midden van zwangerschap voorkomt een ander hormoon (progesteron) dat oxytocine wordt aangemaakt. Het hormoon is dan namelijk nog niet nodig. Aan het einde van de zwangerschap maakt het lichaam veel minder progesteron aan, waardoor de hypofyse wel weer oxytocine afgeeft. Als de vrouw hier genoeg van in het lichaam heeft, begint de bevalling;",
+        "beforeText": "Een zorgvrager maakt het antidiuretisch hormoon (ADH) aan als hij of zij te veel zout in het bloed heeft zitten. Te veel zout in het bloed kan zorgen voor klachten die uiteenlopen van lichte misselijkheid tot bewusteloosheid. Soms overlijden zorgvragers zelfs door een te grote hoeveelheid zout in het lichaam. De hypothalamus krijgt een signaal via speciale sensoren als een zorgvrager te veel zout in het bloed heeft. Deze sensoren noemen we osmosensoren. De sensoren geven een signaal af als de osmotische waarde in het bloed te hoog is. De osmotische waarde is de hoeveelheid zout in het bloed vergeleken met de hoeveelheid water. Stel, je doet tien schepjes zout in een borrelglaasje met water. Dan is de osmotische waarde hoger dan wanneer je maar één schepje zout in een borrelglaasje met water doet. Als de osmotische waarde van het bloed te hoog is, merkt de hypothalamus dit. De hypothalamus maakt dan ADH aan. Dit wordt vervolgens via de hypofysesteel naar de achterkwab van de hypofyse gestuurd. Daar geeft de hypofyse het ADH af aan het bloed. De nieren reageren op het ADH door meer water vast te houden. Hierdoor plast de zorgvrager minder water. Als de zorgvrager meer water in het lichaam vasthoudt, heeft de zorgvrager ook meer water in het bloed. Hierdoor gaat de osmotische waarde van het bloed juist naar beneden. Je kan dit vergelijken met het oplossen van tien schepjes zout in een gewoon drinkglas met water, in plaats van een borrelglaasje. Je hebt evenveel zout opgelost, maar dan in een grotere hoeveelheid water. In het lichaam zorgt de afgifte van ADH voor minder zout per liter bloed dan eerst. Dit merken de osmosensoren op, waardoor ze een nieuw signaal naar de hypothalamus sturen. De hypothalamus hoeft dus even geen ADH meer af te geven. Het proces waarbij het hormoon zijn eigen aanmaak of afgifte regelt, noemen we negatieve feedback.",
+        "pageDocumentOffset": 418,
+        "paragraphIndexInBodyStory": 89,
+        "text": "Oxytocine is een hormoon dat vrouwen aan het einde van hun zwangerschap of tijdens de bevalling aanmaken. Oxytocine heeft verschillende functies, zoals het:",
+        "x": 296.999999999937,
+        "y": 194.977777777781
+      },
+      "asset": null,
+      "caption": {
+        "body": "Oxytocine.",
+        "bounds": null,
+        "label": "Afbeelding 12.5:",
+        "raw": "Afbeelding 12.5 Oxytocine.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          17.6613986365318,
+          238.496892281308,
+          118.500000000011,
+          355.772441051899
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img05.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img05.TIF"
+      },
+      "page": {
+        "documentOffset": 418,
+        "name": "400"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "prolactine (PRL).",
+        "beforeText": "effecthormonen. Deze hormonen hebben wel zelf meteen effect in het lichaam. Dit geldt voor de volgende twee hormonen:",
+        "pageDocumentOffset": 420,
+        "paragraphIndexInBodyStory": 101,
+        "text": "melanocytenstimulerend hormoon (MSH);",
+        "x": 308.641666666603,
+        "y": 36.9333333333365
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+        "bounds": null,
+        "label": "Afbeelding 12.6:",
+        "raw": "Afbeelding 12.6 De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.6.png",
+        "bounds": [
+          21.9513346091511,
+          0.73435658064823,
+          232.571616746598,
+          192.207340341967
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 419,
+        "name": "401"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "melanotropinestimulerend hormoon (MRH). Dit hormoon zorgt dat een hogere hoeveelheid melanocytstimulerend hormoon (MSH) wordt afgegeven aan het bloed.",
+        "beforeText": "gonadotropinestimulerend hormoon (GnRH). Dit hormoon leidt tot meer afgifte van luteïniserend hormoon (LH) en follikelstimulerend hormoon (FSH);",
+        "pageDocumentOffset": 424,
+        "paragraphIndexInBodyStory": 154,
+        "text": "corticotropinestimulerend hormoon (CRH). Door dit hormoon geeft de hypofyse meer adrenocorticotroop hormoon (ACTH) af aan het bloed;",
+        "x": 221.641666666137,
+        "y": 194.977777777781
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Feedback in de hypothalamus-hypofyse-as.",
+        "bounds": null,
+        "label": "Afbeelding 12.7:",
+        "raw": "Afbeelding 12.7 Feedback in de hypothalamus-hypofyse-as.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.7.png",
+        "bounds": [
+          189.849298623174,
+          49.8580517202458,
+          233.886348466623,
+          85.7087269133113
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img7.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img7.TIF"
+      },
+      "page": {
+        "documentOffset": 423,
+        "name": "405"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "In het midden van je hersenen bevindt zich een klein hormoonkliertje. Dit is de pijnappelklier (epifyse) die het hormoon melatonine aanmaakt. Dit hormoon heeft een belangrijke taak in het lichaam, het bepaalt bijvoorbeeld wanneer:",
+        "beforeText": "bijschildklieren.",
+        "pageDocumentOffset": 425,
+        "paragraphIndexInBodyStory": 162,
+        "text": "12.3.1  De pijnappelklier en melatonine",
+        "x": 15,
+        "y": 155.46666666667
+      },
+      "asset": null,
+      "caption": {
+        "body": "Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+        "bounds": null,
+        "label": "Afbeelding 12.8:",
+        "raw": "Afbeelding 12.8 Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          -20.7458333333302,
+          26.6241687965578,
+          143.295833333347,
+          165.512012999456
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img08.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img08.TIF"
+      },
+      "page": {
+        "documentOffset": 425,
+        "name": "407"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je schildklier maakt de volgende drie hormonen aan:",
+        "beforeText": "bloeddruk. Deze hormonen zorgen dat de druk waarmee bloed door je vaten stroomt niet te hoog en niet te laag is;",
+        "pageDocumentOffset": 427,
+        "paragraphIndexInBodyStory": 180,
+        "text": "hartslag. Deze hormonen zorgen dat je hart niet te snel en niet te langzaam klopt.",
+        "x": 22.000000026491,
+        "y": 132.888888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch12/Afbeelding_12.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De schildklier.",
+        "bounds": null,
+        "label": "Afbeelding 12.9:",
+        "raw": "Afbeelding 12.9 De schildklier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.9.png",
+        "bounds": [
+          8.56706767230959,
+          45.8805555555556,
+          116.805154549919,
+          140.842882090237
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img09.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img09.TIF"
+      },
+      "page": {
+        "documentOffset": 427,
+        "name": "409"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

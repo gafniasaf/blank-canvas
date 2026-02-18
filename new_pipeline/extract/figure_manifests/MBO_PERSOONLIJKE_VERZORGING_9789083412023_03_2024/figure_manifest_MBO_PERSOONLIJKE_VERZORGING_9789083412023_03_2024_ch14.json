@@ -1,0 +1,89 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3476
+  },
+  "chapter": "14",
+  "chapterRange": {
+    "endOff": 170,
+    "ok": true,
+    "startOff": 162
+  },
+  "exportedAt": "Sat Jan 03 2026 22:47:32 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "elke dag uit alle vakken de juiste hoeveelheid voedingsmiddelen kiest;",
+        "pageDocumentOffset": 162,
+        "paragraphIndexInBodyStory": 2762,
+        "text": "weinig producten eet die niet in de Schijf van Vijf staan.",
+        "x": 302.823610941569,
+        "y": 129.914539040452
+      },
+      "asset": null,
+      "caption": {
+        "body": "De Schijf van Vijf geeft aan wat gezonde voeding is.",
+        "bounds": null,
+        "label": "Afbeelding 14.1:",
+        "raw": "Afbeelding 14.1 De Schijf van Vijf geeft aan wat gezonde voeding is.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          139.132710336752,
+          293.82647872501,
+          231.743708975753,
+          377.820743487288
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk14_14.1_De schijf van vijf geeft aan wat gezonde voeding is.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk14_14.1_De%20schijf%20van%20vijf%20geeft%20aan%20wat%20gezonde%20voeding%20is.tif"
+      },
+      "page": {
+        "documentOffset": 162,
+        "name": "149"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿14.3  Soorten verpakking",
+        "beforeText": "zwangere vrouwen (foliumzuur en vitamine D);",
+        "pageDocumentOffset": 165,
+        "paragraphIndexInBodyStory": 2853,
+        "text": "jonge kinderen (vitamine D).",
+        "x": 107.999999830458,
+        "y": 138.321483484904
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch14/Afbeelding_14.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Aanbevolen dagelijkse hoeveelheden voedingsmiddelen.",
+        "bounds": null,
+        "label": "Afbeelding 14.2:",
+        "raw": "Afbeelding 14.2 Aanbevolen dagelijkse hoeveelheden voedingsmiddelen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch14/Afbeelding_14.2.png",
+        "bounds": [
+          145.150251931434,
+          34.69011,
+          242.752457598709,
+          160.30989
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk14_14.2_Aanbevolen dagelijkse hoeveelheden voedingsmiddelen.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk14_14.2_Aanbevolen%20dagelijkse%20hoeveelheden%20voedingsmiddelen.jpg"
+      },
+      "page": {
+        "documentOffset": 165,
+        "name": "152"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

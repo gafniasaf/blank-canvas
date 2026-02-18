@@ -1,0 +1,82 @@
+{
+  "7d8bde81-ff90-49c1-bba9-0c7c4be4ae70": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.3 Opbouw van de NANDA-classificatie.png",
+      "alt": "Afbeelding 15.1: Opbouw van de NANDA-classificatie.",
+      "figureNumber": "Afbeelding 15.1:",
+      "caption": "Opbouw van de NANDA-classificatie.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.5 Het ICF-model.png",
+      "alt": "Afbeelding 15.3: Het ICF-model.",
+      "figureNumber": "Afbeelding 15.3:",
+      "caption": "Het ICF-model.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.7 Het zorgproces volgens het Omaha System.png",
+      "alt": "Afbeelding 15.5: Het zorgproces volgens het Omaha-systeem.",
+      "figureNumber": "Afbeelding 15.5:",
+      "caption": "Het zorgproces volgens het Omaha-systeem.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Afbeelding 2_6b.png",
+      "alt": "Afbeelding 15.6: De verschillende onderdelen van het Omaha-systeem.",
+      "figureNumber": "Afbeelding 15.6:",
+      "caption": "De verschillende onderdelen van het Omaha-systeem.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/MicrosoftTeams-image (4).png",
+      "alt": "Afbeelding 15.7: Werkwijze volgens RAIview.",
+      "figureNumber": "Afbeelding 15.7:",
+      "caption": "Werkwijze volgens RAIview.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.10 De assen van de ICNP.png",
+      "alt": "Afbeelding 15.8: De assen van de ICNP.",
+      "figureNumber": "Afbeelding 15.8:",
+      "caption": "De assen van de ICNP.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "d22fdb6c-ac09-4f0c-a243-79c46bd595b6": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.png",
+      "alt": "Afbeelding 15.2: Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.",
+      "figureNumber": "Afbeelding 15.2:",
+      "caption": "Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "ade08a05-2e5c-499f-8636-05149742abea": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 3.6 Een ingevuld ICF-model.png",
+      "alt": "Afbeelding 15.4: Een ingevuld ICF-model.",
+      "figureNumber": "Afbeelding 15.4:",
+      "caption": "Een ingevuld ICF-model.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "7a5c43a1-c801-4be8-9c07-78d53ea4911b": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch15/linked/Image 4.1 AAIDD-model.png",
+      "alt": "Afbeelding 15.9: AAIDD-model.",
+      "figureNumber": "Afbeelding 15.9:",
+      "caption": "AAIDD-model.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

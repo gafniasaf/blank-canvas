@@ -1,0 +1,22 @@
+{
+  "29975dd4-b3c5-42dd-9c21-6427160b3d23": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.1.png",
+      "alt": "Afbeelding 3.1: De zes cultuurdimensies van Hofstede.",
+      "figureNumber": "Afbeelding 3.1:",
+      "caption": "De zes cultuurdimensies van Hofstede.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "019cb7b1-d12c-49b4-bcd4-a5b3489c10f3": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2: Het proces van culturele competentie.",
+      "figureNumber": "Afbeelding 3.2:",
+      "caption": "Het proces van culturele competentie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

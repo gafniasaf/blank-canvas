@@ -1,0 +1,30 @@
+{
+  "51c0e987-3a25-4402-93b2-6d3110ccac86": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch5/linked/WBF_5.8_Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.jpg",
+      "alt": "Afbeelding 5.1: Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.",
+      "figureNumber": "Afbeelding 5.1:",
+      "caption": "Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "44f528d5-0e72-4ba0-af2a-cc83e57bb14d": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch5/linked/WBF_5.9_Samen met de client wordt een zorgplan op maat gemaakt.jpeg",
+      "alt": "Afbeelding 5.2: Samen met de patiënt wordt een zorgplan op maat gemaakt.",
+      "figureNumber": "Afbeelding 5.2:",
+      "caption": "Samen met de patiënt wordt een zorgplan op maat gemaakt.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch5/linked/WBF_5.17_Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.jpg",
+      "alt": "Afbeelding 6.1: Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.",
+      "figureNumber": "Afbeelding 6.1:",
+      "caption": "Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

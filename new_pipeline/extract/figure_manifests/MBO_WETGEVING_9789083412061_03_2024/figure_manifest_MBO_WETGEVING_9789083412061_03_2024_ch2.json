@@ -1,0 +1,152 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 2957
+  },
+  "chapter": "2",
+  "chapterRange": {
+    "endOff": 38,
+    "ok": true,
+    "startOff": 29
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:36 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voor de beroepen in het zware regime zijn de opleidingseisen ook wettelijk vastgelegd en is registratie in het BIG-register verplicht. Medewerkers met deze beroepen zijn dus vindbaar in het BIG-register. Al deze beroepen in het zware regime vallen onder het tuchtrecht.",
+        "pageDocumentOffset": 30,
+        "paragraphIndexInBodyStory": 194,
+        "text": "Onder de groep overige beroepen vallen alle medische beroepen die niet bij het lichte of zware regime horen. Overige beroepen zijn bijvoorbeeld zorgprofessionals die werken als zorghulp of helpende. Voor deze overige beroepen zijn geen wettelijke opleidingseisen vastgelegd en bestaat geen registratie in het BIG-register. Deze beroepen vallen ook niet onder het tuchtrecht.",
+        "x": 187.5,
+        "y": 138.77634862264
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een ergotherapeut adviseert over aanpassingen in huis, ook voor de badkamer.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Een ergotherapeut adviseert over aanpassingen in huis, ook voor de badkamer.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          157.28603612264,
+          187.5,
+          213.95254326313,
+          286.029892771661
+        ],
+        "kind": "link",
+        "linkName": "WBF_2.15_Een ergotherapeut adviseert over aanpassingen in huis, en ook voor de badkamer.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_2.15_Een%20ergotherapeut%20adviseert%20over%20aanpassingen%20in%20huis%2C%20en%20ook%20voor%20de%20badkamer.jpg"
+      },
+      "page": {
+        "documentOffset": 30,
+        "name": "17"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Tabel 2.1 Voorbeelden van voorbehouden en risicovolle handelingen.",
+        "pageDocumentOffset": 32,
+        "paragraphIndexInBodyStory": 208,
+        "text": "De Wet BIG geldt alleen wanneer er geen sprake is van een noodsituatie. Tijdens een noodsituatie mag iedere zorgprofessional een voorbehouden handeling of risicovolle handelingen uitvoeren.",
+        "x": 187.5,
+        "y": 71.0831179385713
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het aanhangen van sondevoeding is een risicovolle handeling.",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Het aanhangen van sondevoeding is een risicovolle handeling.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          85.00669432746,
+          187.5,
+          159.69912640042,
+          317.372788960814
+        ],
+        "kind": "link",
+        "linkName": "WBF_3.5_Het aanhangen van sondevoeding is een risicovolle handeling.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_3.5_Het%20aanhangen%20van%20sondevoeding%20is%20een%20risicovolle%20handeling.jpg"
+      },
+      "page": {
+        "documentOffset": 32,
+        "name": "19"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.3 Deskundigheid behoud je door vakliteratuur te lezen.",
+        "beforeText": "Volgens de Wet op de beroepen in de individuele gezondheidszorg (Wet BIG) ben je deskundig als je een opleiding hebt gehad. Als iemand een bepaalde opleiding heeft gevolgd, mag je verwachten dat hij of zij genoeg kennis heeft over het onderwerp van de opleiding. De zorgprofessional die de opleiding heeft afgerond, is dan deskundig. De zorgprofessionals die deskundig zijn in hun beroep, vallen onder de titelbescherming. Dit betekent dat de zorgprofessional een beroepstitel of opleidingstitel heeft die duidelijk maakt voor welk beroep de zorgprofessional deskundig is. Voor de beroepen die vallen onder titelbescherming staan de opleidingseisen in de wet beschreven.",
+        "pageDocumentOffset": 33,
+        "paragraphIndexInBodyStory": 213,
+        "text": "￼",
+        "x": 17.5,
+        "y": 95.4152320746038
+      },
+      "asset": null,
+      "caption": {
+        "body": "Deskundigheid behoud je door vakliteratuur te lezen.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Deskundigheid behoud je door vakliteratuur te lezen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.7,
+          17.5,
+          95.4152320746038,
+          149.607455497486
+        ],
+        "kind": "link",
+        "linkName": "WBF_4.4_Deskundigheid behoud je door vakliteratuur te lezen.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_4.4_Deskundigheid%20behoud%20je%20door%20vakliteratuur%20te%20lezen.jpeg"
+      },
+      "page": {
+        "documentOffset": 33,
+        "name": "20"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.4 Ook kinderen kunnen mantelzorger zijn.",
+        "beforeText": "Vrijwilligers bieden net zoals familieparticipanten geen zorg vanuit hun beroep en vallen daarom buiten de Wet BIG. Toch mogen vrijwilligers niet zomaar voorbehouden handelingen uitvoeren, terwijl familieparticipanten dit wel mogen. De vrijwilligers zijn dus niet bevoegd om de voorbehouden handelingen uit te voeren. Om zorgvragers te beschermen, verbiedt de wet onbevoegden om voorbehouden handelingen uit te voeren. Een vrijwilliger mag alleen een voorbehouden handeling uitvoeren als een arts die opdracht geeft. De vrijwilliger moet dan wel bekwaam zijn om de opdracht te kunnen uitvoeren. Een familieparticipant mag wel een voorbehouden handeling uitvoeren, omdat hij of zij zelf verantwoordelijk is. Vrijwilligers zijn wel in dienst bij de zorgorganisatie, waardoor de organisatie verantwoordelijk is als zij fouten maken.",
+        "pageDocumentOffset": 37,
+        "paragraphIndexInBodyStory": 263,
+        "text": "￼",
+        "x": 17.5,
+        "y": 75.1411282943722
+      },
+      "asset": null,
+      "caption": {
+        "body": "Ook kinderen kunnen mantelzorger zijn.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Ook kinderen kunnen mantelzorger zijn.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.7000000000013,
+          17.5,
+          75.1411282943722,
+          126.070617563086
+        ],
+        "kind": "link",
+        "linkName": "WBF_1.7_Ook kinderen kunnen mantelzorger zijn.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_1.7_Ook%20kinderen%20kunnen%20mantelzorger%20zijn.jpg"
+      },
+      "page": {
+        "documentOffset": 37,
+        "name": "24"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

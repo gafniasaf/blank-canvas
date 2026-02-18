@@ -1,0 +1,463 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 6224
+  },
+  "chapter": "1",
+  "chapterRange": {
+    "endOff": 34,
+    "ok": true,
+    "startOff": 16
+  },
+  "exportedAt": "Sat Jan 03 2026 22:39:09 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voor roken, eten en drinken bestaan speciale plekken op je werk. Dit is bijvoorbeeld de pauzeruimte. Roken mag waarschijnlijk alleen buiten op een vaste rookplek. Verder geldt:",
+        "pageDocumentOffset": 26,
+        "paragraphIndexInBodyStory": 210,
+        "text": "was je handen of gebruik handalcohol vóór en na het klaarmaken van de maaltijd voor een zorgvrager. Je gebruikt de handhygiëne ook als je de zorgvrager helpt bij de maaltijd;",
+        "x": 215.999999830458,
+        "y": 125.704110293918
+      },
+      "asset": null,
+      "caption": {
+        "body": "Tijdens het werk draag je geen horloge.",
+        "bounds": null,
+        "label": "Afbeelding 1.10:",
+        "raw": "Afbeelding 1.10 Tijdens het werk draag je geen horloge.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          144.800059367992,
+          211.536755922106,
+          213.468951282849,
+          286.463244702106
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.10_Tijdens het werk dient geen horloge te worden gedragen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.10_Tijdens%20het%20werk%20dient%20geen%20horloge%20te%20worden%20gedragen.tif"
+      },
+      "page": {
+        "documentOffset": 26,
+        "name": "13"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "wie? Iedere zorgprofessional, zorgverlener of persoon die direct of indirect te maken heeft met de medische zorg moet weten van handhygiëne. Ze dienen de handhygiëne ook op de goede manier en het goede moment te kunnen uitvoeren;",
+        "beforeText": "Een belangrijke besmettingsbron voor ziekteverwekkende bacteriën zijn de handen. Om besmettingen te voorkomen is handhygiëne de belangrijkste maatregel. Dit leggen we hieronder stapsgewijs uit:",
+        "pageDocumentOffset": 27,
+        "paragraphIndexInBodyStory": 243,
+        "text": "wat? Handhygiëne is het reinigen, desinfecteren en verzorgen van je handen;",
+        "x": 107.999999830458,
+        "y": 53.0124409993486
+      },
+      "asset": null,
+      "caption": {
+        "body": "Nies bij gebrek aan een zakdoek in je elleboogplooi.",
+        "bounds": null,
+        "label": "Afbeelding 1.11:",
+        "raw": "Afbeelding 1.11 Nies bij gebrek aan een zakdoek in je elleboogplooi.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          51.6396547812004,
+          15.0000011020236,
+          103.668226209772,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.11_Nies bij gebrek aan een zakdoek in je elleboogplooi.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.11_Nies%20bij%20gebrek%20aan%20een%20zakdoek%20in%20je%20elleboogplooi.tif"
+      },
+      "page": {
+        "documentOffset": 27,
+        "name": "14"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Sluit de kraan zonder deze met je handen aan te raken. Waterkranen met elleboogbediening of automatische (sensor)bediening zijn dan ook beter dan gewone kranen.",
+        "beforeText": "￼  Spoel je handen minimaal twintig seconden goed af. Het water stroomt hierbij van de pols naar de vingertoppen.",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 269,
+        "text": "￼  Droog je handen af met een wegwerpbare (papieren) handdoek. Droog ook de polsen en de huid tussen de vingers. Droog je handen niet met een elektrische handdroger. De micro-organismen worden met deze droger namelijk niet verwijderd. Daarnaast kost het drogen met een handdroger veel tijd en droogt het de huid uit.",
+        "x": 15,
+        "y": 28.4694444444443
+      },
+      "asset": null,
+      "caption": {
+        "body": "Desinfecteer je handen met handalcohol.",
+        "bounds": null,
+        "label": "Afbeelding 1.12:",
+        "raw": "Afbeelding 1.12 Desinfecteer je handen met handalcohol.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.9999999999999,
+          102.000001102024,
+          70.0135396518373,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.12_Desinfecteer je handen met handalcohol.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.12_Desinfecteer%20je%20handen%20met%20handalcohol.tif"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "16"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "handschoenen moeten stevig zijn;",
+        "pageDocumentOffset": 30,
+        "paragraphIndexInBodyStory": 306,
+        "text": "handschoenen moeten goed passen om jouw handen, kies de goede maat.",
+        "x": 215.999999830458,
+        "y": 116.065927929348
+      },
+      "asset": null,
+      "caption": {
+        "body": "Steriele handschoenen.",
+        "bounds": null,
+        "label": "Afbeelding 1.13:",
+        "raw": "Afbeelding 1.13 Steriele handschoenen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          124.284099225645,
+          210.000001102024,
+          162.514362383539,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.13_Steriele handschoenen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.13_Steriele%20handschoenen.tif"
+      },
+      "page": {
+        "documentOffset": 30,
+        "name": "17"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "bacteriën;",
+        "beforeText": "﻿1.1  Besmetting en ziek worden",
+        "pageDocumentOffset": 16,
+        "paragraphIndexInBodyStory": 10,
+        "text": "Bij een besmetting komen schadelijke micro-organismen of virussen je lichaam binnen. Met organisme bedoelen we iets dat leeft. Micro wil zeggen dat iets heel klein is. Het verschil tussen micro-organismen en virussen is dat een virus een mens of dier nodig heeft om te overleven en een micro-organisme heeft dit niet nodig. Micro-organismen zijn dus levend en zo klein dat we ze niet met het blote oog kunnen zien. Voorbeelden van deze organismen zijn:",
+        "x": 210,
+        "y": 118.513310477693
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch1/Afbeelding_1.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Van besmetting tot infectieziekte.",
+        "bounds": null,
+        "label": "Afbeelding 1.1:",
+        "raw": "Afbeelding 1.1 Van besmetting tot infectieziekte.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch1/Afbeelding_1.1.png",
+        "bounds": [
+          160.000000000006,
+          261.701896583048,
+          244.214444444445,
+          370.304770083618
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.1_Van besmetting tot infectie-ziekte.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.1_Van%20besmetting%20tot%20infectie-ziekte.tif"
+      },
+      "page": {
+        "documentOffset": 16,
+        "name": "3"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "via dieren. Insecten of andere dieren kunnen ook gemakkelijk micro-organismen overdragen",
+        "pageDocumentOffset": 17,
+        "paragraphIndexInBodyStory": 33,
+        "text": "Tabel 1.1 geeft een overzicht van besmettingswegen van veelvoorkomende schadelijke micro-organismen en virussen.",
+        "x": 102,
+        "y": 93.8103723737927
+      },
+      "asset": null,
+      "caption": {
+        "body": "Schematische weergave van een virus.",
+        "bounds": null,
+        "label": "Afbeelding 1.2:",
+        "raw": "Afbeelding 1.2 Schematische weergave van een virus.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          107.967432558978,
+          102.000001102024,
+          185.055507383607,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.2_Schematische weergave van een virus.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.2_Schematische%20weergave%20van%20een%20virus.tif"
+      },
+      "page": {
+        "documentOffset": 17,
+        "name": "4"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 18,
+        "paragraphIndexInBodyStory": 45,
+        "text": "Afbeelding 1.4 Een infectie kan voorkomen worden door het dragen van steriele handschoenen.",
+        "x": 297,
+        "y": 172.776190471376
+      },
+      "asset": null,
+      "caption": {
+        "body": "Als zorgprofessional draag je een mondneusmasker om besmetting te voorkomen",
+        "bounds": null,
+        "label": "Afbeelding 1.3:",
+        "raw": "Afbeelding 1.3 Als zorgprofessional draag je een mondneusmasker om besmetting te voorkomen",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          190.611876998608,
+          210.000001102024,
+          233.611876998609,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.3_De zorgaanbieder draagt hier een mondneusmasker om besmetting te voorkomen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.3_De%20zorgaanbieder%20draagt%20hier%20een%20mondneusmasker%20om%20besmetting%20te%20voorkomen.tif"
+      },
+      "page": {
+        "documentOffset": 18,
+        "name": "5"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "zakdoekjes gebruiken wanneer je hoest of niest.",
+        "pageDocumentOffset": 18,
+        "paragraphIndexInBodyStory": 41,
+        "text": "In de zorg werk je veel met besmette zorgvragers. Het is belangrijk om te voorkomen dat zorgvragers elkaar gaan besmetten. Dit is vooral van belang in een zorginstelling, waar vaak al zieke en zwakke zorgvragers liggen. Soms is het nodig om een besmette zorgvrager in isolatie te plaatsen. In isolatie plaatsen betekent dat je de zorgvrager afgesloten van de rest zet. De zorgvrager kan dan geen andere zorgvragers meer besmetten. Je gebruikt verschillende soorten isolatie bij verschillende soorten micro-organismen. Hierbij horen ook verschillende afspraken, zowel voor bezoek als voor de zorgprofessionals. In tabel 1.2 zie je de verschillende soorten isolatie uitgelegd.",
+        "x": 210,
+        "y": 127.065927924534
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een infectie kan voorkomen worden door het dragen van steriele handschoenen.",
+        "bounds": null,
+        "label": "Afbeelding 1.4:",
+        "raw": "Afbeelding 1.4 Een infectie kan voorkomen worden door het dragen van steriele handschoenen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          124.399999995186,
+          297,
+          166.542857138043,
+          375
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.4_Een infectie kan voorkomen worden door het dragen van steriele handschoenen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.4_Een%20infectie%20kan%20voorkomen%20worden%20door%20het%20dragen%20van%20steriele%20handschoenen.tif"
+      },
+      "page": {
+        "documentOffset": 18,
+        "name": "5"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 18,
+        "paragraphIndexInBodyStory": 45,
+        "text": "Afbeelding 1.4 Een infectie kan voorkomen worden door het dragen van steriele handschoenen.",
+        "x": 297,
+        "y": 172.776190471376
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het dragen van quarantainekleding dient om besmetting te voorkomen.",
+        "bounds": null,
+        "label": "Afbeelding 1.5:",
+        "raw": "Afbeelding 1.5 Het dragen van quarantainekleding dient om besmetting te voorkomen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          181.288806212117,
+          302.479990683662,
+          235.204890416347,
+          369.520011085129
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.5_Het dragen van quarantainekleding dient om besmetting te voorkomen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.5_Het%20dragen%20van%20quarantainekleding%20dient%20om%20besmetting%20te%20voorkomen.tif"
+      },
+      "page": {
+        "documentOffset": 18,
+        "name": "5"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een zorgvrager met een voedselinfectie heeft vaak diarree of moet braken. Wanneer zorgvragers ziek zijn of klachten hebben die passen bij een voedselinfectie, moet je dit melden bij de leiding. Daarnaast moet je het melden wanneer andere zorgprofessionals of jijzelf een voedselinfectie hebben. Door de infectie te melden voorkom je dat de besmette zorgvragers of zorgprofessionals voedsel klaarmaken voor anderen en zo anderen besmetten.",
+        "beforeText": "maag-/darminfectie. Een voorbeeld van deze infectie is buikgriep. De zorgvrager heeft bij deze infectie vaak een bacterie of parasiet.",
+        "pageDocumentOffset": 22,
+        "paragraphIndexInBodyStory": 96,
+        "text": "﻿1.2.2  Wanneer meld je voedselinfecties?",
+        "x": 210,
+        "y": 23.392999182807
+      },
+      "asset": null,
+      "caption": {
+        "body": "Handhygiëne: handen wassen.",
+        "bounds": null,
+        "label": "Afbeelding 1.6:",
+        "raw": "Afbeelding 1.6 Handhygiëne: handen wassen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.9999999999999,
+          297.000001102024,
+          58.6747536012131,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.6_Handhygiene handen wassen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.6_Handhygiene%20handen%20wassen.tif"
+      },
+      "page": {
+        "documentOffset": 22,
+        "name": "9"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "handschoenen.",
+        "pageDocumentOffset": 22,
+        "paragraphIndexInBodyStory": 111,
+        "text": "Beschermende kleding en het gezichtsmasker bespreken we hier verder. Het gebruik van handschoenen leggen we verder uit in paragraaf 1.5.",
+        "x": 297,
+        "y": 161.813642490102
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het dragen van quarantainekleding verlaagt de kans op besmetting.",
+        "bounds": null,
+        "label": "Afbeelding 1.7:",
+        "raw": "Afbeelding 1.7 Het dragen van quarantainekleding verlaagt de kans op besmetting.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          175.970702675287,
+          297.000001102024,
+          234.093841834481,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.7_Het dragen van quarantainekleding verlaagt de kans op besmetting.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.7_Het%20dragen%20van%20quarantainekleding%20verlaagt%20de%20kans%20op%20besmetting.tif"
+      },
+      "page": {
+        "documentOffset": 22,
+        "name": "9"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "verband;",
+        "pageDocumentOffset": 24,
+        "paragraphIndexInBodyStory": 167,
+        "text": "opvangzakken voor lichaamsvocht. Spoel de lichaamsvloeistoffen, zoals urine, door de wc, voordat je de zakken in de prullenbak doet.",
+        "x": 302.999999830458,
+        "y": 134.149261262682
+      },
+      "asset": null,
+      "caption": {
+        "body": "Infuusnaalden, injectienaalden en andere scherpe materialen doe je in een naaldencontainer.",
+        "bounds": null,
+        "label": "Afbeelding 1.8:",
+        "raw": "Afbeelding 1.8 Infuusnaalden, injectienaalden en andere scherpe materialen doe je in een naaldencontainer.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          148.306321447867,
+          297.000001102024,
+          217.165696447867,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.8_Infuusnaalden, injectienaalden en andere scherpe materialen doe je in een naaldencont.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.8_Infuusnaalden%2C%20injectienaalden%20en%20andere%20scherpe%20materialen%20doe%20je%20in%20een%20naaldencont.jpg"
+      },
+      "page": {
+        "documentOffset": 24,
+        "name": "11"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Naalden en andere scherpe materialen stop je in een naaldencontainer. Als de naaldencontainer vol is, lever je deze in bij de apotheek. Lichaamsvloeistoffen, zoals urine, spoel je door de wc. Doe de klep dicht voordat je doortrekt, zodat eventuele spetters niet buiten de wc-pot komen. Als laatste plaats je het volgende in de prullenbak bij de zorgvrager:",
+        "beforeText": "Afbeelding 1.8 Infuusnaalden, injectienaalden en andere scherpe materialen doe je in een naaldencontainer.",
+        "pageDocumentOffset": 25,
+        "paragraphIndexInBodyStory": 170,
+        "text": "Extramuraal (bij de zorgvrager thuis)",
+        "x": 15,
+        "y": 22.63874935574
+      },
+      "asset": null,
+      "caption": {
+        "body": "Tijdens het werk draag je dienstkleding.",
+        "bounds": null,
+        "label": "Afbeelding 1.9:",
+        "raw": "Afbeelding 1.9 Tijdens het werk draag je dienstkleding.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.9999999999999,
+          104.109546110365,
+          101.599695825299,
+          177.890451627385
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk1_1.9_Tijdens het werk wordt dienstkleding gedragen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk1_1.9_Tijdens%20het%20werk%20wordt%20dienstkleding%20gedragen.tif"
+      },
+      "page": {
+        "documentOffset": 25,
+        "name": "12"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

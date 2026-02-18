@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "book_id": "MBO_AF4_2024_COMMON_CORE",
+      "notes": "Sample entry (A&F N4 backbone → basisboek pipeline). Add the other 11 books here with their own template profiles and baselines.",
+      "upload_id": "5c39f5a2-7c03-4489-b8cd-cd11c0d1a29c",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_A&F_4_9789083251370_03.2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "template_profile_path": "./books/template_profiles/MBO_AF4_2024_COMMON_CORE.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_AF4_2024_COMMON_CORE"
+    },
+    {
+      "book_id": "MBO_COMMUNICATIE_9789083251387_03_2024",
+      "notes": "Template/profile entry (chapters list to be filled when we start generating this book).",
+      "upload_id": "44ea845f-ff08-4ad0-aee9-7beea969b153",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_COMMUNICATIE_9789083251387_03_2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8],
+      "template_profile_path": "./books/template_profiles/MBO_COMMUNICATIE_9789083251387_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_COMMUNICATIE_9789083251387_03_2024"
+    },
+    {
+      "book_id": "MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024",
+      "notes": "Template/profile entry (chapters list to be filled when we start generating this book).",
+      "upload_id": "aaa35d5b-9698-48a2-945d-cc7ebefd376a",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd",
+      "chapters": [1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35],
+      "template_profile_path": "./books/template_profiles/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024"
+    },
+    {
+      "book_id": "MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024",
+      "notes": "Template/profile entry (chapters list to be filled when we start generating this book).",
+      "upload_id": "eefdd6d3-6c4a-4bb4-8af5-49e339b0736a",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03.2024.indd",
+      "chapters": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      "template_profile_path": "./books/template_profiles/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024"
+    }
+    ,
+    {
+      "book_id": "MBO_METHODISCH_WERKEN_9789083251394_03_2024",
+      "notes": "Added for figure + opener extraction and per-book PDF builds (rewrites already present in new_pipeline/output/methodisch_werken).",
+      "upload_id": "d6b2b52a-7511-4c15-81ba-28e1c69dc38f",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_METHODISCH_WERKEN_9789083251394_03_2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+      "template_profile_path": "./books/template_profiles/MBO_METHODISCH_WERKEN_9789083251394_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_METHODISCH_WERKEN_9789083251394_03_2024"
+    },
+    {
+      "book_id": "MBO_WETGEVING_9789083412061_03_2024",
+      "notes": "Added for figure + opener extraction and per-book PDF builds (rewrites already present in new_pipeline/output/wetgeving).",
+      "upload_id": "588ffeac-b090-4b6b-80bd-a24af5c79ec0",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd",
+      "canonical_n4_idml_path": "./_source_exports/MBO_WETGEVING_9789083412061_03_2024__FROM_DOWNLOADS.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+      "template_profile_path": "./books/template_profiles/MBO_WETGEVING_9789083412061_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_WETGEVING_9789083412061_03_2024"
+    },
+    {
+      "book_id": "MBO_PATHOLOGIE_N4_9789083412016_03_2024",
+      "notes": "Pathologie N4 - per-chapter INDD files, uses combined canonical JSON.",
+      "upload_id": "pathologie-n4-placeholder",
+      "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Pathologie nivo 4_9789083412016_03/Pathologie_mbo_CH01_03.2024.indd",
+      "canonical_n4_idml_path": "./designs-relinked/MBO Pathologie nivo 4_9789083412016_03/Pathologie_mbo_CH01_03.2024.idml",
+      "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Pathologie nivo 4_9789083412016_03/MBO Pathologie nivo 4_9789083412016_03.2024.indb",
+      "chapters": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "template_profile_path": "./books/template_profiles/MBO_PATHOLOGIE_N4_9789083412016_03_2024.json",
+      "output_root": "~/Desktop/Generated_Books/MBO_PATHOLOGIE_N4_9789083412016_03_2024"
+    }
+  ]
+}
+
+

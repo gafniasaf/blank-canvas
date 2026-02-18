@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 56,
+    "words": 811
+  },
+  "chapter": "9",
+  "chapterRange": {
+    "endOff": 111,
+    "ok": true,
+    "startOff": 108
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:46 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Afbeelding 9.1 Aanpak van het interpreteren van gegevens.",
+        "beforeText": "",
+        "pageDocumentOffset": 108,
+        "paragraphIndexInBodyStory": 11,
+        "text": "￼",
+        "x": 531.496062992126,
+        "y": 307.559055118159
+      },
+      "asset": null,
+      "caption": {
+        "body": "Aanpak van het interpreteren van gegevens.",
+        "bounds": null,
+        "label": "Afbeelding 9.1:",
+        "raw": "Afbeelding 9.1 Aanpak van het interpreteren van gegevens.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          531.496062992126,
+          307.559055118159,
+          985.617968298673
+        ],
+        "kind": "link",
+        "linkName": "Image 2.5 Aanpak van het interpreteren van gegevens.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.5%20Aanpak%20van%20het%20interpreteren%20van%20gegevens.tif"
+      },
+      "page": {
+        "documentOffset": 108,
+        "name": "95"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij het stellen van een diagnose maak je gebruik van de gegevens van de zorgvrager. Je moet dan kijken in welk levenspatroon van de zorgvrager het probleem valt. Soms hebben zorgvragers meer dan één probleem in een levenspatroon. Bij het onderzoeken van de verschillende levenspatronen gebruiken we vaak de levenspatronen van Gordon.",
+        "pageDocumentOffset": 109,
+        "paragraphIndexInBodyStory": 17,
+        "text": "Je kan de tabel gebruiken om inzicht te krijgen in de levenspatronen van de zorgvrager.",
+        "x": 49.6062992125985,
+        "y": 42.8699645996094
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.",
+        "bounds": null,
+        "label": "Afbeelding 9.2:",
+        "raw": "Afbeelding 9.2 Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          460.905905511812,
+          49.6062992125985,
+          617.921260512303,
+          424.090960164708
+        ],
+        "kind": "link",
+        "linkName": "Image 6.7 Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.7%20Een%20verpleegkundige%20diagnose%20is%20het%20startpunt%20voor%20verpleegkundig%20handelen.tif"
+      },
+      "page": {
+        "documentOffset": 109,
+        "name": "96"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "zelfredzaamheidsradar;",
+        "pageDocumentOffset": 111,
+        "paragraphIndexInBodyStory": 45,
+        "text": "zorgleefscan.",
+        "x": 72.2834648823175,
+        "y": 159.869964599609
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van het begin van het Edmonton Symptom Assessment System (ESAS).",
+        "bounds": null,
+        "label": "Afbeelding 9.3:",
+        "raw": "Afbeelding 9.3 Voorbeeld van het begin van het Edmonton Symptom Assessment System (ESAS).",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          171.921047276774,
+          49.6062992125984,
+          273.257661267344,
+          402.030465433917
+        ],
+        "kind": "link",
+        "linkName": "Afbeelding 9.3.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Afbeelding%209.3.png"
+      },
+      "page": {
+        "documentOffset": 111,
+        "name": "98"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

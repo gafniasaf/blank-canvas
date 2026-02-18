@@ -1,0 +1,42 @@
+{
+  "b834f114-9a3f-46eb-957a-1b0074d4ba07": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch7/linked/WBF_5.15_Voorbeeldberekening.png",
+      "alt": "Afbeelding 7.1: Voorbeeldberekening.",
+      "figureNumber": "Afbeelding 7.1:",
+      "caption": "Voorbeeldberekening.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "c89fcfd1-5899-4db2-8e3f-c105d326827d": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch7/linked/WBF_5.13_Wijkverpleegkundige.jpeg",
+      "alt": "Afbeelding 7.2: Wijkverpleegkundige.",
+      "figureNumber": "Afbeelding 7.2:",
+      "caption": "Wijkverpleegkundige.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2b9d175f-dedc-4a7f-b2e3-e2a8b55a1c62": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch7/linked/WBF_2.14_Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.jpg",
+      "alt": "Afbeelding 7.3: Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.",
+      "figureNumber": "Afbeelding 7.3:",
+      "caption": "Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "85debe70-e911-42e7-9057-1bca862cc412": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch7/linked/WBF_2.7_Veel huisartsenposten werken samen met de spoedeisende hulp.jpg",
+      "alt": "Afbeelding 7.4: Veel huisartsenposten werken samen met de spoedeisende hulp.",
+      "figureNumber": "Afbeelding 7.4:",
+      "caption": "Veel huisartsenposten werken samen met de spoedeisende hulp.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

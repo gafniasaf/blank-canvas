@@ -1,0 +1,882 @@
+{
+  "metadata": {
+    "source_idml": "new_pipeline/output/canonical_ch1_with_figures.json",
+    "title": "MBO A&F 4",
+    "chapter_id": "1",
+    "version": "1.0"
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "title": "De cel",
+      "subsections": [
+        {
+          "id": "1.1.1",
+          "title": "De cel",
+          "units": [
+            {
+              "id": "eb90cc99-4153-4edc-8d79-0dca741e6712",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "18287099-457d-4e2b-85d6-6424cfa6939a",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "d0a40d84-d9c7-40aa-9c42-16cb03ba95ee",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Net als dieren zijn we levende wezens. We noemen levende wezens ook wel <<BOLD_START>>organismen<<BOLD_END>>. Alle organismen bestaan uit <<BOLD_START>>cellen<<BOLD_END>>. Dit zijn de kleinste bouwstenen van een organisme. Van deze cellen bestaan twee soorten, namelijk:",
+                  "<<BOLD_START>>prokaryoten<<BOLD_END>>. Dit zijn cellen zonder een kern. Bacteriën zijn over het algemeen prokaryoten. Ze bestaan uit één cel zonder celkern",
+                  "<<BOLD_START>>eukaryoten<<BOLD_END>>. Dit zijn cellen met een kern. Organismen waarvan de cellen een celkern bevatten zijn:"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "4b3ed994-ec31-41c0-afca-f174430da294",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "e3eec479-a2fd-498d-b8ea-8c70c0e2749f",
+                  "role": "item",
+                  "subparagraph_index": 2
+                }
+              ],
+              "content": {
+                "facts": [
+                  "mensen",
+                  "dieren",
+                  "planten",
+                  "schimmels."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "e5aef3dd-64ad-4191-94c6-e3dbd4591bd8",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "e184426e-2d8d-479d-80df-83b0894eea9d",
+                  "role": "intro",
+                  "subparagraph_index": 3
+                },
+                {
+                  "original_id": "a5e711d7-a96c-4a1e-a2eb-8c5c7d58429a",
+                  "role": "item",
+                  "subparagraph_index": 4
+                }
+              ],
+              "content": {
+                "facts": [
+                  "In je lichaam zitten verschillende cellen. Deze hebben allemaal een eigen functie. Toch lijken al je cellen veel op elkaar. Ze hebben voor het grootste deel namelijk dezelfde onderdelen.Om de buitenkant van elke cel zit een dun vliesje. Dit is de <<BOLD_START>>celmembraan<<BOLD_END>>. In al je cellen zit een vloeistof die net zo dik is als stroop. We noemen deze het <<BOLD_START>>cytoplasma<<BOLD_END>>. In deze vloeistof liggen de onderdelen van de cel. Deze heten <<BOLD_START>>organellen<<BOLD_END>>. Elk organel heeft zijn eigen speciale functie. Je kan organellen zien als een soort fabriekjes in de cel. Voorbeelden van organellen zijn:",
+                  "de celkern",
+                  "mitochondriën",
+                  "het endoplasmatisch reticulum",
+                  "ribosomen",
+                  "het Golgi-systeem",
+                  "lysosomen."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.2",
+          "title": "De celmembraan",
+          "units": [
+            {
+              "id": "d0bc582d-f6fe-4df3-8c4f-509aa57c8337",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "f19cbc4e-7624-49a7-be2c-5b2ac1d286d5",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "4e290bdd-697e-45fa-b655-49b37257a551",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Rondom elke cel in je lichaam zit een celmembraan. Dit is een dun vliesje. Het is de grens tussen de binnenkant en de buitenkant van je cellen. De ruimte binnen in de cel noemen we de <<BOLD_START>>intracellulaire ruimte<<BOLD_END>>. ‘Intra’ betekent namelijk binnen, dus ‘intracellulair’ betekent binnen in de cel. De omgeving die buiten de cel ligt, heet de <<BOLD_START>>extracellulaire ruimte<<BOLD_END>>. ‘Extra’ betekent namelijk buiten, dus ‘extracellulair’ betekent buiten de cel. De celmembraan is maar 7,5 tot 10 micrometer dun. 1 micrometer is een duizendste van 1 millimeter. 1 millimeter bestaat dus uit 1000 micrometers.De celmembraan bestaat uit:",
+                  "een dubbele laag van <<BOLD_START>>fosfolipiden<<BOLD_END>>. Dit zijn deeltjes die bestaan uit vettige en waterige stoffen. Deze zorgen samen dat stoffen die uit water bestaan en stoffen die uit vet bestaan niet zomaar door de celmembraan heen gaan. Voor fosfolipiden maakt het niet uit of ze in een waterige of een vettige omgeving zitten: ze houden van beide. Dit komt doordat ze twee kanten hebben. De ene kant houdt van water en de andere kant van vet. De kant die van water houdt, heet de <<BOLD_START>>kop<<BOLD_END>>. De kant die van vet houdt, noemen we de <<BOLD_START>>staart<<BOLD_END>>. Fosfolipiden lijken een beetje op magneten. Die hebben namelijk ook twee kanten, één plus-kant en één min-kant. De fosfolipiden in de celmembraan liggen in twee lagen boven op elkaar. Beide lagen fosfolipiden samen noemen we de <<BOLD_START>>fosfolipide dubbellaag<<BOLD_END>>. Aan de buitenkant en de binnenkant van de celmembraan zitten vloeistoffen die op water lijken. Aan beide kanten van de celmembraan zitten daarom de koppen van de fosfolipiden. Die houden namelijk van water. De staarten die van vet houden liggen tussen de koppen tegen elkaar aan. Van buiten naar binnen bestaat de celmembraan dus uit:"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "2d9229f8-6e03-4e29-a98f-8d79efb69907",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "2d7a0027-d3f5-422e-85e6-2b3aa8e09358",
+                  "role": "item",
+                  "subparagraph_index": 2
+                }
+              ],
+              "content": {
+                "facts": [
+                  "één laag koppen die van water houden",
+                  "twee lagen staarten die van vet houden",
+                  "één laag koppen die van water houden."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "5541f0c1-8fbc-4980-aa9c-fd2357609b3c",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "6603822c-b1d9-4faf-8b10-274dca384342",
+                  "role": "item",
+                  "subparagraph_index": 3
+                }
+              ],
+              "content": {
+                "facts": [
+                  "<<BOLD_START>>cholesteroldeeltjes<<BOLD_END>>. Deze liggen tussen de fosfolipiden. Cholesterol is een vettige stof. In de ene celmembraan zitten meer cholesteroldeeltjes dan in de andere celmembraan",
+                  "<<BOLD_START>>membraaneiwitten<<BOLD_END>>. Deze zorgen voor het vervoer van grote stoffen door de celmembraan heen. Dit doen ze op twee manieren. Sommige membraaneiwitten maken speciale poortjes in de celmembraan. Deze noemen we <<BOLD_START>>membraanporiën<<BOLD_END>>. Deze poortjes gaan open en dicht. Via de membraanporiën gaan stoffen de cel in en uit. Andere membraaneiwitten laten alleen stoffen door als ze daarvoor een seintje krijgen. Deze krijgen ze van hormonen of neurotransmitters. Dit zijn stoffen in je bloed en je hersenen die de membraaneiwitten de opdracht geven om open of dicht te gaan. We noemen deze soort membraaneiwitten <<BOLD_START>>receptoreiwitten<<BOLD_END>>. Receptoren zijn stoffen die seintjes ontvangen."
+                ],
+                "micro_heading": "cholesteroldeeltjes"
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "9fd422d6-0589-4290-bb9d-46d0857f0645",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "dcff155a-5188-4696-a117-975166ff9ef7",
+                  "role": "intro",
+                  "subparagraph_index": 4
+                },
+                {
+                  "original_id": "afc2abd3-1346-4265-878a-240ccb66015d",
+                  "role": "item",
+                  "subparagraph_index": 5
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De celmembraan heeft verschillende functies, namelijk:",
+                  "zorgen voor een stevige vorm van de cel",
+                  "de inhoud van je cellen bij elkaar houden. Deze celinhoud bestaat uit het cytoplasma en de organellen",
+                  "zorgen voor een hindernis tussen de binnenkant en buitenkant van de cel. Het is dus een soort muur die de cel beschermt. Hierdoor houdt de celmembraan schadelijke stoffen en ziekteverwekkers buiten de cel. Deze stoffen passen namelijk niet door de hindernis heen. Andere stoffen passen hier wel doorheen. We noemen de celmembraan ook wel een <<BOLD_START>>semipermeabel membraan<<BOLD_END>>. ‘Semi’ betekent half. ‘Permeabel’ is een ander woord voor doorlaatbaar. Semipermeabel betekent dus half doorlaatbaar. Goede stoffen kunnen wel door de celmembraan heen, maar de schadelijke stoffen en ziekteverwekkers niet. Dit betekent dus dat de celmembraan een vlies is dat sommige stoffen wel doorlaat en andere niet."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "84dfef46-dad5-4573-80ec-b9f1ac7ed50c",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "e23db1ec-418c-46ed-9138-bae280f99122",
+                  "role": "intro",
+                  "subparagraph_index": 6
+                },
+                {
+                  "original_id": "f750b57b-99a6-4b06-a123-58e948d25f3f",
+                  "role": "item",
+                  "subparagraph_index": 7
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De celmembraan regelt het vervoer van stoffen. Kleine stoffen gaan hier makkelijk doorheen, zoals:",
+                  "zuurstof",
+                  "koolstofdioxide",
+                  "water."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "a54bc474-9c9e-4624-b09b-bdad8ef42038",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "cc252091-8e1f-4d73-9083-5f21a1e8eb1a",
+                  "role": "intro",
+                  "subparagraph_index": 8
+                },
+                {
+                  "original_id": "794dfca1-2fb5-4ec9-a1e9-a7135cba65d3",
+                  "role": "item",
+                  "subparagraph_index": 9
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Grote stoffen, zoals eiwitten en suikers, moeten op een speciale manier door de celmembraan heen. Ze gaan bijvoorbeeld op een eiwit in de celmembraan zitten waar ze precies op passen. Dit eiwit laat de grote stoffen dan door de celmembraan heen de cel in gaan. Je kan de grote stoffen zien als sleutels. Het eiwit is een soort poort in de celmembraan. De poort gaat alleen open met de goede sleutel. De juiste grote stof moet dus aan het eiwit in de celmembraan binden om door deze poort de cel in te gaan.Op de buitenkant van de celmembraan zitten nog andere stoffen met een eigen functie, zoals suikers. Deze suikers zitten vast aan:",
+                  "membraaneiwitten. Samen noemen we ze <<BOLD_START>>glycoproteïnen<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘proteïne’ betekent eiwit. Glycoproteïnen zijn dus combinaties van suikers en eiwitten. Deze kunnen meerdere functies hebben. Een voorbeeld van glycoproteïnen zijn <<BOLD_START>>AB0-antigenen<<BOLD_END>>. Deze zitten op de buitenkant van rode bloedcellen. AB0-antigenen bepalen welke bloedgroep je hebt: A, B, AB of 0",
+                  "de fosfolipiden van de celmembraan. De suikers die vastzitten aan de fosfolipiden noemen we <<BOLD_START>>glycolipiden<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘lipide’ betekent vet."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "508ec492-b800-468a-9df7-eb9004067025",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "798b306b-a83e-4364-bc56-8175da1fecd9",
+                  "role": "intro",
+                  "subparagraph_index": 10
+                },
+                {
+                  "original_id": "99425b1a-51bd-4d29-b1df-07d8a5c58846",
+                  "role": "item",
+                  "subparagraph_index": 11
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Glycoproteïnen en glycolipiden zorgen voor een laag om de cel heen. Deze laag noemen we de <<BOLD_START>>glycocalyx<<BOLD_END>>. Deze zorgt:",
+                  "voor bescherming van je cellen",
+                  "dat je <<BOLD_START>>afweersysteem<<BOLD_END>> cellen herkent als een onderdeel van je lichaam. Je afweersysteem valt ziekteverwekkers aan, zoals schadelijke bacteriën. Deze horen niet in je lichaam thuis."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "032021fd-fb39-4e44-839d-fc9577fd45be",
+              "type": "prose",
+              "n4_mapping": [
+                {
+                  "original_id": "d783eafe-09c7-4608-919a-6e4a419cea42",
+                  "role": "body",
+                  "subparagraph_index": 12
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Glycoproteïnen zorgen ook nog voor <<BOLD_START>>contactremming<<BOLD_END>>. Dit betekent dat je cellen stoppen met delen als hun glycocalyx de glycocalyx van een andere cel aanraakt. Hierdoor delen je cellen niet verder als ze hier geen ruimte meer voor hebben. Bij kanker werkt contactremming niet meer goed. Cellen blijven dan delen, ook als de ruimte vol is. We noemen dit <<BOLD_START>>wildgroei<<BOLD_END>>."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.3",
+          "title": "De celkern",
+          "units": [
+            {
+              "id": "e50c560a-71b0-453a-9815-069bd5701c5f",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "fa8b0628-2971-447f-aedd-f95d7bb9d77a",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "a211d9fe-bd29-411b-af09-8c2a5c596bcb",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De organellen van een cel zijn allemaal verschillende onderdelen die een verschillende functie hebben. Je kan de organellen van een cel vergelijken met de organen in je lichaam. Een van de organellen in een cel is de <<BOLD_START>>celkern<<BOLD_END>> (nucleus). Deze heeft de vorm van een bolletje. De celkern is ongeveer 10% van de totale inhoud van een cel.Onderdelen van de celkern zijn:",
+                  "het <<BOLD_START>>nucleoplasma<<BOLD_END>>. Dit is net als het cytoplasma een vloeistof die op stroop lijkt",
+                  "het <<BOLD_START>>DNA<<BOLD_END>>. Dit staat voor <<BOLD_START>>desoxyribonucleïnezuur<<BOLD_END>>. DNA is <<BOLD_START>>erfelijk materiaal<<BOLD_END>>. Dit betekent dat je het van je ouders hebt gekregen. Je DNA is een code die bijvoorbeeld de kleur van je ogen, haren en huid bepaalt. Je kan het zien als een soort recept in een kookboek. DNA ligt in het nucleoplasma",
+                  "<<BOLD_START>>chromosomen<<BOLD_END>>. Deze liggen ook in het nucleoplasma. Chromosomen zijn eiwitten waar je DNA op ligt. Ze bestaan uit twee poten die in het midden aan elkaar vastzitten. Hierdoor hebben ze een soort X-vorm. Beide poten hebben hetzelfde DNA. Als één cel zich deelt in twee cellen, verdelen de twee poten van een chromosoom zich over de twee cellen. Zo krijgt elke nieuwe cel hetzelfde DNA als de cel waaruit deze ontstaan is",
+                  "één of meerdere <<BOLD_START>>kernlichamen<<BOLD_END>>. Dit zijn organellen die eiwitten maken. Deze eiwitten zijn nodig voor de opbouw van verschillende onderdelen van je cellen",
+                  "de <<BOLD_START>>kernenvelop<<BOLD_END>>. Deze ligt om de celkern heen. De kernenvelop is een dun vliesje dat net als de celmembraan bestaat uit een dubbele laag. Het is de grens tussen de celkern en het cytoplasma. In de kernenvelop zitten kleine gaatjes. Deze noemen we <<BOLD_START>>kernporiën<<BOLD_END>>. Door deze gaatjes bewegen stoffen zich tussen de celkern en het cytoplasma."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "b3211640-564d-472c-92fe-898342e88da7",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "adf946f5-4739-4fa6-9fc8-0a33725272d1",
+                  "role": "intro",
+                  "subparagraph_index": 2
+                },
+                {
+                  "original_id": "0aef29a4-4612-447b-95bd-730e0561e3fe",
+                  "role": "item",
+                  "subparagraph_index": 3
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De celkern heeft meerdere functies, zoals:",
+                  "DNA, RNA en eiwitten opslaan",
+                  "de groei en deling van de cel regelen",
+                  "RNA uitwisselen tussen de celkern en de rest van de cel",
+                  "regelen welke genen ‘aan’ staan en welke ‘uit’ staan. Een <<BOLD_START>>gen<<BOLD_END>> is een stukje DNA dat één eiwit maakt. Genen staan soms uit en soms aan. Ze maken alleen eiwitten als ze aan staan",
+                  "je DNA over twee cellen verdelen tijdens de <<BOLD_START>>celdeling<<BOLD_END>>. Hierbij wordt één cel opgesplitst in twee cellen",
+                  "<<BOLD_START>>transcriptie<<BOLD_END>>. Dit betekent dat de celkern een kopie maakt van een stukje DNA. Deze kopie noemen we <<BOLD_START>>mRNA<<BOLD_END>>. De ‘m’ staat voor ‘messenger’. Dit betekent boodschapper. mRNA bevat de boodschap om eiwitten te maken. Vanuit mRNA maakt je lichaam dus eiwitten",
+                  "eiwitten maken die nodig zijn voor de groei van de cel",
+                  "de <<BOLD_START>>stofwisseling<<BOLD_END>> in de cel regelen. Stofwisseling is een proces waarbij een stof wordt omgezet in een andere stof. Dit gebeurt meestal in een aantal stappen."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.4",
+          "title": "De mitochondriën",
+          "units": [
+            {
+              "id": "00ce1aea-04c6-407a-ad64-82f2c8ec0946",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "b8f18678-440d-401d-8966-965b2829eab4",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "3f4a3f96-b96a-4ffd-ad6f-514aaaf325c4",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Eén van de soorten organellen in je cellen zijn de <<BOLD_START>>mitochondriën<<BOLD_END>>. Dit zijn de energiecentrales van je cellen. Ze maken namelijk energie die je cellen nodig hebben om goed te werken. Mitochondriën hebben de vorm van een dikke staaf. Ze zijn ongeveer één micrometer groot. In bijna elke cel zitten wel mitochondriën. Vooral cellen die heel actief zijn hebben veel mitochondriën. Deze cellen hebben namelijk veel energie nodig.De mitochondriën hebben twee vliezen die we ook wel <<BOLD_START>>membranen<<BOLD_END>> noemen. Aan de buitenkant hebben de mitochondriën een gladde membraan. Aan de binnenkant hebben ze een membraan met veel plooien. Die plooien noemen we <<BOLD_START>>cristae<<BOLD_END>>. Ze maken het oppervlak van de binnenste membraan groter. Als je de plooien namelijk uit zou rekken, heb je een veel groter stuk membraan dan als deze geen plooien zou hebben. Doordat de binnenste membraan groter is, kunnen de mitochondriën meer energie aanmaken.De mitochondriën bestaan uit twee delen, namelijk de:",
+                  "<<BOLD_START>>intermembraanruimte<<BOLD_END>>. Dit is de ruimte tussen de buitenste en de binnenste membraan van de mitochondriën",
+                  "<<BOLD_START>>mitochondriale matrix<<BOLD_END>>. Dit zit aan de binnenkant van de binnenste membraan van de mitochondriën. Hierin zitten:"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "700085c8-0139-4f0d-af4e-3399751e5093",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "ce4f9bc9-fdbd-4f55-a3d2-da8709ff5d56",
+                  "role": "item",
+                  "subparagraph_index": 2
+                }
+              ],
+              "content": {
+                "facts": [
+                  "verschillende soorten <<BOLD_START>>enzymen<<BOLD_END>>. Dit zijn eiwitten die processen in je lichaam mogelijk maken of versnellen",
+                  "<<BOLD_START>>mitochondriaal DNA<<BOLD_END>>. Dit is het erfelijke materiaal in de mitochondriën",
+                  "<<BOLD_START>>ribosomen<<BOLD_END>>. Dit zijn organellen die eiwitten maken."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "e10566a0-e262-41ff-9543-9ee561093f81",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "30a9e5f6-ddd8-4efd-b3bd-f38a9d2cc2ca",
+                  "role": "intro",
+                  "subparagraph_index": 3
+                },
+                {
+                  "original_id": "e3e1ed44-9750-455c-b1f6-acfc3291c580",
+                  "role": "item",
+                  "subparagraph_index": 4
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Mitochondriën maken energie uit voedingsstoffen die ze verbranden, zoals suikers. Voor die verbranding hebben ze zuurstof nodig. De verbranding van voedingsstoffen met zuurstof noemen we <<BOLD_START>>aerobe dissimilatie<<BOLD_END>>. ‘Aeroob’ betekent namelijk met zuurstof. ‘Dissimilatie’ is een ander woord voor verbranding. Je lichaam heeft voor deze verbranding de <<BOLD_START>>citroenzuurcyclus<<BOLD_END>> nodig. Dit is een ingewikkeld proces met allerlei stofjes. Door het afbreken van suikers ontstaat uiteindelijk het stofje <<BOLD_START>>ATP<<BOLD_END>>. Dit is adenosinetrifosfaat. ATP bevat energie voor de cellen. Dit stofje is nodig, omdat energie die direct uit suikers vrijkomt:",
+                  "te veel energie in één keer bevat",
+                  "voor een deel verloren gaat als warmte."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "54fe6261-5361-462a-876c-eaed8d6329a7",
+              "type": "prose",
+              "n4_mapping": [
+                {
+                  "original_id": "a10b4a0a-ffeb-4a1a-9e6f-2f364e8efe10",
+                  "role": "body",
+                  "subparagraph_index": 5
+                }
+              ],
+              "content": {
+                "facts": [
+                  "In ATP wordt de energie uit suikers tijdelijk opgeslagen. Als je lichaam dan energie nodig heeft, kan het deze halen uit de voorraad energie uit ATP."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "7e145f81-f5ef-4a9d-aebd-1b14c30e27f9",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "6f93d14e-ab8e-46ac-a70e-da63349280b0",
+                  "role": "intro",
+                  "subparagraph_index": 6
+                },
+                {
+                  "original_id": "3f19b371-5270-4f10-8535-7aa6146e888e",
+                  "role": "item",
+                  "subparagraph_index": 7
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De mitochondriën maken tijdens de citroenzuurcyclus ATP door adenosinedifosfaat (ADP) en fosfaat (P) aan elkaar te binden. Dit kost energie. De formule om ATP te maken is: ADP + P + energie à ATP.De mitochondriën pompen ATP het cytoplasma in. Daar valt ATP weer uit elkaar tot ADP en P. Hierbij komt veel energie vrij die de cel gebruikt. In het cytoplasma is de formule van de afbraak van ATP: ATP à ADP + P + energie. Bij deze reactie komt dus energie vrij.De belangrijkste functie van de mitochondriën is energie maken. Andere functies zijn:",
+                  "helpen bij het maken van onderdelen van je bloed",
+                  "helpen bij het maken van hormonen, zoals testosteron en oestrogeen",
+                  "het stofje ammoniak afbreken. Dit doen alleen de mitochondriën in de cellen van je lever",
+                  "een <<BOLD_START>>geprogrammeerde celdood<<BOLD_END>> regelen. Dit noemen we ook wel <<BOLD_START>>apoptose<<BOLD_END>>. Hierbij gaan cellen op een gecontroleerde manier dood zonder dat dit veel troep geeft."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.5",
+          "title": "Het endoplasmatisch reticulum",
+          "units": [
+            {
+              "id": "eabf76ba-0693-422a-a896-dd81edb01074",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "167ce74e-bfba-42d4-93c4-3a3f2f34ca9a",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "8e3f9c78-1abd-4dab-9a8f-9e13935482d3",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> is een organel dat alleen in de cellen van eukaryoten zit. Dit zit bijvoorbeeld in de cellen van mensen, dieren, planten en schimmels, maar niet in die van bacteriën. Het endoplasmatisch reticulum ligt in het cytoplasma. Het bestaat uit een netwerk van:",
+                  "buisjes. Die noemen we ook wel <<BOLD_START>>tubuli<<BOLD_END>>",
+                  "zakjes. Die heten ook wel <<BOLD_START>>cisternae<<BOLD_END>>."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "eba3c8c8-4dcd-4e36-aa28-8034c0eb8497",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "6d59527e-e42a-4904-a5ec-0755fc04ec28",
+                  "role": "intro",
+                  "subparagraph_index": 2
+                },
+                {
+                  "original_id": "6d1c5c34-eb4a-4b04-ae12-1000835030bf",
+                  "role": "item",
+                  "subparagraph_index": 3
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Het endoplasmatisch reticulum is eigenlijk één hele grote membraan. Het is meer dan de helft van de totale hoeveelheid membranen die in je cellen zitten, zoals de celmembraan. Het endoplasmatisch reticulum zit vast aan de kernmembraan. Dit is de membraan rondom de celkern. Het endoplasmatisch reticulum bestaat uit twee onderdelen, namelijk het:",
+                  "<<BOLD_START>>ruwe endoplasmatisch reticulum<<BOLD_END>>. Deze membraan is aan de buitenkant ruw door de <<BOLD_START>>ribosomen<<BOLD_END>> die hierop zitten. Dit zijn organellen die eiwitten maken. De belangrijkste functie van het ruwe endoplasmatisch reticulum is het vervoeren van eiwitten",
+                  "<<BOLD_START>>gladde endoplasmatisch reticulum<<BOLD_END>>. Hier zitten geen ribosomen aan de buitenkant. Daardoor is deze membraan glad. Het gladde endoplasmatisch reticulum heeft veel verschillende functies. Die verschillen wel voor verschillende soorten cellen. De belangrijkste functies van het gladde endoplasmatisch reticulum zijn:"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "a6554b78-af2b-4ce8-a201-a4d590f15124",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "d2fa4cb7-a7e3-4ce7-b9ef-4973b558fcae",
+                  "role": "item",
+                  "subparagraph_index": 4
+                }
+              ],
+              "content": {
+                "facts": [
+                  "bepaalde suikers maken",
+                  "medicijnen en gifstoffen opruimen",
+                  "de stof calcium opslaan",
+                  "stofwisseling",
+                  "helpen bij het samentrekken van spieren. Dit doet het gladde endoplasmatisch reticulum door calcium af te geven in je spiercellen."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "fd427c1f-1f9c-4b80-b42d-cc3cd4966490",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "9d9cb86a-6a9f-4e0e-a3fa-6e42e8e35ebd",
+                  "role": "intro",
+                  "subparagraph_index": 5
+                },
+                {
+                  "original_id": "6e0e5636-71c3-4c4b-a613-9c2b39a77338",
+                  "role": "item",
+                  "subparagraph_index": 6
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Andere functies van het endoplasmatisch reticulum zijn:",
+                  "bepaalde suikers naar andere organellen in de cel brengen",
+                  "zorgen dat de totale hoeveelheid membranen in je cellen groter wordt. Dit komt doordat het endoplasmatisch reticulum net als de mitochondriën plooien heeft. Hierdoor gaan verschillende processen in het endoplasmatisch reticulum makkelijker en sneller",
+                  "het maken van de kernmembraan tijdens de celdeling. Hierbij wordt van één cel twee cellen gemaakt. Die cellen hebben allebei een kernmembraan nodig. Het endoplasmatisch reticulum maakt deze kernmembranen"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "a1d4b1f2-9377-4e9e-ab1e-12cc56f9ece0",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "d3b876b4-a8f1-4f0e-ae16-7374f26bac83",
+                  "role": "item",
+                  "subparagraph_index": 7
+                }
+              ],
+              "content": {
+                "facts": [
+                  "bepaalde stoffen maken, zoals:"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "c5c20659-9e81-4945-93aa-f13748e7f9c9",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "0dabde5f-ed44-4817-b1e8-b235db848d0d",
+                  "role": "item",
+                  "subparagraph_index": 8
+                }
+              ],
+              "content": {
+                "facts": [
+                  "eiwitten",
+                  "vetten",
+                  "suikers",
+                  "<<BOLD_START>>steroïden<<BOLD_END>>. Dit zijn vettige stoffen, zoals cholesterol. De hormonen progesteron en testosteron zijn ook steroïden."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.6",
+          "title": "De ribosomen",
+          "units": [
+            {
+              "id": "f6b75a64-d332-4448-ac62-63068d35b7de",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "c94b25dc-3681-4797-a6c5-6a4ad51d853c",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "b7a51167-8e2e-4dc4-a2e1-09d3b228c88e",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Ribosomen maken eiwitten aan. Ze bestaan uit twee delen: één groot deel en één klein deel. Elk deel bestaat uit:",
+                  "<<BOLD_START>>ribosomaal RNA.<<BOLD_END>> Dit noemen we ook wel <<BOLD_START>>rRNA<<BOLD_END>>. Dit is een vorm van RNA dat als onderdeel van een ribosoom eiwitten maakt. rRNA is 60% van de ribosomen",
+                  "eiwit. Dit is 40% van de ribosomen."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "19d954d4-065d-4b40-8f0c-15a1330c6db3",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "a37e6deb-b288-4eb2-a015-cdababf30efa",
+                  "role": "intro",
+                  "subparagraph_index": 2
+                },
+                {
+                  "original_id": "4c2d8896-3ca9-4a78-8530-e297551e5773",
+                  "role": "item",
+                  "subparagraph_index": 3
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Sommige cellen maken veel eiwitten. Ze hebben dan ook veel ribosomen. Deze ribosomen hebben geen membranen om zich heen. Ze zijn ook veel kleiner dan andere organellen. We onderscheiden twee soorten ribosomen met elk een eigen functie. Dit zijn:",
+                  "ribosomen op het ruwe endoplasmatisch reticulum. Dit zijn de meeste ribosomen die samen ook de meeste eiwitten maken. Deze eiwitten gaan uiteindelijk de cel uit. Ze komen dan in de extracellulaire ruimte terecht",
+                  "<<BOLD_START>>vrije ribosomen<<BOLD_END>>. Dit zijn ribosomen die vrij rondzweven in je cellen. Ze maken vooral de eiwitten die de cel zelf gebruikt."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.7",
+          "title": "De lysosomen",
+          "units": [
+            {
+              "id": "4a4cb718-a987-4ed8-a267-5d62cd2511d5",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "c9acb8cf-1170-41ea-88df-b81861f592b7",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "f811aef6-d252-41a1-9895-6b9f1b178181",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Een <<BOLD_START>>lysosoom<<BOLD_END>> is een klein, bol blaasje in het cytoplasma. In dit blaasje zitten verschillende soorten <<BOLD_START>>enzymen<<BOLD_END>>. Dit zijn eiwitten die processen in je lichaam mogelijk maken of versnellen. Enzymen in de lysosomen breken bepaalde stoffen in je cellen af. Ze werken het beste in een zure omgeving. Het cytoplasma is alleen niet zuur. Je wilt dus liever niet dat de enzymen in het cytoplasma terechtkomen, omdat ze daarin minder goed werken. Omdat enzymen van een zure omgeving houden, heeft het lysosoom een membraan. Dit noemen we het <<BOLD_START>>lysosoommembraan<<BOLD_END>>. Het zorgt dat de enzymen in het lysosoom het cytoplasma niet aanraken.De functies van de lysosomen zijn:",
+                  "de cel helpen bij het afbreken van stoffen die via endocytose de cel in zijn gekomen. <<BOLD_START>>Endocytose<<BOLD_END>> is het opnemen van stoffen van buiten de cel door ze in te sluiten in de celmembraan. Dit gebeurt via blaasjes die de cel maakt van stukjes celmembraan die over zijn. De celmembraan stulpt dan uit richting de binnenkant van de cel. Als in die uitstulping voedingsstoffen gaan zitten, komt dit deel van de celmembraan los als een blaasje. Dit blaasje gaat richting de binnenkant van de cel. De stoffen die een cel via endocytose opneemt, zijn vaak schadelijke stoffen of ziekteverwekkers, zoals bacteriën. Het is belangrijk dat deze stoffen op een goede manier afgebroken worden",
+                  "de opslag en het vervoer van schadelijke stoffen",
+                  "het opnieuw gebruiken van afvalstoffen. Denk hierbij aan afvalstoffen van oude organellen of dode bacteriën. Deze afvalstoffen worden door lysosomen zo ver afgebroken dat ze als nieuwe bouwstenen voor de cel gebruikt kunnen worden",
+                  "afvalstoffen veilig buiten de cel afgeven."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.8",
+          "title": "De spoellichaampjes",
+          "units": [
+            {
+              "id": "c5b21544-4ee4-4a04-ad6e-ac81e1646b65",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "c94707a4-28a3-4615-91c9-28dc2345ef78",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "9b5aea63-1d73-48be-b87e-e7a164001d27",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "<<BOLD_START>>Spoellichaampjes<<BOLD_END>> zijn organellen die in het cytoplasma zitten. We noemen ze ook wel <<BOLD_START>>centrosomen<<BOLD_END>>. Ze liggen vlak bij de celkern. Alleen mensen en dieren hebben spoellichaampjes. Planten en schimmels hebben ze niet.Een spoellichaampje bestaat uit twee onderdelen. Deze noemen we de <<BOLD_START>>centriolen<<BOLD_END>>. De twee centriolen staan loodrecht op elkaar. Dit betekent dat de ene van boven naar beneden staat en de andere van links naar rechts. Een centriool bestaat uit eiwitstaven die in een rondje liggen. Je kan deze vorm vergelijken met de schoepen van een watermolen.De spoellichaampjes:",
+                  "spelen een belangrijke rol bij de celdeling. Wanneer een cel gaat delen, gaan de spoellichaampjes naar twee verschillende kanten van een cel. De spoellichaampjes liggen dus uit elkaar, maar wel tegenover elkaar. Ze zorgen daar voor draden die de <<BOLD_START>>spoelfiguur<<BOLD_END>> maken. De spoelfiguur is een combinatie van spoellichaampjes en eiwitdraden die daartussen lopen. De spoellichaampjes aan beide kanten van de cel trekken aan deze draden. Hierdoor trekken de eiwitdraden de cel uit elkaar zodat twee nieuwe cellen ontstaan"
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "da7250bc-336c-45f0-b8dc-81fc670691df",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "242e967a-8e27-4fe0-9ec7-ea5ad12ef156",
+                  "role": "item",
+                  "subparagraph_index": 2
+                }
+              ],
+              "content": {
+                "facts": [
+                  "zorgen dat het cytoplasma ook deelt tijdens de celdeling. Dit proces noemen we <<BOLD_START>>cytokinese<<BOLD_END>>. Zo komt evenveel cytoplasma in elk van de twee nieuwe cellen",
+                  "geven signalen aan de twee nieuwe cellen om aan hun leven te beginnen. Dit leven noemen we ook wel de <<BOLD_START>>celcyclus<<BOLD_END>>",
+                  "regelen dat de cel <<BOLD_START>>microtubuli<<BOLD_END>> maakt. Dit zijn eiwitten in de vorm van een buis. Ze liggen in een netwerk dat lijkt op een spinnenweb. Dit noemen we ook wel het <<BOLD_START>>cytoskelet<<BOLD_END>>, wat zorgt dat cellen hun vorm vasthouden."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        },
+        {
+          "id": "1.1.9",
+          "title": "Het Golgi-systeem",
+          "units": [
+            {
+              "id": "546febce-ffa6-4730-b3a1-90957982e05f",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "dbdb40d5-1c3a-4909-8a23-778de4a00c2d",
+                  "role": "intro",
+                  "subparagraph_index": 0
+                },
+                {
+                  "original_id": "bfbe32ed-beb6-4228-91ee-23b11492d640",
+                  "role": "item",
+                  "subparagraph_index": 1
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Het Golgi-systeem is een organel in het cytoplasma. Andere namen hiervoor zijn het:",
+                  "Golgicomplex",
+                  "Golgi-apparaat",
+                  "Golgi-lichaam."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "d6a0ef46-df32-4b0a-8626-6419b84cd76c",
+              "type": "composite_list",
+              "n4_mapping": [
+                {
+                  "original_id": "fc616384-4df1-4703-a14b-50dc7864d135",
+                  "role": "intro",
+                  "subparagraph_index": 2
+                },
+                {
+                  "original_id": "d5901a17-7e36-4908-a45d-172b13b65c2a",
+                  "role": "item",
+                  "subparagraph_index": 3
+                }
+              ],
+              "content": {
+                "facts": [
+                  "De cellen van mensen, planten en dieren hebben allemaal een Golgi-systeem. Dit ligt vlak bij de celkern en het endoplasmatisch reticulum. Het Golgi-systeem bestaat uit verschillende lagen met zakken vol vloeistof. Om die zakken heen zit een vlies. We noemen de zakken vol vloeistof ook wel <<BOLD_START>>cisternae<<BOLD_END>>. Elke zak is een platte schijf die is gevuld met <<BOLD_START>>Golgi-enzymen<<BOLD_END>>. Deze enzymen helpen bij het veranderen van eiwitten die door het Golgi-systeem worden vervoerd. Met veranderen bedoelen we:",
+                  "het aanpassen van nieuwe eiwitten",
+                  "het sorteren van nieuwe eiwitten",
+                  "het verdelen van nieuwe eiwitten."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "88ccebaf-e6d7-4804-b1da-6a759d3608b2",
+              "type": "prose",
+              "n4_mapping": [
+                {
+                  "original_id": "e972f46f-d0be-4e1d-8ea5-fd7505fa1225",
+                  "role": "body",
+                  "subparagraph_index": 4
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Dit zijn de belangrijkste functies van het Golgi-systeem. Bij plantencellen maakt het Golgi-systeem ook nog bepaalde suikers die belangrijk zijn voor de wand van de cel."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            },
+            {
+              "id": "88dec5e6-4d98-4743-8c7c-28f191930590",
+              "type": "prose",
+              "n4_mapping": [
+                {
+                  "original_id": "ca0ec20a-9239-45b4-a81b-e6e48ba6aa19",
+                  "role": "body",
+                  "subparagraph_index": 5
+                }
+              ],
+              "content": {
+                "facts": [
+                  "Het Golgi-systeem krijgt nieuwe eiwitten van het endoplasmatisch reticulum. Het deel van het Golgi-systeem dat deze eiwitten krijgt, heet de <<BOLD_START>>cis-kant<<BOLD_END>>. Het Golgi-systeem voegt bepaalde stoffen aan deze eiwitten toe of haalt ze daar juist vanaf. Voorbeelden van deze stoffen zijn koolwaterstoffen en fosfaten. Hierna sorteert het Golgi-systeem de aangepaste eiwitten om naar andere delen van de cel te gaan. Deze eiwitten verlaten het Golgi-systeem in blaasjes aan de <<BOLD_START>>trans-kant<<BOLD_END>>. Dit is de andere kant van het Golgi-systeem dan de cis-kant. De eiwitten gaan vanaf daar naar andere delen van de cel of naar de extracellulaire ruimte."
+                ]
+              },
+              "placement": {
+                "anchor_type": "flow"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

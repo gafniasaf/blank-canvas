@@ -1,0 +1,191 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 4849
+  },
+  "chapter": "2",
+  "chapterRange": {
+    "endOff": 48,
+    "ok": true,
+    "startOff": 36
+  },
+  "exportedAt": "Sat Jan 03 2026 22:39:51 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "uiteindelijk beslist de directie wat met de klacht gebeurt. Zij zijn dus verantwoordelijk voor de eventuele maatregelen;",
+        "pageDocumentOffset": 37,
+        "paragraphIndexInBodyStory": 466,
+        "text": "het is van belang dat de klacht binnen vier weken helemaal is afgehandeld.",
+        "x": 107.999999830458,
+        "y": 62.1770390404601
+      },
+      "asset": null,
+      "caption": {
+        "body": "Omgaan met klachten.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Omgaan met klachten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          71.3952103367559,
+          102.000001102024,
+          109.290635173357,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk2_2.1_Omgaan met klachten.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk2_2.1_Omgaan%20met%20klachten.tif"
+      },
+      "page": {
+        "documentOffset": 37,
+        "name": "24"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Bedrijven en instellingen maken een eigen plan dat alle hygiënische werkprocessen beschrijft. Dit doen zij op basis van zeven kernpunten. Zo’n plan noemen we een hygiënecode of -richtlijn. Een voorbeeld van zo’n hygiënecode is de ‘Hygiënecode voor de voedingsverzorging in zorginstellingen en Defensie’ die onder andere in alle grote ziekenhuizen geldt.",
+        "beforeText": "Het HACCP-systeem bestaat om mogelijke momenten van infectie of mogelijke bronnen van infectie op te sporen. We noemen deze risicomomenten en bronnen CCP’s: Critical Control Points. Het bewaren van voedsel is bijvoorbeeld een mogelijke CCP, want daarbij kan makkelijk iets fout gaan. Het doel van de HACCP is dat we momenten waarop de hygiëne mogelijk in gevaar komt leren te herkennen. Om de voedselveiligheid op deze risicomomenten te verzekeren, wordt vervolgens een plan gemaakt.",
+        "pageDocumentOffset": 38,
+        "paragraphIndexInBodyStory": 475,
+        "text": "De HACCP is dus geen vaste handleiding met algemene voorschriften om je aan te houden. We kunnen de CCP wel gebruiken om valkuilen op te sporen en een plan te maken om deze valkuilen minder gevaarlijk te maken.",
+        "x": 210,
+        "y": 138.048554738363
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch2/Afbeelding_2.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Verschillende bacteriën.",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Verschillende bacteriën.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch2/Afbeelding_2.2.png",
+        "bounds": [
+          148.190559023615,
+          215.500540790952,
+          240.581080184563,
+          354.882792542382
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk2_2.2_Verschillende bacterien.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk2_2.2_Verschillende%20bacterien.tif"
+      },
+      "page": {
+        "documentOffset": 38,
+        "name": "25"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿2.3.1  Veiligheid van de zorgvrager",
+        "beforeText": "Het gaat bij incidenten dus niet alleen over gebeurtenissen die directe gevolgen hebben voor de zorgvrager. Het telt ook als een gebeurtenis tot schade zou kunnen leiden, maar dit niet heeft gedaan. Dit is bijvoorbeeld een situatie waarin een zorgprofessional per ongeluk de verkeerde dosis medicijnen wil geven, maar wordt gecorrigeerd door een oplettende collega. Door de gebeurtenis krijgt de zorgvrager geen schade. Maar, als de collega-zorgprofessional niet zo oplettend was geweest, had wel schade kunnen ontstaan.",
+        "pageDocumentOffset": 39,
+        "paragraphIndexInBodyStory": 489,
+        "text": "Voor de veiligheid van de zorgvrager is het voorkomen van incidenten erg belangrijk. Hiervoor bestaat in Nederland een programma, het veiligheidsmanagementsysteem (VMS). We gebruiken het VMS in de zorg om te onderzoeken hoe incidenten ontstaan en hoe we ze in de toekomst kunnen voorkomen.",
+        "x": 102,
+        "y": 91.8714834849041
+      },
+      "asset": null,
+      "caption": {
+        "body": "Kernpunten van hygiëne.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Kernpunten van hygiëne.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          125.784099225646,
+          15.0000011020236,
+          188.241239678532,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk2_2.3_Kernpunten van hygiene.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk2_2.3_Kernpunten%20van%20hygiene.tif"
+      },
+      "page": {
+        "documentOffset": 39,
+        "name": "26"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een fataal incident, zeer ernstig incident of ernstig incident. De zorgprofessional bij wie het incident gebeurd is, vertelt de raad van bestuur binnen acht uur over het incident. Daarnaast doet hij of zij zo snel mogelijk verslag van de gegevens van dit incident aan de raad van bestuur en het management;",
+        "pageDocumentOffset": 41,
+        "paragraphIndexInBodyStory": 519,
+        "text": "een minder ernstig incident en bijna- incident. Het management doet elk kwartaal verslag van al deze incidenten aan de raad van bestuur.",
+        "x": 21.0000000726912,
+        "y": 129.122082689074
+      },
+      "asset": null,
+      "caption": {
+        "body": "Incidenten moeten gemeld worden.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Incidenten moeten gemeld worden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          143.27914287426,
+          24.4452229181925,
+          195.387564066516,
+          83.5547755566259
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk2_2.4_Incidenten moeten gemeld worden.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk2_2.4_Incidenten%20moeten%20gemeld%20worden.tif"
+      },
+      "page": {
+        "documentOffset": 41,
+        "name": "28"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "onduidelijke signalen. Het is soms lastig om te bepalen of iets mishandeling is of niet. Je eigen achtergrond speelt hierbij ook een rol. De ene zorgprofessional zal sneller een grens trekken dan de andere. Hierdoor kan herkennen van mishandeling lastiger worden.",
+        "beforeText": "te weinig kennis. Je herkent mishandeling makkelijk als je weet welke vormen van mishandeling bestaan. Psychische mishandeling kan bijvoorbeeld moeilijk te herkennen zijn als je niet weet dat ook dit mishandeling is;",
+        "pageDocumentOffset": 44,
+        "paragraphIndexInBodyStory": 565,
+        "text": "je bewust zijn van de mogelijkheid van mishandeling. Soms denken zorgprofessionals dat mishandeling in hun zorginstelling of bij hun zorgvragers niet gebeurt. Door dit soort gedachten zal je het minder snel doorhebben als mishandeling toch gebeurt. Het is daarom belangrijk dat je probeert open te staan voor de gedachte dat mishandeling overal kan gebeuren;",
+        "x": 215.999999830458,
+        "y": 157.98874935574
+      },
+      "asset": null,
+      "caption": {
+        "body": "Als je een officiële melding doet bij Veilig Thuis, neemt Veilig Thuis de leiding over de procedure over.",
+        "bounds": null,
+        "label": "Afbeelding 2.5:",
+        "raw": "Afbeelding 2.5 Als je een officiële melding doet bij Veilig Thuis, neemt Veilig Thuis de leiding over de procedure over.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          167.72783714577,
+          297.000001102024,
+          212.236928054861,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk2_2.5_Logo Veilig Thuis.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk2_2.5_Logo%20Veilig%20Thuis.jpg"
+      },
+      "page": {
+        "documentOffset": 44,
+        "name": "31"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

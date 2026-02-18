@@ -1,0 +1,723 @@
+/**
+ * Prince CSS: A&F-inspired two-column textbook layout (not pixel-perfect).
+ *
+ * Goals:
+ * - Two-column body like the InDesign book
+ * - Headings and figures can span both columns
+ * - Figure captions render as: **Afbeelding X.Y:** caption body
+ * - Stable, deterministic print output (Prince XML)
+ *
+ * Notes:
+ * - Aim for InDesign parity; avoid decorative flourishes that aren't in the source.
+ */
+
+/* =========================
+   Font Embedding (open fonts)
+   ========================= */
+@font-face {
+  font-family: "Source Sans 3";
+  src: local("Source Sans 3"), local("SourceSans3-Regular"), local("Source Sans Pro");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: local("Source Sans 3 Bold"), local("SourceSans3-Bold"), local("Source Sans Pro Bold");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Source Sans 3";
+  src: local("Source Sans 3 Italic"), local("SourceSans3-Italic"), local("Source Sans Pro Italic");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Source Serif 4";
+  src: local("Source Serif 4"), local("SourceSerif4-Regular"), local("Source Serif Pro");
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  --page-width: 195mm;
+  --page-height: 265mm;
+
+  --margin-top: 20mm;
+  --margin-bottom: 22mm;
+  --margin-inner: 22mm;
+  --margin-outer: 18mm;
+
+  /* Use open fonts: Source Sans 3 for sans, Source Serif 4 for body */
+  --font-body: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  --font-sans: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+
+  --text: #111;
+  --muted: #555;
+  --rule: #c9c9c9;
+  --accent: #2d7a4e; /* VP groen approximation */
+
+  --body-size: 12pt;
+  --body-leading: 1.25;
+
+  --h1: 26pt;
+  --h2: 18pt;
+  --h3: 14pt;
+
+  --p-space-after: 2mm;
+  /* Extra breathing room between text blocks in Prince (does not affect InDesign pipeline). */
+  --p-space-after-extra: 0.8mm;
+  --block-gap: calc(var(--p-space-after) + var(--p-space-after-extra));
+
+  /* Paragraph-style driven spacing (token-generated where possible). */
+  --h2-space-before: 8mm;
+  --h2-space-after: 3mm;
+  --h3-space-before: 5mm;
+  --h3-space-after: 2mm;
+  /* Small aesthetic tweak: give subparagraph titles a bit more air than InDesign tokens */
+  --h3-space-before-scale: 1.25;
+  --steps-space-after-token: 2mm;
+  --steps-space-after: calc(var(--steps-space-after-token) + var(--p-space-after-extra));
+
+  /* =========================
+     Praktijk / Verdieping box styling (textbook)
+     - Flat (no gradients), print-friendly tints
+     - Classic line icons (embedded SVG; no emoji/web look)
+     ========================= */
+  --praktijk-bg: cmyk(10%, 0%, 10%, 0%);        /* light grey-green */
+  --praktijk-border: cmyk(22%, 0%, 22%, 0%);
+  --praktijk-accent: var(--accent);
+
+  --verdieping-bg: cmyk(0%, 10%, 14%, 0%);      /* light warm reddish */
+  --verdieping-border: cmyk(0%, 22%, 28%, 0%);
+  --verdieping-accent: cmyk(0%, 60%, 70%, 25%);
+
+  /* Marker-to-text spacing */
+  --bullet-marker-gap: 1.2mm;
+
+  /* Inline icon (no extra vertical space) */
+  --box-inline-icon-size: 4.2mm;
+  --box-inline-icon-gap: 1.2mm; /* horizontal gap between icon and label */
+
+  /* Box padding/spacing (tune to reduce perceived extra height) */
+  --box-pad-top: 2.5mm;
+  --box-pad-x: 5mm;
+  --box-pad-bottom: 3mm;
+  --box-label-gap: 0.8mm;
+  /* Page-fill behaviour: lower => fewer forced early breaks, more bottom fill (trade-off: more small widows/orphans). */
+  --orphans: 2;
+  --widows: 2;
+
+  --bullet-lvl1-left-indent: 7mm;
+  --bullet-lvl1-hang: 7mm;
+  --bullet-lvl2-left-indent: 11.6mm;
+  --bullet-lvl2-hang: 5.3mm;
+  --bullet-lvl3-left-indent: 17mm;
+  --bullet-lvl3-hang: 5.3mm;
+
+  --steps-left-indent: 7mm;
+  --steps-hang: 6.4mm;
+
+  --body-columns: 2;
+  --col-gap: 9mm;
+
+  /* Column width for image sizing: (page - margins - gutter) / 2 */
+  --column-width: 78mm;
+}
+
+/* =========================
+   Page setup
+   ========================= */
+
+@page {
+  size: var(--page-width) var(--page-height);
+  margin: var(--margin-top) var(--margin-outer) var(--margin-bottom) var(--margin-inner);
+
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: 9pt;
+    color: var(--muted);
+  }
+}
+
+@page :left {
+  margin-left: var(--margin-outer);
+  margin-right: var(--margin-inner);
+
+  @top-left {
+    content: string(section-title);
+    font-family: var(--font-sans);
+    font-size: 8pt;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border-bottom: 0.5pt solid var(--rule);
+    padding-bottom: 2mm;
+    width: 100%;
+  }
+  @top-right { content: none; }
+  @top-center { content: none; }
+
+  @bottom-left {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: 9pt;
+    color: var(--muted);
+  }
+  @bottom-center { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page :right {
+  margin-left: var(--margin-inner);
+  margin-right: var(--margin-outer);
+
+  @top-right {
+    content: string(chapter-title);
+    font-family: var(--font-sans);
+    font-size: 8pt;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    border-bottom: 0.5pt solid var(--rule);
+    padding-bottom: 2mm;
+    width: 100%;
+  }
+  @top-left { content: none; }
+  @top-center { content: none; }
+
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: 9pt;
+    color: var(--muted);
+  }
+  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+}
+
+@page chapter-first {
+  /* Chapter opener should be full-bleed (no white margins around the opener art). */
+  margin: 0;
+
+  /* Remove running headers/folios on the opener page */
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page chapter-first:left {
+  /* Ensure left-page opener doesn't inherit :left running header rules */
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page chapter-first:right {
+  /* Ensure right-page opener doesn't inherit :right running header rules */
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+}
+
+/* =========================
+   Frontmatter / Backmatter
+   (Prince-first, repo-local)
+   ========================= */
+
+/* A named page master for non-chapter matter: no running headers, keep folios. */
+@page matter:left {
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+
+  @bottom-left {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: 9pt;
+    color: var(--muted);
+  }
+  @bottom-center { content: none; }
+  @bottom-right { content: none; }
+}
+
+@page matter:right {
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: 9pt;
+    color: var(--muted);
+  }
+  @bottom-center { content: none; }
+  @bottom-left { content: none; }
+}
+
+.matter,
+.toc,
+.title-page {
+  page: matter;
+}
+
+.matter-section {
+  break-before: page;
+}
+.matter-section:first-child {
+  break-before: auto;
+}
+
+h1.matter-title {
+  /* Keep it consistent with the book's accent style, but smaller than chapter titles. */
+  font-size: var(--h2);
+  margin: 0 0 6mm 0;
+  padding-bottom: 2mm;
+  border-bottom: 2pt solid var(--accent);
+  /* Ensure bookmarks exist for matter pages (but keep the chapter list intact). */
+  prince-bookmark-level: 1;
+  prince-bookmark-label: attr(data-bookmark);
+}
+
+/* =========================
+   Base typography
+   ========================= */
+
+html {
+  font-family: var(--font-body);
+  font-size: var(--body-size);
+  line-height: var(--body-leading);
+  color: var(--text);
+  text-align: left;
+
+  /* Enhanced hyphenation */
+  hyphens: auto;
+  prince-hyphens: auto;
+  /* More hyphenation → fewer over-stretched justified lines (closer to InDesign composer behavior). */
+  hyphenate-limit-chars: 5 2 2; /* min word length, before break, after break */
+  hyphenate-limit-lines: 3;     /* max consecutive hyphenated lines */
+  hyphenate-limit-zone: 5%;     /* smaller zone => earlier hyphenation when a line would get “too airy” */
+}
+
+body {
+  margin: 0;
+}
+
+/* Base paragraph block (main story paragraphs only; box paragraphs are styled separately). */
+.p {
+  margin: 0;
+  orphans: var(--orphans);
+  widows: var(--widows);
+  /* InDesign: Justification.LEFT_JUSTIFIED (justify, last line left) */
+  text-align: justify;
+}
+
+.p.role-body {
+  margin-bottom: var(--block-gap);
+}
+
+/* Prince-only design rule: demoted bullets render as paragraph text (no bullet glyph). */
+.p.list-demoted {
+  /* When we remove bullets, align text to the normal body margin (no leftover bullet indent). */
+  padding-left: 0;
+  text-indent: 0;
+}
+.p.list-demoted.list-lines {
+  /* keep line-broken continuation lists readable */
+  padding-left: 0;
+}
+
+/* InDesign body style uses SpaceAfter; prefer spacing over indentation */
+.p + .p { text-indent: 0; }
+
+/* Reset after headings/figures/blocks */
+h1 + p,
+h2 + p,
+h3 + p,
+figure + p,
+.box + p {
+  text-indent: 0;
+}
+
+/* =========================
+   Headings
+   ========================= */
+
+h1, h2, h3 {
+  font-family: var(--font-sans);
+  color: var(--accent);
+  font-weight: 700;
+  line-height: 1.15;
+  break-after: avoid;
+  page-break-after: avoid;
+  break-inside: avoid;
+  /* Headings should never hyphenate (looks unprofessional and causes ugly breaks like "naslagw- erken"). */
+  hyphens: none;
+  prince-hyphens: none;
+}
+
+/* =========================
+   PDF Bookmarks (Prince)
+   ========================= */
+h1.chapter-title {
+  prince-bookmark-level: 1;
+  prince-bookmark-label: attr(data-bookmark);
+}
+h2.section-title {
+  prince-bookmark-level: 2;
+  prince-bookmark-label: attr(data-bookmark);
+}
+h3.subparagraph-title {
+  prince-bookmark-level: 3;
+  prince-bookmark-label: attr(data-bookmark);
+}
+
+.chapter-title-block {
+  /* Start each chapter on a new page (but do NOT force recto/verso blank pages). */
+  break-before: page;
+
+  /* Default chapter header (no opener art): normal flow, no absolute overlay. */
+  position: relative;
+  margin: 0 0 6mm 0;
+  padding: 0;
+
+  string-set: chapter-title content();
+}
+
+.chapter.has-opener .chapter-title-block {
+  /* Chapter opener variant: overlay on top of the full-bleed opener art. */
+  page: chapter-first;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+
+  /* Keep text within the normal book margins even though the page margin is 0. */
+  padding: var(--margin-top) var(--margin-outer) 0 var(--margin-inner);
+
+  margin: 0;
+  column-span: all;
+}
+
+.chapter-number {
+  font-family: var(--font-sans);
+  font-size: 9pt;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 2mm;
+}
+
+h1.chapter-title {
+  font-size: var(--h1);
+  margin: 0;
+  padding-bottom: 2mm;
+  border-bottom: 2pt solid var(--accent);
+}
+
+h2.section-title {
+  font-size: var(--h2);
+  margin: var(--h2-space-before) 0 var(--h2-space-after) 0;
+  string-set: section-title content();
+}
+
+h3.subparagraph-title {
+  font-size: var(--h3);
+  margin: calc(var(--h3-space-before) * var(--h3-space-before-scale)) 0 var(--h3-space-after) 0;
+  /* Keep subparagraph headings column-contained to avoid constant column resets. */
+}
+
+/* =========================
+   Two-column flow
+   ========================= */
+
+.chapter-body {
+  column-count: var(--body-columns);
+  column-gap: var(--col-gap);
+  /* Use balanced columns to avoid empty right columns before full-width spans (Prince multicol + column-span). */
+  column-fill: balance;
+}
+
+/* Keep boxes/figures from splitting awkwardly */
+figure,
+.box {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* =========================
+   Figures
+   ========================= */
+
+figure.figure-block {
+  margin: 5mm 0 6mm 0;
+  break-inside: avoid;
+  page-break-inside: avoid;
+  /* Prince paged-media:
+     Treat figures as floats so they can be deferred within the page/column flow.
+     This reduces "half-empty right column" pages when a figure doesn't fit at the end
+     of a column and would otherwise be pushed to the next page. */
+  float: bottom;
+}
+
+figure.figure-block.full-width {
+  width: 100%;
+  /* Reduce half-empty pages:
+     Prefer placing full-width figures at the bottom of the current page/column when possible,
+     so they fill leftover space instead of forcing a large blank area before the figure. */
+  float: bottom;
+  /* Prince paged-media: page floats can be deferred to avoid blocking the right column.
+     Using float-reference: page keeps the float full-width across the column set. */
+  float-reference: page;
+  clear: both;
+}
+
+/* Chapter opener: full-page bleed art (no margins) */
+figure.figure-block.full-width.chapter-opener {
+  page: chapter-first;
+  float: none;
+  clear: none;
+  margin: 0;
+  width: var(--page-width);
+  height: var(--page-height);
+  break-after: page;
+}
+
+figure.figure-block.full-width.chapter-opener img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+figure.figure-block img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption.figure-caption {
+  margin-top: 3mm;
+  font-family: var(--font-sans);
+  font-size: 9pt;
+  color: var(--muted);
+  text-align: left;
+  line-height: 1.35;
+}
+
+.figure-label {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+/* =========================
+   Praktijk / Verdieping boxes (Option A labels)
+   ========================= */
+
+.box {
+  margin: 5mm 0;
+  /* Icon sits on its own top row; keep text aligned to the box left edge */
+  padding: var(--box-pad-top) var(--box-pad-x) var(--box-pad-bottom) var(--box-pad-x);
+  border: 0.5pt solid var(--rule);
+  border-left: 3pt solid var(--accent);
+  background: #f7f7f7; /* fallback */
+  border-radius: 0;
+  text-indent: 0 !important;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.box.praktijk {
+  background: var(--praktijk-bg);
+  border-color: var(--praktijk-border);
+  border-left-color: var(--praktijk-accent);
+}
+
+.box.verdieping {
+  background: var(--verdieping-bg);
+  border-color: var(--verdieping-border);
+  border-left-color: var(--verdieping-accent);
+}
+
+.box p {
+  /* Reset UA margins; we control spacing explicitly. */
+  margin: 0;
+  /* Layer paragraphs must also be LEFT_JUSTIFIED */
+  text-align: justify;
+  font-style: italic;
+}
+
+/* Prevent the *first line* of a Praktijk/Verdieping paragraph from being justified with huge gaps. */
+/* (Note: text-align on ::first-line is not consistently supported in Prince; use .box-lead instead.) */
+
+/* Keep the first two words of the box text together and prevent justification from stretching the gap */
+.box .box-lead {
+  display: inline-block;
+  white-space: nowrap;
+  /* Prevent the lead span itself from justifying internally (can create huge gaps like "Bij    een"). */
+  text-align: left;
+}
+
+.box p:last-child {
+  margin-bottom: 0;
+}
+
+.box .box-label {
+  font-family: var(--font-sans);
+  font-size: inherit; /* InDesign marker: bold only, same size as body */
+  font-weight: 700;
+  color: var(--accent);
+  /* Put label (with icon) on its own line at the top-left of the box */
+  display: block;
+  float: none;
+  margin: 0 0 var(--box-label-gap) 0;
+  text-align: left;
+  white-space: nowrap;
+  font-style: normal; /* keep label non-italic even though box body text is italic */
+}
+
+.box .box-label::before {
+  content: "";
+  display: inline-block;
+  width: var(--box-inline-icon-size);
+  height: var(--box-inline-icon-size);
+  margin-right: var(--box-inline-icon-gap);
+  vertical-align: text-top; /* align icon to the top of the label line */
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+}
+
+.box.praktijk .box-label::before {
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2024%2024'%3E%0A%20%20%3Cg%20fill%3D'none'%20stroke%3D'%232D7A4E'%20stroke-width%3D'1.8'%20stroke-linecap%3D'round'%20stroke-linejoin%3D'round'%3E%0A%20%20%20%20%3Cpath%20d%3D'M7%2010c0-2.8%202.2-5%205-5s5%202.2%205%205v7c0%202.8-2.2%205-5%205s-5-2.2-5-5v-7z'%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D'10'%20cy%3D'12'%20r%3D'1.7'%2F%3E%0A%20%20%20%20%3Ccircle%20cx%3D'14'%20cy%3D'12'%20r%3D'1.7'%2F%3E%0A%20%20%20%20%3Cpath%20d%3D'M12%2014l-1%201m1-1l1%201'%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E");
+}
+
+.box.verdieping .box-label::before {
+  background-image: url("data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2024%2024'%3E%0A%20%20%3Cg%20fill%3D'none'%20stroke%3D'%238B4B3A'%20stroke-width%3D'1.8'%20stroke-linecap%3D'round'%20stroke-linejoin%3D'round'%3E%0A%20%20%20%20%3Cpath%20d%3D'M9%2021h6'%2F%3E%0A%20%20%20%20%3Cpath%20d%3D'M10%2018h4'%2F%3E%0A%20%20%20%20%3Cpath%20d%3D'M6%2011a6%206%200%201%201%2012%200c0%202.2-1.2%203.6-2.4%204.8-.7.7-1.2%201.2-1.4%202.2H10c-.2-1-0.7-1.5-1.4-2.2C7.2%2014.6%206%2013.2%206%2011z'%2F%3E%0A%20%20%3C%2Fg%3E%0A%3C%2Fsvg%3E");
+}
+
+.box.praktijk .box-label { color: var(--praktijk-accent); }
+.box.verdieping .box-label { color: var(--verdieping-accent); }
+
+/* =========================
+   Bullets (reconstructed from _Bullets styles)
+   ========================= */
+
+ul.bullets {
+  /* InDesign _Bullets has SpaceAfter=0pt, but in Prince we enforce a readable gap
+     between a list and the following paragraph so the list doesn't "stick" to the next line. */
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  /* Avoid splitting short lists across columns/pages (prevents orphan bullet items). */
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+/* Ensure a consistent gap after lists before the next paragraph block */
+ul.bullets + .p,
+ol.steps + .p {
+  margin-top: var(--block-gap);
+}
+
+ul.bullets li {
+  margin: 0;
+  padding-left: var(--bullet-lvl1-left-indent);
+  text-indent: calc(0mm - var(--bullet-lvl1-hang));
+  text-align: justify;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+ul.bullets li::before {
+  /* Right-align marker within the hanging width so it doesn't stick out left. */
+  content: "•";
+  font-family: var(--font-sans);
+  color: var(--accent);
+  display: inline-block;
+  width: var(--bullet-lvl1-hang);
+  text-align: right;
+  box-sizing: border-box;
+  padding-right: var(--bullet-marker-gap); /* visual gap to text without shifting the indent */
+}
+
+ul.bullets.lvl2 li { padding-left: var(--bullet-lvl2-left-indent); text-indent: calc(0mm - var(--bullet-lvl2-hang)); }
+ul.bullets.lvl2 li::before { width: var(--bullet-lvl2-hang); }
+ul.bullets.lvl3 li { padding-left: var(--bullet-lvl3-left-indent); text-indent: calc(0mm - var(--bullet-lvl3-hang)); }
+ul.bullets.lvl3 li::before { width: var(--bullet-lvl3-hang); }
+
+/* =========================
+   Numbered steps
+   ========================= */
+
+ol.steps {
+  /* Keep steps tighter; rely on surrounding paragraphs for spacing. */
+  margin: 0 0 var(--steps-space-after) 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+  /* Avoid splitting short step lists across columns/pages. */
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+ol.steps li {
+  counter-increment: step;
+  margin: 0;
+  padding-left: var(--steps-left-indent);
+  text-indent: calc(0mm - var(--steps-hang));
+  text-align: justify;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+ol.steps li::before {
+  /* Right-align numbers within the hanging width; keep a space to separate from text. */
+  content: counter(step);
+  font-family: var(--font-sans);
+  color: var(--accent);
+  font-weight: 700;
+  display: inline-block;
+  width: var(--steps-hang);
+  text-align: right;
+  box-sizing: border-box;
+  padding-right: var(--bullet-marker-gap);
+}
+
+/* =========================
+   TOC page numbers (Prince)
+   ========================= */
+
+.toc {
+  page-break-after: always;
+}
+
+.toc h1 {
+  font-family: var(--font-sans);
+  color: var(--accent);
+}
+
+.toc-entry a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.toc-entry a::after {
+  content: leader('.') " " target-counter(attr(href), page);
+  float: right;
+  font-family: var(--font-sans);
+  font-size: 9pt;
+  color: var(--muted);
+}

@@ -1,0 +1,193 @@
+{
+  "bodyFrames": {
+    "left": {
+      "frames": [
+        {
+          "bounds": [
+            12.7,
+            17.5,
+            220,
+            152.5
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 8
+        }
+      ],
+      "masterName": "A-Basis",
+      "pagesSeen": 41,
+      "signature": "13,17,220,152"
+    },
+    "right": {
+      "frames": [
+        {
+          "bounds": [
+            12.7,
+            187.5,
+            220,
+            322.5
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 8
+        }
+      ],
+      "masterName": "A-Basis",
+      "pagesSeen": 24,
+      "signature": "13,188,220,322"
+    },
+    "unknown": {
+      "frames": [],
+      "masterName": "",
+      "pagesSeen": 0,
+      "signature": ""
+    }
+  },
+  "bodyStory": {
+    "index": 44,
+    "words": 64671
+  },
+  "book_id": "MBO_COMMUNICATIE_9789083251387_03_2024",
+  "document": {
+    "facingPages": true,
+    "horizontalMeasurementUnits": "MILLIMETERS",
+    "name": "MBO Communicatie_9789083251387_03.2024.indd",
+    "pages": 180
+  },
+  "generated_at": "2025-12-23_17-04-27",
+  "masters": {
+    "all": [
+      "A-Basis",
+      "B-Inhoudsopgave",
+      "C-Hoofdstukopening",
+      "D-Front Matter BLANK",
+      "E-Voorword",
+      "F-Index",
+      "G-Section",
+      "H-Master"
+    ],
+    "bodyCandidates": [
+      {
+        "count": 142,
+        "name": "A-Basis"
+      },
+      {
+        "count": 15,
+        "name": "C-Hoofdstukopening"
+      }
+    ],
+    "openerCandidates": [
+      {
+        "count": 1,
+        "name": "D-Front Matter BLANK"
+      },
+      {
+        "count": 1,
+        "name": "C-Hoofdstukopening"
+      },
+      {
+        "count": 1,
+        "name": "(none)"
+      }
+    ]
+  },
+  "paragraphStyleCandidates": {
+    "chapterHeader": [
+      {
+        "count": 7,
+        "name": "•Hoofdstuktitel"
+      },
+      {
+        "count": 7,
+        "name": "•Hoofdstukkop"
+      },
+      {
+        "count": 6,
+        "name": "•Subparagraaf kop"
+      },
+      {
+        "count": 2,
+        "name": "_Voorbeeld bullets"
+      }
+    ],
+    "listLike": [
+      {
+        "count": 405,
+        "name": "_Bullets"
+      },
+      {
+        "count": 172,
+        "name": "_Nummer List (Continue)"
+      },
+      {
+        "count": 128,
+        "name": "_Voorbeeld bullets"
+      },
+      {
+        "count": 65,
+        "name": "_Nummer List (Start)"
+      },
+      {
+        "count": 46,
+        "name": "_Nummer List (End)"
+      },
+      {
+        "count": 45,
+        "name": "_Leerdoelen Bullets"
+      },
+      {
+        "count": 12,
+        "name": "_Bullet text"
+      },
+      {
+        "count": 11,
+        "name": "_Nummer List indent"
+      },
+      {
+        "count": 8,
+        "name": "_Voorbeeld bullets + space after"
+      },
+      {
+        "count": 5,
+        "name": "_Alpa List (Continue) "
+      },
+      {
+        "count": 5,
+        "name": "Numbered list text"
+      },
+      {
+        "count": 4,
+        "name": "_Bullets_text"
+      },
+      {
+        "count": 4,
+        "name": "_Bullets Lvl 2"
+      },
+      {
+        "count": 4,
+        "name": "_Bullets Lvl 2 spcae after"
+      },
+      {
+        "count": 2,
+        "name": "_Alpa List (Start) "
+      },
+      {
+        "count": 2,
+        "name": "_Alpa List (End) "
+      },
+      {
+        "count": 2,
+        "name": "Bullets Indent AT"
+      }
+    ],
+    "numberedHeadings": [
+      {
+        "count": 5,
+        "name": "•Subparagraaf kop"
+      }
+    ]
+  },
+  "source": {
+    "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd",
+    "canonical_n4_idml_path": "./_source_exports/MBO_Communicatie_9789083251387_03.2024__FROM_DOWNLOADS.idml",
+    "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+  }
+}

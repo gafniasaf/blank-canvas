@@ -1,0 +1,37 @@
+{
+  "name": "testrun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node tests/guardrails.ts",
+    "lint:text": "ts-node scripts/lint-rewrites.ts",
+    "lint:all": "bash scripts/lint-all-chapters.sh",
+    "generate:cursor-tasks": "ts-node scripts/generate-cursor-tasks.ts",
+    "preflight:json": "npm test && ts-node scripts/preflight-rewrites-json.ts",
+    "fix:json": "ts-node scripts/fix-rewrites-json-for-indesign.ts",
+    "review:json": "ts-node scripts/llm-review-rewrites-json.ts",
+    "iterate:json": "ts-node scripts/llm-iterate-rewrites-json.ts",
+    "promote:json": "ts-node scripts/promote-rewrites-for-indesign.ts",
+    "build:book:json-first": "ts-node scripts/build-book-json-first.ts",
+    "report:rewrites:quality": "ts-node scripts/report-rewrites-quality.ts",
+    "report:text:approval-sample": "ts-node scripts/generate-text-approval-sample.ts",
+    "migrate": "psql \"$DATABASE_URL\" -f db/001_init.sql",
+    "extract": "ts-node scripts/extract.ts",
+    "embed": "ts-node scripts/embed.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.10.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "@types/pg": "^8.15.6",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

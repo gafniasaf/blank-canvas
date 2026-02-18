@@ -1,0 +1,211 @@
+{
+  "bodyStory": {
+    "index": 1514,
+    "words": 10315
+  },
+  "chapter": "7",
+  "chapterRange": {
+    "endOff": 272,
+    "ok": true,
+    "startOff": 244
+  },
+  "exportedAt": "Thu Dec 25 2025 17:25:31 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "1 Signaal: wanneer je ergens in je lichaam een infectie hebt, krijgen de neutrofielen een seintje om naar die plek toe te gaan. Dit noemen we het signaal. Dit signaal komt vaak van de ziekteverwekker, zoals een bacterie of virus. Het is ook mogelijk dat het seintje van je macrofagen komt.",
+        "beforeText": "Je lichaam heeft verschillende witte bloedcellen, waaronder de neutrofiel. We noemen deze ook wel een neutrofiele granulocyt. Deze cellen vormen samen de grootste groep van witte bloedcellen. Ongeveer driekwart van je witte bloedcellen is namelijk een neutrofiele granulocyt.",
+        "pageDocumentOffset": 250,
+        "paragraphIndexInBodyStory": 64,
+        "text": "De neutrofiele granulocyt werkt als volgt:",
+        "x": 209.99999999947,
+        "y": 217.555555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch7/Afbeelding_7.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+        "bounds": null,
+        "label": "Afbeelding 7.1:",
+        "raw": "Afbeelding 7.1 Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch7/Afbeelding_7.1.png",
+        "bounds": [
+          218.12330362436,
+          29.6916855459462,
+          226.292056513249,
+          38.7753495630195
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch7_Img1.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch7_Img1.png"
+      },
+      "page": {
+        "documentOffset": 249,
+        "name": "231"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3 De macrofagen gaan naar het geïnfecteerde weefsel toe.",
+        "beforeText": "1 Als je in je lichaam een infectie hebt, gaan de monocyten via je bloed naar die plek toe.",
+        "pageDocumentOffset": 250,
+        "paragraphIndexInBodyStory": 59,
+        "text": "2 De monocyten gaan uit je bloedbaan. In je bloedvaten zitten namelijk hele kleine gaatjes waar verschillende cellen en stoffen doorheen passen. Je monocyten gaan ook door deze gaatjes heen om op de plek van de infectie te komen. Als de monocyten je bloedbaan uit zijn gegaan, noemen we ze macrofagen. Deze zijn dus hetzelfde als monocyten, alleen zitten ze op een andere plek. Ze zitten namelijk niet in je bloedbaan maar in het weefsel, zoals je bot, je spieren of je vet.",
+        "x": 209.99999999947,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch7/Afbeelding_7.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van verschillende soorten granulocyten.",
+        "bounds": null,
+        "label": "Afbeelding 7.2:",
+        "raw": "Afbeelding 7.2 Overzicht van verschillende soorten granulocyten.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch7/Afbeelding_7.2.png",
+        "bounds": [
+          20.0165241875518,
+          301.788218430583,
+          152.936805555558,
+          357.947037308565
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch7_Img2.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch7_Img2.png"
+      },
+      "page": {
+        "documentOffset": 250,
+        "name": "232"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Doordat je specifieke afweer een geheugen heeft, maakt de ziekteverwekker je een volgende keer niet ziek. Je bent dan immuun voor deze ziektewekker. Als je bijvoorbeeld verkouden bent, onthoudt je specifieke afweer door welke ziekteverwekker dit komt. Als dezelfde ziekteverwekker nog een keer in je lichaam komt, word je niet verkouden. Het kan dan nog wel voorkomen dat een andere ziekteverwekker je verkouden maakt. Je specifieke afweer kent deze andere ziekteverwekker namelijk nog niet. Als je ziek wordt, leert het welke ziekteverwekker hiervoor zorgt. Je specifieke afweer is dus heel specifiek. Dit betekent dat het precies de ziekteverwekker doodt die jou ziek maakt. Andere ziekteverwekkers kunnen je dan nog wel ziek maken. Als een nieuwe ziekteverwekker je lichaam binnenkomt, begint je specifieke afweer dus opnieuw met het maken van geheugen.",
+        "beforeText": "5 De volgende keer dat dezelfde soort ziekteverwekker in je lichaam komt, reageert je specifieke afweer veel sneller. Dit komt doordat je specifieke afweer de ziekteverwekker dan herkent.",
+        "pageDocumentOffset": 253,
+        "paragraphIndexInBodyStory": 102,
+        "text": "6 De ziekteverwekker wordt de tweede keer sneller kapotgemaakt.",
+        "x": 15,
+        "y": 161.111111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch7/Afbeelding_7.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+        "bounds": null,
+        "label": "Afbeelding 7.3:",
+        "raw": "Afbeelding 7.3 Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch7/Afbeelding_7.3.png",
+        "bounds": [
+          -3.86154104450401,
+          43.1535786611314,
+          117.507129569709,
+          172.041879793191
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch7_Img3.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch7_Img3.png"
+      },
+      "page": {
+        "documentOffset": 253,
+        "name": "235"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "het verworven afweersysteem.",
+        "beforeText": "We delen het afweersysteem in twee delen in:",
+        "pageDocumentOffset": 264,
+        "paragraphIndexInBodyStory": 227,
+        "text": "het aangeboren afweersysteem;",
+        "x": 217.000000025961,
+        "y": 166.755555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch7/Afbeelding_7.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De amandelen.",
+        "bounds": null,
+        "label": "Afbeelding 7.4:",
+        "raw": "Afbeelding 7.4 De amandelen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch7/Afbeelding_7.4.png",
+        "bounds": [
+          6.29444444450253,
+          217,
+          159.8665020445,
+          342.692317688889
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch7_Img04.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch7_Img04.png"
+      },
+      "page": {
+        "documentOffset": 264,
+        "name": "246"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je hebt verschillende soorten bloedcellen in je bloed, bijvoorbeeld de rode bloedcellen. We noemen dit ook wel de erytrocyten. Je rode bloedcellen hebben verschillende taken, zoals het vervoeren van:",
+        "beforeText": "Soms worden zorgvragers zelfs ziek door hun eigen immuunsysteem. In dat geval ziet het immuunsysteem niet meer goed welke cellen horen bij het eigen lichaam en wat echte ziekteverwekkers zijn. Het immuunsysteem valt dan per ongeluk de cellen van het eigen lichaam aan. De zorgvrager heeft in dat geval een auto-immuunziekte.",
+        "pageDocumentOffset": 267,
+        "paragraphIndexInBodyStory": 255,
+        "text": "7.9  Bloedgroepen",
+        "x": 15,
+        "y": 172.399999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch7/Afbeelding_7.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+        "bounds": null,
+        "label": "Afbeelding 7.5:",
+        "raw": "Afbeelding 7.5 Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch7/Afbeelding_7.5.png",
+        "bounds": [
+          97.9154501877297,
+          57.5546720951879,
+          111.12634812468,
+          72.6904715627576
+        ],
+        "kind": "link",
+        "linkName": "07.05.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/07.05.png"
+      },
+      "page": {
+        "documentOffset": 267,
+        "name": "249"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

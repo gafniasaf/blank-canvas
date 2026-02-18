@@ -1,0 +1,638 @@
+{
+  "bodyStory": {
+    "index": 942,
+    "words": 13312
+  },
+  "chapter": "5",
+  "chapterRange": {
+    "endOff": 194,
+    "ok": true,
+    "startOff": 154
+  },
+  "exportedAt": "Thu Dec 25 2025 17:24:51 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "hikken. Als je hikt, spant je middenrif zich plotseling aan. Hier heb je geen controle over. Lucht stroomt dan snel je longen in en doordat je stembanden opeens sluiten, krijg je het geluid van een hik;",
+        "beforeText": "overgeven. Als je overgeeft, gaat je strottenklepje dicht en spant je zachte gehemelte zich aan. Op deze manier sluit je de luchtpijp en neusholte, waardoor je maaginhoud niet de luchtpijp en neus in gaat. Eerst adem je diep in en daarna komt de maaginhoud met kracht via je mond naar buiten;",
+        "pageDocumentOffset": 172,
+        "paragraphIndexInBodyStory": 200,
+        "text": "persen. Je ademt diep in en daarna gaan je stembanden dicht. Hierdoor is je luchtpijp afgesloten. Daarnaast spannen je buikspieren en je middenrif aan. Op deze manier bouwt druk op in de buikholte. Met deze druk kan je persen, bijvoorbeeld als je op het toilet zit;",
+        "x": 304.000000026428,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+        "bounds": null,
+        "label": "Afbeelding 5.10:",
+        "raw": "Afbeelding 5.10 Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.10.png",
+        "bounds": [
+          17.4118707750111,
+          210,
+          121.577573669437,
+          380
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 172,
+        "name": "154"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "een groot respiratoir membraan. Hierdoor kan de zuurstof op meer plekken tegelijkertijd van de longblaasjes naar je bloed gaan;",
+        "beforeText": "koolstofdioxide uit bloed verplaatst naar de luchtwegen. Vervolgens adem je de lucht met de koolstofdioxide uit. Je raakt koolstofdioxide dan kwijt aan de buitenlucht. De gasuitwisseling gebeurt in de terminale bronchioli en in de longblaasjes. Alle plekken waar gasuitwisseling is tussen je longen en je bloedvaten, noemen we samen de respiratoire membraan. Respiratoir betekent ‘van de ademhaling’. Een membraan is een dun vliesje, dat sommige stoffen wel doorlaat en andere stoffen niet. Zuurstof gaat bijvoorbeeld wel door de respiratoire membraan heen, maar rode bloedcellen niet. De respiratoire membraan is al heel groot, als je in rust bent. Je bent in rust, als je bijvoorbeeld op de bank zit of in bed ligt. Als je je inspant, bijvoorbeeld tijdens het sporten, wordt de respiratoire membraan nog groter. Met andere woorden: er komen dan nog meer plekken beschikbaar voor de gasuitwisseling. Dit komt doordat je longblaasjes uitrekken. Je kan de longblaasjes op dat moment vergelijken met ballonnen, die je opblaast. Een opgeblazen ballon is namelijk groter.",
+        "pageDocumentOffset": 175,
+        "paragraphIndexInBodyStory": 230,
+        "text": "Tijdens de gasuitwisseling verplaatsen gassen zich over de respiratoire membraan heen. Dit noemen we diffusie. De snelheid waarmee zuurstof en koolstofdioxide van je longblaasjes naar je bloed gaan en andersom, noemen we de diffusiesnelheid. Een hoge diffusiesnelheid is belangrijk om zo snel mogelijk genoeg zuurstof in je bloed te krijgen. Verschillende eigenschappen in de longen zorgen dat de diffusiesnelheid zo hoog is, namelijk:",
+        "x": 102.000033333068,
+        "y": 211.911111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de alveoli en de respiratoire membraan.",
+        "bounds": null,
+        "label": "Afbeelding 5.11:",
+        "raw": "Afbeelding 5.11 Anatomie van de alveoli en de respiratoire membraan.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.11.png",
+        "bounds": [
+          72.5277006901581,
+          31.7817067572699,
+          166.98596625256,
+          118.95450675727
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img11.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img11.tif"
+      },
+      "page": {
+        "documentOffset": 175,
+        "name": "157"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "5.5.3  Diffusie",
+        "beforeText": "neusholte;",
+        "pageDocumentOffset": 177,
+        "paragraphIndexInBodyStory": 249,
+        "text": "mondholte.",
+        "x": 109.000000026428,
+        "y": 104.666666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+        "bounds": null,
+        "label": "Afbeelding 5.12:",
+        "raw": "Afbeelding 5.12 Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.12.png",
+        "bounds": [
+          109.958333333331,
+          42.3812000000001,
+          221.718333333332,
+          153.5062
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img12.TIF"
+      },
+      "page": {
+        "documentOffset": 177,
+        "name": "159"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het zuurstofrijke en koolstofdioxidearme bloed stroomt via je longader (vena pulmonalis) naar je linkerharthelft, waar het de grote bloedsomloop wordt ingepompt. Via de grote bloedsomloop wordt zuurstof geleverd aan je weefsels en wordt koolstofdioxide opgenomen. Dit zuurstofarme en koolstofdioxiderijke bloed wordt weer via je rechterharthelft naar je longen gepompt.",
+        "beforeText": "5.5.4  De alveolaire gasuitwisseling",
+        "pageDocumentOffset": 179,
+        "paragraphIndexInBodyStory": 261,
+        "text": "Je longslagader (arteria pulmonalis) brengt bloed met weinig zuurstof (zuurstofarm bloed) en veel koolstofdioxide (koolstofdioxiderijk bloed) vanuit je rechterharthelft naar je longen. Bloed stroomt door je longhaarvaatjes, waarbij diffusie optreedt. Hierbij komt zuurstof vanuit de ingeademde lucht in je bloed terecht en diffundeert koolstofdioxide uit je bloed naar de lucht in je longblaasjes. Hierdoor wordt je bloed zuurstofrijk en koolstofdioxidearm.",
+        "x": 102,
+        "y": 93.3777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+        "bounds": null,
+        "label": "Afbeelding 5.13:",
+        "raw": "Afbeelding 5.13 Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.13.png",
+        "bounds": [
+          109.592763888884,
+          62.298292958747,
+          243.471930555551,
+          166.235092958747
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img13.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img13.TIF"
+      },
+      "page": {
+        "documentOffset": 179,
+        "name": "161"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de grote lichaamsslagader. Deze noemen we ook wel de aorta. Via dit bloedvat pompt je hart het bloed naar de rest van je lichaam;",
+        "beforeText": "de linkerboezem. Dit is de ruimte van je hart waar het bloed uit je longaders als eerste instroomt;",
+        "pageDocumentOffset": 181,
+        "paragraphIndexInBodyStory": 276,
+        "text": "de linkerkamer. Hier komt het bloed uit de linkerboezem terecht. De linkerkamer is de ruimte van je hart, die het bloed naar de rest van je lichaam pompt. Het bloed heeft op dat moment veel zuurstof en weinig koolstofdioxide;",
+        "x": 109.000000026428,
+        "y": 189.333333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+        "bounds": null,
+        "label": "Afbeelding 5.14:",
+        "raw": "Afbeelding 5.14 De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.14.png",
+        "bounds": [
+          48.1815015708308,
+          55.6069905833332,
+          143.579837570831,
+          137.728238583333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 181,
+        "name": "163"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Zuurstof is een gas dat in de lucht zit. Als je inademt, krijg je dit gas binnen. De zuurstof komt dan in je longen. Vanuit hier moet de zuurstof naar de rest van je lichaam worden gebracht. Dit noemen we transport. Het zuurstoftransport bestaat uit drie fasen:",
+        "beforeText": "Een arts meet soms hoeveelheid rode bloedcellen in de totale hoeveelheid bloed. Dit noemen we de hematocrietwaarde. Bij vrouwen is de normale waarde van hematocriet ongeveer 40%. Bij mannen is dit 45%.",
+        "pageDocumentOffset": 185,
+        "paragraphIndexInBodyStory": 322,
+        "text": "5.6.2  Zuurstoftransport",
+        "x": 15,
+        "y": 178.044444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Zuurstof bindt aan hemoglobinemoleculen.",
+        "bounds": null,
+        "label": "Afbeelding 5.15:",
+        "raw": "Afbeelding 5.15 Zuurstof bindt aan hemoglobinemoleculen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.15.png",
+        "bounds": [
+          15.506876610039,
+          2.72252663118668,
+          156.820901167297,
+          183.527473368687
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img15.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img15.png"
+      },
+      "page": {
+        "documentOffset": 185,
+        "name": "167"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "een laag koolstofdioxidegehalte in het bloed, bijvoorbeeld bij hyperventilatie. De zorgvrager ademt dan te snel waardoor hij of zij te veel koolstofdioxide uitademt;",
+        "beforeText": "Een verhoogde affiniteit betekent dat het bloed de zuurstof moeilijker afgeeft. Dit gebeurt bij:",
+        "pageDocumentOffset": 188,
+        "paragraphIndexInBodyStory": 351,
+        "text": "een lage temperatuur, bijvoorbeeld bij onderkoeling;",
+        "x": 217.000000025961,
+        "y": 172.399999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+        "bounds": null,
+        "label": "Afbeelding 5.16:",
+        "raw": "Afbeelding 5.16 Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.16.png",
+        "bounds": [
+          22.8485037196939,
+          216.983925546684,
+          129.468679250425,
+          372.416074453316
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 188,
+        "name": "170"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "5.1.4  De onderdelen van het ademhalingsstelsel",
+        "beforeText": "Tussen de borstkas en de buikholte zit het middenrif. We noemen dit ook wel het diafragma. Het is een spier die aan de onderkant van de borstholte zit en de vorm van een koepel heeft. Dit betekent dat het diafragma aan de zijkanten van de borstkas in een punt naar beneden loopt.",
+        "pageDocumentOffset": 155,
+        "paragraphIndexInBodyStory": 17,
+        "text": "Het borstvlies ligt over het middenrif heen, waardoor het dus ook aan de zijkanten van de borstkas in een punt naar beneden loopt. De longen en het borstvlies gaan niet helemaal mee naar beneden. Hierdoor komt het borstvlies aan de zijkanten van de borstkas tegen zichzelf aan te liggen. Deze plekken noemen we de sinus pleura.",
+        "x": 101.999999999937,
+        "y": 82.088888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de luchtwegen – vooraanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 5.1:",
+        "raw": "Afbeelding 5.1 Anatomie van de luchtwegen – vooraanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.1.png",
+        "bounds": [
+          103.727860597201,
+          51.1129380499326,
+          234.199032467648,
+          152.445236889897
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 155,
+        "name": "137"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de bovenste luchtwegen:",
+        "beforeText": "de onderste luchtwegen.",
+        "pageDocumentOffset": 156,
+        "paragraphIndexInBodyStory": 22,
+        "text": "De stembanden vormen de grens tussen deze twee onderdelen. Boven de stembanden bevinden zich je bovenste luchtwegen en daaronder bevinden zich je onderste luchtwegen. Deze bestaan uit:",
+        "x": 210,
+        "y": 104.666666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de luchtwegen, van groot naar klein.",
+        "bounds": null,
+        "label": "Afbeelding 5.2:",
+        "raw": "Afbeelding 5.2 Overzicht van de luchtwegen, van groot naar klein.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.2.png",
+        "bounds": [
+          164.612792308193,
+          252.921221341306,
+          235.926980409294,
+          329.329280021057
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 156,
+        "name": "138"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De lucht die je inademt, komt via je luchtwegen je lichaam binnen. De luchtwegen zijn verdeeld in de bovenste luchtwegen en de onderste luchtwegen. De lucht die je inademt, komt als eerste in je bovenste luchtwegen terecht. Daarna komt de lucht in je onderste luchtwegen.",
+        "beforeText": "de longblaasjes. Dit zijn de kleinste onderdelen van je longen.",
+        "pageDocumentOffset": 157,
+        "paragraphIndexInBodyStory": 32,
+        "text": "5.2  De bovenste luchtwegen",
+        "x": 14.99999999947,
+        "y": 138.533333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Vertakkingen van de grote luchtwegen – vooraanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 5.3:",
+        "raw": "Afbeelding 5.3 Vertakkingen van de grote luchtwegen – vooraanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.3.png",
+        "bounds": [
+          8.64166666665644,
+          54.2861328802865,
+          129.773793739706,
+          146.954365502576
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img03.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img03.TIF"
+      },
+      "page": {
+        "documentOffset": 157,
+        "name": "139"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "afweercellen. Dit zijn cellen die stof en andere deeltjes opruimen uit de lucht die je inademt.",
+        "beforeText": "slijmbekercellen. Dit zijn cellen die slijm maken;",
+        "pageDocumentOffset": 158,
+        "paragraphIndexInBodyStory": 46,
+        "text": "trilhaartjes. Deze zorgen dat het slijm zich verplaatst in de luchtwegen;",
+        "x": 217.000000026491,
+        "y": 149.82222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 5.4:",
+        "raw": "Afbeelding 5.4 Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.4.png",
+        "bounds": [
+          13.2468299886325,
+          250.146643787003,
+          130.320543844899,
+          347.967694923879
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img1.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img1.TIF"
+      },
+      "page": {
+        "documentOffset": 158,
+        "name": "140"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je neus is ook het orgaan waarmee je ruikt. Aan de bovenkant van je neusholte vind je een laagje cellen. Met dit laagje cellen herken je geuren. We noemen dit het reukepitheel. Je lichaam geeft deze geuren door aan je hersenen. Daarvoor heb je de reukzenuw nodig. Dit is een soort snelweg die alle seintjes die je neus opvangt, naar je hersenen stuurt. De reukzenuw zit in je zeefbeen. Je noemt deze zenuw de nervus olfactorius. Dit is ook wel je eerste hersenzenuw.",
+        "beforeText": "Dicht bij je neusholte liggen nog andere ruimten. Via de zijkant van je neusholte lopen gangetjes naar je neusbijholten. Deze maken slijm aan. Dit slijm maakt de binnenkant van je neus vochtig. De achterkant van je neusholte is open. Je komt via hier in de keelholte. Dit noemen we ook wel de farynx.",
+        "pageDocumentOffset": 159,
+        "paragraphIndexInBodyStory": 55,
+        "text": "Je hebt twee neusgaten. Hiertussen zit een soort muurtje. Dit is je neustussenschot. Het voorste deel van je neus kan je goed heen en weer bewegen. Dit komt doordat het voorste deel van elastisch kraakbeen is gemaakt. Dit zit bijvoorbeeld ook in je oor. Elastisch kraakbeen is zachter dan bot. Het is een groep cellen die veel kracht aankan. Het achterste deel van de neus beweegt niet goed heen en weer, omdat hier bot zit. Dat is een stuk harder dan kraakbeen.",
+        "x": 14.9999999994699,
+        "y": 53.8666666666647
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 5.5:",
+        "raw": "Afbeelding 5.5 Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.5.png",
+        "bounds": [
+          120.318257242323,
+          54.4876022021118,
+          237.973359477446,
+          144.800321523437
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 159,
+        "name": "141"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zijkanten. Dit zijn je wangen;",
+        "beforeText": "Je noemt het stuk van je lippen tot je keelholte de mondholte. Dit is een ruimte met:",
+        "pageDocumentOffset": 161,
+        "paragraphIndexInBodyStory": 75,
+        "text": "een bovenkant. Dit is je gehemelte. Aan de voorkant hiervan zit het harde gehemelte. Dit is gemaakt van bot. Als je verder naar achter voelt, is je gehemelte zachter. Dit noem je het zachte gehemelte;",
+        "x": 22.0000000259609,
+        "y": 144.177777777776
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de keelholte – doorsnede met zijaanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 5.6:",
+        "raw": "Afbeelding 5.6 Anatomie van de keelholte – doorsnede met zijaanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.6.png",
+        "bounds": [
+          19.7857587420472,
+          45.2691870279949,
+          133.171358742046,
+          144.430787027995
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img7.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img7.TIF"
+      },
+      "page": {
+        "documentOffset": 161,
+        "name": "143"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Twee onderdelen van het strottenhoofd zijn het:",
+        "beforeText": "5.2.5  De anatomie van het strottenhoofd",
+        "pageDocumentOffset": 162,
+        "paragraphIndexInBodyStory": 88,
+        "text": "Je strottenhoofd (larynx) is een ruimte tussen je keelholte en je luchtpijp. Het is het laatste deel van je bovenste luchtwegen. Het is gemaakt van kraakbeen. Dit is weefsel dat net iets zachter is dan bot. Als je aan je oorschelp voelt, voel je bijvoorbeeld kraakbeen. Je strottenhoofd hangt aan het tongbeen. Dit is een bot onder je tong met de vorm van een hoefijzer. Het is een klein bot dat niet vast zit aan andere botten. In plaats daarvan zorgen je spieren dat het bot op zijn plaats blijft. De onderdelen van je strottenhoofd zijn verbonden met de spieren en de pezen in je hals. Een pees is een verbinding tussen een spier en bot. Aan de binnenkant van je strottenhoofd zitten trilhaartjes.",
+        "x": 210,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+        "bounds": null,
+        "label": "Afbeelding 5.7:",
+        "raw": "Afbeelding 5.7 Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.7.png",
+        "bounds": [
+          181.779247808845,
+          238.399135466386,
+          225.594363882103,
+          276.69833431427
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img8.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img8.TIF"
+      },
+      "page": {
+        "documentOffset": 162,
+        "name": "144"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "elasticiteit van je stembanden. Dit betekent hoeveel rek in de stembanden zit.",
+        "beforeText": "de dikte en lengte van je stembanden. Mannen hebben dikkere en langere stembanden dan vrouwen. Hierdoor hebben mannen een zwaardere stem;",
+        "pageDocumentOffset": 164,
+        "paragraphIndexInBodyStory": 105,
+        "text": "hoe strak je stembanden staan. Je stembanden moeten trillen om geluid te maken. Als je stembanden helemaal strak gespannen staan, is je stemspleet helemaal open. Je stembanden gaan dan niet trillen als je lucht uitademt. Je maakt pas geluid wanneer je stembanden trillen. Als je stembanden helemaal strak gespannen staan, kan je dus geen geluid maken. Hoe hoog of laag je stem klinkt, hangt af van hoe strak je stembanden gespannen staan. Je kan dit vergelijken met een elastiek dat je filmt in slow motion. Trek maar eens aan een strak gespannen elastiek. Je zal zien dat dit heel snel heen en weer beweegt. Als het elastiek minder strak gespannen is, beweegt het in minder snelle maar grotere golven heen en weer. Hoe kleiner en sneller de golven zijn, hoe hoger de toon klinkt. Bij strak gespannen stembanden is de toon dus heel hoog, terwijl bij meer ontspannen stembanden de toon veel lager is;",
+        "x": 216.999999730428,
+        "y": 183.688888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+        "bounds": null,
+        "label": "Afbeelding 5.8:",
+        "raw": "Afbeelding 5.8 Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.8.png",
+        "bounds": [
+          43.4932946777283,
+          224.6608,
+          155.253294677729,
+          369.3392
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img9.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img9.TIF"
+      },
+      "page": {
+        "documentOffset": 164,
+        "name": "146"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "kliertjes die vocht afscheiden. Deze kliertjes zorgen dat je luchtpijp vochtig blijft.",
+        "beforeText": "cellen die slijm produceren. Dit slijm vangt het stof en vuil op dat je inademt, waardoor het niet in je longen komt;",
+        "pageDocumentOffset": 167,
+        "paragraphIndexInBodyStory": 136,
+        "text": "slijmvlies met trilharen. Doordat de trilharen bewegen, beweegt het slijm in je luchtpijp ook. Het ingeademde vuil wordt hierdoor naar boven vervoerd, waarna het in de slokdarm komt en wordt doorgeslikt;",
+        "x": 22.0000000259609,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch5/Afbeelding_5.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+        "bounds": null,
+        "label": "Afbeelding 5.9:",
+        "raw": "Afbeelding 5.9 Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.9.png",
+        "bounds": [
+          20.0000000005678,
+          41.7021925573406,
+          111.278834411122,
+          162.947768220304
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch5_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch5_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 167,
+        "name": "149"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

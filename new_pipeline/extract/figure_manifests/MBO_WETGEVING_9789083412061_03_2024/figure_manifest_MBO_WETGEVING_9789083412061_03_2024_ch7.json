@@ -1,0 +1,152 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 856
+  },
+  "chapter": "7",
+  "chapterRange": {
+    "endOff": 68,
+    "ok": true,
+    "startOff": 63
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:45 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een bevalling in het ziekenhuis zonder dat dat medisch nodig was.",
+        "pageDocumentOffset": 64,
+        "paragraphIndexInBodyStory": 576,
+        "text": "Als een zorgvrager weinig inkomen heeft, krijgt hij of zij in sommige gevallen zorgtoeslag. De zorgvrager krijgt dan geld van de overheid om de kosten van de zorg te kunnen betalen. Hoe hoog deze toeslag is, hangt af van het inkomen.",
+        "x": 187.5,
+        "y": 26.295793067084
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeldberekening.",
+        "bounds": null,
+        "label": "Afbeelding 7.1:",
+        "raw": "Afbeelding 7.1 Voorbeeldberekening.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          40.2193694559733,
+          187.5,
+          94.0016383061366,
+          288.3710090271
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.15_Voorbeeldberekening.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.15_Voorbeeldberekening.png"
+      },
+      "page": {
+        "documentOffset": 64,
+        "name": "51"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 7.2 Wijkverpleegkundige.",
+        "beforeText": "sommige hulpmiddelen. Bijvoorbeeld een gehoorapparaat of een kunstgebit.",
+        "pageDocumentOffset": 65,
+        "paragraphIndexInBodyStory": 590,
+        "text": "￼",
+        "x": 17.5,
+        "y": 87.5471984457195
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wijkverpleegkundige.",
+        "bounds": null,
+        "label": "Afbeelding 7.2:",
+        "raw": "Afbeelding 7.2 Wijkverpleegkundige.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.6999999999987,
+          17.5,
+          87.5471984457195,
+          127.143416538906
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.13_Wijkverpleegkundige.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.13_Wijkverpleegkundige.jpeg"
+      },
+      "page": {
+        "documentOffset": 65,
+        "name": "52"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 65,
+        "paragraphIndexInBodyStory": 591,
+        "text": "Afbeelding 7.2 Wijkverpleegkundige.",
+        "x": 17.5,
+        "y": 92.0749762234977
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.",
+        "bounds": null,
+        "label": "Afbeelding 7.3:",
+        "raw": "Afbeelding 7.3 Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          96.3263303901639,
+          17.5,
+          172.089701223498,
+          128.3449375
+        ],
+        "kind": "link",
+        "linkName": "WBF_2.14_Een fysiotherapeut behandelt problemen aan het bewegingsapparaat.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_2.14_Een%20fysiotherapeut%20behandelt%20problemen%20aan%20het%20bewegingsapparaat.jpg"
+      },
+      "page": {
+        "documentOffset": 65,
+        "name": "52"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "bij spoed moeten huisartsen binnen 15 minuten bij de zorgvrager kunnen zijn;",
+        "pageDocumentOffset": 66,
+        "paragraphIndexInBodyStory": 603,
+        "text": "de zorgvrager moet met spoed binnen 30 minuten bij een huisartsenpraktijk terechtkunnen.",
+        "x": 199.499999976688,
+        "y": 78.367566214667
+      },
+      "asset": null,
+      "caption": {
+        "body": "Veel huisartsenposten werken samen met de spoedeisende hulp.",
+        "bounds": null,
+        "label": "Afbeelding 7.4:",
+        "raw": "Afbeelding 7.4 Veel huisartsenposten werken samen met de spoedeisende hulp.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          87.2050314924456,
+          187.5,
+          150.267618092445,
+          297.151189197116
+        ],
+        "kind": "link",
+        "linkName": "WBF_2.7_Veel huisartsenposten werken samen met de spoedeisende hulp.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_2.7_Veel%20huisartsenposten%20werken%20samen%20met%20de%20spoedeisende%20hulp.jpg"
+      },
+      "page": {
+        "documentOffset": 66,
+        "name": "53"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

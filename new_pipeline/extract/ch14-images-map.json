@@ -1,0 +1,20 @@
+[
+  {
+    "originalFilename": "MAF_Ch14_Img10.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch14_Img10.TIF",
+    "localFilename": "MAF_Ch14_Img10.png",
+    "localPath": "new_pipeline/assets/images/ch14/MAF_Ch14_Img10.png",
+    "usedInFigureLabels": [
+      "Afbeelding 14.10:"
+    ]
+  },
+  {
+    "originalFilename": "MAF_Ch14_Img11.TIF",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch14_Img11.TIF",
+    "localFilename": "MAF_Ch14_Img11.png",
+    "localPath": "new_pipeline/assets/images/ch14/MAF_Ch14_Img11.png",
+    "usedInFigureLabels": [
+      "Afbeelding 14.11:"
+    ]
+  }
+]

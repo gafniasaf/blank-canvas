@@ -1,0 +1,22 @@
+{
+  "59a6eb6e-8d53-4571-b648-ad02e2a8c2c7": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch6/linked/Methodisch werken_Chapter4_4.2_Keukentafelgesprek.jpeg",
+      "alt": "Afbeelding 6.1: Keukentafelgesprek.",
+      "figureNumber": "Afbeelding 6.1:",
+      "caption": "Keukentafelgesprek.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "1e497988-18e1-4d81-b588-a2dd8ed04640": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch6/linked/Image 2.4 Voorbeeld observatie gedrag.png",
+      "alt": "Afbeelding 6.2: Voorbeeld observatie gedrag.",
+      "figureNumber": "Afbeelding 6.2:",
+      "caption": "Voorbeeld observatie gedrag.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

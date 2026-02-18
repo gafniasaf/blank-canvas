@@ -1,0 +1,322 @@
+{
+  "bodyStory": {
+    "index": 49,
+    "words": 6651
+  },
+  "chapter": "15",
+  "chapterRange": {
+    "endOff": 177,
+    "ok": true,
+    "startOff": 156
+  },
+  "exportedAt": "Sat Jan 03 2026 00:40:00 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Een voorbeeld van het gebruik van het NANDA-systeem",
+        "pageDocumentOffset": 159,
+        "paragraphIndexInBodyStory": 74,
+        "text": "Je kiest het domein ‘welbevinden’, omdat dat het best bij de situatie van de zorgvrager past. In dit domein zitten de subklassen ‘omgevingscomfort’, ‘sociaal welzijn’ en ‘lichamelijk welbevinden’. Bij de zorgvrager gaat het om lichamelijk welbevinden, de diagnose heeft dus te maken met het lichaam van de zorgvrager. Voor de subklasse ‘lichamelijk welbevinden’ is ‘pijn’ een diagnostisch concept. De verpleegkundige diagnose die je kan stellen bij pijn is ‘chronische pijn’ (blijvende pijn) of ‘acute pijn’ (plotselinge pijn).",
+        "x": 55.2755905511809,
+        "y": 71.7946371243743
+      },
+      "asset": null,
+      "caption": {
+        "body": "Opbouw van de NANDA-classificatie.",
+        "bounds": null,
+        "label": "Afbeelding 15.1:",
+        "raw": "Afbeelding 15.1 Opbouw van de NANDA-classificatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          154.515011140116,
+          20.5232052540214,
+          278.076326162816,
+          461.366548126845
+        ],
+        "kind": "link",
+        "linkName": "Image 3.3 Opbouw van de NANDA-classificatie.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.3%20Opbouw%20van%20de%20NANDA-classificatie.tif"
+      },
+      "page": {
+        "documentOffset": 159,
+        "name": "146"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de interventies uit de NIC kunnen goed worden gebruikt in digitale verslagen en wetenschappelijk onderzoek;",
+        "pageDocumentOffset": 160,
+        "paragraphIndexInBodyStory": 102,
+        "text": "beter onderwijs over verpleegkundige interventies en betere klinische besluitvorming. Klinische besluitvorming gaat over alle besluiten die het ziekenhuispersoneel neemt over een zorgvrager.",
+        "x": 554.173228661845,
+        "y": 380.625870111428
+      },
+      "asset": null,
+      "caption": {
+        "body": "Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.",
+        "bounds": null,
+        "label": "Afbeelding 15.2:",
+        "raw": "Afbeelding 15.2 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          418.676952788577,
+          535.59232084019,
+          565.028159400157,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 3.4 Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.4%20Met%20de%20NNN-classificatie%20wordt%20het%20gehele%20verpleegkundig%20proces%20afgedekt.tif"
+      },
+      "page": {
+        "documentOffset": 160,
+        "name": "147"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Functioneren en functioneringsproblemen.",
+        "pageDocumentOffset": 165,
+        "paragraphIndexInBodyStory": 164,
+        "text": "Externe en persoonlijke factoren.",
+        "x": 72.2834648823172,
+        "y": 178.539255938187
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het ICF-model.",
+        "bounds": null,
+        "label": "Afbeelding 15.3:",
+        "raw": "Afbeelding 15.3 Het ICF-model.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          190.590338615351,
+          53.702557060662,
+          386.16710554935,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 3.5 Het ICF-model.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.5%20Het%20ICF-model.tif"
+      },
+      "page": {
+        "documentOffset": 165,
+        "name": "152"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "15.5.3 Externe en persoonlijke factoren",
+        "pageDocumentOffset": 166,
+        "paragraphIndexInBodyStory": 176,
+        "text": "Externe factoren zijn factoren die vanuit je omgeving komen. Een externe factor is bijvoorbeeld het werken in een gebouw met alleen maar trappen. Als de zorgvrager een gebroken been heeft, kan hij of zij niet meer gemakkelijk door het gebouw bewegen. Een persoonlijke factor beschrijft wie je bent, welke kenmerken je hebt en hoe je reageert in bepaalde situaties. Een persoonlijke factor is bijvoorbeeld je leeftijd, geslacht, beroep of opleiding.",
+        "x": 531.496062992126,
+        "y": 230.295161450005
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een ingevuld ICF-model.",
+        "bounds": null,
+        "label": "Afbeelding 15.4:",
+        "raw": "Afbeelding 15.4 Een ingevuld ICF-model.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          295.763566961803,
+          535.59232084019,
+          534.596041799115,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 3.6 Een ingevuld ICF-model.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.6%20Een%20ingevuld%20ICF-model.tif"
+      },
+      "page": {
+        "documentOffset": 166,
+        "name": "153"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 15.5: Het zorgproces volgens het Omaha-systeem.",
+        "beforeText": "Beoordeel alle aandachtsgebieden bij de zorgvrager. Deze beoordeling noemen we de evaluatie.",
+        "pageDocumentOffset": 168,
+        "paragraphIndexInBodyStory": 195,
+        "text": "￼",
+        "x": 514.738561074565,
+        "y": 235.301755484033
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het zorgproces volgens het Omaha-systeem.",
+        "bounds": null,
+        "label": "Afbeelding 15.5:",
+        "raw": "Afbeelding 15.5: Het zorgproces volgens het Omaha-systeem.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          514.738561074565,
+          235.301755484033,
+          930.930728173443
+        ],
+        "kind": "link",
+        "linkName": "Image 3.7 Het zorgproces volgens het Omaha System.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.7%20Het%20zorgproces%20volgens%20het%20Omaha%20System.tif"
+      },
+      "page": {
+        "documentOffset": 168,
+        "name": "155"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 15.6 De verschillende onderdelen van het Omaha-systeem.",
+        "beforeText": "Samen met de zorgvrager bepaal je daarna de gewenste situatie. Deze situatie kan je bepalen door te bespreken hoe je zou willen dat de zorgvrager scoort op de drie onderdelen na de behandeling. Je bepaalt dan dus een gewenste score van 1 tot en met 5 voor gedrag, status en kennis. De scores op deze onderdelen laten zien hoe goed de zorgvrager zichzelf kan redden en welke resultaten hij of zij verwacht van de behandeling. Alle verzamelde gegevens bepalen de interventies die je moet uitvoeren, hoe vaak deze interventies nodig zijn en voor hoelang.",
+        "pageDocumentOffset": 170,
+        "paragraphIndexInBodyStory": 222,
+        "text": "￼",
+        "x": 531.828740517924,
+        "y": 382.99704182602
+      },
+      "asset": null,
+      "caption": {
+        "body": "De verschillende onderdelen van het Omaha-systeem.",
+        "bounds": null,
+        "label": "Afbeelding 15.6:",
+        "raw": "Afbeelding 15.6 De verschillende onderdelen van het Omaha-systeem.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          95.3383701114217,
+          531.828740517924,
+          382.99704182602,
+          913.840543155171
+        ],
+        "kind": "link",
+        "linkName": "Afbeelding 2_6b.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Afbeelding%202_6b.png"
+      },
+      "page": {
+        "documentOffset": 170,
+        "name": "157"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 15.7 Werkwijze volgens RAIview.",
+        "beforeText": "Organisatie. In RAIview staan standaardgegevens uit de gezondheidszorg. Dit zijn bijvoorbeeld gegevens over de gemiddelde lengte en het gemiddelde gewicht die passen bij een bepaalde leeftijd en een bepaald geslacht. RAIview vergelijkt de resultaten uit de vragenlijsten van de zorgvrager met deze standaardgegevens. Niet alle zorgvragers zijn hetzelfde. Daarom worden in deze laatste stap alle gegevens aangepast aan de situatie van de zorgvrager die je behandelt. Door de gegevens aan te passen aan de zorgvrager, ontstaat in RAIview een zorgplan dat precies bij de zorgvrager past.",
+        "pageDocumentOffset": 173,
+        "paragraphIndexInBodyStory": 253,
+        "text": "￼",
+        "x": 47.1490750049979,
+        "y": 278.679196383498
+      },
+      "asset": null,
+      "caption": {
+        "body": "Werkwijze volgens RAIview.",
+        "bounds": null,
+        "label": "Afbeelding 15.7:",
+        "raw": "Afbeelding 15.7 Werkwijze volgens RAIview.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          47.1490750049979,
+          278.679196383498,
+          434.740699090431
+        ],
+        "kind": "link",
+        "linkName": "MicrosoftTeams-image (4).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/MicrosoftTeams-image%20%284%29.png"
+      },
+      "page": {
+        "documentOffset": 173,
+        "name": "160"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Beoordeling.",
+        "pageDocumentOffset": 174,
+        "paragraphIndexInBodyStory": 273,
+        "text": "Betekenis.",
+        "x": 554.173228661845,
+        "y": 191.539255938187
+      },
+      "asset": null,
+      "caption": {
+        "body": "De assen van de ICNP.",
+        "bounds": null,
+        "label": "Afbeelding 15.8:",
+        "raw": "Afbeelding 15.8 De assen van de ICNP.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          203.590338615366,
+          526.230199258159,
+          457.475377985582,
+          919.439093257874
+        ],
+        "kind": "link",
+        "linkName": "Image 3.10 De assen van de ICNP.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.10%20De%20assen%20van%20de%20ICNP.tif"
+      },
+      "page": {
+        "documentOffset": 174,
+        "name": "161"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Je onderzoekt ook de leeftijd, opleiding, levensgeschiedenis en de manier waarop de zorgvrager leeft.",
+        "pageDocumentOffset": 176,
+        "paragraphIndexInBodyStory": 300,
+        "text": "De gegevens uit het AAIDD-model kan je uiteindelijk gebruiken om te bepalen welke zorg je de zorgvrager met de verstandelijke beperking gaat geven. Dit plan noemen we het begeleidingsplan of behandelplan. Het AAIDD-model helpt je dus om goede behandelplannen te maken met duidelijke doelen voor deze kwetsbare zorgvragers",
+        "x": 531.496062992126,
+        "y": 42.8699645996094
+      },
+      "asset": null,
+      "caption": {
+        "body": "AAIDD-model.",
+        "bounds": null,
+        "label": "Afbeelding 15.9:",
+        "raw": "Afbeelding 15.9 AAIDD-model.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          95.3383701114217,
+          535.59232084019,
+          343.454419422807,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 4.1 AAIDD-model.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%204.1%20AAIDD-model.tif"
+      },
+      "page": {
+        "documentOffset": 176,
+        "name": "163"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

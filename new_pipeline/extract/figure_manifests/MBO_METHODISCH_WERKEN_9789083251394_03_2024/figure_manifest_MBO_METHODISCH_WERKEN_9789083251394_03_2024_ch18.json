@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 51,
+    "words": 7915
+  },
+  "chapter": "18",
+  "chapterRange": {
+    "endOff": 221,
+    "ok": true,
+    "startOff": 199
+  },
+  "exportedAt": "Sat Jan 03 2026 00:40:07 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Afbeelding 18.1 Protocol toepassing handhygiëne.",
+        "beforeText": "meerdere vakgebieden. Dit noemen we een multidisciplinair protocol.",
+        "pageDocumentOffset": 202,
+        "paragraphIndexInBodyStory": 273,
+        "text": "￼",
+        "x": 535.59232084019,
+        "y": 362.83464566934
+      },
+      "asset": null,
+      "caption": {
+        "body": "Protocol toepassing handhygiëne.",
+        "bounds": null,
+        "label": "Afbeelding 18.1:",
+        "raw": "Afbeelding 18.1 Protocol toepassing handhygiëne.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          535.59232084019,
+          362.83464566934,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 4.6 Protocol toepassing handhygiëne.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%204.6%20Protocol%20toepassing%20handhygi%C3%ABne.tif"
+      },
+      "page": {
+        "documentOffset": 202,
+        "name": "189"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

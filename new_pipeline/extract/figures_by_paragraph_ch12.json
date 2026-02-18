@@ -1,0 +1,146 @@
+{
+  "ebb13131-b26e-4c43-ac66-d7e9fd65494d": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.10.png",
+      "alt": "Afbeelding 12.10: Schematisch overzicht van schildklierhormoon.",
+      "figureNumber": "Afbeelding 12.10:",
+      "caption": "Schematisch overzicht van schildklierhormoon.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.9.png",
+      "alt": "Afbeelding 12.9: De schildklier.",
+      "figureNumber": "Afbeelding 12.9:",
+      "caption": "De schildklier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b1a8b635-b951-4a1e-852a-18f4799b4ee8": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img11.png",
+      "alt": "Afbeelding 12.11: Schematisch overzicht van de glucosehouding.",
+      "figureNumber": "Afbeelding 12.11:",
+      "caption": "Schematisch overzicht van de glucosehouding.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "dace778c-886c-4bd7-a274-231f7d28de7b": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.12.png",
+      "alt": "Afbeelding 12.12: De bijnier.",
+      "figureNumber": "Afbeelding 12.12:",
+      "caption": "De bijnier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "99af19bb-95ea-4b4d-a21f-59a68bf57ab9": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.13.png",
+      "alt": "Afbeelding 12.13: 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+      "figureNumber": "Afbeelding 12.13:",
+      "caption": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7cb3e1ca-f682-4b28-89fb-7a1673e4ed36": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.14.png",
+      "alt": "Afbeelding 12.14: Doorsnede van een testikel.",
+      "figureNumber": "Afbeelding 12.14:",
+      "caption": "Doorsnede van een testikel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4a1c1176-be15-4b85-9d0e-da14e94083b7": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.15.png",
+      "alt": "Afbeelding 12.15: Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+      "figureNumber": "Afbeelding 12.15:",
+      "caption": "Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "dda1e140-c660-4830-8729-8deb0bd56a2f": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.1.png",
+      "alt": "Afbeelding 12.1: Levensduur van hormonen.",
+      "figureNumber": "Afbeelding 12.1:",
+      "caption": "Levensduur van hormonen.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.2.png",
+      "alt": "Afbeelding 12.2: Overzicht van het hormoonstelsel.",
+      "figureNumber": "Afbeelding 12.2:",
+      "caption": "Overzicht van het hormoonstelsel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "6ac5c5b3-22c5-4188-bbd9-fbf92ff0693b": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.3.png",
+      "alt": "Afbeelding 12.3: Hypothalamus-hypofyse-as.",
+      "figureNumber": "Afbeelding 12.3:",
+      "caption": "Hypothalamus-hypofyse-as.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "964dd0da-2d07-4c4f-a420-75c4a8100253": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img4.png",
+      "alt": "Afbeelding 12.4: De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+      "figureNumber": "Afbeelding 12.4:",
+      "caption": "De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img05.png",
+      "alt": "Afbeelding 12.5: Oxytocine.",
+      "figureNumber": "Afbeelding 12.5:",
+      "caption": "Oxytocine.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ab32be68-a571-4ab6-af91-991ef1fce065": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.6.png",
+      "alt": "Afbeelding 12.6: De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+      "figureNumber": "Afbeelding 12.6:",
+      "caption": "De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7bd526a5-b4ae-4cf9-a646-b15fbe5a0b59": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.7.png",
+      "alt": "Afbeelding 12.7: Feedback in de hypothalamus-hypofyse-as.",
+      "figureNumber": "Afbeelding 12.7:",
+      "caption": "Feedback in de hypothalamus-hypofyse-as.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "302b2c04-850a-48eb-8a72-3ffd79f63fa4": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img08.png",
+      "alt": "Afbeelding 12.8: Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+      "figureNumber": "Afbeelding 12.8:",
+      "caption": "Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

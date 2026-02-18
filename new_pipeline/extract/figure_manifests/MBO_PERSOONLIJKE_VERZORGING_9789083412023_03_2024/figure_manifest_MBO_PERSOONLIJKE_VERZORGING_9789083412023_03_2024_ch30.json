@@ -1,0 +1,123 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 1671
+  },
+  "chapter": "30",
+  "chapterRange": {
+    "endOff": 314,
+    "ok": true,
+    "startOff": 310
+  },
+  "exportedAt": "Sat Jan 03 2026 22:57:22 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de bijlage van de e-mail is schadelijk. Op je computer wordt schadelijke software geïnstalleerd als je deze bijlage opent.",
+        "pageDocumentOffset": 310,
+        "paragraphIndexInBodyStory": 5698,
+        "text": "Als je een e-mail niet vertrouwt, kan je de mail als ongewenst markeren en dan verwijderen.",
+        "x": 297,
+        "y": 138.1568854438
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorgprofessionals kunnen zorgvragers helpen bij het sorteren van post en het onderscheiden van ongewenste en gewenste mail.",
+        "bounds": null,
+        "label": "Afbeelding 30.1:",
+        "raw": "Afbeelding 30.1 Zorgprofessionals kunnen zorgvragers helpen bij het sorteren van post en het onderscheiden van ongewenste en gewenste mail.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          147.375056740089,
+          297.000001102024,
+          197.388596391927,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk30_30.1_Zorgprofessionals kunnen zorgvragers helpen bij het sorteren van post en het onderscheiden van .jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk30_30.1_Zorgprofessionals%20kunnen%20zorgvragers%20helpen%20bij%20het%20sorteren%20van%20post%20en%20het%20onderscheiden%20van%20.jpeg"
+      },
+      "page": {
+        "documentOffset": 310,
+        "name": "297"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿30.1.3  De bewaartermijn van documenten",
+        "beforeText": "documenten die niet vervangen kunnen worden (arbeidscontracten, medische documenten of pensioengegevens).",
+        "pageDocumentOffset": 311,
+        "paragraphIndexInBodyStory": 5709,
+        "text": "Een zorgvrager kan deze documenten op papier bewaren in een map of digitaal in verschillende mappen op de computer. Het is ook verstandig om regelmatig een back-up te maken van de digitale gegevens, bijvoorbeeld op een externe harde schijf. Als de computer van de zorgvrager dan problemen heeft, blijven de gegevens nog bewaard.",
+        "x": 15,
+        "y": 92.598554738364
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorgprofessionals kunnen zorgvragers helpen bij het organiseren en invullen van hun agenda.",
+        "bounds": null,
+        "label": "Afbeelding 30.2:",
+        "raw": "Afbeelding 30.2 Zorgprofessionals kunnen zorgvragers helpen bij het organiseren en invullen van hun agenda.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          93.863945628985,
+          102.000001102024,
+          145.863945628981,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk30_30.2_Zorgprofessionals kunnen zorgvragers helpen bij het organiseren en invullen van hun agenda.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk30_30.2_Zorgprofessionals%20kunnen%20zorgvragers%20helpen%20bij%20het%20organiseren%20en%20invullen%20van%20hun%20agenda.jpeg"
+      },
+      "page": {
+        "documentOffset": 311,
+        "name": "298"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿30.2.2  Hulpmiddelen bij het plannen",
+        "beforeText": "een kortetermijnplanning. Hierbij maak je een planning voor de komende week;",
+        "pageDocumentOffset": 312,
+        "paragraphIndexInBodyStory": 5729,
+        "text": "een langetermijnplanning. Hierbij kijk je ook wat verder vooruit (denk aan een ziekenhuisafspraak).￼",
+        "x": 215.999999830458,
+        "y": 145.06592792429
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch30/Afbeelding_30.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een geschreven planning is voor sommige zorgvragers lastig; het kan dan helpen om met pictogrammen te werken.",
+        "bounds": null,
+        "label": "Afbeelding 30.3:",
+        "raw": "Afbeelding 30.3 Een geschreven planning is voor sommige zorgvragers lastig; het kan dan helpen om met pictogrammen te werken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch30/Afbeelding_30.3.png",
+        "bounds": [
+          22.3999999949332,
+          241.130642880811,
+          123.474636467473,
+          343.869357119189
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 30_30.3_Een geschreven planning is voor sommige zorgvragers lastig; het kan dan helpen om met pictogrammen t.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2030_30.3_Een%20geschreven%20planning%20is%20voor%20sommige%20zorgvragers%20lastig%3B%20het%20kan%20dan%20helpen%20om%20met%20pictogrammen%20t.tif"
+      },
+      "page": {
+        "documentOffset": 312,
+        "name": "299"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

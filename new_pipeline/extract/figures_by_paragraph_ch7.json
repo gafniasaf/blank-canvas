@@ -1,0 +1,52 @@
+{
+  "8bbec534-43de-4df5-83e0-aad94953f737": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.1.png",
+      "alt": "Afbeelding 7.1: Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+      "figureNumber": "Afbeelding 7.1:",
+      "caption": "Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e9347313-d6ee-40d3-af30-bf11432cd555": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.2.png",
+      "alt": "Afbeelding 7.2: Overzicht van verschillende soorten granulocyten.",
+      "figureNumber": "Afbeelding 7.2:",
+      "caption": "Overzicht van verschillende soorten granulocyten.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "27adf599-1902-4c9b-80ea-03242cabcd60": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.3.png",
+      "alt": "Afbeelding 7.3: Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+      "figureNumber": "Afbeelding 7.3:",
+      "caption": "Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cdc3835f-ae50-442c-8cd7-ab41af7fb2b3": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.4.png",
+      "alt": "Afbeelding 7.4: De amandelen.",
+      "figureNumber": "Afbeelding 7.4:",
+      "caption": "De amandelen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "70bd60f0-0ab4-4d6c-a7d3-8779a98165aa": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.5.png",
+      "alt": "Afbeelding 7.5: Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+      "figureNumber": "Afbeelding 7.5:",
+      "caption": "Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "bodyStory": {
+    "index": 580,
+    "words": 7315
+  },
+  "chapter": "14",
+  "chapterRange": {
+    "endOff": 519,
+    "ok": true,
+    "startOff": 458
+  },
+  "exportedAt": "Thu Dec 25 2025 17:27:55 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Een systeem dat je lichaam beschermt tegen ziekteverwekkers.",
+        "beforeText": "Een hormoon waardoor het hart harder werkt. Het zorgt ook voor het samenknijpen van de kleinste slagaders en dus voor een hogere bloeddruk.",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 16,
+        "text": "Afweersysteem",
+        "x": 102,
+        "y": 42.5777777777809
+      },
+      "asset": null,
+      "caption": {
+        "body": "Anatomie van de oogleden en samenstelling van de traanfilm.",
+        "bounds": null,
+        "label": "Afbeelding 14.10:",
+        "raw": "Afbeelding 14.10 Anatomie van de oogleden en samenstelling van de traanfilm.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          9.68371250000548,
+          209.119444444444,
+          85.3757125000047,
+          271.095444444444
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img10.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img10.TIF"
+      },
+      "page": {
+        "documentOffset": 476,
+        "name": "458"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem om bloedgroepen in te delen waarbij aan de hand van antigenen A en B wordt bepaald welke bloedgroep je hebt.",
+        "beforeText": "",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 0,
+        "text": "AB0-systeem",
+        "x": 14.9999999979956,
+        "y": 42.5777777777809
+      },
+      "asset": null,
+      "caption": {
+        "body": "Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+        "bounds": null,
+        "label": "Afbeelding 14.11:",
+        "raw": "Afbeelding 14.11 Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          6.28465489058686,
+          39.4360814082849,
+          115.955555555559,
+          152.907299658874
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 477,
+        "name": "459"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem dat je lichaam beschermt tegen ziekteverwekkers.",
+        "beforeText": "Een hormoon waardoor het hart harder werkt. Het zorgt ook voor het samenknijpen van de kleinste slagaders en dus voor een hogere bloeddruk.",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 16,
+        "text": "Afweersysteem",
+        "x": 102,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+        "bounds": null,
+        "label": "Afbeelding 14.12:",
+        "raw": "Afbeelding 14.12 De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.12.png",
+        "bounds": [
+          21.7732054127436,
+          222.478676463774,
+          73.1124311351307,
+          364.159986285013
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img12.TIF"
+      },
+      "page": {
+        "documentOffset": 478,
+        "name": "460"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Activators",
+        "beforeText": "Actieve immunisatie",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 7,
+        "text": "Een proces waarbij het lichaam zelf antilichamen maakt als reactie op het contact met een schadelijke ziekteverwekker.",
+        "x": 14.9999999979956,
+        "y": 121.600000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+        "bounds": null,
+        "label": "Afbeelding 14.1:",
+        "raw": "Afbeelding 14.1 Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.1.png",
+        "bounds": [
+          125.878780730072,
+          3.99999999999993,
+          206.75995910555,
+          95.9368790167333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img1.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img1.TIF"
+      },
+      "page": {
+        "documentOffset": 463,
+        "name": "445"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Alveoli",
+        "beforeText": "Alveolaire ventilatie",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 23,
+        "text": "De stroming van de lucht die bijdraagt aan de gasuitwisseling.",
+        "x": 102,
+        "y": 127.244444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+        "bounds": null,
+        "label": "Afbeelding 14.2:",
+        "raw": "Afbeelding 14.2 Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.2.png",
+        "bounds": [
+          125.615970914482,
+          239.026749599058,
+          177.000556919798,
+          288.215413125522
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img02.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img02.TIF"
+      },
+      "page": {
+        "documentOffset": 466,
+        "name": "448"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem om bloedgroepen in te delen waarbij aan de hand van antigenen A en B wordt bepaald welke bloedgroep je hebt.",
+        "beforeText": "",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 0,
+        "text": "AB0-systeem",
+        "x": 14.9999999979956,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+        "bounds": null,
+        "label": "Afbeelding 14.3:",
+        "raw": "Afbeelding 14.3 Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.3.png",
+        "bounds": [
+          25.4771880881556,
+          21.6257209486918,
+          143.119444444458,
+          171.817193149675
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img3.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img3.TIF"
+      },
+      "page": {
+        "documentOffset": 469,
+        "name": "451"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Alveolaire dode ruimte",
+        "beforeText": "Aldosteron",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 19,
+        "text": "Een hormoon dat ervoor zorgt dat er meer natrium wordt opgenomen vanuit de voorurine terug naar het bloed en dat er meer kalium uit het bloed wordt afgegeven aan de voorurine.",
+        "x": 102,
+        "y": 70.8000000000032
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de verschillende lagen van het hoornvlies.",
+        "bounds": null,
+        "label": "Afbeelding 14.4:",
+        "raw": "Afbeelding 14.4 Overzicht van de verschillende lagen van het hoornvlies.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.4.png",
+        "bounds": [
+          68.6699858010601,
+          236.763888888889,
+          169.29839690552,
+          323.809377581908
+        ],
+        "kind": "link",
+        "linkName": "MAF Ch14_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF%20Ch14_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 470,
+        "name": "452"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem om bloedgroepen in te delen waarbij aan de hand van antigenen A en B wordt bepaald welke bloedgroep je hebt.",
+        "beforeText": "",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 0,
+        "text": "AB0-systeem",
+        "x": 14.9999999979956,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van het menselijk oog.",
+        "bounds": null,
+        "label": "Afbeelding 14.5:",
+        "raw": "Afbeelding 14.5 Anatomie van het menselijk oog.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.5.png",
+        "bounds": [
+          15.5000000001547,
+          49.7708611502447,
+          95.9999999999987,
+          152.262382531935
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 471,
+        "name": "453"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem dat je lichaam beschermt tegen ziekteverwekkers.",
+        "beforeText": "Een hormoon waardoor het hart harder werkt. Het zorgt ook voor het samenknijpen van de kleinste slagaders en dus voor een hogere bloeddruk.",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 16,
+        "text": "Afweersysteem",
+        "x": 102,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+        "bounds": null,
+        "label": "Afbeelding 14.6:",
+        "raw": "Afbeelding 14.6 De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.6.png",
+        "bounds": [
+          15.9999999999964,
+          203.333333333333,
+          144.177777777791,
+          289.414379621605
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Image6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Image6.TIF"
+      },
+      "page": {
+        "documentOffset": 472,
+        "name": "454"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem om bloedgroepen in te delen waarbij aan de hand van antigenen A en B wordt bepaald welke bloedgroep je hebt.",
+        "beforeText": "",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 0,
+        "text": "AB0-systeem",
+        "x": 14.9999999979956,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+        "bounds": null,
+        "label": "Afbeelding 14.7:",
+        "raw": "Afbeelding 14.7 Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.7.png",
+        "bounds": [
+          15.379894343017,
+          28.4701196260673,
+          159.381216768172,
+          158.013056176204
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img7.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img7.TIF"
+      },
+      "page": {
+        "documentOffset": 473,
+        "name": "455"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem dat je lichaam beschermt tegen ziekteverwekkers.",
+        "beforeText": "Een hormoon waardoor het hart harder werkt. Het zorgt ook voor het samenknijpen van de kleinste slagaders en dus voor een hogere bloeddruk.",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 16,
+        "text": "Afweersysteem",
+        "x": 102,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De oogspieren.",
+        "bounds": null,
+        "label": "Afbeelding 14.8:",
+        "raw": "Afbeelding 14.8 De oogspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.8.png",
+        "bounds": [
+          20.0000000000032,
+          200.122222222222,
+          84.485154293874,
+          250.300757317271
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img8.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img8.TIF"
+      },
+      "page": {
+        "documentOffset": 474,
+        "name": "456"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een systeem dat je lichaam beschermt tegen ziekteverwekkers.",
+        "beforeText": "Een hormoon waardoor het hart harder werkt. Het zorgt ook voor het samenknijpen van de kleinste slagaders en dus voor een hogere bloeddruk.",
+        "pageDocumentOffset": 479,
+        "paragraphIndexInBodyStory": 16,
+        "text": "Afweersysteem",
+        "x": 102,
+        "y": 42.5777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch14/Afbeelding_14.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De menselijke schedel.",
+        "bounds": null,
+        "label": "Afbeelding 14.9:",
+        "raw": "Afbeelding 14.9 De menselijke schedel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch14/Afbeelding_14.9.png",
+        "bounds": [
+          10.9373999999985,
+          64.7420846231618,
+          106.8478,
+          145.412484623162
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch14_Img09.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch14_Img09.png"
+      },
+      "page": {
+        "documentOffset": 475,
+        "name": "457"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

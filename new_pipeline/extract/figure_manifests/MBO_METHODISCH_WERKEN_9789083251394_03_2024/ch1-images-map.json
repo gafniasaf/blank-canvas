@@ -1,0 +1,38 @@
+[
+  {
+    "originalFilename": "Afbeelding 1.1.png",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Afbeelding 1.1.png",
+    "localFilename": "Afbeelding 1.1.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch1/linked/Afbeelding 1.1.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image 1.1 Doelen overleggen met de zorgvrager.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 1.1 Doelen overleggen met de zorgvrager.tif",
+    "localFilename": "Image 1.1 Doelen overleggen met de zorgvrager.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch1/linked/Image 1.1 Doelen overleggen met de zorgvrager.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image 1.3 Stappen in het zorgproces.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 1.3 Stappen in het zorgproces.tif",
+    "localFilename": "Image 1.3 Stappen in het zorgproces.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch1/linked/Image 1.3 Stappen in het zorgproces.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image 1.4 In een gesprek kun je de wensen van de zorgvrager helder krijgen.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/Links/Image 1.4 In een gesprek kun je de wensen van de zorgvrager helder krijgen.tif",
+    "localFilename": "Image 1.4 In een gesprek kun je de wensen van de zorgvrager helder krijgen.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch1/linked/Image 1.4 In een gesprek kun je de wensen van de zorgvrager helder krijgen.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.2:"
+    ]
+  }
+]

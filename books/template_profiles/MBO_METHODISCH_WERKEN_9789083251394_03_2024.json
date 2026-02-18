@@ -1,0 +1,175 @@
+{
+  "bodyFrames": {
+    "left": {
+      "frames": [
+        {
+          "bounds": [
+            36,
+            49.6062992125982,
+            623.622047244091,
+            432.283464566929
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 22.6771653543307
+        }
+      ],
+      "masterName": "A-Basis",
+      "pagesSeen": 12,
+      "signature": "36,50,624,432"
+    },
+    "right": {
+      "frames": [
+        {
+          "bounds": [
+            36,
+            531.496062992126,
+            624,
+            914.173228346457
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 22.6771653543307
+        }
+      ],
+      "masterName": "C-Hoofdstukopening",
+      "pagesSeen": 13,
+      "signature": "36,531,624,914"
+    },
+    "unknown": {
+      "frames": [],
+      "masterName": "",
+      "pagesSeen": 0,
+      "signature": ""
+    }
+  },
+  "bodyStory": {
+    "index": 51,
+    "words": 15354
+  },
+  "book_id": "MBO_METHODISCH_WERKEN_9789083251394_03_2024",
+  "document": {
+    "facingPages": true,
+    "horizontalMeasurementUnits": "PIXELS",
+    "name": "MBO Methodisch werken_9789083251394_03.2024.indd",
+    "pages": 264
+  },
+  "generated_at": "2026-01-03_00-38-28",
+  "masters": {
+    "all": [
+      "A-Basis",
+      "B-Inhoudsopgave",
+      "C-Hoofdstukopening",
+      "D-Front Matter BLANK",
+      "E-Voorword",
+      "F-Index",
+      "G-Section",
+      "H-Master",
+      "I-Master",
+      "J-Master"
+    ],
+    "bodyCandidates": [
+      {
+        "count": 42,
+        "name": "A-Basis"
+      },
+      {
+        "count": 3,
+        "name": "C-Hoofdstukopening"
+      }
+    ],
+    "openerCandidates": [
+      {
+        "count": 53,
+        "name": "A-Basis"
+      },
+      {
+        "count": 17,
+        "name": "C-Hoofdstukopening"
+      },
+      {
+        "count": 1,
+        "name": "D-Front Matter BLANK"
+      },
+      {
+        "count": 1,
+        "name": "(none)"
+      }
+    ]
+  },
+  "paragraphStyleCandidates": {
+    "chapterHeader": [
+      {
+        "count": 26,
+        "name": "•Subparagraaf kop"
+      },
+      {
+        "count": 20,
+        "name": "•Paragraafkop"
+      },
+      {
+        "count": 3,
+        "name": "•Hoofdstuktitel"
+      },
+      {
+        "count": 3,
+        "name": "•Hoofdstukkop"
+      }
+    ],
+    "listLike": [
+      {
+        "count": 214,
+        "name": "_Bullets Justified"
+      },
+      {
+        "count": 84,
+        "name": "_Bullets Justified (space after)"
+      },
+      {
+        "count": 19,
+        "name": "_Voorbeeld bullets"
+      },
+      {
+        "count": 12,
+        "name": "_Bullets Lvl 2"
+      },
+      {
+        "count": 9,
+        "name": "_Nummer List (Continue)"
+      },
+      {
+        "count": 8,
+        "name": "_Nummer List (End)"
+      },
+      {
+        "count": 8,
+        "name": "_Voorbeeld bullets + space after"
+      },
+      {
+        "count": 6,
+        "name": "_Bullets Lvl 2 spcae after"
+      },
+      {
+        "count": 6,
+        "name": "_Nummer List (Start)"
+      },
+      {
+        "count": 1,
+        "name": "Indent 8 for Bullets par"
+      }
+    ],
+    "numberedHeadings": [
+      {
+        "count": 26,
+        "name": "•Subparagraaf kop"
+      },
+      {
+        "count": 20,
+        "name": "•Paragraafkop"
+      }
+    ]
+  },
+  "source": {
+    "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd",
+    "canonical_n4_idml_path": "./_source_exports/MBO_METHODISCH_WERKEN_9789083251394_03_2024__FROM_DOWNLOADS.idml",
+    "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "bodyStory": {
+    "index": 18,
+    "words": 8753
+  },
+  "chapter": "1",
+  "chapterRange": {
+    "endOff": 50,
+    "ok": true,
+    "startOff": 21
+  },
+  "exportedAt": "Thu Dec 25 2025 17:23:15 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "De translatie gaat verder door allerlei andere codons te vertalen naar aminozuren. Dit proces stopt pas als het ribosoom aankomt bij een stopcodon. Je kan dit vergelijken met een rood stoplicht. De translatie stopt op dit punt namelijk. Het eiwit is dan klaar en laat los van het ribosoom. De stopcodons waarbij dit gebeurt, zijn UAA, UAG en UGA.",
+        "beforeText": "Translatie is het proces waarbij je lichaam vanuit mRNA eiwitten maakt. Tijdens de translatie bindt mRNA aan een ribosoom met tRNA in het endoplasmatisch reticulum. Ribosomen zijn organellen die eiwitten maken. tRNA leest het hele mRNA af. Het tRNA is zo gevouwen dat het plekken heeft met drie stikstofbasen achter elkaar. Deze plekken lijken een beetje op de drie basenparen die in het mRNA achter elkaar liggen. Bij mRNA noemen we deze drie basenparen samen een codon. Bij tRNA noemen we ze een anticodon. Een anticodon bindt aan een codon van het mRNA dat hier precies op past. Een codon en anticodon zijn complementair aan elkaar. Dit betekent dat ze precies het omgekeerde van elkaar zijn. Hierdoor passen ze precies op elkaar. De volgorde van de codons van het mRNA bepaalt de volgorde van de anticodons op het tRNA. Hierdoor ligt de volgorde van de aminozuren in het eiwit al vast in het mRNA. Door de combinatie van codons en anticodons maakt het tRNA aminozuren. Deze aminozuren maakt het tRNA aan elkaar vast. Hierdoor ontstaat een eiwit. Een eiwit is namelijk een keten van aminozuren.",
+        "pageDocumentOffset": 37,
+        "paragraphIndexInBodyStory": 187,
+        "text": "In totaal heb je 64 codons die voor de aanmaak van 20 aminozuren zorgen. Het mRNA begint meestal met het codon AUG. Dit noemen we het startcodon. Het tRNA anticodon dat hierop past, is UAC. De U past namelijk op de A, de A op de U en de C op de G. Andere anticodons passen niet op dit startcodon. Doordat het tRNA anticodons gebruikt, maakt het aminozuren in de juiste volgorde aan elkaar vast. Deze volgorde komt overeen met de volgorde van de codons in het mRNA. Op die manier komt elk aminozuur op de juiste plek in een eiwit terecht.",
+        "x": 15,
+        "y": 211.911111111112
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+        "bounds": null,
+        "label": "Afbeelding 1.10:",
+        "raw": "Afbeelding 1.10 DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+        "bounds": [
+          16.5000000000049,
+          21.7944444444445,
+          153.477120000004,
+          174.453524444444
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 37,
+        "name": "19"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De celcyclus is het leven van een cel. Het bestaat uit alle fasen die een cel doormaakt, zoals celgroei en celdeling. Als mens groei je tijdens je leven vanuit één cel naar miljarden cellen. Alle processen die samen zorgen voor de deling van je cellen zijn onderdeel van de celcyclus. Hoelang een celdeling duurt, is verschillend voor alle cellen. De ene cel doet hier een paar uur over, de andere een paar weken. Bij planten en dieren duurt de celcyclus ongeveer twintig uur.",
+        "beforeText": "Tijdens het spiraliseren van je chromosomen rolt je DNA zich om speciale eiwitten heen. Dit zijn de histonen. Deze zorgen dat je lange DNA-ketens in elkaar rollen. Zo worden je chromosomen korter. DNA en histonen samen noemen we chromatine. Als chromatine gaat spiraliseren, zie je dit ook onder de microscoop.",
+        "pageDocumentOffset": 39,
+        "paragraphIndexInBodyStory": 203,
+        "text": "1.3.2  Celcyclus",
+        "x": 101.999999999968,
+        "y": 172.400000000001
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "In de celkern zit het erfelijk materiaal.",
+        "bounds": null,
+        "label": "Afbeelding 1.11:",
+        "raw": "Afbeelding 1.11 In de celkern zit het erfelijk materiaal.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.11.png",
+        "bounds": [
+          20.0000000000006,
+          16.8,
+          127.244444444445,
+          169.2
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 39,
+        "name": "21"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "1 Tijdens de interfase eet de cel genoeg om goed voorbereid te zijn op de celdeling. In deze fase verdubbelt het aantal chromosomen in je cel.",
+        "beforeText": "3 Tijdens de functionele fase ontwikkelt elke cel zijn eigen functies. De ene cel wordt bijvoorbeeld een huidcel. De andere cel wordt een darmcel. Dit is voor je cellen de laatste fase van de celcyclus. Ze delen daarna niet meer.",
+        "pageDocumentOffset": 40,
+        "paragraphIndexInBodyStory": 209,
+        "text": "De delingsfase delen we ook weer in drie fasen in:",
+        "x": 209.999999999735,
+        "y": 115.955555555556
+      },
+      "asset": null,
+      "caption": {
+        "body": "De cyclus van de cel opgedeeld in verschillende fasen.",
+        "bounds": null,
+        "label": "Afbeelding 1.12:",
+        "raw": "Afbeelding 1.12 De cyclus van de cel opgedeeld in verschillende fasen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          124.775000000001,
+          210.000000000032,
+          237.663888888889,
+          374.999999999968
+        ],
+        "kind": "link",
+        "linkName": "fromSteven.PNG",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/fromSteven.PNG"
+      },
+      "page": {
+        "documentOffset": 40,
+        "name": "22"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Mitose is nodig voor:",
+        "beforeText": "Mitose is een andere naam voor celdeling. Deze vorm van deling vindt plaats in je lichaamscellen. Je geslachtscellen delen niet. Zij doorlopen dus niet deze fase van de celcyclus. Bij eukaryoten en prokaryoten vindt allebei deling van cellen plaats. Prokaryoten delen wel, maar mitose vindt niet plaats. Mitose is namelijk de deling van de celkern. Omdat prokaryoten geen celkern hebben, noemen we de celdeling bij hen dus ook niet mitose.",
+        "pageDocumentOffset": 42,
+        "paragraphIndexInBodyStory": 225,
+        "text": "Tijdens de mitose maakt je cel twee nieuwe celkernen. Hiervoor zijn je chromosomen al gekopieerd tijdens de interfase. Tijdens de mitose krijgt elke nieuwe celkern chromosomen die precies gelijk zijn aan de chromosomen van je oude cel. Zo krijg je twee nieuwe cellen die genetisch hetzelfde zijn.",
+        "x": 209.99999999947,
+        "y": 155.466666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+        "bounds": null,
+        "label": "Afbeelding 1.13:",
+        "raw": "Afbeelding 1.13 Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.13.png",
+        "bounds": [
+          18.5861111111143,
+          209.430555555555,
+          131.830555555556,
+          361.830555555555
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img13.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img13.TIF"
+      },
+      "page": {
+        "documentOffset": 42,
+        "name": "24"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "profase. Dit is de start van de mitose. Tijdens de profase bestaan alle chromosomen uit twee chromatiden. In één chromosoom heb je dan twee DNA-ketens. De chromatiden zijn in het midden met elkaar verbonden bij de centromeer. In deze fase zie je de kernmembraan van de celkern nog onder de microscoop;",
+        "beforeText": "De interfase is de voorbereidende fase waarin je cellen zich niet delen. Tijdens deze fase zie je chromosomen nog niet onder een microscoop. Ze zijn dan namelijk nog niet opgerold, waardoor ze nog niet te zien zijn. Ze zijn wel zichtbaar als de mitose begint.",
+        "pageDocumentOffset": 43,
+        "paragraphIndexInBodyStory": 234,
+        "text": "De mitose bestaat uit vijf fasen. Dit zijn de:",
+        "x": 15,
+        "y": 104.666666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De vijf fasen van de mitose.",
+        "bounds": null,
+        "label": "Afbeelding 1.14:",
+        "raw": "Afbeelding 1.14 De vijf fasen van de mitose.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.14.png",
+        "bounds": [
+          118,
+          23.0138888888889,
+          240.133333333334,
+          175.413888888889
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch01_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch01_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 43,
+        "name": "25"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de enzymatische pomp. Dit is een systeem waarbij enzymen stoffen door de celmembraan de cel inpompen. Hiervoor heeft deze pomp energie nodig uit ATP. Dit is een stofje waarin een voorraad energie ligt opgeslagen. Bij dit systeem bindt een enzym aan de stof die door de celmembraan heen moet. Samen gaan het enzym en de stof dan door de celmembraan heen. Aan de andere kant van de celmembraan laat het enzym de stof weer los. Je kan dit vergelijken met een jong persoon die een oud vrouwtje helpt het zebrapad over te steken. Wanneer de oude vrouw aan de andere kant is, kan ze alleen weer verder;",
+        "beforeText": "Een andere belangrijke vorm van passief transport is osmose. Dit is verplaatsing van water door een membraan heen, zoals de celmembraan. Water verplaatst zich namelijk de hele tijd tussen de binnenkant en de buitenkant van een cel. De snelheid waarmee dit gebeurt, hangt af van de verschillen in de hoeveelheid van bepaalde stoffen binnen en buiten de cel. Het cytoplasma heeft namelijk een andere opbouw dan de vloeistof buiten de cel. Vooral zouten en eiwitten spelen hierbij een belangrijke rol, omdat deze water aanzuigen. Als buiten de cel veel zouten zitten, zal water de cel uitgaan. Zo wordt het evenwicht in stoffen tussen de binnenkant en de buitenkant van de cel beter. Hoe sterk zouten water aanzuigen, noemen we de kristalloïd-osmotische druk. Bij veel zouten in het bloed is de kristalloïd-osmotische druk hoger. Een ander begrip is de colloïd-osmotische druk. Deze laat zien hoe sterk eiwitten water aanzuigen. Hoe meer eiwitten in het bloed zitten, hoe hoger de colloïd-osmotische druk is.",
+        "pageDocumentOffset": 45,
+        "paragraphIndexInBodyStory": 245,
+        "text": "Naast passief transport bestaat ook actief transport. Hierbij heeft je cel energie nodig om een stof door de celmembraan heen te vervoeren. Dit is bijvoorbeeld zo wanneer stoffen van een plek met een kleine hoeveelheid naar een plek met een grote hoeveelheid moeten. Je cel heeft verschillende systemen voor actief transport, zoals:",
+        "x": 15,
+        "y": 240.133333333334
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+        "bounds": null,
+        "label": "Afbeelding 1.15:",
+        "raw": "Afbeelding 1.15 Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.15.png",
+        "bounds": [
+          17.4453230333343,
+          13.9412731599,
+          164.286111111112,
+          180.4587268401
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img15.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img15.TIF"
+      },
+      "page": {
+        "documentOffset": 45,
+        "name": "27"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je een stof oplost in 100 ml water, neemt deze stof ruimte in het water in. De hoeveelheid water blijft 100 ml. Water is alleen niet meer 100% van de oplossing. De oplossing bestaat namelijk voor een deel uit de 100 ml water, maar ook voor een deel uit de opgeloste stof. Als je alleen 100 ml water zou hebben, is de hoeveelheid water gelijk aan 100%. Hoe hoger de hoeveelheid van opgeloste stoffen in de 100 ml water is, hoe kleiner het deel water in de oplossing is. Water verplaatst zich van een plek met een kleine hoeveelheid opgeloste stoffen naar een plek met een grote hoeveelheid opgeloste stoffen. Water gaat dan dus van een plek waar een groot deel van de oplossing uit water bestaat, naar een plek waar een klein deel van de oplossing uit water bestaat. De verplaatsing van water noemen we osmose.",
+        "beforeText": "1.4.3  Osmose",
+        "pageDocumentOffset": 47,
+        "paragraphIndexInBodyStory": 261,
+        "text": "Osmose is een proces dat gaat over de verplaatsing van water door een membraan. Bepaalde stoffen gaan wel door de celmembraan heen en andere niet. Water gaat bijvoorbeeld goed door de celmembraan heen. Als een stof niet door de celmembraan heen gaat, ontstaan verschillen in hoeveelheden van die stof aan de binnenkant en de buitenkant van de cel. Je lichaam probeert die verschillen op te lossen door water te verplaatsen via de celmembraan.",
+        "x": 15,
+        "y": 70.8000000000006
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van endocytose en exocytose.",
+        "bounds": null,
+        "label": "Afbeelding 1.16:",
+        "raw": "Afbeelding 1.16 Overzicht van endocytose en exocytose.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.16.png",
+        "bounds": [
+          103.838322648853,
+          17.685744901588,
+          218.886242881603,
+          171.486648791689
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch01_Img16.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch01_Img16.tif"
+      },
+      "page": {
+        "documentOffset": 47,
+        "name": "29"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "membraaneiwitten. Deze zorgen voor het vervoer van grote stoffen door de celmembraan heen. Dit doen ze op twee manieren. Sommige membraaneiwitten maken speciale poortjes in de celmembraan. Deze noemen we membraanporiën. Deze poortjes gaan open en dicht. Via de membraanporiën gaan stoffen de cel in en uit. Andere membraaneiwitten laten alleen stoffen door als ze daarvoor een seintje krijgen. Deze krijgen ze van hormonen of neurotransmitters. Dit zijn stoffen in je bloed en je hersenen die de membraaneiwitten de opdracht geven om open of dicht te gaan. We noemen deze soort membraaneiwitten receptoreiwitten. Receptoren zijn stoffen die seintjes ontvangen.",
+        "beforeText": "één laag koppen die van water houden.",
+        "pageDocumentOffset": 22,
+        "paragraphIndexInBodyStory": 34,
+        "text": "cholesteroldeeltjes. Deze liggen tussen de fosfolipiden. Cholesterol is een vettige stof. In de ene celmembraan zitten meer cholesteroldeeltjes dan in de andere celmembraan;",
+        "x": 304.000000026491,
+        "y": 59.511111111111
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de celwand.",
+        "bounds": null,
+        "label": "Afbeelding 1.2:",
+        "raw": "Afbeelding 1.2 Anatomie van de celwand.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.2.png",
+        "bounds": [
+          185.340135439997,
+          241.376657594463,
+          233.87300552934,
+          332.620470719548
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch01_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch01_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 22,
+        "name": "4"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "1.1.4  De mitochondriën",
+        "beforeText": "eiwitten maken die nodig zijn voor de groei van de cel;",
+        "pageDocumentOffset": 25,
+        "paragraphIndexInBodyStory": 68,
+        "text": "de stofwisseling in de cel regelen. Stofwisseling is een proces waarbij een stof wordt omgezet in een andere stof. Dit gebeurt meestal in een aantal stappen.",
+        "x": 22.000000026491,
+        "y": 110.311111111111
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van een mitochondrion.",
+        "bounds": null,
+        "label": "Afbeelding 1.3:",
+        "raw": "Afbeelding 1.3 Anatomie van een mitochondrion.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.3.png",
+        "bounds": [
+          127.244444444444,
+          21.2166666666666,
+          234.488888888888,
+          173.616666666667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img3.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img3.TIF"
+      },
+      "page": {
+        "documentOffset": 25,
+        "name": "7"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het endoplasmatisch reticulum bestaat uit twee onderdelen, namelijk het:",
+        "beforeText": "zakjes. Die heten ook wel cisternae.",
+        "pageDocumentOffset": 27,
+        "paragraphIndexInBodyStory": 96,
+        "text": "Het endoplasmatisch reticulum is eigenlijk één hele grote membraan. Het is meer dan de helft van de totale hoeveelheid membranen die in je cellen zitten, zoals de celmembraan. Het endoplasmatisch reticulum zit vast aan de kernmembraan. Dit is de membraan rondom de celkern.",
+        "x": 101.999999999937,
+        "y": 149.822222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van het endoplasmatisch reticulum.",
+        "bounds": null,
+        "label": "Afbeelding 1.4:",
+        "raw": "Afbeelding 1.4 Schematisch overzicht van het endoplasmatisch reticulum.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.4.png",
+        "bounds": [
+          5.05915555555587,
+          25.8,
+          137.951955555556,
+          178.2
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img04.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img04.TIF"
+      },
+      "page": {
+        "documentOffset": 27,
+        "name": "9"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de opslag en het vervoer van schadelijke stoffen;",
+        "beforeText": "De functies van de lysosomen zijn:",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 124,
+        "text": "de cel helpen bij het afbreken van stoffen die via endocytose de cel in zijn gekomen. Endocytose is het opnemen van stoffen van buiten de cel door ze in te sluiten in de celmembraan. Dit gebeurt via blaasjes die de cel maakt van stukjes celmembraan die over zijn. De celmembraan stulpt dan uit richting de binnenkant van de cel. Als in die uitstulping voedingsstoffen gaan zitten, komt dit deel van de celmembraan los als een blaasje. Dit blaasje gaat richting de binnenkant van de cel. De stoffen die een cel via endocytose opneemt, zijn vaak schadelijke stoffen of ziekteverwekkers, zoals bacteriën. Het is belangrijk dat deze stoffen op een goede manier afgebroken worden;",
+        "x": 109.000000026428,
+        "y": 161.111111111111
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van een ribosoom.",
+        "bounds": null,
+        "label": "Afbeelding 1.5:",
+        "raw": "Afbeelding 1.5 Anatomie van een ribosoom.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.5.png",
+        "bounds": [
+          19.9999999999999,
+          18.6861111045486,
+          144.177777777778,
+          171.086111104549
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "11"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De spoellichaampjes:",
+        "beforeText": "Spoellichaampjes zijn organellen die in het cytoplasma zitten. We noemen ze ook wel centrosomen. Ze liggen vlak bij de celkern. Alleen mensen en dieren hebben spoellichaampjes. Planten en schimmels hebben ze niet.",
+        "pageDocumentOffset": 30,
+        "paragraphIndexInBodyStory": 130,
+        "text": "Een spoellichaampje bestaat uit twee onderdelen. Deze noemen we de centriolen. De twee centriolen staan loodrecht op elkaar. Dit betekent dat de ene van boven naar beneden staat en de andere van links naar rechts. Een centriool bestaat uit eiwitstaven die in een rondje liggen. Je kan deze vorm vergelijken met de schoepen van een watermolen.",
+        "x": 209.99999999947,
+        "y": 132.888888888888
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+        "bounds": null,
+        "label": "Afbeelding 1.6:",
+        "raw": "Afbeelding 1.6 Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.6.png",
+        "bounds": [
+          145.756416000001,
+          211.596466,
+          215.478908,
+          281.318958
+        ],
+        "kind": "link",
+        "linkName": "MicrosoftTeams-image (6).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MicrosoftTeams-image%20%286%29.png"
+      },
+      "page": {
+        "documentOffset": 30,
+        "name": "12"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "geven signalen aan de twee nieuwe cellen om aan hun leven te beginnen. Dit leven noemen we ook wel de celcyclus;",
+        "beforeText": "spelen een belangrijke rol bij de celdeling. Wanneer een cel gaat delen, gaan de spoellichaampjes naar twee verschillende kanten van een cel. De spoellichaampjes liggen dus uit elkaar, maar wel tegenover elkaar. Ze zorgen daar voor draden die de spoelfiguur maken. De spoelfiguur is een combinatie van spoellichaampjes en eiwitdraden die daartussen lopen. De spoellichaampjes aan beide kanten van de cel trekken aan deze draden. Hierdoor trekken de eiwitdraden de cel uit elkaar zodat twee nieuwe cellen ontstaan;",
+        "pageDocumentOffset": 31,
+        "paragraphIndexInBodyStory": 133,
+        "text": "zorgen dat het cytoplasma ook deelt tijdens de celdeling. Dit proces noemen we cytokinese. Zo komt evenveel cytoplasma in elk van de twee nieuwe cellen;",
+        "x": 109.000000026428,
+        "y": 161.111111111111
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van het Golgi-systeem.",
+        "bounds": null,
+        "label": "Afbeelding 1.7:",
+        "raw": "Afbeelding 1.7 Anatomie van het Golgi-systeem.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.7.png",
+        "bounds": [
+          63.6970311111108,
+          36.40958,
+          136.812906666667,
+          127.518815555556
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch1_Img07.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch1_Img07.tif"
+      },
+      "page": {
+        "documentOffset": 31,
+        "name": "13"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Genen zijn stukjes DNA met informatie over de aanmaak van eiwitten. Ze zijn daarmee een soort recepten voor eiwitten. De volgorde van de stikstofbasen in je DNA bepaalt welke eiwitten je cel maakt. Elke drie basen na elkaar noemen we een codogen. Dit is de code voor een bepaald aminozuur. Aminozuren zijn de bouwstenen van eiwitten. Tijdens het maken van eiwitten worden aminozuren in een bepaalde volgorde aan elkaar geplakt. Hierdoor ontstaat een lange keten van aminozuren. Dit wordt uiteindelijk een eiwit. Genen op je DNA hebben informatie voor een paar tot duizenden codogenen achter elkaar. Dit hangt af van het eiwit waar ze het recept voor hebben. Voor een groot eiwit is het recept langer dan voor een klein eiwit.",
+        "beforeText": "thymine.",
+        "pageDocumentOffset": 33,
+        "paragraphIndexInBodyStory": 163,
+        "text": "Deze basen liggen in paren bij elkaar. We noemen dit basenparen. Hierbij zijn adenine en thymine samen een basenpaar. Cytosine is een basenpaar met guanine. Als twee basen samen een basenpaar maken, noemen we ze complementair. Twee complementaire basen verbinden de twee ketens van je DNA met elkaar. Ze vormen als het ware samen één trede van de wenteltrap. Dit doen ze door waterstofbruggen te maken. Dit zijn verbindingen van waterstof. Zo ontstaat de dubbele helixvorm.",
+        "x": 15,
+        "y": 25.6444444444444
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+        "bounds": null,
+        "label": "Afbeelding 1.8:",
+        "raw": "Afbeelding 1.8 DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.8.png",
+        "bounds": [
+          99.0222222222222,
+          14,
+          232.000000000002,
+          181.9537916
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch01_Img8.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch01_Img8.TIF"
+      },
+      "page": {
+        "documentOffset": 33,
+        "name": "15"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "1.2.4  Transcriptie, codons en vorming van mRNA",
+        "beforeText": "mRNA uracil (U) als stikstofbase heeft, terwijl DNA thymine (T) heeft. De basenparen van DNA zijn T, A, C en G. mRNA heeft als basen U, A, C en G. Uracil (U) is wel net als thymine (T) een basenpaar met adenine (A).",
+        "pageDocumentOffset": 35,
+        "paragraphIndexInBodyStory": 175,
+        "text": "DNA heeft de code voor eiwitten. mRNA is een soort kopie van deze code. Deze kopie maakt je cel tijdens de transcriptie. Tijdens deze fase kopieert je cel dus de code voor een bepaald eiwit dat op je DNA staat naar mRNA. Je cel gebruikt de code van je mRNA om van aminozuren eiwitten te maken. Dit noemen we de translatie. Eiwitten bestaan uit een keten van aminozuren die in een speciale volgorde achter elkaar liggen. De genetische code van je DNA bepaalt deze volgorde. Je DNA bepaalt uiteindelijk dus bijvoorbeeld de kleur van je haren. Als je blond haar hebt, heb je een andere eiwitvolgorde voor haarkleur dan iemand die bruin haar heeft.",
+        "x": 15,
+        "y": 25.644444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch1/Afbeelding_1.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+        "bounds": null,
+        "label": "Afbeelding 1.9:",
+        "raw": "Afbeelding 1.9 Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.9.png",
+        "bounds": [
+          68.0342222222215,
+          18.0388888888889,
+          257.010222222222,
+          170.438888888889
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch01_Img9.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch01_Img9.TIF"
+      },
+      "page": {
+        "documentOffset": 35,
+        "name": "17"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 58,
+    "words": 1444
+  },
+  "chapter": "12",
+  "chapterRange": {
+    "endOff": 138,
+    "ok": true,
+    "startOff": 133
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:53 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "4   Soms vind je iets niet prettig. Waarom je dit vindt, hoef je niet aan de zorgvrager uit te leggen of te bewijzen. Ga niet met de zorgvrager in discussie. Dit helpt niet. Zeg alleen wat je niet fijn vindt.",
+        "pageDocumentOffset": 134,
+        "paragraphIndexInBodyStory": 31,
+        "text": "Soms werkt een zorgvrager niet mee als je hem of haar aanspreekt op het gedrag. Je zal de zorgvrager voortaan misschien liever niet willen verzorgen. Dit is alleen niet de beste oplossing. Als je last hebt van gedrag dat niet is toegestaan, ga dan naar een collega. Je kan je probleem dan met hem of haar delen. Daarna kunnen jullie samen naar de teamleiding gaan. Een andere mogelijkheid is om naar een vertrouwenspersoon te gaan. Met deze persoon zoek je dan naar een oplossing. Meestal begint de oplossing met een gesprek tussen jou en de zorgvrager. Je teamleider of een vertrouwenspersoon is ook bij dit gesprek. Een gebeurtenis heeft soms nog lang invloed op je leven. De vertrouwenspersoon kan je in dat geval extra begeleiding geven.",
+        "x": 531.496062992126,
+        "y": 300.007874015748
+      },
+      "asset": null,
+      "caption": {
+        "body": "Aanspreken zorgvrager op seksueel overschrijdend gedrag.",
+        "bounds": null,
+        "label": "Afbeelding 12.1:",
+        "raw": "Afbeelding 12.1 Aanspreken zorgvrager op seksueel overschrijdend gedrag.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          404.47627952756,
+          531.496062992126,
+          596.749066727556,
+          813.576633854303
+        ],
+        "kind": "link",
+        "linkName": "Methodisch werken_Chapter6_6.3_Aanspreken zorgvrager op seksueel overschrijdend gedrag.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Methodisch%20werken_Chapter6_6.3_Aanspreken%20zorgvrager%20op%20seksueel%20overschrijdend%20gedrag.jpeg"
+      },
+      "page": {
+        "documentOffset": 134,
+        "name": "121"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

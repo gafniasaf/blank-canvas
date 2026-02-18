@@ -1,0 +1,82 @@
+# Secrets (never commit)
+.env
+.env.*
+booksecrets.env
+
+# Dependencies
+node_modules/
+
+# OS / editor noise
+.DS_Store
+.idea/
+.vscode/
+
+# Large local data (not for git)
+new_pipeline/output/
+new_pipeline/assets/
+new_pipeline/new_pipeline/assets/
+extracted_images/
+extracted_images.zip
+extracted_cropped_images/
+deliverables/
+deliverables.zip
+deliverables_v2_pdfs/
+_transfer/
+_backups/
+_source_exports/
+backups/
+output/
+output-assembled/
+tmp/
+todo/
+temp_scripts/
+af4_highres_labeled_images.zip
+Captured highres screenshots*/
+designs-relinked/
+designs/
+
+# Large binaries
+*.indd
+book_showcase/pdfs/
+book_showcase/covers/
+bookgen/new_pipeline/assets/
+
+# Embedded repos / tools
+Projects/
+
+# Revert/backup artifacts
+new_pipeline/_revert_backups/
+
+# Build artifacts
+bookgen/dist/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

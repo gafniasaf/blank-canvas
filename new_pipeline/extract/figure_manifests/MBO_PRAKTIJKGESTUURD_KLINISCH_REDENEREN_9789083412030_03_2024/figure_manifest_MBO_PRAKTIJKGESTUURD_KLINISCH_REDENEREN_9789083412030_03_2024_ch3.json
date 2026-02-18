@@ -1,0 +1,526 @@
+{
+  "bodyStory": {
+    "index": 35,
+    "words": 4453
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 36,
+    "ok": true,
+    "startOff": 6
+  },
+  "exportedAt": "Sat Jan 03 2026 01:46:24 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿1.1  De methode ‘Praktijkgestuurd klinisch redeneren voor het mbo’",
+        "pageDocumentOffset": 17,
+        "paragraphIndexInBodyStory": 5,
+        "text": "De methode ‘Praktijkgestuurd klinisch redeneren’ berust, de naam zegt het al, op de praktijk. Ervaren zorgprofessionals hebben een selectie gemaakt van de relevante problematiek. Deze problematiek presenteren we in de vorm van praktijkcasuïstiek, relevante achtergrondinformatie, aandachtsgebieden en redeneerhulpen. Een belangrijk onderdeel binnen de methode is de selectie van de relevante aandachtsgebieden en redeneerhulpen bij de specifieke casuïstiek. Een casus over verslavingsproblematiek kan bijvoorbeeld vaak vanuit de psychosociale hoek worden benaderd, terwijl een casus rond een longontsteking meestal meer raakvlakken heeft met het functioneren van de orgaansystemen.",
+        "x": 17.5,
+        "y": 28.1258995480011
+      },
+      "asset": null,
+      "caption": {
+        "body": "De zeven aandachtsgebieden bij deze methode.",
+        "bounds": null,
+        "label": "Afbeelding 1.1:",
+        "raw": "Afbeelding 1.1 De zeven aandachtsgebieden bij deze methode.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          64.9800314924456,
+          25.4383793301053,
+          173.213888888889,
+          144.561618720703
+        ],
+        "kind": "link",
+        "linkName": "Image03-p25.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image03-p25.tif"
+      },
+      "page": {
+        "documentOffset": 17,
+        "name": "2"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij elke casus in deze methode zijn één of meerdere relevante aandachtsgebieden geselecteerd en uitgewerkt. Waar dit relevant is, zijn ook de redeneerhulpen uitgewerkt. Voor docenten bevat de digitale leeromgeving oefenopdrachten en bijbehorende uitwerkingen. De opdrachten zijn gerelateerd aan de casuïstiek en het boek. Ook hebben we extra casuïstiek met uitgewerkte opdrachten voor de studenten toegevoegd aan de digitale leeromgeving.",
+        "pageDocumentOffset": 18,
+        "paragraphIndexInBodyStory": 14,
+        "text": "Ter voorbereiding voor casusbespreking in de klas bevelen we de studenten steeds specifieke e-learning aan. Je kunt natuurlijk ook ander materiaal ter voorbereiding gebruiken. De e-learning kan in de klas of thuis worden doorlopen. Voor docenten wordt verwezen naar de docentenhandleiding bij deze methode.",
+        "x": 187.5,
+        "y": 60.8985708448625
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van een uitgewerkte casus voor docenten.",
+        "bounds": null,
+        "label": "Afbeelding 1.2:",
+        "raw": "Afbeelding 1.2 Voorbeeld van een uitgewerkte casus voor docenten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          79.4082583448623,
+          203.706721538968,
+          209.902777777778,
+          306.293283730524
+        ],
+        "kind": "link",
+        "linkName": "Image04-p26.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image04-p26.tif"
+      },
+      "page": {
+        "documentOffset": 18,
+        "name": "3"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.1 Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "beforeText": "﻿Wat is klinisch redeneren?",
+        "pageDocumentOffset": 21,
+        "paragraphIndexInBodyStory": 32,
+        "text": "￼",
+        "x": 32.8715388827854,
+        "y": 92.9569444444444
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          32.8715388827854,
+          92.9569444444444,
+          137.128464251717
+        ],
+        "kind": "link",
+        "linkName": "Image05-p29.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image05-p29.tif"
+      },
+      "page": {
+        "documentOffset": 21,
+        "name": "6"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Hiervoor moeten we risico’s kunnen inschatten en problemen al in een vroeg stadium kunnen herkennen. Ook moeten we kunnen bepalen wanneer we moeten ingrijpen (interventie) en wanneer we de zorgvrager extra goed in de gaten moeten houden (monitoring). Klinisch redeneren doe je ook als de zorgvrager niet in de buurt is, bijvoorbeeld als je overlegt met een collega, met de arts of met de familie van de zorgvrager. Ook tijdens het opstellen van een verpleegplan of zorgplan. Omdat je steeds nieuwe informatie krijgt, kun je steeds verder klinisch redeneren. Klinisch redeneren is dus een continu (voortdurend) proces. Niet alle informatie is even belangrijk bij het klinisch redeneren. Hoe meer kennis en ervaring je hebt, hoe beter je kunt inschatten wat van groot belang is en wat minder belangrijk is.",
+        "pageDocumentOffset": 22,
+        "paragraphIndexInBodyStory": 38,
+        "text": "﻿2.2  Klinisch redeneren en risico-inschatting",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het klinisch redeneren gaan we ook na of we risicofactoren kunnen vinden bij de zorgvrager of in zijn of haar omgeving. In dit geval gaat het om een zorgvrager met pijn op de borst. We proberen in te schatten of het risico op een hartaanval voor deze zorgvrager groter is door een verhoogd cholesterolgehalte in het bloed, waardoor een verstopping in een kransslagader kan ontstaan, of door familieleden die bekende hartproblemen hebben.",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Bij het klinisch redeneren gaan we ook na of we risicofactoren kunnen vinden bij de zorgvrager of in zijn of haar omgeving. In dit geval gaat het om een zorgvrager met pijn op de borst. We proberen in te schatten of het risico op een hartaanval voor deze zorgvrager groter is door een verhoogd cholesterolgehalte in het bloed, waardoor een verstopping in een kransslagader kan ontstaan, of door familieleden die bekende hartproblemen hebben.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368897,
+          201.579089779324,
+          89.2911426035564,
+          308.420911612109
+        ],
+        "kind": "link",
+        "linkName": "Image06-p30.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image06-p30.tif"
+      },
+      "page": {
+        "documentOffset": 22,
+        "name": "7"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.3 Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "beforeText": "Probleemherkenning is bij klinisch redeneren gerelateerd aan risico-inschatting. Problemen kunnen ontstaan in lichamelijke, psychologische en/of sociale zin. Het herkennen van het hoofdprobleem is slechts een deel van de probleemherkenning. Je moet je bij elk probleem ook afvragen of andere problemen kunnen hebben geleid tot wat je werkelijk ziet. Als je bij elk probleem jezelf blijft afvragen waarom en hoe het is ontstaan, kom je uiteindelijk in veel gevallen tot de kern van het probleem. We geven hier enkele voorbeelden van problemen.",
+        "pageDocumentOffset": 23,
+        "paragraphIndexInBodyStory": 46,
+        "text": "￼",
+        "x": 26.5770210689968,
+        "y": 118.180555555556
+      },
+      "asset": null,
+      "caption": {
+        "body": "Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          33.1332583448618,
+          26.5770210689968,
+          118.180555555556,
+          143.422975865105
+        ],
+        "kind": "link",
+        "linkName": "Image07-p32.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image07-p32.tif"
+      },
+      "page": {
+        "documentOffset": 23,
+        "name": "8"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De zorgvrager onttrekt zich aan groepsactiviteiten. Dit zou kunnen passen bij een depressie, maar ook bij een beginnende dementie.",
+        "pageDocumentOffset": 24,
+        "paragraphIndexInBodyStory": 54,
+        "text": "﻿2.3  Klinisch redeneren en interventies",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Als we zien dat het misgaat met de zorgvrager, moeten we vaak ingrijpen. In vaktermen heet dit ‘een interventie doen’ of ‘interveniëren’.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Als we zien dat het misgaat met de zorgvrager, moeten we vaak ingrijpen. In vaktermen heet dit ‘een interventie doen’ of ‘interveniëren’.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936889,
+          211.892098850674,
+          106.715277777778,
+          298.107900691563
+        ],
+        "kind": "link",
+        "linkName": "Image08-p33.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image08-p33.tif"
+      },
+      "page": {
+        "documentOffset": 24,
+        "name": "9"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.5 Pijn bij diclofenacgebruik.",
+        "beforeText": "Bij klinisch redeneren gaat het niet alleen om de situatie observeren en hier uitspraken over doen. Je moet vaak ook ingrijpen om de zorg in goede banen te blijven leiden. We noemen dit ook wel ‘een interventie doen’ of ‘interveniëren’. Een interventie kan groot zijn, bijvoorbeeld een reanimatie starten bij een zorgvrager met een circulatiestilstand. Als zorgprofessional houd je je meestal echter bezig met kleinere interventies, bijvoorbeeld de zorgvrager rechtop zetten bij kortademigheid, of de familie betrekken bij sociale problematiek. Een interventie is dus een actie van jouw kant waardoor de zorgvrager wordt beïnvloed. Een interventie heeft niet altijd het gewenste effect. Soms reageert de zorgvrager er slecht op, ook al bedoel je het goed en is je interventie correct beargumenteerd. Dit betekent niet automatisch dat je iets verkeerd hebt gedaan. Het is echter wel belangrijk dat je niet alleen de positieve effecten van een interventie meeneemt in je beslissingen, maar ook altijd de mogelijke ongewenste effecten.",
+        "pageDocumentOffset": 25,
+        "paragraphIndexInBodyStory": 58,
+        "text": "￼",
+        "x": 34.4239742702908,
+        "y": 95.25
+      },
+      "asset": null,
+      "caption": {
+        "body": "Pijn bij diclofenacgebruik.",
+        "bounds": null,
+        "label": "Afbeelding 2.5:",
+        "raw": "Afbeelding 2.5 Pijn bij diclofenacgebruik.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          34.4239742702908,
+          95.25,
+          135.576021826434
+        ],
+        "kind": "link",
+        "linkName": "Image09-p34.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image09-p34.tif"
+      },
+      "page": {
+        "documentOffset": 25,
+        "name": "10"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.6 Verwardheid bij een delier.",
+        "beforeText": "Wanneer je interventies uitvoert, wil je natuurlijk ook weten of deze interventies het juiste effect (of misschien helaas ook een ongewenst effect) hebben op de zorgvrager. Hiervoor moet je de zorgvrager goed in de gaten houden. Dit noemen we monitoren.",
+        "pageDocumentOffset": 26,
+        "paragraphIndexInBodyStory": 65,
+        "text": "￼",
+        "x": 214.671561516656,
+        "y": 98.958893453333
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verwardheid bij een delier.",
+        "bounds": null,
+        "label": "Afbeelding 2.6:",
+        "raw": "Afbeelding 2.6 Verwardheid bij een delier.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          214.671561516656,
+          98.9588934533337,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image10-p35.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image10-p35.tif"
+      },
+      "page": {
+        "documentOffset": 26,
+        "name": "11"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In het voorbeeld over mevrouw Verbaars wordt beschreven hoe je op basis van nieuwe informatie beredeneert wat voor zorg een zorgvrager moet krijgen. De toestand van de zorgvrager kan elke keer anders zijn en daar pas je je beleid steeds op aan. Dit kan alleen als je de zorgvrager goed monitort. Risico-inschatting, interventies en monitoring zijn allemaal onderdelen van het verpleegkundig proces, zoals ook wordt aangeleerd in de verpleegkundeopleiding. Om te weten wat er aan de hand is, verzamel je gegevens. Met behulp van deze gegevens bedenk je wat er moet gebeuren: je maakt een plan. Dan voer je je plan uit en door de zorgvrager te monitoren, kom je erachter wat het resultaat is (evaluatie). Klinisch redeneren kan dus heel goed geoefend worden door het opstellen van een doordacht verpleegplan of zorgplan. Hoe vaker je dit doet, des te meer het een automatisme wordt.",
+        "pageDocumentOffset": 27,
+        "paragraphIndexInBodyStory": 70,
+        "text": "﻿2.4  Klinisch redeneren met kennis én ervaring",
+        "x": 17.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Naarmate je meer weet én meer ervaring hebt, zul je beter kunnen klinisch redeneren.",
+        "bounds": null,
+        "label": "Afbeelding 2.7:",
+        "raw": "Afbeelding 2.7 Naarmate je meer weet én meer ervaring hebt, zul je beter kunnen klinisch redeneren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368897,
+          29.3478521558973,
+          106.715277777778,
+          140.65214282692
+        ],
+        "kind": "link",
+        "linkName": "Image11-p36.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image11-p36.tif"
+      },
+      "page": {
+        "documentOffset": 27,
+        "name": "12"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De zorgvrager wordt tegenwoordig in de praktijk benaderd door een team met overlappende verantwoordelijkheden. Bij deze nieuwe rol van de zorgprofessional past een nieuw kennis- en competentieprofiel. Dit betekent dat jij je als verpleegkundige, net als een arts, moet verdiepen in geneeskundige concepten als toegepaste anatomie en fysiologie. Ook maak je gebruik van steeds meer kennisstromen die van oudsher met name door artsen werden gebruikt. Daarnaast wordt tegenwoordig van je verwacht dat je actief je argumenten benoemt bij medische besluitvorming. De relatie tussen artsen en andere zorgprofessionals is veranderd onder invloed van dit nieuwe profiel. Omdat je veel met artsen samenwerkt, is het belangrijk dat jullie dezelfde taal gebruiken bij het klinisch redeneren.",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 96,
+        "text": "﻿2.6  Hoe kom je erachter of wat je denkt ook waar is?",
+        "x": 17.5,
+        "y": 40.1735708448621
+      },
+      "asset": null,
+      "caption": {
+        "body": "Soms denk je te weten wat er aan de hand is, maar hoe kom je erachter of dit ook echt zo is?",
+        "bounds": null,
+        "label": "Afbeelding 2.8:",
+        "raw": "Afbeelding 2.8 Soms denk je te weten wat er aan de hand is, maar hoe kom je erachter of dit ook echt zo is?",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          44.4249250115284,
+          45.6698990503947,
+          122.766666666667,
+          124.330103069985
+        ],
+        "kind": "link",
+        "linkName": "Image12-p39.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image12-p39.tif"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "14"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿De verschillende vormen van klinisch redeneren",
+        "pageDocumentOffset": 32,
+        "paragraphIndexInBodyStory": 112,
+        "text": "﻿3.1  Type I- en type II-denken",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "We kunnen heel snel denken en beslissingen nemen als we een bepaalde situatie al vaak hebben meegemaakt. Een nieuwe situatie vraagt om een andere, langzamere manier van denken.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 We kunnen heel snel denken en beslissingen nemen als we een bepaalde situatie al vaak hebben meegemaakt. Een nieuwe situatie vraagt om een andere, langzamere manier van denken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936889,
+          184.506509992811,
+          124.637584768763,
+          325.493488103657
+        ],
+        "kind": "link",
+        "linkName": "Image13-p41.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image13-p41.tif"
+      },
+      "page": {
+        "documentOffset": 32,
+        "name": "17"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.2 Buikpijn bij een jonge vrouw.",
+        "beforeText": "Onze hersenen zijn van nature ‘lui’ en houden van type I-denken. Dat is vaak handig en effectief, maar type I-denken zorgt ook voor vooroordelen. We moeten daarom voorzichtig zijn en ons steeds afvragen of onze conclusies niet te veel worden beïnvloed door type I-denken.",
+        "pageDocumentOffset": 33,
+        "paragraphIndexInBodyStory": 118,
+        "text": "￼",
+        "x": 39.1084428575304,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Buikpijn bij een jonge vrouw.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 Buikpijn bij een jonge vrouw.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          39.1084428575304,
+          90.6638888888889,
+          130.891558652099
+        ],
+        "kind": "link",
+        "linkName": "Image14-p42.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image14-p42.tif"
+      },
+      "page": {
+        "documentOffset": 33,
+        "name": "18"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In de praktijk en ook in de opleidingen voor zorgprofessionals wordt verschillend gedacht over wat klinisch redeneren nu eigenlijk is. Soms maakt men onderscheid tussen ‘verpleegkundig redeneren’ (alleen bedoeld voor verpleegkundigen, gebaseerd op verpleegkundige diagnosen) en ‘medisch klinisch redeneren’ (met name bestemd voor artsen, verpleegkundig specialisten en physician assistants). Ook wordt de term ‘nosologisch klinisch redeneren’ soms gebruikt. Daarbij wordt puur beredeneerd welke achterliggende ziekte de zorgvrager kan hebben.",
+        "pageDocumentOffset": 34,
+        "paragraphIndexInBodyStory": 125,
+        "text": "In dit boek gaan we uit van een alomvattende definitie van het klinisch redeneren, waarbij de domeinen van zorgprofessionals elkaar overlappen. Wij werken in Nederland immers steeds meer multidisciplinair (met beroepsbeoefenaars uit veel verschillende zorgprofielen). De zorgvrager is afhankelijk van de bundeling van kennis uit veel verschillende disciplines. Bovendien komt het dagelijks voor dat bijvoorbeeld een arts en een andere zorgprofessional elkaar aanspreken op elkaars kennisdomein. Zo kunnen we beter informatie aan elkaar overdragen, van elkaar leren en met elkaar de beste zorg bedenken en geven.",
+        "x": 187.5,
+        "y": 14.623570844862
+      },
+      "asset": null,
+      "caption": {
+        "body": "Kritisch denken richt zich op de ‘kwaliteit’ van de vragen en de antwoorden.",
+        "bounds": null,
+        "label": "Afbeelding 3.3:",
+        "raw": "Afbeelding 3.3 Kritisch denken richt zich op de ‘kwaliteit’ van de vragen en de antwoorden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          46.8915916781951,
+          214.562715339661,
+          127.427774072765,
+          295.437285055216
+        ],
+        "kind": "link",
+        "linkName": "Image15-p44.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image15-p44.tif"
+      },
+      "page": {
+        "documentOffset": 34,
+        "name": "19"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.4 De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "beforeText": "Je wordt benaderd door een nieuwe collega, die je vertelt dat mevrouw De Bruin van kamer 2 pijn heeft en vraagt of ze daarvoor iets mag krijgen. Je vraagt hoeveel pijn mevrouw De Bruin heeft. Je collega kan hierop geen antwoord geven. Je vraagt hoe je collega weet dat mevrouw De Bruin pijn heeft en zij vertelt je dat haar broer dit aan haar heeft verteld. Je vraagt aan je collega een VAS (een visuele pijnscore, zie afbeelding 3.4) af te nemen bij mevrouw De Bruin. Je collega komt even later terug en vertelt dat mevrouw De Bruin eigenlijk geen pijn had, maar nodig naar het toilet moest.",
+        "pageDocumentOffset": 35,
+        "paragraphIndexInBodyStory": 132,
+        "text": "￼",
+        "x": 15.8478310055203,
+        "y": 72.3194444444444
+      },
+      "asset": null,
+      "caption": {
+        "body": "De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "bounds": null,
+        "label": "Afbeelding 3.4:",
+        "raw": "Afbeelding 3.4 De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          15.8478310055203,
+          72.3194444444444,
+          154.152168717617
+        ],
+        "kind": "link",
+        "linkName": "Image16-p45.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image16-p45.tif"
+      },
+      "page": {
+        "documentOffset": 35,
+        "name": "20"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.5 Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "beforeText": "moet je veel oefenen.",
+        "pageDocumentOffset": 36,
+        "paragraphIndexInBodyStory": 144,
+        "text": "￼",
+        "x": 214.562715339661,
+        "y": 92.7361823945698
+      },
+      "asset": null,
+      "caption": {
+        "body": "Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "bounds": null,
+        "label": "Afbeelding 3.5:",
+        "raw": "Afbeelding 3.5 Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          214.562715339661,
+          92.7361823945698,
+          295.437285055216
+        ],
+        "kind": "link",
+        "linkName": "Image17-p46.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image17-p46.tif"
+      },
+      "page": {
+        "documentOffset": 36,
+        "name": "21"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03.2024.indd"
+}

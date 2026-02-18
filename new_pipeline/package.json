@@ -1,0 +1,47 @@
+{
+  "name": "new-pipeline",
+  "version": "1.0.0",
+  "description": "New rendering pipeline for educational books - HTML/PDF output",
+  "type": "module",
+  "scripts": {
+    "export": "tsx export/export-canonical-from-db.ts",
+    "render": "tsx renderer/render-prince-pdf.ts",
+    "tokens:ch1": "tsx extract/parse-idml-design-tokens.ts \"_source_exports/MBO_A&F_4_9789083251370_03.2024__FROM_DOWNLOADS.idml\" --chapter 1 --out new_pipeline/extract/design_tokens.json && tsx templates/generate-prince-css-from-tokens.ts --tokens new_pipeline/extract/design_tokens.json --base new_pipeline/templates/prince-af-two-column.css --out new_pipeline/templates/prince-af-two-column.tokens.css",
+    "validate:tokens": "tsx validate/verify-design-tokens.ts extract/design_tokens.json",
+    "validate:canonical:ch1": "tsx validate/verify-canonical-vs-db.ts output/canonical_ch1_with_figures.json --upload 5c39f5a2-7c03-4489-b8cd-cd11c0d1a29c --chapter 1",
+    "validate:figures:ch1": "tsx validate/verify-figures.ts output/canonical_ch1_with_figures.json",
+    "validate:render:ch1": "tsx renderer/render-prince-pdf.ts output/canonical_ch1_with_figures.json --out output/canonical_ch1_professional.pdf --log output/canonical_ch1_prince.log && tsx validate/verify-prince-log.ts output/canonical_ch1_prince.log && tsx validate/verify-no-hard-linebreaks.ts output/canonical_ch1_with_figures_prince.html && npm run validate:pagefill:ch1 && npm run validate:columnbalance:ch1 && npm run validate:boxgaps:ch1",
+    "validate:pagefill:ch1": "python3 validate/verify-page-fill.py output/canonical_ch1_professional.pdf --min-used 0.50 --ignore-first 2 --ignore-last 1 --ignore-before-first-chapter",
+    "validate:columnbalance:ch1": "python3 validate/verify-column-balance.py output/canonical_ch1_professional.pdf --ignore-first 2 --ignore-last 1 --ignore-before-first-chapter",
+    "validate:boxgaps:ch1": "python3 validate/verify-box-justify-gaps.py output/canonical_ch1_professional.pdf --max-gap-pt 12 --ignore-first 2",
+    "validate:hyphenation:ch1": "python3 validate/scan-hyphenation.py output/canonical_ch1_professional.pdf",
+    "report:layout:ch1": "python3 validate/report-layout.py output/canonical_ch1_professional.pdf --out-json output/canonical_ch1_layout_report.json --out-tsv output/canonical_ch1_layout_report.tsv --min-used 0.50 --ignore-first 2",
+    "fix:hyphenation:ch1": "tsx fix/llm-fix-hyphenation.ts --pdf new_pipeline/output/canonical_ch1_professional.pdf --exceptions new_pipeline/templates/hyphenation_exceptions.json --model gpt-5.2 && npm run validate:render:ch1 && npm run validate:hyphenation:ch1",
+    "build:ch1": "npm run tokens:ch1 && npm run validate:tokens && tsx export/export-canonical-from-db.ts 5c39f5a2-7c03-4489-b8cd-cd11c0d1a29c --chapter 1 --figures extract/figures_by_paragraph_all.json --out output/canonical_ch1_with_figures.json && npm run validate:canonical:ch1 && npm run validate:figures:ch1 && npm run validate:render:ch1",
+    "build:chapter": "tsx scripts/build-chapter.ts",
+    "build:book": "tsx scripts/build-book.ts",
+    "export:labeled-figures": "tsx extract/export-labeled-figures.ts",
+    "export:figure-overlays": "tsx extract/run-export-figure-overlays.ts",
+    "export:figure-placeholders": "python3 extract/generate-figure-placeholders.py",
+    "bundle:review": "tsx scripts/prepare-review-bundle.ts",
+    "test:fixture": "tsx scripts/test-fixture.ts",
+    "test:demo-chapter": "tsx scripts/test-demo-chapter.ts"
+  },
+  "dependencies": {
+    "@types/adm-zip": "^0.5.7",
+    "@types/xml2js": "^0.4.14",
+    "adm-zip": "^0.5.16",
+    "dotenv": "^16.3.1",
+    "fast-xml-parser": "^5.3.3",
+    "handlebars": "^4.7.8",
+    "pg": "^8.11.3",
+    "puppeteer": "^24.34.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/pg": "^8.10.9",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  }
+}

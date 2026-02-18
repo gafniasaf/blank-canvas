@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 713,
+    "words": 4049
+  },
+  "chapter": "13",
+  "chapterRange": {
+    "endOff": 456,
+    "ok": true,
+    "startOff": 446
+  },
+  "exportedAt": "Thu Dec 25 2025 17:27:35 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "bepaalde hormonen in je bloed. Hormonen zijn stofjes die veel processen in je lichaam aansturen. Een aantal hormonen hebben invloed op je stofwisseling. Dit zijn bijvoorbeeld:",
+        "beforeText": "de totale hoeveelheid stofwisseling in je lichaamscellen. Hiermee bedoelen we de hoeveelheid energie en voedingsstoffen die de cellen in je lichaam samen verbruiken. Een onderdeel hiervan is de energie die je hersencellen gebruiken wanneer je een boek leest;",
+        "pageDocumentOffset": 448,
+        "paragraphIndexInBodyStory": 27,
+        "text": "een verhoogde spieractiviteit. Als je beweegt, zijn je spieren actiever en maken ze meer warmte aan. Dit gebeurt ook door te rillen als je het koud hebt. Als je rilt, zijn je spieren actiever en maken ze de warmte aan die je lichaam nodig heeft om warm te blijven;",
+        "x": 217.000000510957,
+        "y": 194.977777777781
+      },
+      "asset": null,
+      "caption": {
+        "body": "Overzicht van de verschillende manieren waarop het lichaam warmte verliest.",
+        "bounds": null,
+        "label": "Afbeelding 13.1:",
+        "raw": "Afbeelding 13.1 Overzicht van de verschillende manieren waarop het lichaam warmte verliest.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          -19.511111111108,
+          218.6106,
+          164.954088888902,
+          371.0106
+        ],
+        "kind": "link",
+        "linkName": "13.01.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/13.01.png"
+      },
+      "page": {
+        "documentOffset": 448,
+        "name": "430"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

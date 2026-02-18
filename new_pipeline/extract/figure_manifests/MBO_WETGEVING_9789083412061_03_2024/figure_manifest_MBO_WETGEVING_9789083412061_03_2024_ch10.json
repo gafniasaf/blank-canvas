@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 3514
+  },
+  "chapter": "10",
+  "chapterRange": {
+    "endOff": 93,
+    "ok": true,
+    "startOff": 85
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:51 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "juridische normen en waarden;",
+        "pageDocumentOffset": 85,
+        "paragraphIndexInBodyStory": 819,
+        "text": "beroepscodes.",
+        "x": 25.500000111262,
+        "y": 56.3985708448622
+      },
+      "asset": null,
+      "caption": {
+        "body": "Over wat normaal is, zijn we het niet altijd eens.",
+        "bounds": null,
+        "label": "Afbeelding 10.1:",
+        "raw": "Afbeelding 10.1 Over wat normaal is, zijn we het niet altijd eens.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          60.6499250115285,
+          17.5,
+          137.576494750809,
+          140.362175847371
+        ],
+        "kind": "link",
+        "linkName": "4.1 Over wat normaal is zijn we het niet altijd eens.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/4.1%20Over%20wat%20normaal%20is%20zijn%20we%20het%20niet%20altijd%20eens.jpeg"
+      },
+      "page": {
+        "documentOffset": 85,
+        "name": "72"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 10.2 Handen schudden bij het voorstellen is een norm.",
+        "beforeText": "Omdat normen en waarden ontstaan uit je persoonlijke ervaring, kan iedereen verschillende normen en waarden hebben. Soms kan één waarde leiden tot twee verschillende normen die elkaar tegenspreken. Een voorbeeld uit de gezondheidszorg is de waarde ‘respect voor het leven’. Sommige mensen vinden dat deze waarde inhoudt dat je een zorgvrager die ziek is en niet meer beter kan worden, zo lang mogelijk in leven moet houden. Andere mensen vinden juist dat ‘respect voor het leven’ betekent dat een zorgvrager moet kunnen sterven met behulp van een arts, als deze zorgvrager erg lijdt onder zijn of haar ziekte en niet meer beter kan worden. Doordat een waarde soms leidt tot twee normen die elkaar tegenspreken, kunnen meningsverschillen of ruzies ontstaan. Als dat gebeurt, is het handig om vanuit de waarde naar een juiste oplossing te gaan zoeken.",
+        "pageDocumentOffset": 86,
+        "paragraphIndexInBodyStory": 825,
+        "text": "￼",
+        "x": 187.5,
+        "y": 94.4905052652122
+      },
+      "asset": null,
+      "caption": {
+        "body": "Handen schudden bij het voorstellen is een norm.",
+        "bounds": null,
+        "label": "Afbeelding 10.2:",
+        "raw": "Afbeelding 10.2 Handen schudden bij het voorstellen is een norm.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          29.0471472337515,
+          187.5,
+          94.4905052652122,
+          287.0625
+        ],
+        "kind": "link",
+        "linkName": "WBF_4.2_Handen schudden bij het voorstellen is een norm.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_4.2_Handen%20schudden%20bij%20het%20voorstellen%20is%20een%20norm.jpeg"
+      },
+      "page": {
+        "documentOffset": 86,
+        "name": "73"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 10.3 Normen veranderen.",
+        "beforeText": "Zorgprofessionals kunnen beroepscodes gebruiken bij het maken van moeilijke keuzes tijdens het werk. Een voorbeeld van een dilemma in de gezondheidszorg is wanneer de familieleden van een zorgvrager medische informatie willen over de zorgvrager, maar de zorgvrager niet wil dat de familie deze informatie krijgt. Je kan als zorgprofessional dan in een lastige situatie belanden, omdat voor beide verzoeken argumenten te bedenken zijn. Door te kijken wat in de beroepscode is vastgelegd, kan je een keuze maken. Hierin staat bijvoorbeeld dat je als zorgprofessional een beroepsgeheim hebt. Dat betekent dat je informatie alleen met toestemming van de zorgvrager mag delen met de familie. Soms is het lastig om volgens de wet te handelen, omdat het botst met je eigen principes.",
+        "pageDocumentOffset": 87,
+        "paragraphIndexInBodyStory": 836,
+        "text": "￼",
+        "x": 17.5,
+        "y": 125.290994000331
+      },
+      "asset": null,
+      "caption": {
+        "body": "Normen veranderen.",
+        "bounds": null,
+        "label": "Afbeelding 10.3:",
+        "raw": "Afbeelding 10.3 Normen veranderen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          49.191591677602,
+          17.5,
+          125.290994000331,
+          139.041077182346
+        ],
+        "kind": "link",
+        "linkName": "4.3 Normen veranderen.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/4.3%20Normen%20veranderen.jpeg"
+      },
+      "page": {
+        "documentOffset": 87,
+        "name": "74"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

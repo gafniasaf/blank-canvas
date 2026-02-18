@@ -1,0 +1,30 @@
+{
+  "45c768c7-a5ba-44f6-b7dc-009a77c23bd4": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch6/linked/WBF_5.5-1_De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.png",
+      "alt": "Afbeelding 6.2: De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.",
+      "figureNumber": "Afbeelding 6.2:",
+      "caption": "De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch6/linked/WBF_5.3_De zorgvrager helpen de brief te begrijpen.jpg",
+      "alt": "Afbeelding 6.4: De zorgvrager helpen een brief te begrijpen.",
+      "figureNumber": "Afbeelding 6.4:",
+      "caption": "De zorgvrager helpen een brief te begrijpen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e6a0db85-6a57-47a1-93e6-0e085a968903": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch6/linked/WBF_5.2_Een scootmobiel wordt vergoed vanuit de Wmo.jpg",
+      "alt": "Afbeelding 6.3: Een scootmobiel wordt vergoed vanuit de Wmo.",
+      "figureNumber": "Afbeelding 6.3:",
+      "caption": "Een scootmobiel wordt vergoed vanuit de Wmo.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

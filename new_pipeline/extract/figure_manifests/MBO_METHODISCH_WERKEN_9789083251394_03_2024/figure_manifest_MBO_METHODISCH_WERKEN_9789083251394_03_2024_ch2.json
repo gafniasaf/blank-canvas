@@ -1,0 +1,866 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 12663
+  },
+  "chapter": "2",
+  "chapterRange": {
+    "endOff": 63,
+    "ok": true,
+    "startOff": 23
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:30 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "analyse. Met de informatie die je nu hebt trek je een conclusie over de situatie;",
+        "pageDocumentOffset": 40,
+        "paragraphIndexInBodyStory": 255,
+        "text": "plan. Schrijf op wat je gedaan hebt of wat jij of je collega’s de volgende keer zouden kunnen doen.",
+        "x": 554.173228661845,
+        "y": 107.869964599609
+      },
+      "asset": null,
+      "caption": {
+        "body": "Gebruik SOAP om structuur aan te brengen tijdens het rapporteren.",
+        "bounds": null,
+        "label": "Afbeelding 2.10:",
+        "raw": "Afbeelding 2.10 Gebruik SOAP om structuur aan te brengen tijdens het rapporteren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          132.921047276774,
+          535.59232084019,
+          320.284912053656,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Afbeelding 2.10.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Afbeelding%202.10.png"
+      },
+      "page": {
+        "documentOffset": 40,
+        "name": "27"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.11 De elf functionele gezondheidspatronen van Gordon.",
+        "beforeText": "Waarden en levensovertuiging.",
+        "pageDocumentOffset": 45,
+        "paragraphIndexInBodyStory": 335,
+        "text": "￼",
+        "x": 53.7025570606622,
+        "y": 343.559055118109
+      },
+      "asset": null,
+      "caption": {
+        "body": "De elf functionele gezondheidspatronen van Gordon.",
+        "bounds": null,
+        "label": "Afbeelding 2.11:",
+        "raw": "Afbeelding 2.11 De elf functionele gezondheidspatronen van Gordon.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          53.7025570606622,
+          343.559055118109,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 6.1 De elf functionele gezondheidspatronen van Gordon.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.1%20De%20elf%20functionele%20gezondheidspatronen%20van%20Gordon.tif"
+      },
+      "page": {
+        "documentOffset": 45,
+        "name": "32"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de algemene gezondheid van de zorgvrager;",
+        "pageDocumentOffset": 46,
+        "paragraphIndexInBodyStory": 356,
+        "text": "bloeduitslagen. Door het bloed van de zorgvrager te testen kan je een beter beeld krijgen van zijn of haar gezondheid.",
+        "x": 557.007874331136,
+        "y": 191.539255938191
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 1 van Gordon gezondheidsbeleving en -instandhouding.",
+        "bounds": null,
+        "label": "Afbeelding 2.12:",
+        "raw": "Afbeelding 2.12 Patroon 1 van Gordon gezondheidsbeleving en -instandhouding.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          216.590338615359,
+          526.850835244487,
+          442.254079422881,
+          918.818466907411
+        ],
+        "kind": "link",
+        "linkName": "Image 4.8 Patroon 1 van Gordon gezondheidsbeleving en -instandhouding.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%204.8%20Patroon%201%20van%20Gordon%20gezondheidsbeleving%20en%20-instandhouding.tif"
+      },
+      "page": {
+        "documentOffset": 46,
+        "name": "33"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "extra veel voedingsstoffen en energie verbruikt.",
+        "pageDocumentOffset": 48,
+        "paragraphIndexInBodyStory": 399,
+        "text": "Goede voeding is dus belangrijk om te zorgen dat het zowel lichamelijk als geestelijk goed met je gaat. Voor zorgvragers die in een zorginstelling wonen of thuiszorg krijgen, is het dus ook belangrijk dat ze goede voeding krijgen. Door goede voeding te eten krijgen deze zorgvragers de energie en voedingsstoffen binnen die zij nodig hebben. Het is bij zorgvragers ook belangrijk dat je let op eventuele kauw- en slikproblemen. Deze problemen komen namelijk veel voor. Als een zorgvrager kauw- of slikproblemen heeft, krijgt hij of zij mogelijk te weinig voedingsstoffen binnen. De zorgvrager heeft dan een slechte voedingstoestand en heeft kans ondervoed te raken.",
+        "x": 537.165354330709,
+        "y": 126.539255938191
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 2 van Gordon voeding en stofwisseling.",
+        "bounds": null,
+        "label": "Afbeelding 2.13:",
+        "raw": "Afbeelding 2.13 Patroon 2 van Gordon voeding en stofwisseling.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          231.007661450003,
+          535.59232084019,
+          456.030610285237,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 4.9 Patroon 2 van Gordon voeding en stofwisseling.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%204.9%20Patroon%202%20van%20Gordon%20voeding%20en%20stofwisseling.tif"
+      },
+      "page": {
+        "documentOffset": 48,
+        "name": "35"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "(Volkoren)brood, (volkoren) graanproducten en aardappelen.",
+        "pageDocumentOffset": 49,
+        "paragraphIndexInBodyStory": 409,
+        "text": "Dranken.",
+        "x": 80.7874010942114,
+        "y": 107.869964599609
+      },
+      "asset": null,
+      "caption": {
+        "body": "Schijf van Vijf.",
+        "bounds": null,
+        "label": "Afbeelding 2.14:",
+        "raw": "Afbeelding 2.14 Schijf van Vijf.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          119.921047276774,
+          53.7025570606623,
+          354.393700787405,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 4.10 Schijf van Vijf.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%204.10%20Schijf%20van%20Vijf.tif"
+      },
+      "page": {
+        "documentOffset": 49,
+        "name": "36"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.15 De aanbevolen hoeveelheden voedsel per leeftijdsgroep.",
+        "beforeText": "Voor zorgvragers hoef je minder naar afwisseling van voeding te kijken. Het is vooral fijn als je de voeding van de zorgvragers aanpast op wat ze het liefst willen eten. Wanneer de zorgvrager het voedsel lekker vindt, zal hij of zij namelijk makkelijker voldoende eten. Het is belangrijk dat zorgvragers die in een zorginstelling wonen of die thuiszorg ontvangen voldoende eten, omdat zij vaak ondervoed zijn. Het is bij deze zorgvragers ook niet zo erg als ze ook producten van buiten de Schijf van Vijf eten.",
+        "pageDocumentOffset": 50,
+        "paragraphIndexInBodyStory": 415,
+        "text": "￼",
+        "x": 513.779530923198,
+        "y": 386.886896610751
+      },
+      "asset": null,
+      "caption": {
+        "body": "De aanbevolen hoeveelheden voedsel per leeftijdsgroep.",
+        "bounds": null,
+        "label": "Afbeelding 2.15:",
+        "raw": "Afbeelding 2.15 De aanbevolen hoeveelheden voedsel per leeftijdsgroep.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          35.9999999999964,
+          513.779530923198,
+          386.886896610747,
+          931.88976714367
+        ],
+        "kind": "link",
+        "linkName": "Image 5.1 De aanbevolen hoeveelheden voedsel per leeftijdsgroep.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.1%20De%20aanbevolen%20hoeveelheden%20voedsel%20per%20leeftijdsgroep.tif"
+      },
+      "page": {
+        "documentOffset": 50,
+        "name": "37"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de urineproductie van de zorgvrager;",
+        "pageDocumentOffset": 51,
+        "paragraphIndexInBodyStory": 437,
+        "text": "het ontlastingspatroon van de zorgvrager.",
+        "x": 75.1181105516089,
+        "y": 217.539255938191
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 3 van Gordon uitscheiding.",
+        "bounds": null,
+        "label": "Afbeelding 2.16:",
+        "raw": "Afbeelding 2.16 Patroon 3 van Gordon uitscheiding.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          229.590338615359,
+          46.7716488575373,
+          485.054444898225,
+          435.118100143793
+        ],
+        "kind": "link",
+        "linkName": "Image 5.2 Patroon 3 van Gordon uitscheiding.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.2%20Patroon%203%20van%20Gordon%20uitscheiding.tif"
+      },
+      "page": {
+        "documentOffset": 51,
+        "name": "38"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "hoe gezond en verzorgd de zorgvrager eruitziet. Dit noemen we de uiterlijke verzorging;",
+        "pageDocumentOffset": 52,
+        "paragraphIndexInBodyStory": 459,
+        "text": "de ademhaling van de zorgvrager en dyspneu. Dyspneu betekent dat de zorgvrager het gevoel heeft dat hij of zij niet genoeg lucht binnenkrijgt (benauwd is).",
+        "x": 557.007874331136,
+        "y": 315.62587011142
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 4 van Gordon activiteiten.",
+        "bounds": null,
+        "label": "Afbeelding 2.17:",
+        "raw": "Afbeelding 2.17 Patroon 4 van Gordon activiteiten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          340.676952788584,
+          535.59232084019,
+          571.369192962404,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 5.3 Patroon 4 van Gordon activiteiten.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.3%20Patroon%204%20van%20Gordon%20activiteiten.tif"
+      },
+      "page": {
+        "documentOffset": 52,
+        "name": "39"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "of de zorgvrager uitgerust overkomt;",
+        "pageDocumentOffset": 53,
+        "paragraphIndexInBodyStory": 478,
+        "text": "wat het slaapritme van de zorgvrager is.",
+        "x": 75.1181105516088,
+        "y": 314.138509434979
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 5 van Gordon slaap en rust.",
+        "bounds": null,
+        "label": "Afbeelding 2.18:",
+        "raw": "Afbeelding 2.18 Patroon 5 van Gordon slaap en rust.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          326.189592112143,
+          36.6752896046075,
+          561.040198378669,
+          445.214480182317
+        ],
+        "kind": "link",
+        "linkName": "Image 5.4 Patroon 5 van Gordon slaap en rust.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.4%20Patroon%205%20van%20Gordon%20slaap%20en%20rust.tif"
+      },
+      "page": {
+        "documentOffset": 53,
+        "name": "40"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "hoe goed de zorgvrager zich kan concentreren;",
+        "pageDocumentOffset": 54,
+        "paragraphIndexInBodyStory": 500,
+        "text": "of de zorgvrager alle vragen begrijpt of verward is.",
+        "x": 557.007874331136,
+        "y": 366.208547276776
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 6 van Gordon waarneming en denken.",
+        "bounds": null,
+        "label": "Afbeelding 2.19:",
+        "raw": "Afbeelding 2.19 Patroon 6 van Gordon waarneming en denken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          378.25962995394,
+          533.544179360698,
+          607.881889763783,
+          912.125098160871
+        ],
+        "kind": "link",
+        "linkName": "Image 5.5 Patroon 6 van Gordon waarneming en denken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.5%20Patroon%206%20van%20Gordon%20waarneming%20en%20denken.tif"
+      },
+      "page": {
+        "documentOffset": 54,
+        "name": "41"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Een ander voorbeeld van zo’n duidelijke regel is hoe vaak en op welke momenten een zorgvrager met suikerziekte insuline moet krijgen. Daarbij wordt genoemd hoeveel insuline nodig is en wie de insuline moet geven. De zorg voor de zorgvrager is dus op papier geregeld. Dit noemen we coördinatie van de zorg;",
+        "pageDocumentOffset": 25,
+        "paragraphIndexInBodyStory": 43,
+        "text": "eigen betrokkenheid. Iedere zorgvrager wordt betrokken bij het bepalen van welke zorg hij of zij nodig heeft. De zorgvrager bedenkt zelf de doelen die hij of zij met de zorg bereiken wil. Als zorgprofessional bespreek je met de zorgvrager welke zorg hij of zij nodig heeft. Als de zorgvrager betrokken is bij het maken van het zorgplan, kan je hem of haar ook aanmoedigen om mee te werken aan het halen van de doelen.",
+        "x": 72.2834648823174,
+        "y": 211.799926757812
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voordelen voor de zorgvragers.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Voordelen voor de zorgvragers.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          275.851009434979,
+          53.7025570606622,
+          424.489955872325,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 1.5 Voordelen voor de zorgvragers.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%201.5%20Voordelen%20voor%20de%20zorgvragers.tif"
+      },
+      "page": {
+        "documentOffset": 25,
+        "name": "12"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de lichaamshouding van de zorgvrager;",
+        "pageDocumentOffset": 55,
+        "paragraphIndexInBodyStory": 523,
+        "text": "hoeveel oogcontact de zorgvrager met je maakt.",
+        "x": 75.1181105516088,
+        "y": 379.138509434979
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 7 van Gordon zelfbeleving.",
+        "bounds": null,
+        "label": "Afbeelding 2.20:",
+        "raw": "Afbeelding 2.20 Patroon 7 van Gordon zelfbeleving.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          391.189592112143,
+          66.7710385059747,
+          615.118110236202,
+          415.118730833947
+        ],
+        "kind": "link",
+        "linkName": "Image 5.6 Patroon 7 van Gordon zelfbeleving.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.6%20Patroon%207%20van%20Gordon%20zelfbeleving.tif"
+      },
+      "page": {
+        "documentOffset": 55,
+        "name": "42"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij dit patroon kan je verschillende dingen onderzoeken. De dingen die je tijdens het stellen van de vragen kan onderzoeken noemen we observaties. Een observatie bij dit patroon kan zijn:",
+        "pageDocumentOffset": 56,
+        "paragraphIndexInBodyStory": 536,
+        "text": "hoe de zorgvrager omgaat met zijn of haar familie.",
+        "x": 557.007874331136,
+        "y": 302.555832269623
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 8 van Gordon rol en relatie.",
+        "bounds": null,
+        "label": "Afbeelding 2.21:",
+        "raw": "Afbeelding 2.21 Patroon 8 van Gordon rol en relatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          314.606914946788,
+          520.669515054057,
+          552.150222033393,
+          924.999787217989
+        ],
+        "kind": "link",
+        "linkName": "Image 5.7 Patroon 8 van Gordon rol en relatie.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.7%20Patroon%208%20van%20Gordon%20rol%20en%20relatie.tif"
+      },
+      "page": {
+        "documentOffset": 56,
+        "name": "43"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Wilt u graag kinderen?",
+        "pageDocumentOffset": 57,
+        "paragraphIndexInBodyStory": 547,
+        "text": "(Bij vrouwen:) Bent u nog ongesteld? Ervaart u problemen bij uw ongesteldheid?",
+        "x": 75.1181105516088,
+        "y": 205.886540931042
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 9 van Gordon seksualiteit en voortplanting.",
+        "bounds": null,
+        "label": "Afbeelding 2.22:",
+        "raw": "Afbeelding 2.22 Patroon 9 van Gordon seksualiteit en voortplanting.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          217.937623608206,
+          49.3781704639825,
+          434.275219793544,
+          432.511586552417
+        ],
+        "kind": "link",
+        "linkName": "Image 5.8 Patroon 9 van Gordon seksualiteit en voortplanting.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.8%20Patroon%209%20van%20Gordon%20seksualiteit%20en%20voortplanting.tif"
+      },
+      "page": {
+        "documentOffset": 57,
+        "name": "44"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Met wie praat u het liefst over uw problemen?",
+        "pageDocumentOffset": 58,
+        "paragraphIndexInBodyStory": 564,
+        "text": "Zou u met een andere zorgprofessional over uw stress willen praten?",
+        "x": 557.007874331136,
+        "y": 107.303035465749
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 10 van Gordon stressverwerking.",
+        "bounds": null,
+        "label": "Afbeelding 2.23:",
+        "raw": "Afbeelding 2.23 Patroon 10 van Gordon stressverwerking.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          119.354118142914,
+          535.59232084019,
+          353.826771653545,
+          910.0769817923
+        ],
+        "kind": "link",
+        "linkName": "Image 5.9 Patroon 10 van Gordon stressverwerking.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.9%20Patroon%2010%20van%20Gordon%20stressverwerking.tif"
+      },
+      "page": {
+        "documentOffset": 58,
+        "name": "45"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Zijn andere levensovertuigingen belangrijk voor u?",
+        "pageDocumentOffset": 59,
+        "paragraphIndexInBodyStory": 577,
+        "text": "Moeten wij met bepaalde dingen rekening houden vanwege bepaalde levens- of geloofsovertuigingen die u hebt?",
+        "x": 75.1181105516088,
+        "y": 81.8699645996094
+      },
+      "asset": null,
+      "caption": {
+        "body": "Patroon 11 van Gordon waarden en levensovertuiging.",
+        "bounds": null,
+        "label": "Afbeelding 2.24:",
+        "raw": "Afbeelding 2.24 Patroon 11 van Gordon waarden en levensovertuiging.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          101.251755938189,
+          44.4726376270684,
+          331.73141650109,
+          437.417139571883
+        ],
+        "kind": "link",
+        "linkName": "Image 5.10 Patroon 11 van Gordon waarden en levensovertuiging.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%205.10%20Patroon%2011%20van%20Gordon%20waarden%20en%20levensovertuiging.tif"
+      },
+      "page": {
+        "documentOffset": 59,
+        "name": "46"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.25 De vier levensdomeinen van het zorgleefplan.",
+        "beforeText": "Lichamelijk welbevinden en gezondheid. Lichamelijk welbevinden betekent dat het lichamelijk goed gaat met de zorgvrager. Het is daarvoor belangrijk dat de zorgvrager en zijn of haar lichaam goed worden verzorgd en dat de zorgvrager goede voeding krijgt.",
+        "pageDocumentOffset": 60,
+        "paragraphIndexInBodyStory": 587,
+        "text": "￼",
+        "x": 535.59232084019,
+        "y": 234.927422075561
+      },
+      "asset": null,
+      "caption": {
+        "body": "De vier levensdomeinen van het zorgleefplan.",
+        "bounds": null,
+        "label": "Afbeelding 2.25:",
+        "raw": "Afbeelding 2.25 De vier levensdomeinen van het zorgleefplan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          14.173228346448,
+          535.59232084019,
+          236.277253346449,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 6.2 De vier levensdomeinen van het zorgleefplan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.2%20De%20vier%20levensdomeinen%20van%20het%20zorgleefplan.tif"
+      },
+      "page": {
+        "documentOffset": 60,
+        "name": "47"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "hoe vaak je een handeling moet uitvoeren.",
+        "pageDocumentOffset": 26,
+        "paragraphIndexInBodyStory": 59,
+        "text": "Dit helpt je om je zelfvertrouwen als zorgprofessional te vergroten.",
+        "x": 554.173228346457,
+        "y": 409.7046102689
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voordelen voor de zorgprofessionals.",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Voordelen voor de zorgprofessionals.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          423.173015780712,
+          535.59232084019,
+          572.045621242351,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 1.6 Voordelen voor de zorgprofessional.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%201.6%20Voordelen%20voor%20de%20zorgprofessional.tif"
+      },
+      "page": {
+        "documentOffset": 26,
+        "name": "13"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.3 Voordelen voor de zorginstellingen.",
+        "beforeText": "hoeveel zorg de zorgvrager moet krijgen.",
+        "pageDocumentOffset": 28,
+        "paragraphIndexInBodyStory": 73,
+        "text": "￼",
+        "x": 535.59232084019,
+        "y": 200.805459557867
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voordelen voor de zorginstellingen.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Voordelen voor de zorginstellingen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36.0000000000018,
+          535.59232084019,
+          200.805459557869,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 1.7 Voordelen voor de zorginstellingen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%201.7%20Voordelen%20voor%20de%20zorginstellingen.tif"
+      },
+      "page": {
+        "documentOffset": 28,
+        "name": "15"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.4 Onderdelen van een zorgplan in de GGZ.",
+        "beforeText": "met daarin de aanpak van de behandeling. Dit plan van aanpak is voor zorgprofessionals én voor mensen in de omgeving van de zorgvrager.",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 86,
+        "text": "￼",
+        "x": 53.7025570606623,
+        "y": 170.450476072094
+      },
+      "asset": null,
+      "caption": {
+        "body": "Onderdelen van een zorgplan in de GGZ.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Onderdelen van een zorgplan in de GGZ.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36.0000000000018,
+          53.7025570606623,
+          170.450476072096,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 6.5 Onderdelen van een zorgplan GGZ.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.5%20Onderdelen%20van%20een%20zorgplan%20GGZ.tif"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "16"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "afspraken over hygiëne;",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 96,
+        "text": "de tijden waarop de zorgvrager wil opstaan en wil gaan slapen.",
+        "x": 72.2834648823175,
+        "y": 360.954413079968
+      },
+      "asset": null,
+      "caption": {
+        "body": "Onderdelen van een zorgleefplan in de VVT.",
+        "bounds": null,
+        "label": "Afbeelding 2.5:",
+        "raw": "Afbeelding 2.5 Onderdelen van een zorgleefplan in de VVT.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          373.005495757134,
+          53.7025570606623,
+          570.685013888666,
+          428.187218012772
+        ],
+        "kind": "link",
+        "linkName": "Image 6.4 Onderdelen van een zorgleefplan VVT.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.4%20Onderdelen%20van%20een%20zorgleefplan%20VVT.tif"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "16"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de ziekten en klachten die de zorgvrager heeft;",
+        "pageDocumentOffset": 30,
+        "paragraphIndexInBodyStory": 110,
+        "text": "wat de zorgvrager nodig heeft.",
+        "x": 565.511810957541,
+        "y": 244.88654093104
+      },
+      "asset": null,
+      "caption": {
+        "body": "Ondersteuningsplan in de GHZ.",
+        "bounds": null,
+        "label": "Afbeelding 2.6:",
+        "raw": "Afbeelding 2.6 Ondersteuningsplan in de GHZ.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          256.937623608206,
+          535.59232084019,
+          427.709656000843,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 6.6 Ondersteuningsplan in de GHZ.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.6%20Ondersteuningsplan%20in%20de%20GHZ.tif"
+      },
+      "page": {
+        "documentOffset": 30,
+        "name": "17"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "5   Voer de geplande zorg uit en beoordeel de behandeling.",
+        "pageDocumentOffset": 32,
+        "paragraphIndexInBodyStory": 143,
+        "text": "Je wilt dat de stappen van het zorgproces zo soepel mogelijk gaan. Daarvoor is het belangrijk dat je als zorgprofessional een vertrouwensband hebt met de zorgvrager. Dit betekent dat de zorgvrager jou als professional vertrouwt en dat jullie elkaar serieus nemen en respecteren.",
+        "x": 531.496062992126,
+        "y": 152.755905511811
+      },
+      "asset": null,
+      "caption": {
+        "body": "Stappenplan indiceren zorg.",
+        "bounds": null,
+        "label": "Afbeelding 2.7:",
+        "raw": "Afbeelding 2.7 Stappenplan indiceren zorg.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          192.224311023623,
+          519.808919350932,
+          442.362519868266,
+          925.860385407075
+        ],
+        "kind": "link",
+        "linkName": "Image 1.8 Stappenplan indiceren zorg.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%201.8%20Stappenplan%20indiceren%20zorg.tif"
+      },
+      "page": {
+        "documentOffset": 32,
+        "name": "19"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.8 Overzicht zorgprofielen.",
+        "beforeText": "In elk zorgprofiel is opgeschreven hoeveel steun de zorgvrager nodig heeft bij verschillende afdelingen. Elk zorgprofiel bestaat namelijk uit meerdere van zulke afdelingen. Zo’n afdeling maakt duidelijk waarbij de zorgvrager zich vooral beperkt voelt en hoe hij of zij vindt dat het gaat met zijn of haar gezondheid.",
+        "pageDocumentOffset": 34,
+        "paragraphIndexInBodyStory": 162,
+        "text": "￼",
+        "x": 535.59232084019,
+        "y": 344.566926781326
+      },
+      "asset": null,
+      "caption": {
+        "body": "Overzicht zorgprofielen.",
+        "bounds": null,
+        "label": "Afbeelding 2.8:",
+        "raw": "Afbeelding 2.8 Overzicht zorgprofielen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36.0000000000018,
+          535.59232084019,
+          344.566926781328,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 1.9 Overzicht zorgprofielen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%201.9%20Overzicht%20zorgprofielen.tif"
+      },
+      "page": {
+        "documentOffset": 34,
+        "name": "21"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de verpleging van de zorgvrager;",
+        "pageDocumentOffset": 36,
+        "paragraphIndexInBodyStory": 196,
+        "text": "de hele zorg.",
+        "x": 554.173228661845,
+        "y": 159.869964599609
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van een ingevuld zorgpleefplan.",
+        "bounds": null,
+        "label": "Afbeelding 2.9:",
+        "raw": "Afbeelding 2.9 Voorbeeld van een ingevuld zorgpleefplan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          171.921047276775,
+          535.59232084019,
+          435.493738118816,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 2.1 Voorbeeld van een ingevuld zorgleefplan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.1%20Voorbeeld%20van%20een%20ingevuld%20zorgleefplan.tif"
+      },
+      "page": {
+        "documentOffset": 36,
+        "name": "23"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

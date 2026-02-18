@@ -1,0 +1,26 @@
+---
+alwaysApply: true
+---
+
+# Ignite Zero: Absolute No-Mock Policy
+
+This project follows the Ignite Zero no-mock policy. **NEVER** introduce mock data, placeholder data, or fallback data into any file.
+
+## Rules
+
+1. **No mock data files** — do not create files like `mock-*.ts`, `fake-*.ts`, or `placeholder-*.ts`.
+2. **No mock fallbacks in hooks** — hooks must return empty arrays/null when Supabase is not connected. Show a "connect Supabase" message in the UI, never fake data.
+3. **No silent env var fallbacks** — use `requireEnv()` for required vars. Never use `process.env.X || "default"` (except for documented infrastructure vars like `MCP_URL`).
+4. **No demo mode** — the app shows real data or shows an empty state with a clear connection prompt.
+5. **Terminology enforcement** — never use "cliënt"/"client"/"patiënt"/"patient" (use "zorgvrager") or "verpleegkunzorgprofessional") in student-facing text.
+
+## When Supabase is not connected
+
+The dashboard shows:
+- A yellow "Supabase not connected" banner
+- Empty book registry, job table, and event log
+- Instructions to set `VITE_SUPABASE_URL` and `VITE_SUPABASE_ANON_KEY`
+
+## Verification
+
+Run `npx ignite verify` — Gate 4 (no-fallback scan) will catch violations.

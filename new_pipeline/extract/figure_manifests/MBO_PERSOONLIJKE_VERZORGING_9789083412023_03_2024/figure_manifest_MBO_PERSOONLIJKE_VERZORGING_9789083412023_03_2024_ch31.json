@@ -1,0 +1,254 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3965
+  },
+  "chapter": "31",
+  "chapterRange": {
+    "endOff": 326,
+    "ok": true,
+    "startOff": 316
+  },
+  "exportedAt": "Sat Jan 03 2026 22:58:04 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Stof afnemen.",
+        "pageDocumentOffset": 316,
+        "paragraphIndexInBodyStory": 5801,
+        "text": "Stof wissen.",
+        "x": 302.999999830458,
+        "y": 134.857754922141
+      },
+      "asset": null,
+      "caption": {
+        "body": "Droog schoonmaken kan onder andere met een stofzuiger.",
+        "bounds": null,
+        "label": "Afbeelding 31.1:",
+        "raw": "Afbeelding 31.1 Droog schoonmaken kan onder andere met een stofzuiger.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          137.137037329548,
+          297.000001102024,
+          187.951369577102,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 31_31.1_Droog reinigen kan onder andere met een stofzuiger.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2031_31.1_Droog%20reinigen%20kan%20onder%20andere%20met%20een%20stofzuiger.tif"
+      },
+      "page": {
+        "documentOffset": 316,
+        "name": "303"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "kalkoplosser. Speciaal om kalkaanslag te voorkomen. Dit schoonmaakmiddel gebruik je vaak in douche of toilet;",
+        "pageDocumentOffset": 317,
+        "paragraphIndexInBodyStory": 5817,
+        "text": "glasreiniger. Speciaal voor glas. Andere schoonmaakmiddelen laten op glas strepen achter, maar glasreiniger doet dat niet.",
+        "x": 107.999999830458,
+        "y": 69.115927929355
+      },
+      "asset": null,
+      "caption": {
+        "body": "Ga over op nat schoonmaken bij aangehecht vuil.",
+        "bounds": null,
+        "label": "Afbeelding 31.2:",
+        "raw": "Afbeelding 31.2 Ga over op nat schoonmaken bij aangehecht vuil.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          83.2729881145332,
+          102.000001102024,
+          155.580855845428,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 31_31.2_Als er sprake is van aangehect vuil moet er worden overgegaan op nat reinigen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2031_31.2_Als%20er%20sprake%20is%20van%20aangehect%20vuil%20moet%20er%20worden%20overgegaan%20op%20nat%20reinigen.tif"
+      },
+      "page": {
+        "documentOffset": 317,
+        "name": "304"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "actisan-5L;",
+        "beforeText": "Desinfectiemiddelen doden of verminderen het aantal bacteriën. We gebruiken drie soorten desinfectiemiddelen, namelijk:",
+        "pageDocumentOffset": 319,
+        "paragraphIndexInBodyStory": 5858,
+        "text": "alcohol 70%;",
+        "x": 107.999999830458,
+        "y": 22.6659279293516
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vastgeplakt vuil wordt losgeweekt met een reinigingsmiddel.",
+        "bounds": null,
+        "label": "Afbeelding 31.3:",
+        "raw": "Afbeelding 31.3 Vastgeplakt vuil wordt losgeweekt met een reinigingsmiddel.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          15.0000011020236,
+          71.999999999999,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk31_31.3_Vastgeplakt vuil wordt losgeweekt met reinigingsmiddel.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk31_31.3_Vastgeplakt%20vuil%20wordt%20losgeweekt%20met%20reinigingsmiddel.jpeg"
+      },
+      "page": {
+        "documentOffset": 319,
+        "name": "306"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Reinigingsmiddelen kan je gebruiken om vastgeplakt vuil los te weken, waarna je het vuil kan verwijderen. Dit zijn de verschillende soorten reinigingsmiddelen die je kan gebruiken:",
+        "beforeText": "￼",
+        "pageDocumentOffset": 319,
+        "paragraphIndexInBodyStory": 5846,
+        "text": "Afbeelding 31.3 Vastgeplakt vuil wordt losgeweekt met een reinigingsmiddel.",
+        "x": 15,
+        "y": 76.2333333333324
+      },
+      "asset": null,
+      "caption": {
+        "body": "Desinfectiemiddelen bestrijden bacteriën.",
+        "bounds": null,
+        "label": "Afbeelding 31.4:",
+        "raw": "Afbeelding 31.4 Desinfectiemiddelen bestrijden bacteriën.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          73.3952103367657,
+          122.346421485477,
+          140.500418217274,
+          159.653579685477
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 31_31.4_Desinfectiemiddelen bestrijden bacteriën.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2031_31.4_Desinfectiemiddelen%20bestrijden%20bacteri%C3%ABn.tif"
+      },
+      "page": {
+        "documentOffset": 319,
+        "name": "306"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Dit pictogram staat voor gezondheidsgevaar op de lange termijn. Als je zo’n product via de mond of huid binnenkrijgt of inademt, is het uiteindelijk mogelijk kankerverwekkend of op een andere manier schadelijk voor je gezondheid.",
+        "pageDocumentOffset": 320,
+        "paragraphIndexInBodyStory": 5876,
+        "text": "Producten met dit symbool bevatten gassen onder druk. Deze samengeperste gassen kunnen bij hoge temperaturen ontploffen.",
+        "x": 302.999999830458,
+        "y": 121.443705707129
+      },
+      "asset": null,
+      "caption": {
+        "body": "Let op de gevaarsymbolen op verpakkingen van chemische stoffen.",
+        "bounds": null,
+        "label": "Afbeelding 31.5:",
+        "raw": "Afbeelding 31.5 Let op de gevaarsymbolen op verpakkingen van chemische stoffen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          133.600765892315,
+          297.000001102024,
+          210.42192458249,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 31_31.5_Let op de gevaarsymbolen op verpakkingen van chemische stoffen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2031_31.5_Let%20op%20de%20gevaarsymbolen%20op%20verpakkingen%20van%20chemische%20stoffen.tif"
+      },
+      "page": {
+        "documentOffset": 320,
+        "name": "307"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Je moet vloeren in huis regelmatig schoonmaken om ze goed te onderhouden. Schoonmaken kan op verschillende manieren, je kan vloeren droog en nat schoonmaken. Droog schoonmaken van een vloer doe je door te stofzuigen of door vuil aan te vegen.",
+        "pageDocumentOffset": 321,
+        "paragraphIndexInBodyStory": 5881,
+        "text": "Soms is het nodig om de vloer ook nat schoon te maken als vuil op de vloer vastgeplakt zit. Je gebruikt dan altijd eerst een stofzuiger of bezem om droog schoon te maken. Bepaalde soorten vloeren kan je daarna met een dweil nat schoonmaken.",
+        "x": 15,
+        "y": 58.4513298882435
+      },
+      "asset": null,
+      "caption": {
+        "body": "Let bij het stofzuigen goed op je lichaamshouding om rugklachten te voorkomen.",
+        "bounds": null,
+        "label": "Afbeelding 31.6:",
+        "raw": "Afbeelding 31.6 Let bij het stofzuigen goed op je lichaamshouding om rugklachten te voorkomen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          82.4861678511996,
+          15.0000011020237,
+          134.486167851195,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk31_31.6_Let bij het vegen goed op je lichaamshouding om rugklachten te voorkomen.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk31_31.6_Let%20bij%20het%20vegen%20goed%20op%20je%20lichaamshouding%20om%20rugklachten%20te%20voorkomen.jpeg"
+      },
+      "page": {
+        "documentOffset": 321,
+        "name": "308"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "robotstofzuigers. Een robotstofzuiger is geprogrammeerd om op vaste momenten zelfstandig te stofzuigen. Deze stofzuiger werkt op een accu en keert automatisch terug naar het laadstation, waar hij zichzelf oplaadt. Je hoeft een robotstofzuiger alleen eenmalig in te stellen en verder minimaal een keer per week te legen. We kunnen deze stofzuiger inzetten bij zorgvragers met een fysieke beperking;",
+        "beforeText": "We willen het liefst dat zorgvragers zo lang mogelijk zelfstandig hun huis kunnen schoonmaken. Hulpmiddelen die de zorgvrager kunnen helpen om zelf te blijven schoonmaken, zijn onder andere:",
+        "pageDocumentOffset": 324,
+        "paragraphIndexInBodyStory": 5978,
+        "text": "stoffer en blik met een lange steel. Met dit hulpmiddel kan de zorgvrager vuil opvegen zonder te hoeven bukken. De steel van de stoffer en van het blik is ongeveer 1 m lang;",
+        "x": 215.999999830458,
+        "y": 65.7124409993486
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bepaalde hulpmiddelen stellen zorgvragers in staat hun huis zo lang mogelijk zelfstandig schoon te maken, zoals een robotstofzuiger.",
+        "bounds": null,
+        "label": "Afbeelding 31.7:",
+        "raw": "Afbeelding 31.7 Bepaalde hulpmiddelen stellen zorgvragers in staat hun huis zo lang mogelijk zelfstandig schoon te maken, zoals een robotstofzuiger.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          74.8309279293591,
+          297.000001102024,
+          135.120791262687,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 31_31.7_Er zijn hulpmiddelen die zorgvragers in staat stellen zo lang mogelijk zelfstandig hun huis schoon t.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2031_31.7_Er%20zijn%20hulpmiddelen%20die%20zorgvragers%20in%20staat%20stellen%20zo%20lang%20mogelijk%20zelfstandig%20hun%20huis%20schoon%20t.tif"
+      },
+      "page": {
+        "documentOffset": 324,
+        "name": "311"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

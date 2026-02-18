@@ -1,0 +1,208 @@
+{
+  "branding": {
+    "name": "BookGen",
+    "tagline": "Unified book generation pipeline — TestRun quality at cloud scale."
+  },
+  "data_model": {
+    "root_entities": [
+      {
+        "name": "BookRegistry",
+        "slug": "book-registry",
+        "fields": [
+          { "name": "book_id", "type": "string" },
+          { "name": "title", "type": "string" },
+          { "name": "isbn", "type": "string" },
+          { "name": "level", "type": "enum", "options": ["n3", "n4"] },
+          { "name": "language", "type": "string" },
+          { "name": "chapters", "type": "json" },
+          { "name": "canonical_idml", "type": "string" },
+          { "name": "template_profile", "type": "json" },
+          { "name": "upload_id", "type": "string" },
+          { "name": "status", "type": "enum", "options": ["draft", "ingesting", "generating", "complete", "failed"] },
+          { "name": "config", "type": "json" }
+        ]
+      },
+      {
+        "name": "PipelineJob",
+        "slug": "pipeline-job",
+        "fields": [
+          { "name": "book_id", "type": "string" },
+          { "name": "chapter", "type": "number" },
+          { "name": "section", "type": "string" },
+          { "name": "step", "type": "enum",           "options": [
+            "ingest_book", "extract_tokens", "export_canonical",
+            "extract_skeleton", "generate_section", "assemble_chapter",
+            "generate_figures", "generate_ai_images", "generate_chapter_recap", "apply_boxes",
+            "apply_errata", "apply_microfix", "render_chapter_pdf",
+            "assemble_book", "generate_index", "generate_glossary",
+            "normalize_voice", "render_book_pdf", "validate_book"
+          ]},
+          { "name": "status", "type": "enum", "options": ["pending", "claimed", "running", "done", "failed", "cancelled"] },
+          { "name": "worker_id", "type": "string" },
+          { "name": "priority", "type": "number" },
+          { "name": "depends_on", "type": "json" },
+          { "name": "input_artifacts", "type": "json" },
+          { "name": "output_artifacts", "type": "json" },
+          { "name": "error", "type": "string" },
+          { "name": "attempts", "type": "number" },
+          { "name": "max_attempts", "type": "number" },
+          { "name": "started_at", "type": "date" },
+          { "name": "completed_at", "type": "date" }
+        ]
+      },
+      {
+        "name": "PipelineEvent",
+        "slug": "pipeline-event",
+        "fields": [
+          { "name": "job_id", "type": "string" },
+          { "name": "book_id", "type": "string" },
+          { "name": "event_type", "type": "string" },
+          { "name": "progress", "type": "number" },
+          { "name": "message", "type": "string" },
+          { "name": "metadata", "type": "json" }
+        ]
+      }
+    ],
+    "child_entities": []
+  },
+  "agent_jobs": [
+    {
+      "id": "ingest_book",
+      "target_entity": "BookRegistry",
+      "execution_mode": "async",
+      "ui": { "label": "Ingest Book", "icon": "Upload", "placement": "admin" },
+      "prompt_template": "Register a book and upload its canonical IDML + figures to Storage."
+    },
+    {
+      "id": "extract_tokens",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Extract Design Tokens", "icon": "Palette", "placement": "admin" },
+      "prompt_template": "Parse IDML snapshot to extract design tokens (per book, once)."
+    },
+    {
+      "id": "export_canonical",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Export Canonical", "icon": "FileJson", "placement": "admin" },
+      "prompt_template": "Export canonical JSON from DB for a chapter."
+    },
+    {
+      "id": "extract_skeleton",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Extract Skeleton", "icon": "Bone", "placement": "admin" },
+      "prompt_template": "Convert canonical chapter JSON to skeleton_v1 structure."
+    },
+    {
+      "id": "generate_section",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Generate Section", "icon": "Sparkles", "placement": "admin" },
+      "prompt_template": "LLM-powered section content generation with microheadings, praktijk/verdieping, and terminology enforcement."
+    },
+    {
+      "id": "assemble_chapter",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Assemble Chapter", "icon": "Layers", "placement": "admin" },
+      "prompt_template": "Compile skeleton_v1 to CanonicalBook JSON with terminology gate."
+    },
+    {
+      "id": "generate_figures",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Generate Figures", "icon": "Image", "placement": "admin" },
+      "prompt_template": "LLM plans figure placements, generates placeholder PNGs, and injects figure blocks into canonical JSON."
+    },
+    {
+      "id": "generate_ai_images",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "AI Image Generation", "icon": "Sparkles", "placement": "admin" },
+      "prompt_template": "Uses Nano Banana Pro (gemini-3-pro-image-preview via Google Gemini API) to generate real AI images from figure descriptions, replacing placeholder PNGs."
+    },
+    {
+      "id": "generate_chapter_recap",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Generate Recap", "icon": "ListChecks", "placement": "admin" },
+      "prompt_template": "LLM generates learning objectives, glossary, and self-check questions for a chapter."
+    },
+    {
+      "id": "apply_boxes",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Apply Boxes", "icon": "BoxSelect", "placement": "admin" },
+      "prompt_template": "Apply praktijk/verdieping differentiation boxes (Option A rules)."
+    },
+    {
+      "id": "apply_errata",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Apply Errata", "icon": "FileWarning", "placement": "admin" },
+      "prompt_template": "Apply factual errata find-and-replace overrides."
+    },
+    {
+      "id": "apply_microfix",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Apply Microfix", "icon": "Wrench", "placement": "admin" },
+      "prompt_template": "Strip leading microtitles under headings (deterministic cleanup)."
+    },
+    {
+      "id": "render_chapter_pdf",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Render Chapter PDF", "icon": "FileText", "placement": "admin" },
+      "prompt_template": "Prince XML render + layout validation suite (page-fill, column-balance, box-gaps)."
+    },
+    {
+      "id": "assemble_book",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Assemble Book", "icon": "BookOpen", "placement": "admin" },
+      "prompt_template": "Merge all chapter canonical JSONs into a single book JSON."
+    },
+    {
+      "id": "generate_index",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Generate Index", "icon": "List", "placement": "admin" },
+      "prompt_template": "Extract bold terms from canonical, curate via LLM into alphabetical index."
+    },
+    {
+      "id": "generate_glossary",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Generate Glossary", "icon": "BookOpenCheck", "placement": "admin" },
+      "prompt_template": "Extract terminology, generate begrippenlijst with LLM definitions."
+    },
+    {
+      "id": "normalize_voice",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Normalize Voice", "icon": "MessageSquare", "placement": "admin" },
+      "prompt_template": "Yield-based N3 voice normalization pass (8 blocks per batch)."
+    },
+    {
+      "id": "render_book_pdf",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Render Book PDF", "icon": "Printer", "placement": "admin" },
+      "prompt_template": "Final Prince render with front/back matter, index, and glossary."
+    },
+    {
+      "id": "validate_book",
+      "target_entity": "PipelineJob",
+      "execution_mode": "async",
+      "ui": { "label": "Validate Book", "icon": "ShieldCheck", "placement": "admin" },
+      "prompt_template": "Full validation suite: page-fill, column-balance, terminology, bullet-orphan-split."
+    }
+  ],
+  "edge_functions": [
+    { "id": "claim-next-job", "input": { "worker_id": "string" }, "output": { "job": "json" } },
+    { "id": "emit-pipeline-event", "input": { "job_id": "string", "book_id": "string", "event_type": "string", "progress": "number", "message": "string" }, "output": { "id": "number" } }
+  ]
+}
+

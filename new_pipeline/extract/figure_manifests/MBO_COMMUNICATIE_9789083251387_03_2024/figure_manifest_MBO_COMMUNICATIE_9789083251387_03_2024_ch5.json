@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 5739
+  },
+  "chapter": "5",
+  "chapterRange": {
+    "endOff": 98,
+    "ok": true,
+    "startOff": 82
+  },
+  "exportedAt": "Sat Jan 03 2026 00:47:16 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De sterstructuur",
+        "pageDocumentOffset": 94,
+        "paragraphIndexInBodyStory": 1102,
+        "text": "Verloopt de communicatie via één centrale persoon in het midden van het web? Dan is er sprake van een sterstructuur, zie afbeelding 5.1.",
+        "x": 187.5,
+        "y": 19.6849741617839
+      },
+      "asset": null,
+      "caption": {
+        "body": "De sterstructuur voor groepscommunicatie.",
+        "bounds": null,
+        "label": "Afbeelding 5.1:",
+        "raw": "Afbeelding 5.1 De sterstructuur voor groepscommunicatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          29.0224394395595,
+          208.613689464993,
+          90.2794396075608,
+          301.386310625671
+        ],
+        "kind": "link",
+        "linkName": "Circle_arrows-02.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Communicatie_9789083251387_03/Links/Circle_arrows-02.jpg"
+      },
+      "page": {
+        "documentOffset": 94,
+        "name": "83"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De wielstructuur",
+        "pageDocumentOffset": 94,
+        "paragraphIndexInBodyStory": 1107,
+        "text": "Communiceren de groepsleden rechtstreeks met elkaar, zonder centrale persoon? Dan is er sprake van een wielstructuur, zie afbeelding 5.2.",
+        "x": 187.5,
+        "y": 140.58221738534
+      },
+      "asset": null,
+      "caption": {
+        "body": "De wielstructuur voor groepscommunicatie.",
+        "bounds": null,
+        "label": "Afbeelding 5.2:",
+        "raw": "Afbeelding 5.2 De wielstructuur voor groepscommunicatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          146.391904885338,
+          214.671561516656,
+          216.68969115542,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Circle_arrows-01.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Communicatie_9789083251387_03/Links/Circle_arrows-01.jpg"
+      },
+      "page": {
+        "documentOffset": 94,
+        "name": "83"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+}

@@ -1,0 +1,259 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 4080
+  },
+  "chapter": "8",
+  "chapterRange": {
+    "endOff": 106,
+    "ok": true,
+    "startOff": 98
+  },
+  "exportedAt": "Sat Jan 03 2026 22:43:19 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "handschoenen;",
+        "pageDocumentOffset": 100,
+        "paragraphIndexInBodyStory": 1398,
+        "text": "in overleg met de zorgvrager: tandenstokers, flosdraad of mondwater.",
+        "x": 216.99999997086,
+        "y": 104.095776960583
+      },
+      "asset": null,
+      "caption": {
+        "body": "Met een bekkentje wordt een speciale kom bedoeld in de vorm van een nierbekken.",
+        "bounds": null,
+        "label": "Afbeelding 8.1:",
+        "raw": "Afbeelding 8.1 Met een bekkentje wordt een speciale kom bedoeld in de vorm van een nierbekken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          113.31394825688,
+          210.000001102024,
+          150.313948256878,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.1_Met een bekkentje wordt een speciale kom bedoeld in de vorm van een nierbekken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.1_Met%20een%20bekkentje%20wordt%20een%20speciale%20kom%20bedoeld%20in%20de%20vorm%20van%20een%20nierbekken.tif"
+      },
+      "page": {
+        "documentOffset": 100,
+        "name": "87"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 100,
+        "paragraphIndexInBodyStory": 1400,
+        "text": "Afbeelding 8.1 Met een bekkentje wordt een speciale kom bedoeld in de vorm van een nierbekken.",
+        "x": 210,
+        "y": 155.547281590211
+      },
+      "asset": null,
+      "caption": {
+        "body": "Benodigdheden voor het reinigen van een natuurlijk gebit.",
+        "bounds": null,
+        "label": "Afbeelding 8.2:",
+        "raw": "Afbeelding 8.2 Benodigdheden voor het reinigen van een natuurlijk gebit.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          169.293230664285,
+          210.389999368456,
+          231.293230664285,
+          287.609999368456
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.2_Benodigdheden voor het reinigen van een natuurlijk gebit.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.2_Benodigdheden%20voor%20het%20reinigen%20van%20een%20natuurlijk%20gebit.tif"
+      },
+      "page": {
+        "documentOffset": 100,
+        "name": "87"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Verwijder de eventuele handschoenen en desinfecteer je handen.",
+        "pageDocumentOffset": 101,
+        "paragraphIndexInBodyStory": 1422,
+        "text": "￼  Noteer de handeling en eventuele bevindingen.",
+        "x": 15,
+        "y": 89.8583333333311
+      },
+      "asset": null,
+      "caption": {
+        "body": "Inspecteer de mondholte en plaats zo nodig een bekkentje onder de kin.",
+        "bounds": null,
+        "label": "Afbeelding 8.3:",
+        "raw": "Afbeelding 8.3 Inspecteer de mondholte en plaats zo nodig een bekkentje onder de kin.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          97.6070601851829,
+          15.0000011020237,
+          133.607060185182,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.3_Inspecteer de mondholte en plaats zo nodig een bekkentje onder de kin.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.3_Inspecteer%20de%20mondholte%20en%20plaats%20zo%20nodig%20een%20bekkentje%20onder%20de%20kin.tif"
+      },
+      "page": {
+        "documentOffset": 101,
+        "name": "88"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 101,
+        "paragraphIndexInBodyStory": 1425,
+        "text": "Afbeelding 8.3 Inspecteer de mondholte en plaats zo nodig een bekkentje onder de kin.",
+        "x": 15,
+        "y": 138.840393518517
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vraag de zorgvrager de mond te spoelen.",
+        "bounds": null,
+        "label": "Afbeelding 8.4:",
+        "raw": "Afbeelding 8.4 Vraag de zorgvrager de mond te spoelen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          148.353009259258,
+          15.0000011020236,
+          184.35300925926,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.4_Vraag de zorgvrager de mond te spoelen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.4_Vraag%20de%20zorgvrager%20de%20mond%20te%20spoelen.tif"
+      },
+      "page": {
+        "documentOffset": 101,
+        "name": "88"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je moet elke soort prothese twee keer per dag bij de zorgvrager uitnemen en schoonmaken met water en zeep en een tandenborstel. Het slijmvlies dat normaal door de prothese wordt afgedekt, poets je dan ook met een zachte tandenborstel. Je kan het slijmvlies in de mond ook schoonmaken met vochtige gazen. Een klikgebit kan je reinigen als een natuurlijk gebit, dus door de tanden in de mond te poetsen. Je moet dan wel extra aandacht besteden aan de overgang tussen het implantaat (dat vastzit aan de kaak) en de kliktanden. Bij die overgang kunnen zich namelijk bacteriën en etensresten ophopen.",
+        "beforeText": "Omdat de kaak eerst nog verandert, moet de immediaatprothese regelmatig aangepast worden om goed te blijven passen. De immediaatprothese wordt uiteindelijk vervangen door een volledige prothese als de kaak niet meer verandert. Het bovenste deel van de volledige prothese kan tegen het gehemelte aangeklemd worden met een plaat. Het onderste deel omklemt precies de onderkaak, doordat het de vorm heeft van een hoefijzer. Om goed te blijven zitten en bijvoorbeeld bij het eten niet los te raken, moet het gebit precies op maat gemaakt worden. Doordat de kaak zonder natuurlijke tanden krimpt, moeten zorgvragers met een gebitsprothese deze regelmatig laten controleren door een tandarts. Daarnaast moet de zorgvrager elke vijf jaar een nieuwe prothese krijgen.",
+        "pageDocumentOffset": 102,
+        "paragraphIndexInBodyStory": 1446,
+        "text": "Soms hoeven niet alle tanden getrokken te worden, omdat een deel van het gebit nog wel voldoende gezond is. De getrokken tanden vormen dan een lelijk gat. Een gedeeltelijke prothese kan dit gat opvullen. Hierbij wordt gezorgd dat de vorm en de kleur van de prothese bij de eigen tanden past. De gedeeltelijke prothese kan zo in het gebit geplaatst worden. Om de gebitsprothese extra stevig te maken, plaatsen we soms implantaten in de onder- of bovenkaak. De prothese kan dan op het implantaat geklikt worden. Dit noemen we een klikgebit en is voor de zorgvrager ook comfortabeler.",
+        "x": 297,
+        "y": 194.876332516137
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch8/Afbeelding_8.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een speciale tandenborstel voor het reinigen van een gebitsprothese",
+        "bounds": null,
+        "label": "Afbeelding 8.5:",
+        "raw": "Afbeelding 8.5 Een speciale tandenborstel voor het reinigen van een gebitsprothese",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch8/Afbeelding_8.5.png",
+        "bounds": [
+          212.738147382016,
+          218,
+          234.988888884083,
+          273.44
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.5_Een speciale tandenborstel voor het reinigen van een gebitsprothese.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.5_Een%20speciale%20tandenborstel%20voor%20het%20reinigen%20van%20een%20gebitsprothese.tif"
+      },
+      "page": {
+        "documentOffset": 102,
+        "name": "89"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "permanente zuurstof toegediend krijgt;",
+        "pageDocumentOffset": 104,
+        "paragraphIndexInBodyStory": 1482,
+        "text": "bewusteloos is.",
+        "x": 215.999999830458,
+        "y": 108.751329888235
+      },
+      "asset": null,
+      "caption": {
+        "body": "Ook het slijmvlies van de mond moet goed gereinigd worden.",
+        "bounds": null,
+        "label": "Afbeelding 8.6:",
+        "raw": "Afbeelding 8.6 Ook het slijmvlies van de mond moet goed gereinigd worden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          113.030612295643,
+          210.000001102024,
+          160.030612295646,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.6_Ook het slijmvlies van de mond moet goed gereinigd worden.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.6_Ook%20het%20slijmvlies%20van%20de%20mond%20moet%20goed%20gereinigd%20worden.tif"
+      },
+      "page": {
+        "documentOffset": 104,
+        "name": "91"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Soms weigert een zorgvrager mondverzorging. Je moet dan met hem of haar in gesprek gaan om te achterhalen waarom hij of zij geen mondverzorging wil. Daarnaast moet je aan de zorgvrager kunnen uitleggen wat de gevolgen zijn van het niet verzorgen van de mond en hoe belangrijk mondverzorging is.",
+        "beforeText": "Sommige zorgvragers hebben geen natuurlijk gebit meer. Bij hen reinig je de gebitsprothesen. Dit doe je door de prothese eerst uit de mond van de zorgvrager te nemen. Hierna poets je de prothese en vervolgens reinig je het tandvlees en andere delen van de mondholte van de zorgvrager.",
+        "pageDocumentOffset": 106,
+        "paragraphIndexInBodyStory": 1538,
+        "text": "Sommige zorgvragers eten nauwelijks of niet meer op natuurlijke wijze. Deze zorgvragers hebben daardoor weinig speeksel in hun mond. Het is bij hen van belang om de mondslijmvliezen in de mondholte goed te onderhouden. Je onderhoudt de mondslijmvliezen onder andere met water of een zoutoplossing, een spatel en een gaasje.",
+        "x": 297,
+        "y": 96.8103723737917
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het weigeren van mondverzorging moet altijd gezocht worden naar de reden hiervan.",
+        "bounds": null,
+        "label": "Afbeelding 8.7:",
+        "raw": "Afbeelding 8.7 Bij het weigeren van mondverzorging moet altijd gezocht worden naar de reden hiervan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          118.345210336754,
+          210.000001102024,
+          163.254301245845,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk8_8.7_Bij het weigeren van mondzorg moet altijd gezocht worden naar de reden hiervan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk8_8.7_Bij%20het%20weigeren%20van%20mondzorg%20moet%20altijd%20gezocht%20worden%20naar%20de%20reden%20hiervan.tif"
+      },
+      "page": {
+        "documentOffset": 106,
+        "name": "93"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

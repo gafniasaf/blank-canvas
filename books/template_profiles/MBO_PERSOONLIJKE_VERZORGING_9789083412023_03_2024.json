@@ -1,0 +1,169 @@
+{
+  "bodyFrames": {
+    "left": {
+      "frames": [
+        {
+          "bounds": [
+            19.9999999951785,
+            15,
+            245,
+            180
+          ],
+          "textColumnCount": 1,
+          "textColumnGutter": 4.23333333333333
+        }
+      ],
+      "masterName": "B-Master",
+      "pagesSeen": 145,
+      "signature": "20,15,245,180"
+    },
+    "right": {
+      "frames": [
+        {
+          "bounds": [
+            19.9999999999999,
+            210,
+            244.999999999999,
+            375
+          ],
+          "textColumnCount": 2,
+          "textColumnGutter": 9
+        }
+      ],
+      "masterName": "A-Base",
+      "pagesSeen": 99,
+      "signature": "20,210,245,375"
+    },
+    "unknown": {
+      "frames": [],
+      "masterName": "",
+      "pagesSeen": 0,
+      "signature": ""
+    }
+  },
+  "bodyStory": {
+    "index": 15,
+    "words": 117414
+  },
+  "book_id": "MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024",
+  "document": {
+    "facingPages": true,
+    "horizontalMeasurementUnits": "MILLIMETERS",
+    "name": "MBO Persoonlijke Verzorging_9789083412023_03.2024.indd",
+    "pages": 372
+  },
+  "generated_at": "2025-12-23_17-04-36",
+  "masters": {
+    "all": [
+      "A-Base",
+      "A-Master",
+      "B-Master",
+      "C--BORDER (3 columns)",
+      "C-BORDER",
+      "C-Index",
+      "C-Inhoudsopgave",
+      "C-Inleiding",
+      "D-Master"
+    ],
+    "bodyCandidates": [
+      {
+        "count": 265,
+        "name": "A-Base"
+      },
+      {
+        "count": 68,
+        "name": "B-Master"
+      },
+      {
+        "count": 1,
+        "name": "A-Master"
+      }
+    ],
+    "openerCandidates": [
+      {
+        "count": 1,
+        "name": "C-BORDER"
+      },
+      {
+        "count": 1,
+        "name": "A-Master"
+      }
+    ]
+  },
+  "paragraphStyleCandidates": {
+    "chapterHeader": [
+      {
+        "count": 35,
+        "name": "•Hoofdstuktitel"
+      },
+      {
+        "count": 35,
+        "name": "*Hoofdstukkop"
+      },
+      {
+        "count": 1,
+        "name": "*Stappenplan bullets"
+      },
+      {
+        "count": 1,
+        "name": "_Bullets"
+      }
+    ],
+    "listLike": [
+      {
+        "count": 2091,
+        "name": "_Bullets"
+      },
+      {
+        "count": 203,
+        "name": "_Bullets lvl 2"
+      },
+      {
+        "count": 146,
+        "name": "*Leerdoelen Bullets"
+      },
+      {
+        "count": 137,
+        "name": "*Stappenplan bullets"
+      },
+      {
+        "count": 95,
+        "name": "_Nummer List (Continue)"
+      },
+      {
+        "count": 49,
+        "name": "*Stappenplan bullets level 2"
+      },
+      {
+        "count": 25,
+        "name": "_Nummer List (Start)"
+      },
+      {
+        "count": 10,
+        "name": "_Inleiding Bullet"
+      },
+      {
+        "count": 5,
+        "name": "*Leerdoelen Bullets Level 2"
+      },
+      {
+        "count": 4,
+        "name": "_Bullets lvl 3"
+      },
+      {
+        "count": 1,
+        "name": "*Leerdoelen Bullets min space"
+      },
+      {
+        "count": 1,
+        "name": "_Nummer List (End)"
+      }
+    ],
+    "numberedHeadings": []
+  },
+  "source": {
+    "baseline_full_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd",
+    "canonical_n4_idml_path": "./_source_exports/MBO_Persoonlijke_Verzorging_9789083412023_03.2024__FROM_DOWNLOADS.idml",
+    "canonical_n4_indd_path": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+  }
+}

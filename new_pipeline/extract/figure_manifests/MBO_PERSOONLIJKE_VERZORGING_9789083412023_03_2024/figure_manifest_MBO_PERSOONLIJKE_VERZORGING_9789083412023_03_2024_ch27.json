@@ -1,0 +1,157 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 4141
+  },
+  "chapter": "27",
+  "chapterRange": {
+    "endOff": 296,
+    "ok": true,
+    "startOff": 286
+  },
+  "exportedAt": "Sat Jan 03 2026 22:55:16 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "de lichaamstemperatuur wordt iets lager.",
+        "beforeText": "de ademhaling wordt langzamer;",
+        "pageDocumentOffset": 287,
+        "paragraphIndexInBodyStory": 5218,
+        "text": "de hartslag gaat omlaag;",
+        "x": 113.999999830458,
+        "y": 22.6659279293516
+      },
+      "asset": null,
+      "caption": {
+        "body": "De meeste mensen slapen zeven tot acht uur per nacht.",
+        "bounds": null,
+        "label": "Afbeelding 27.1:",
+        "raw": "Afbeelding 27.1 De meeste mensen slapen zeven tot acht uur per nacht.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          15.0000011020236,
+          70.0135396518411,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk27_27.1_De meeste mensen slapen zeven tot acht uur per nacht.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk27_27.1_De%20meeste%20mensen%20slapen%20zeven%20tot%20acht%20uur%20per%20nacht.jpeg"
+      },
+      "page": {
+        "documentOffset": 287,
+        "name": "274"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "veel inspanning vlak voor het naar bed gaan. Deze inspanning houdt je actief, waardoor je moeilijker in slaap komt. Soorten inspanning kunnen zijn:",
+        "beforeText": "vlak voor het slapen een zware maaltijd nemen. Voor veel mensen geldt dat een maaltijd nog lange tijd zwaar op de maag blijft drukken;",
+        "pageDocumentOffset": 289,
+        "paragraphIndexInBodyStory": 5270,
+        "text": "vóór het slapengaan op een beeldscherm, smartphone of tablet kijken. Slapen gaat moeilijker door het blauwe licht dat deze schermen produceren. Een oplossing is om de instellingen van je telefoon te veranderen of een app te gebruiken. Hiermee filter je het blauwe licht, waardoor het minder schadelijk is;",
+        "x": 20.9999998304579,
+        "y": 27.6048168182405
+      },
+      "asset": null,
+      "caption": {
+        "body": "Koffie, sigaretten en alcohol kunnen slaapproblemen veroorzaken.",
+        "bounds": null,
+        "label": "Afbeelding 27.2:",
+        "raw": "Afbeelding 27.2 Koffie, sigaretten en alcohol kunnen slaapproblemen veroorzaken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          34.8229881145367,
+          102.000001102024,
+          95.169016406156,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 27_27.2_Koffie, sigaretten en alcohol kunnen slaapproblemen veroorzaken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2027_27.2_Koffie%2C%20sigaretten%20en%20alcohol%20kunnen%20slaapproblemen%20veroorzaken.tif"
+      },
+      "page": {
+        "documentOffset": 289,
+        "name": "276"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij het grootste gedeelte van de zorgvragers kunnen we geen oorzaak vinden.",
+        "pageDocumentOffset": 292,
+        "paragraphIndexInBodyStory": 5348,
+        "text": "Bij de behandeling van het rustelozebenensyndroom is de eerste stap het aanpassen van de levensstijl. De klachten kunnen namelijk erger worden door een verkeerde levensstijl. Goede gewoonten zijn daarom belangrijk, bijvoorbeeld rondom gezonde voeding, het slapen, voldoende lichaamsbeweging en zo min mogelijk koffie, alcohol en sigaretten. We kunnen zorgvragers daarnaast met medicijnen behandelen.",
+        "x": 210,
+        "y": 68.6770390404583
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het rustelozebenensyndroom kan de nachtrust van zorgvragers verstoren.",
+        "bounds": null,
+        "label": "Afbeelding 27.3:",
+        "raw": "Afbeelding 27.3 Het rustelozebenensyndroom kan de nachtrust van zorgvragers verstoren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          107.528543670081,
+          210.000001102024,
+          148.528543670089,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 27_27.3_Het rustelozebenensyndroom kan ervoor zorgen dat mensen niet goed slapen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2027_27.3_Het%20rustelozebenensyndroom%20kan%20ervoor%20zorgen%20dat%20mensen%20niet%20goed%20slapen.tif"
+      },
+      "page": {
+        "documentOffset": 292,
+        "name": "279"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "een van nature lange en vrij slappe huig en zacht gehemelte. Dit kan in de weg hangen en de luchtweg nauwer maken dan gemiddeld.",
+        "beforeText": "vergrote keel- of neusamandelen;",
+        "pageDocumentOffset": 293,
+        "paragraphIndexInBodyStory": 5364,
+        "text": "zwellen van de keel door irritatie van de keelholte. Dit kan bijvoorbeeld komen door roken;￼",
+        "x": 21.0000002880096,
+        "y": 118.66592792935
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch27/Afbeelding_27.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Bij snurken is sprake van een vernauwing in de luchtweg.",
+        "bounds": null,
+        "label": "Afbeelding 27.4:",
+        "raw": "Afbeelding 27.4 Bij snurken is sprake van een vernauwing in de luchtweg.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch27/Afbeelding_27.4.png",
+        "bounds": [
+          18.7361111114283,
+          22.260032769,
+          97.8861111114245,
+          172.739967231
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 27_27.4_Bij snurken is er sprake van een vernauwing in de luchtweg.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2027_27.4_Bij%20snurken%20is%20er%20sprake%20van%20een%20vernauwing%20in%20de%20luchtweg.tif"
+      },
+      "page": {
+        "documentOffset": 293,
+        "name": "280"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

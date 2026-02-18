@@ -1,0 +1,152 @@
+{
+  "6c0ed191-b2c3-43be-841c-21e985e181ed": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+      "alt": "Afbeelding 1.10: DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+      "figureNumber": "Afbeelding 1.10:",
+      "caption": "DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "fce7e85d-f69a-4c2d-918f-0402e4071fd8": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.11.png",
+      "alt": "Afbeelding 1.11: In de celkern zit het erfelijk materiaal.",
+      "figureNumber": "Afbeelding 1.11:",
+      "caption": "In de celkern zit het erfelijk materiaal.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "4dc1bd36-06ff-4ad8-9e15-13135c444738": [
+    {
+      "src": "new_pipeline/assets/images/ch1/fromSteven.PNG",
+      "alt": "Afbeelding 1.12: De cyclus van de cel opgedeeld in verschillende fasen.",
+      "figureNumber": "Afbeelding 1.12:",
+      "caption": "De cyclus van de cel opgedeeld in verschillende fasen.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "f0bd2cf9-7ef3-44cb-8a44-02d7eac22437": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.13.png",
+      "alt": "Afbeelding 1.13: Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+      "figureNumber": "Afbeelding 1.13:",
+      "caption": "Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "3c9a3f11-cce7-4653-b38c-e85219ccd9ec": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.14.png",
+      "alt": "Afbeelding 1.14: De vijf fasen van de mitose.",
+      "figureNumber": "Afbeelding 1.14:",
+      "caption": "De vijf fasen van de mitose.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "741212a0-41a4-403c-928c-7752366f3959": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.15.png",
+      "alt": "Afbeelding 1.15: Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+      "figureNumber": "Afbeelding 1.15:",
+      "caption": "Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "b92e4185-65cd-4ed7-b072-dc82a0d396f6": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.16.png",
+      "alt": "Afbeelding 1.16: Overzicht van endocytose en exocytose.",
+      "figureNumber": "Afbeelding 1.16:",
+      "caption": "Overzicht van endocytose en exocytose.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6603822c-b1d9-4faf-8b10-274dca384342": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.2.png",
+      "alt": "Afbeelding 1.2: Anatomie van de celwand.",
+      "figureNumber": "Afbeelding 1.2:",
+      "caption": "Anatomie van de celwand.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "0aef29a4-4612-447b-95bd-730e0561e3fe": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.3.png",
+      "alt": "Afbeelding 1.3: Anatomie van een mitochondrion.",
+      "figureNumber": "Afbeelding 1.3:",
+      "caption": "Anatomie van een mitochondrion.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6d59527e-e42a-4904-a5ec-0755fc04ec28": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.4.png",
+      "alt": "Afbeelding 1.4: Schematisch overzicht van het endoplasmatisch reticulum.",
+      "figureNumber": "Afbeelding 1.4:",
+      "caption": "Schematisch overzicht van het endoplasmatisch reticulum.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f811aef6-d252-41a1-9895-6b9f1b178181": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.5.png",
+      "alt": "Afbeelding 1.5: Anatomie van een ribosoom.",
+      "figureNumber": "Afbeelding 1.5:",
+      "caption": "Anatomie van een ribosoom.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "c94707a4-28a3-4615-91c9-28dc2345ef78": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.6.png",
+      "alt": "Afbeelding 1.6: Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+      "figureNumber": "Afbeelding 1.6:",
+      "caption": "Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "242e967a-8e27-4fe0-9ec7-ea5ad12ef156": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.7.png",
+      "alt": "Afbeelding 1.7: Anatomie van het Golgi-systeem.",
+      "figureNumber": "Afbeelding 1.7:",
+      "caption": "Anatomie van het Golgi-systeem.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "74b8af33-ab8b-4d2b-8f78-89dde0238a93": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.8.png",
+      "alt": "Afbeelding 1.8: DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+      "figureNumber": "Afbeelding 1.8:",
+      "caption": "DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "3a08aac9-c473-43df-82e8-d7489b51c1e9": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.9.png",
+      "alt": "Afbeelding 1.9: Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+      "figureNumber": "Afbeelding 1.9:",
+      "caption": "Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

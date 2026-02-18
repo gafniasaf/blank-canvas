@@ -1,0 +1,160 @@
+{
+  "46aa5fca-482f-4c2b-aab9-a70c241d0856": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.10.png",
+      "alt": "Afbeelding 11.10: Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+      "figureNumber": "Afbeelding 11.10:",
+      "caption": "Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e7432359-3a8d-469f-8744-28bfe367798c": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.11.png",
+      "alt": "Afbeelding 11.11: Overzicht van de verschillende fasen van meiose I.",
+      "figureNumber": "Afbeelding 11.11:",
+      "caption": "Overzicht van de verschillende fasen van meiose I.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.2.png",
+      "alt": "Afbeelding 11.2: Fysieke verandering tijdens de puberteit bij meisjes.",
+      "figureNumber": "Afbeelding 11.2:",
+      "caption": "Fysieke verandering tijdens de puberteit bij meisjes.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "66d9d179-a8b0-49ff-8b24-d64959c20a80": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.12.png",
+      "alt": "Afbeelding 11.12: Overzicht van de verschillende fasen van meiose II.",
+      "figureNumber": "Afbeelding 11.12:",
+      "caption": "Overzicht van de verschillende fasen van meiose II.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "ad6b8073-21b0-4545-88d9-2c1f538deae6": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.13.png",
+      "alt": "Afbeelding 11.13: Ontwikkeling van zaadcellen.",
+      "figureNumber": "Afbeelding 11.13:",
+      "caption": "Ontwikkeling van zaadcellen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "8f3d5d0b-df9a-4be1-9321-327e5e9728b5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.14.png",
+      "alt": "Afbeelding 11.14: Schematisch overzicht van de menstruatiecyclus.",
+      "figureNumber": "Afbeelding 11.14:",
+      "caption": "Schematisch overzicht van de menstruatiecyclus.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "699c2c4b-4de9-45f2-becc-89b50763fc69": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.15.png",
+      "alt": "Afbeelding 11.15: De hormonale regeling van de geslachtsklieren bij mannen.",
+      "figureNumber": "Afbeelding 11.15:",
+      "caption": "De hormonale regeling van de geslachtsklieren bij mannen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "d35af05c-95a4-4e0d-80b0-2553b3e64e20": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.16.png",
+      "alt": "Afbeelding 11.16: Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+      "figureNumber": "Afbeelding 11.16:",
+      "caption": "Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "72d69534-999f-43c0-a707-cd1d78b3ad0a": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.17.png",
+      "alt": "Afbeelding 11.17: Zaadcellen bestaan uit een kop, middenstuk en staart.",
+      "figureNumber": "Afbeelding 11.17:",
+      "caption": "Zaadcellen bestaan uit een kop, middenstuk en staart.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "69adc069-355a-49b8-b1e0-1a7bef1790d9": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.3.png",
+      "alt": "Afbeelding 11.3: Dwarsdoorsnede van de penis.",
+      "figureNumber": "Afbeelding 11.3:",
+      "caption": "Dwarsdoorsnede van de penis.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "095ecbb0-9c75-4c4e-90ff-f870b87370d5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.4.png",
+      "alt": "Afbeelding 11.4: Schematisch overzicht van de zaadballen.",
+      "figureNumber": "Afbeelding 11.4:",
+      "caption": "Schematisch overzicht van de zaadballen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ad857c0a-9068-45ab-a639-868cf102f27f": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.5.png",
+      "alt": "Afbeelding 11.5: Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+      "figureNumber": "Afbeelding 11.5:",
+      "caption": "Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b09a9399-f290-48be-8819-0215944b02d5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.6.png",
+      "alt": "Afbeelding 11.6: Vulva van de vrouw.",
+      "figureNumber": "Afbeelding 11.6:",
+      "caption": "Vulva van de vrouw.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "9d82a7d0-df39-4486-8a4e-c8343c359923": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.7.png",
+      "alt": "Afbeelding 11.7: Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+      "figureNumber": "Afbeelding 11.7:",
+      "caption": "Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4544f4b5-6d24-4bf1-b9ec-cdfac2219597": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.8.png",
+      "alt": "Afbeelding 11.8: In de celkern zit het erfelijk materiaal.",
+      "figureNumber": "Afbeelding 11.8:",
+      "caption": "In de celkern zit het erfelijk materiaal.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "34e2c165-30e4-41d8-9b26-7d0e02ed2452": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.9.png",
+      "alt": "Afbeelding 11.9: Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+      "figureNumber": "Afbeelding 11.9:",
+      "caption": "Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

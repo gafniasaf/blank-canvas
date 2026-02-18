@@ -1,0 +1,156 @@
+{
+  "generatedAt": "2026-02-13T08:19:04.014Z",
+  "routes": [
+    {
+      "path": "/",
+      "componentName": "Index",
+      "sourceFile": "src/App.tsx"
+    },
+    {
+      "path": "*",
+      "componentName": "NotFound",
+      "sourceFile": "src/App.tsx"
+    }
+  ],
+  "capabilities": [
+    {
+      "id": "ingest_book",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "BookRegistry"
+    },
+    {
+      "id": "extract_tokens",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "export_canonical",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "extract_skeleton",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_section",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "assemble_chapter",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_figures",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_ai_images",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_chapter_recap",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "apply_boxes",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "apply_errata",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "apply_microfix",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "render_chapter_pdf",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "assemble_book",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_index",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "generate_glossary",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "normalize_voice",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "render_book_pdf",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "validate_book",
+      "type": "agent_job",
+      "executionMode": "async",
+      "targetEntity": "PipelineJob"
+    },
+    {
+      "id": "claim-next-job",
+      "type": "edge_function"
+    },
+    {
+      "id": "emit-pipeline-event",
+      "type": "edge_function"
+    }
+  ],
+  "entities": [
+    {
+      "name": "BookRegistry",
+      "slug": "book-registry",
+      "fieldCount": 11
+    },
+    {
+      "name": "PipelineJob",
+      "slug": "pipeline-job",
+      "fieldCount": 15
+    },
+    {
+      "name": "PipelineEvent",
+      "slug": "pipeline-event",
+      "fieldCount": 6
+    }
+  ]
+}

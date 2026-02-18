@@ -1,0 +1,22 @@
+{
+  "f8c0d2bf-e54c-48a2-ac3e-fa441bea5e20": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch5/linked/Circle_arrows-02.jpg",
+      "alt": "Afbeelding 5.1: De sterstructuur voor groepscommunicatie.",
+      "figureNumber": "Afbeelding 5.1:",
+      "caption": "De sterstructuur voor groepscommunicatie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "97a283a3-c407-4ede-8ea1-a36c8c5e0c60": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch5/linked/Circle_arrows-01.jpg",
+      "alt": "Afbeelding 5.2: De wielstructuur voor groepscommunicatie.",
+      "figureNumber": "Afbeelding 5.2:",
+      "caption": "De wielstructuur voor groepscommunicatie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "bodyStory": {
+    "index": 34,
+    "words": 4253
+  },
+  "chapter": "2",
+  "chapterRange": {
+    "endOff": 64,
+    "ok": true,
+    "startOff": 52
+  },
+  "exportedAt": "Thu Dec 25 2025 17:23:29 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "hoornlaag. Deze buitenste laag van de opperhuid staat bloot aan de buitenwereld, maar laat niet veel stoffen door je opperhuid heen naar binnen. Je hoornlaag houdt bacteriën en virussen buiten en water binnen, anders zou je snel uitdrogen door verdamping. Alleen bij zweetklieren laat je hoornlaag water los om te helpen met het regelen van je lichaamstemperatuur. Je hoornlaag bestaat uit verhoornde cellen die in de loop van de tijd van je huid afschuren. Dit noemen we afschilfering of exfoliatie. Verhoornde cellen zitten ook in speciale onderdelen van je huid, zoals eelt, je nagels en je haren;",
+        "beforeText": "2.1.2  De opperhuid",
+        "pageDocumentOffset": 55,
+        "paragraphIndexInBodyStory": 42,
+        "text": "De buitenste laag van je huid is de opperhuid (epidermis). De buitenste laag van je opperhuid bestaat uit dekweefsel, wat we ook wel epitheel noemen. Het dekweefsel is een laag cellen die de grens vormt tussen je lichaam en de buitenwereld. Het dekweefsel zelf bestaat aan de buitenkant uit plaveiselepitheel, waarin we ook verschillende lagen onderscheiden. Van buiten naar binnen bestaat het plaveiselepitheel uit de:",
+        "x": 15,
+        "y": 36.9333333333339
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch2/Afbeelding_2.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de huid.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Doorsnede van de huid.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch2/Afbeelding_2.1.png",
+        "bounds": [
+          87.7333333333339,
+          6.75000000000003,
+          240.133333333334,
+          186
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch2_Img1.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch2_Img1.TIF"
+      },
+      "page": {
+        "documentOffset": 55,
+        "name": "37"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je haren groeien meestal in een schuine richting. Elke haar zit vast aan een spier die we de haaroprichterspier noemen. Deze spier veroorzaakt kippenvel bij het aanspannen doordat hij de haren op bijvoorbeeld je armen en benen omhoogtrekt. Kippenvel is nuttig voor mensen, harige dieren en vogels, want als je haaroprichterspieren aanspannen krijg je een extra luchtlaag rondom je huid die warmte vasthoudt als je omgeving koud is. Om die reden krijg je kippenvel als je het koud hebt.",
+        "beforeText": "Je haren groeien in haarzakjes of haarfollikels vanuit de kiemlaag van je huid. Haarzakjes zijn plaatsen waar je opperhuid naar binnen plooit en ze bestaan uit dode cellen, keratine en pigment. Binnen in je haarzakjes zitten talgklieren die talg maken. Talg is een vettige stof die lijkt op olie en die voor een beschermend ‘jasje’ zorgt rond elke haar.",
+        "pageDocumentOffset": 59,
+        "paragraphIndexInBodyStory": 88,
+        "text": "De onderkant van een haarzakje is verdikt. Dit noemen we je haarbulbus. Vanuit je haarbulbus groeien haren. In je haarbulbus zit een holte die we je haarpapil noemen, waarin zenuwtakjes en bloedvaatjes zitten die naar je haarbulbus lopen. De zenuwtakjes zorgen dat je haarcellen het signaal krijgen om te groeien en de bloedvaatjes zorgen dat je haarcellen genoeg voedingsstoffen krijgen om te kunnen groeien. Nadat je haarcellen klaar zijn met groeien, verhoornen ze en sterven ze af. Elke haar zit in je huid vast via een onderdeel van je haar dat we je haarwortel noemen. Het deel van een haar dat boven je huid uitsteekt noemen we je haarschacht.",
+        "x": 15,
+        "y": 76.444444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch2/Afbeelding_2.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch2/Afbeelding_2.2.png",
+        "bounds": [
+          109.605555555556,
+          23.7166666666667,
+          239.427777777778,
+          176.116666666667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch2_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch2_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 59,
+        "name": "41"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zweetklieren;",
+        "beforeText": "2.1.6  Klieren in de opperhuid",
+        "pageDocumentOffset": 60,
+        "paragraphIndexInBodyStory": 106,
+        "text": "In je opperhuid zitten meerdere soorten klieren, namelijk:",
+        "x": 297.000000000467,
+        "y": 25.644444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch2/Afbeelding_2.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch2/Afbeelding_2.3.png",
+        "bounds": [
+          7.66925605959335,
+          3.67314885915466,
+          234.449180222224,
+          186.560184474179
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch2_Img3.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch2_Img3.TIF"
+      },
+      "page": {
+        "documentOffset": 61,
+        "name": "43"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "In één borst zitten ongeveer vijftien tot vijfentwintig melkklieren, die ieder een melkkanaal hebben dat naar de tepel van de vrouw toe loopt. Rond haar tepel zit de tepelhof, waarin veel zenuwuiteinden zitten die zorgen dat de gladde spiertjes in de tepel reageren op kou en seksuele opwinding. De tepel van een vrouw is ook belangrijk bij het geven van borstvoeding, want als de lippen van een baby de tepel en de tepelhof van zijn of haar moeder aanraken, wordt de tepel actief. De tepel stuurt vervolgens vanuit de zenuwuiteinden een bericht naar de hersenen van de moeder toe, waardoor haar hersenen weten dan dat de baby melk wil drinken. De hersenen gaan nu snel verschillende hormonen maken, zoals oxytocine, waardoor de gladde spiertjes die om de melkklieren van de moeder heen liggen actief worden. Deze spiertjes persen de moedermelk door de melkkanaaltjes naar buiten, waardoor de baby melk kan drinken. Je kan het persen vergelijken met het leegknijpen van een waterballon. Het hele proces waarbij de aanraking van de tepel van de moeder door de lippen van de baby zorgt dat moedermelk naar buiten komt noemen we de toeschietreflex. Deze reflex gebeurt altijd in beide borsten tegelijk en begint bij sommige moeders al als ze hun baby horen huilen.",
+        "beforeText": "Of je nu een man of een vrouw bent, de ontwikkeling van je borsten begon al toen je nog in de buik van je moeder zat. In de zevende week van de zwangerschap kreeg je een soort heuvels tussen je oksels en je liezen die we de primitieve melklijsten noemen. Het grootste deel van je cellen in deze heuvels ging vanzelf dood en in de achtste week van de zwangerschap was nog maar een klein knopje met melkklierweefsel over, waaruit je tepels zich ontwikkelden. Tussen de tiende en achttiende week van de zwangerschap staat de ontwikkeling van het borstklierweefsel stil. Daarna wordt nog een kleine hoeveelheid melkklierweefsel aangemaakt voor de geboorte. Meisjes én jongens hebben daardoor na de geboorte een klein beetje borstklierweefsel. Tijdens de puberteit ontstaat pas het verschil tussen jongens en meisjes, want alleen bij meisjes gaan de borsten echt groeien. Dit komt doordat meisjes en vrouwen veel van een bepaald hormoon hebben waar jongens en mannen minder van hebben, namelijk oestrogeen. Door oestrogeen krijgen meisjes meer vetweefsel in hun borsten en ontstaat ook melkklierweefsel. De hoeveelheid vetweefsel in een borst is verschillend voor ieder meisje en bepaalt hoe groot haar borsten uiteindelijk worden.",
+        "pageDocumentOffset": 63,
+        "paragraphIndexInBodyStory": 130,
+        "text": "Als een vrouw zwanger is zorgen hormonen dat de melkklieren in haar borsten aan het eind van haar zwangerschap moedermelk gaan maken. Eén van de hormonen die in haar borsten voor de aanmaak van moedermelk zorgt noemen we prolactine. Prolactine komt tijdens de zwangerschap via de moederkoek soms ook in het lichaam van het ongeboren kind, waardoor uit de tepels van een pasgeboren baby soms een soort melk komt die we heksenmelk noemen. De meeste baby’s hebben door het hormoon prolactine in de eerste week na de geboorte ook gezwollen tepels. De tepels van een baby stoppen binnen één tot twee weken na de geboorte vanzelf met het maken van heksenmelk, omdat de baby dan geen prolactine meer krijgt van de moeder en hij of zij zelf geen prolactine maakt.",
+        "x": 15,
+        "y": 59.5111111111117
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch2/Afbeelding_2.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de huid met een zweet- en talgklier.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Doorsnede van de huid met een zweet- en talgklier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch2/Afbeelding_2.4.png",
+        "bounds": [
+          65.1555555555561,
+          15.7051880450134,
+          234.488888888889,
+          183.345188045013
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch2_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch2_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 63,
+        "name": "45"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

@@ -1,0 +1,417 @@
+{
+  "figures": [
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_1.1.png",
+      "alt": "Afbeelding 1.1",
+      "caption": "Werken volgens de methodische cyclus."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_1.2.png",
+      "alt": "Afbeelding 1.2",
+      "caption": "In een gesprek kan je de wensen van de zorgvrager helder krijgen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_1.3.png",
+      "alt": "Afbeelding 1.3",
+      "caption": "Doelen overleggen met de zorgvrager."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.4:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_1.4.png",
+      "alt": "Afbeelding 1.4",
+      "caption": "Stappen in het zorgproces."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.1.png",
+      "alt": "Afbeelding 2.1",
+      "caption": "Voordelen voor de zorgvragers."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.2.png",
+      "alt": "Afbeelding 2.2",
+      "caption": "Voordelen voor de zorgprofessionals."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.3.png",
+      "alt": "Afbeelding 2.3",
+      "caption": "Voordelen voor de zorginstellingen."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.4:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.4.png",
+      "alt": "Afbeelding 2.4",
+      "caption": "Onderdelen van een zorgplan in de GGZ."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.5:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.5.png",
+      "alt": "Afbeelding 2.5",
+      "caption": "Onderdelen van een zorgleefplan in de VVT."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.6:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.6.png",
+      "alt": "Afbeelding 2.6",
+      "caption": "Ondersteuningsplan in de GHZ."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.7:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.7.png",
+      "alt": "Afbeelding 2.7",
+      "caption": "Stappenplan indiceren zorg."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.8:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.8.png",
+      "alt": "Afbeelding 2.8",
+      "caption": "Overzicht zorgprofielen."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.9:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.9.png",
+      "alt": "Afbeelding 2.9",
+      "caption": "Voorbeeld van een ingevuld zorgpleefplan."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.10:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.10.png",
+      "alt": "Afbeelding 2.10",
+      "caption": "Gebruik SOAP om structuur aan te brengen tijdens het rapporteren."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.11:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.11.png",
+      "alt": "Afbeelding 2.11",
+      "caption": "De elf functionele gezondheidspatronen van Gordon."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.12:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.12.png",
+      "alt": "Afbeelding 2.12",
+      "caption": "Patroon 1 van Gordon gezondheidsbeleving en -instandhouding."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.13:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.13.png",
+      "alt": "Afbeelding 2.13",
+      "caption": "Patroon 2 van Gordon voeding en stofwisseling."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.14:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.14.png",
+      "alt": "Afbeelding 2.14",
+      "caption": "Schijf van Vijf."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.15:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.15.png",
+      "alt": "Afbeelding 2.15",
+      "caption": "De aanbevolen hoeveelheden voedsel per leeftijdsgroep."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.16:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.16.png",
+      "alt": "Afbeelding 2.16",
+      "caption": "Patroon 3 van Gordon uitscheiding."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.17:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.17.png",
+      "alt": "Afbeelding 2.17",
+      "caption": "Patroon 4 van Gordon activiteiten."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.18:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.18.png",
+      "alt": "Afbeelding 2.18",
+      "caption": "Patroon 5 van Gordon slaap en rust."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.19:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.19.png",
+      "alt": "Afbeelding 2.19",
+      "caption": "Patroon 6 van Gordon waarneming en denken."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.20:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.20.png",
+      "alt": "Afbeelding 2.20",
+      "caption": "Patroon 7 van Gordon zelfbeleving."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.21:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.21.png",
+      "alt": "Afbeelding 2.21",
+      "caption": "Patroon 8 van Gordon rol en relatie."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.22:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.22.png",
+      "alt": "Afbeelding 2.22",
+      "caption": "Patroon 9 van Gordon seksualiteit en voortplanting."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.23:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.23.png",
+      "alt": "Afbeelding 2.23",
+      "caption": "Patroon 10 van Gordon stressverwerking."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.24:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.24.png",
+      "alt": "Afbeelding 2.24",
+      "caption": "Patroon 11 van Gordon waarden en levensovertuiging."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.25:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_2.25.png",
+      "alt": "Afbeelding 2.25",
+      "caption": "De vier levensdomeinen van het zorgleefplan."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_3.1.png",
+      "alt": "Afbeelding 3.1",
+      "caption": "Cyclus van klinisch redeneren."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2",
+      "caption": "SBAR."
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_5.1.png",
+      "alt": "Afbeelding 5.1",
+      "caption": "Het medisch dossier mag alleen opgevraagd worden met toestemming van de zorgvrager."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_6.1.png",
+      "alt": "Afbeelding 6.1",
+      "caption": "Keukentafelgesprek."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_6.2.png",
+      "alt": "Afbeelding 6.2",
+      "caption": "Voorbeeld observatie gedrag."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_9.1.png",
+      "alt": "Afbeelding 9.1",
+      "caption": "Aanpak van het interpreteren van gegevens."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_9.2.png",
+      "alt": "Afbeelding 9.2",
+      "caption": "Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_9.3.png",
+      "alt": "Afbeelding 9.3",
+      "caption": "Voorbeeld van het begin van het Edmonton Symptom Assessment System (ESAS)."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_10.1.png",
+      "alt": "Afbeelding 10.1",
+      "caption": "Onderdelen van SMART."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_10.2.png",
+      "alt": "Afbeelding 10.2",
+      "caption": "Voorbeeld van de invulling van een zorgplan."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_10.3.png",
+      "alt": "Afbeelding 10.3",
+      "caption": "Controleer het zorgplan en pas het waar nodig aan."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_12.1.png",
+      "alt": "Afbeelding 12.1",
+      "caption": "Aanspreken zorgvrager op seksueel overschrijdend gedrag."
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_14.1.png",
+      "alt": "Afbeelding 14.1",
+      "caption": "Het is wettelijk verplicht om het zorg(leef)plan met de zorgvrager te bespreken."
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_14.2.png",
+      "alt": "Afbeelding 14.2",
+      "caption": "Bespreking in een intercollegiaal overleg."
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_14.3.png",
+      "alt": "Afbeelding 14.3",
+      "caption": "Verschillende zorgprofessionals en de zorgvrager zijn betrokken bij de evaluatie."
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.4:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_14.4.png",
+      "alt": "Afbeelding 14.4",
+      "caption": "Bij een multidisciplinair overleg denken zorgprofessionals uit meerdere disciplines mee over verbetering van de situatie."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.1.png",
+      "alt": "Afbeelding 15.1",
+      "caption": "Opbouw van de NANDA-classificatie."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.2.png",
+      "alt": "Afbeelding 15.2",
+      "caption": "Met de NNN-classificatie wordt het gehele verpleegkundig proces afgedekt."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.3.png",
+      "alt": "Afbeelding 15.3",
+      "caption": "Het ICF-model."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.4:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.4.png",
+      "alt": "Afbeelding 15.4",
+      "caption": "Een ingevuld ICF-model."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.5:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.5.png",
+      "alt": "Afbeelding 15.5",
+      "caption": ": Het zorgproces volgens het Omaha-systeem."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.6:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.6.png",
+      "alt": "Afbeelding 15.6",
+      "caption": "De verschillende onderdelen van het Omaha-systeem."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.7:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.7.png",
+      "alt": "Afbeelding 15.7",
+      "caption": "Werkwijze volgens RAIview."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.8:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.8.png",
+      "alt": "Afbeelding 15.8",
+      "caption": "De assen van de ICNP."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.9:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_15.9.png",
+      "alt": "Afbeelding 15.9",
+      "caption": "AAIDD-model."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_17.1.png",
+      "alt": "Afbeelding 17.1",
+      "caption": "PREZO."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.2:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_17.2.png",
+      "alt": "Afbeelding 17.2",
+      "caption": "Niveaus van kwaliteitsmanagement."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.3:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_17.3.png",
+      "alt": "Afbeelding 17.3",
+      "caption": "PDCA-cirkel."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.4:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_17.4.png",
+      "alt": "Afbeelding 17.4",
+      "caption": "Onderdelen van een visgraatdiagram."
+    },
+    {
+      "chapter": 18,
+      "figureNumber": "Afbeelding 18.1:",
+      "src": "new_pipeline/assets/figures/methodisch_werken/Afbeelding_18.1.png",
+      "alt": "Afbeelding 18.1",
+      "caption": "Protocol toepassing handhygiëne."
+    }
+  ]
+}

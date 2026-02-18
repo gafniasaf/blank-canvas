@@ -1,0 +1,152 @@
+{
+  "bodyStory": {
+    "index": 60,
+    "words": 3407
+  },
+  "chapter": "14",
+  "chapterRange": {
+    "endOff": 153,
+    "ok": true,
+    "startOff": 145
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:57 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In 2008 is het bespreken van het zorgplan wettelijk verplicht geworden. Dat staat in de Algemene Wet Bijzondere Ziektekosten (AWBZ). Vanaf dat jaar moet je bij het vaststellen van een zorgplan altijd overleggen met de zorgvrager. Op deze manier kan de zorgvrager meebeslissen over de zorg die hij of zij krijgt.",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 21,
+        "text": "In 2015 zijn de rechten van de zorgvrager nog beter afgesproken en is de wet aangepast. Door deze aanpassing hebben ouderen en chronisch zieke zorgvragers een betere, aparte behandeling gekregen. Voor zorgvragers in verpleeg- en verzorgingshuizen staan de regels sinds 2015 in de Wet langdurige zorg (Wlz). Voor zorgvragers in de thuiszorg staan de nieuwe regels in de Zorgverzekeringswet (Zvw). Dat je een zorgplan moet bespreken met de zorgvrager is nu ook in de Zwv en Wlz geregeld. Voor sommige zorgvragers is dit zelfs op een betere manier geregeld dan in de AWBZ.",
+        "x": 537.165354330709,
+        "y": 232.885712631105
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het is wettelijk verplicht om het zorg(leef)plan met de zorgvrager te bespreken.",
+        "bounds": null,
+        "label": "Afbeelding 14.1:",
+        "raw": "Afbeelding 14.1 Het is wettelijk verplicht om het zorg(leef)plan met de zorgvrager te bespreken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          328.606086646854,
+          531.496062992126,
+          477.970108451816,
+          758.267716535433
+        ],
+        "kind": "link",
+        "linkName": "Image 2.9 Het is wettelijk verplicht om het zorg(leef)plan met de zorgvrager te bespreken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.9%20Het%20is%20wettelijk%20verplicht%20om%20het%20zorg%28leef%29plan%20met%20de%20zorgvrager%20te%20bespreken.tif"
+      },
+      "page": {
+        "documentOffset": 146,
+        "name": "133"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de feedback niet persoonlijk maakt. Vertel wat jij hebt gezien en leg uit wat jij denkt dat de gevolgen zijn, zonder te veel over de collega te praten. Je legt de aandacht liever op de situatie in het algemeen dan op wat de collega verkeerd doet. In plaats van: ‘Je bent te onrustig als je de zorgvrager aankleedt’, zeg je bijvoorbeeld liever: ‘In mijn ervaring werkt de zorgvrager juist sneller mee als hij niet het gevoel heeft zich te moeten haasten. Hij vindt het fijner als hij rustig aangekleed wordt;’",
+        "pageDocumentOffset": 149,
+        "paragraphIndexInBodyStory": 83,
+        "text": "geen mening geeft in je feedback. Vertel precies wat je hebt gezien en ervaren, maar geef geen oordeel over je collega.",
+        "x": 75.1181105516095,
+        "y": 361.712484284653
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bespreking in een intercollegiaal overleg.",
+        "bounds": null,
+        "label": "Afbeelding 14.2:",
+        "raw": "Afbeelding 14.2 Bespreking in een intercollegiaal overleg.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          392.432858300395,
+          61.1360745167176,
+          597.39975531197,
+          420.753694429028
+        ],
+        "kind": "link",
+        "linkName": "Image 2.10 Bespreking in een intercollegiaal overleg.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.10%20Bespreking%20in%20een%20intercollegiaal%20overleg.tif"
+      },
+      "page": {
+        "documentOffset": 149,
+        "name": "136"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Iedereen die meewerkt aan de zorg van de zorgvrager moet op de hoogte worden gesteld als het zorgplan bijgesteld wordt. Elke zorgprofessional moet namelijk weten wat de gevolgen zijn van het nieuwe plan voor henzelf en voor de zorgvrager.",
+        "pageDocumentOffset": 152,
+        "paragraphIndexInBodyStory": 126,
+        "text": "Daarnaast verbind je het zorgplan met het Elektronisch Patiëntendossier (EPD). In dit dossier worden gegevens van de zorgvrager elektronisch bewaard. Dit bewaren gebeurt op lokaal of regionaal niveau. Daarna kan iedereen die daarvoor toestemming heeft het dossier openen en het nieuwe zorgplan bekijken. Een EPD is een zorginformatiesysteem. Voor het EPD gelden ook de regels van de richtlijn Verpleegkundige en verzorgende verslaglegging.",
+        "x": 531.496062992126,
+        "y": 347.389649638979
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verschillende zorgprofessionals en de zorgvrager zijn betrokken bij de evaluatie.",
+        "bounds": null,
+        "label": "Afbeelding 14.3:",
+        "raw": "Afbeelding 14.3 Verschillende zorgprofessionals en de zorgvrager zijn betrokken bij de evaluatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          412.858055150791,
+          531.496062992126,
+          614.706697575515,
+          778.322834645669
+        ],
+        "kind": "link",
+        "linkName": "Image 2.8 Verschillende zorgprofessionals en de zorgvrager zijn betrokken bij de evaluatie.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.8%20Verschillende%20zorgprofessionals%20en%20de%20zorgvrager%20zijn%20betrokken%20bij%20de%20evaluatie.tif"
+      },
+      "page": {
+        "documentOffset": 152,
+        "name": "139"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "controle van het zorgplan;",
+        "pageDocumentOffset": 151,
+        "paragraphIndexInBodyStory": 108,
+        "text": "verschillende checklists.",
+        "x": 72.2834648823171,
+        "y": 166.956578772835
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij een multidisciplinair overleg denken zorgprofessionals uit meerdere disciplines mee over verbetering van de situatie.",
+        "bounds": null,
+        "label": "Afbeelding 14.4:",
+        "raw": "Afbeelding 14.4 Bij een multidisciplinair overleg denken zorgprofessionals uit meerdere disciplines mee over verbetering van de situatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          179.007661449999,
+          107.638683769646,
+          378.303121593402,
+          374.251087338905
+        ],
+        "kind": "link",
+        "linkName": "Image 3.1 Bij een multidisciplinair overleg denken zorgprofessionals uit meerdere disciplines mee over verbetering van de.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.1%20Bij%20een%20multidisciplinair%20overleg%20denken%20zorgprofessionals%20uit%20meerdere%20disciplines%20mee%20over%20verbetering%20van%20de.tif"
+      },
+      "page": {
+        "documentOffset": 151,
+        "name": "138"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

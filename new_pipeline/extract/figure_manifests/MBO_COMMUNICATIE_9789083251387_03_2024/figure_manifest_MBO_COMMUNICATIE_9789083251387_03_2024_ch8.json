@@ -1,0 +1,54 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 6607
+  },
+  "chapter": "8",
+  "chapterRange": {
+    "endOff": 179,
+    "ok": true,
+    "startOff": 154
+  },
+  "exportedAt": "Sat Jan 03 2026 01:20:12 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿8.1.2 Roos van Leary",
+        "pageDocumentOffset": 155,
+        "paragraphIndexInBodyStory": 1999,
+        "text": "Jouw gedrag roept bij een ander een bepaald gedrag op, en dat gedrag is te voorspellen. Dat is het uitgangspunt van de roos van Leary, een model dat je kunt gebruiken om het (onbewuste) gedrag van anderen te begrijpen en te verklaren, en ermee om te gaan. Het model is daarom bruikbaar in situaties waarin communicatie lastig verloopt, zoals bij een conflict of agressie. Afbeelding 8.1 toont de roos van Leary; het model is ontwikkeld door de Amerikaanse psycholoog Timothy Leary en de naam is een vergelijking met een windroos, dus de roos van een kompas.",
+        "x": 17.5,
+        "y": 102.587459733752
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch8/Afbeelding_8.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De roos van Leary.",
+        "bounds": null,
+        "label": "Afbeelding 8.1:",
+        "raw": "Afbeelding 8.1 De roos van Leary.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch8/Afbeelding_8.1.png",
+        "bounds": [
+          128.015747053293,
+          39.8159311439504,
+          225.542157621456,
+          158.437615564539
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 155,
+        "name": "144"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+}

@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 2203
+  },
+  "chapter": "29",
+  "chapterRange": {
+    "endOff": 308,
+    "ok": true,
+    "startOff": 304
+  },
+  "exportedAt": "Sat Jan 03 2026 22:56:40 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿29.2  Algemene dagelijkse levensverrichtingen (ADL)",
+        "beforeText": "Een andere factor vormen de drijfveren of de motivatie van de zorgvrager. Hoe graag wil hij of zij zelf zelfredzamer worden? Het is eenvoudiger om de zelfredzaamheid te ondersteunen bij zorgvragers die hiervoor gemotiveerd zijn dan bij zorgvragers die het minder uitmaakt.",
+        "pageDocumentOffset": 306,
+        "paragraphIndexInBodyStory": 5597,
+        "text": "Het is bij nieuwe zorgvragers vaak eenvoudiger om de zelfredzaamheid te bevorderen. Dit komt doordat je bij deze zorgvragers vanaf het begin van het contact de verwachtingen en de benodigde aanpassingen op het gebied van zelfredzaamheid duidelijk kan maken. Als zorgvragers al langer zorg nodig hebben, zijn ze vaak gewend aan een bepaalde zorg. Hierdoor is het over het algemeen lastiger om hun zelfredzaamheid te ondersteunen. Het idee van zelfredzaamheid is namelijk vrij nieuw. Het kan zo zijn dat zorgvragers die bekend zijn met de zorg, gewend zijn dat alles voor hen gedaan wordt. Bij zelfredzaamheid moeten ze opeens meer zelf doen, terwijl een nieuwe zorgvrager nog geen verwachtingen heeft.",
+        "x": 210,
+        "y": 35.0437057071285
+      },
+      "asset": null,
+      "caption": {
+        "body": "Veel mensen kunnen een zelfstandig leven leiden, ook al hebben ze hulp nodig bij bepaalde IADL.",
+        "bounds": null,
+        "label": "Afbeelding 29.1:",
+        "raw": "Afbeelding 29.1 Veel mensen kunnen een zelfstandig leven leiden, ook al hebben ze hulp nodig bij bepaalde IADL.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          297.000001102024,
+          70.0135396518411,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk29_29.1_Veel mensen kunnen een zelfstandig leven leiden, ook al hebben ze hulp nodig bij bepa.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk29_29.1_Veel%20mensen%20kunnen%20een%20zelfstandig%20leven%20leiden%2C%20ook%20al%20hebben%20ze%20hulp%20nodig%20bij%20bepa.jpeg"
+      },
+      "page": {
+        "documentOffset": 306,
+        "name": "293"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

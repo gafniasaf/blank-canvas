@@ -1,0 +1,42 @@
+{
+  "86ed7dbc-102c-4c6e-b6fd-86ff44da899e": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.1.png",
+      "alt": "Afbeelding 2.1: Doorsnede van de huid.",
+      "figureNumber": "Afbeelding 2.1:",
+      "caption": "Doorsnede van de huid.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "e7437aea-a21e-486c-ad9b-6ccc7344d843": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.2.png",
+      "alt": "Afbeelding 2.2: Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+      "figureNumber": "Afbeelding 2.2:",
+      "caption": "Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "0a44abcd-8c7e-4ef2-bbdd-cc91f4cfd51a": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.3.png",
+      "alt": "Afbeelding 2.3: Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+      "figureNumber": "Afbeelding 2.3:",
+      "caption": "Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "240823b2-38e7-4fd7-8912-1b079e6a4009": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.4.png",
+      "alt": "Afbeelding 2.4: Doorsnede van de huid met een zweet- en talgklier.",
+      "figureNumber": "Afbeelding 2.4:",
+      "caption": "Doorsnede van de huid met een zweet- en talgklier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

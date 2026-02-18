@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "notes": [
+    "This file is a small, whitelisted factual errata pack used to prevent known hard factual errors from shipping to student PDFs.",
+    "Rules are intentionally narrow (pattern-based) to avoid broad hallucination-driven 'fact improvements'.",
+    "If a rule is too broad or causes false positives, tighten the regex or scope it (e.g. to a specific figure number)."
+  ],
+  "rules": [
+    {
+      "id": "celmembraan_thickness_micrometer",
+      "severity": "error",
+      "description": "Celmembraan dikte: 7,5–10 micrometer is ~1000× wrong; should be nanometer order of magnitude (~7–10 nm).",
+      "regex": "\\bcelmembraan\\b[\\s\\S]{0,180}?7[,.]5[\\s\\S]{0,40}?10[\\s\\S]{0,40}?(?:micro\\s*meter|micrometer|µm)\\b",
+      "flags": "iu",
+      "fix_notes": [
+        "Gebruik nanometer (nm), niet micrometer, voor de dikte van het celmembraan (orde van grootte: ~7–10 nm).",
+        "Als je de vergelijking met millimeter noemt: 1 millimeter = 1.000.000 nanometer."
+      ]
+    },
+    {
+      "id": "codon_methionine_AUC",
+      "severity": "error",
+      "description": "Codon/methionine: methionine (startcodon) is AUG; AUC is isoleucine.",
+      "regex": "(?:\\bAUC\\b[\\s\\S]{0,80}?\\bmethionine\\b|\\bmethionine\\b[\\s\\S]{0,80}?\\bAUC\\b)",
+      "flags": "iu",
+      "fix_notes": [
+        "Methionine (startcodon) hoort bij AUG (op mRNA).",
+        "AUC codeert voor isoleucine."
+      ]
+    },
+    {
+      "id": "dna_polymerase_transcriptie",
+      "severity": "error",
+      "description": "Transcriptie mechanisme: DNA-polymerase is not the enzyme for transcription (belongs to DNA replication).",
+      "regex": "(?:\\bDNA[- ]polymerase\\b[\\s\\S]{0,140}?\\btranscript|\\btranscript[\\s\\S]{0,140}?\\bDNA[- ]polymerase\\b)",
+      "flags": "iu",
+      "fix_notes": [
+        "Bij transcriptie gebruik je RNA-polymerase (en transcriptiefactoren) om mRNA te maken.",
+        "DNA-polymerase hoort bij DNA-replicatie, niet bij transcriptie."
+      ]
+    },
+    {
+      "id": "chromosomen_as_eiwitten_phrase",
+      "severity": "error",
+      "description": "Chromosomen phrasing: avoid implying chromosomes are 'these proteins'.",
+      "regex": "(?:\\beiwit(?:ten)?\\b[\\s\\S]{0,80}?\\bDit zijn\\s+je\\s+chromosomen\\b|\\bchromosomen\\b[\\s\\S]{0,120}?\\bDit zijn\\s+speciale\\s+eiwit(?:ten)?\\b)",
+      "flags": "iu",
+      "fix_notes": [
+        "Chromosomen bestaan uit DNA + eiwitten (histonen).",
+        "Formuleer niet alsof chromosomen 'die eiwitten' zijn."
+      ]
+    },
+    {
+      "id": "kd_leak_student",
+      "severity": "error",
+      "description": "Student content must be KD-free (no 'KD' mentions/codes).",
+      "regex": "\\bKD\\b",
+      "flags": "iu",
+      "fix_notes": [
+        "Studentcontent mag geen 'KD' of 'KD 2025' noemen."
+      ]
+    },
+    {
+      "id": "kd_workprocess_code_leak",
+      "severity": "error",
+      "description": "Student content must not contain KD-style workprocess codes like 'B1-K1-W1'.",
+      "regex": "\\b[A-Z]\\d+-K\\d+-W\\d+\\b",
+      "flags": "iu",
+      "fix_notes": [
+        "Studentcontent mag geen KD-werkprocescodes bevatten (zoals B1-K1-W1)."
+      ]
+    },
+    {
+      "id": "figure_1_2_celwand",
+      "severity": "error",
+      "description": "Figure 1.2 caption/alt uses 'celwand' (red flag in this context). Override required.",
+      "regex": "\\bAfbeelding\\s*1\\.2\\b[\\s\\S]{0,80}?\\bcelwand\\b|\\bcelwand\\b[\\s\\S]{0,80}?\\bAfbeelding\\s*1\\.2\\b",
+      "flags": "iu",
+      "fix_notes": [
+        "Afbeelding 1.2 moet in caption/alt niet over 'celwand' gaan; gebruik de correcte term voor deze context."
+      ]
+    }
+  ],
+  "figure_caption_overrides": [
+    {
+      "match": { "figureNumber": "Afbeelding 1.2:" },
+      "updates": {
+        "caption": "Anatomie van de celmembraan.",
+        "alt": "Afbeelding 1.2: Anatomie van de celmembraan."
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 965
+  },
+  "chapter": "11",
+  "chapterRange": {
+    "endOff": 101,
+    "ok": true,
+    "startOff": 96
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:53 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "opname van zorgvragers zonder toestemming van de zorgvrager, bijvoorbeeld als het gaat om zorgvragers met een verstandelijke beperking of dementie.",
+        "pageDocumentOffset": 96,
+        "paragraphIndexInBodyStory": 961,
+        "text": "Als is vastgesteld welke zorg precies nodig is, kan de zorg georganiseerd worden. Op deze manier wordt per zorgvrager bekeken of hij of zij recht heeft op een vorm van zorg uit de Wlz.",
+        "x": 187.5,
+        "y": 122.55134862264
+      },
+      "asset": null,
+      "caption": {
+        "body": "Partners mogen in een verpleeghuis samen blijven.",
+        "bounds": null,
+        "label": "Afbeelding 11.2:",
+        "raw": "Afbeelding 11.2 Partners mogen in een verpleeghuis samen blijven.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          131.888813900418,
+          187.5,
+          214.605555555557,
+          319.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.7_Partners mogen in een verpleeghuis samen blijven.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.7_Partners%20mogen%20in%20een%20verpleeghuis%20samen%20blijven.jpeg"
+      },
+      "page": {
+        "documentOffset": 96,
+        "name": "83"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "opvang van zorgvragers die thuis te maken hebben met mishandeling of die dakloos zijn;",
+        "pageDocumentOffset": 97,
+        "paragraphIndexInBodyStory": 970,
+        "text": "plaatsing in een beschermde instelling van zorgvragers met psychiatrische klachten.",
+        "x": 25.500000111262,
+        "y": 78.7814551035554
+      },
+      "asset": null,
+      "caption": {
+        "body": "Dagbesteding is een voorbeeld van semimurale zorg: het ontlast mantelzorgers.",
+        "bounds": null,
+        "label": "Afbeelding 11.3:",
+        "raw": "Afbeelding 11.3 Dagbesteding is een voorbeeld van semimurale zorg: het ontlast mantelzorgers.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          83.0328092702216,
+          17.5,
+          162.782360195583,
+          149.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_2.10_Dagbesteding is een voorbeeld van semimurale zorg het ontlast mantelzorgers.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_2.10_Dagbesteding%20is%20een%20voorbeeld%20van%20semimurale%20zorg%20het%20ontlast%20mantelzorgers.jpeg"
+      },
+      "page": {
+        "documentOffset": 97,
+        "name": "84"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 11.4 Geldstromen Wmo.",
+        "beforeText": "Als de gemeente hulp regelt, wordt ook onderzoek gedaan naar de situatie van de zorgvrager. Gemeenten mogen een eigen bijdrage vragen aan zorgvragers wanneer ze gebruikmaken van de Wmo. Ook kunnen zorgvragers onder bepaalde voorwaarden een persoonsgebonden budget (pgb) aanvragen bij de gemeente. Zorgvragers kunnen zo’n pgb gebruiken om zelf hun zorg te regelen. Deze zorg wordt dan betaald door de Sociale Verzekeringsbank.",
+        "pageDocumentOffset": 98,
+        "paragraphIndexInBodyStory": 978,
+        "text": "￼",
+        "x": 187.5,
+        "y": 150.419777290752
+      },
+      "asset": null,
+      "caption": {
+        "body": "Geldstromen Wmo.",
+        "bounds": null,
+        "label": "Afbeelding 11.4:",
+        "raw": "Afbeelding 11.4 Geldstromen Wmo.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          24.4610361226379,
+          187.5,
+          150.419777290752,
+          332.7815
+        ],
+        "kind": "link",
+        "linkName": "Afbeelding 5.6.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/Afbeelding%205.6.png"
+      },
+      "page": {
+        "documentOffset": 98,
+        "name": "85"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

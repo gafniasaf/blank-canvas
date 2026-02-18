@@ -1,0 +1,191 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 4828
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 60,
+    "ok": true,
+    "startOff": 50
+  },
+  "exportedAt": "Sat Jan 03 2026 22:40:33 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿3.1  Fysieke belasting",
+        "beforeText": "Je kan uitleggen hoe je overbelasting kan voorkomen als zorgprofessional.",
+        "pageDocumentOffset": 50,
+        "paragraphIndexInBodyStory": 617,
+        "text": "Je kan opsommen welke hulpmiddelen we in de zorg gebruiken om fysieke belasting te verminderen.",
+        "x": 224.000000111262,
+        "y": 102.158983484905
+      },
+      "asset": null,
+      "caption": {
+        "body": "Nekklachten kunnen ontstaan na fysieke belasting.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 Nekklachten kunnen ontstaan na fysieke belasting.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          115.3771547812,
+          297.000001102024,
+          167.282609326655,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk3_3.1_Nekklachten kunnen ontstaan na fysieke belasting.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk3_3.1_Nekklachten%20kunnen%20ontstaan%20na%20fysieke%20belasting.tif"
+      },
+      "page": {
+        "documentOffset": 50,
+        "name": "37"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "stress. Door spanning en stress, op het werk of thuis, kunnen de spieren in de rug onbewust aangespannen worden. Hierdoor kan overbelasting ontstaan, wat rugklachten kan geven;",
+        "pageDocumentOffset": 51,
+        "paragraphIndexInBodyStory": 645,
+        "text": "gebrek aan beweging. Hierbij wordt de conditie van de spieren in de rug minder, waardoor de rug sneller overbelast kan raken bij inspanning.",
+        "x": 107.999999830458,
+        "y": 62.1770390404601
+      },
+      "asset": null,
+      "caption": {
+        "body": "De natuurlijke krommingen van de wervelkolom.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 De natuurlijke krommingen van de wervelkolom.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          76.3340992256448,
+          109.410000462002,
+          198.493082276492,
+          172.590000462002
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk3_3.2_De natuurlijke krommingen van de wervelkolom.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk3_3.2_De%20natuurlijke%20krommingen%20van%20de%20wervelkolom.tif"
+      },
+      "page": {
+        "documentOffset": 51,
+        "name": "38"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿3.2  Overbelasting voorkomen",
+        "pageDocumentOffset": 55,
+        "paragraphIndexInBodyStory": 728,
+        "text": "Je kan bij jezelf overbelasting voorkomen als je goed oplet. Daarvoor moet je aandacht hebben voor een gezonde houding bij verschillende zorgactiviteiten en op een gezonde manier bewegen. Je moet ook op tijden op de goede manier hulpmiddelen gebruiken.",
+        "x": 15,
+        "y": 156.522082689074
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een bureau moet op de juiste hoogte worden afgesteld om overbelasting te voorkomen.",
+        "bounds": null,
+        "label": "Afbeelding 3.3:",
+        "raw": "Afbeelding 3.3 Een bureau moet op de juiste hoogte worden afgesteld om overbelasting te voorkomen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          180.556920652036,
+          15.0000011020237,
+          230.556920652039,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk3_3.3_Een bureau moet op de juiste hoogte worden afgesteld om overbelasting te voorkomen.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk3_3.3_Een%20bureau%20moet%20op%20de%20juiste%20hoogte%20worden%20afgesteld%20om%20overbelasting%20te%20voorkomen.jpeg"
+      },
+      "page": {
+        "documentOffset": 55,
+        "name": "42"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zorg dat de rug en bovenbenen ten opzichte van elkaar in een hoek van negentig graden staan. Dit geldt ook voor je onder- en bovenarmen;",
+        "beforeText": "verander je zithouding regelmatig. Dit zorgt voor een goede doorbloeding van de spieren;",
+        "pageDocumentOffset": 57,
+        "paragraphIndexInBodyStory": 776,
+        "text": "zorg voor een rechte houding. Zit bijvoorbeeld recht voor je beeldscherm of toetsenbord;",
+        "x": 108.00000018035,
+        "y": 136.088150151571
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch3/Afbeelding_3.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Let op een juiste werkhouding.",
+        "bounds": null,
+        "label": "Afbeelding 3.4:",
+        "raw": "Afbeelding 3.4 Let op een juiste werkhouding.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch3/Afbeelding_3.4.png",
+        "bounds": [
+          150.18556081105,
+          38.7276986950628,
+          245.000000000001,
+          160.616445609283
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk3_3.4_Let op een juiste werkhouding.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk3_3.4_Let%20op%20een%20juiste%20werkhouding.tif"
+      },
+      "page": {
+        "documentOffset": 57,
+        "name": "44"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Zorgvragers die minder mobiel zijn, kunnen minder makkelijk bewegen. Bij deze zorgvragers kan een tillift een heel goed hulpmiddel zijn. We gebruiken tilliften bij zorgvragers die:",
+        "beforeText": "sta regelmatig even op van je werkplek om wat anders te doen. Werk maximaal één uur achter elkaar achter een beeldscherm. Neem tussendoor pauzes van minstens tien minuten of ga tussendoor even ander werk doen.",
+        "pageDocumentOffset": 58,
+        "paragraphIndexInBodyStory": 779,
+        "text": "﻿3.2.4  De tillift",
+        "x": 210,
+        "y": 66.882594596016
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van passieve tillift.",
+        "bounds": null,
+        "label": "Afbeelding 3.5:",
+        "raw": "Afbeelding 3.5 Voorbeeld van passieve tillift.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          66.4291428742586,
+          297.000001102024,
+          127.850599204169,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk3_3.5_Voorbeeld van passieve tillift.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk3_3.5_Voorbeeld%20van%20passieve%20tillift.tif"
+      },
+      "page": {
+        "documentOffset": 58,
+        "name": "45"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

@@ -1,0 +1,424 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3136
+  },
+  "chapter": "32",
+  "chapterRange": {
+    "endOff": 338,
+    "ok": true,
+    "startOff": 328
+  },
+  "exportedAt": "Sat Jan 03 2026 22:58:48 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 336,
+        "paragraphIndexInBodyStory": 6211,
+        "text": "Afbeelding 32.9 Laat de zorgvrager zich op de zij draaien, waarbij hij of zij met de rug naar jou toe ligt, zo dicht mogelijk tegen het tegenovergestelde bedhek.",
+        "x": 210,
+        "y": 62.2333333333394
+      },
+      "asset": null,
+      "caption": {
+        "body": "Maak het onderlaken dat aan jouw kant ligt los en rol dit tegen de zorgvrager aan.",
+        "bounds": null,
+        "label": "Afbeelding 32.10:",
+        "raw": "Afbeelding 32.10 Maak het onderlaken dat aan jouw kant ligt los en rol dit tegen de zorgvrager aan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          79.2126157407399,
+          210.000001102024,
+          120.181671115334,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.10_Maak het onderlaken dat aan jouw kant ligt los en rol dit tegen de zorgvrager aan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.10_Maak%20het%20onderlaken%20dat%20aan%20jouw%20kant%20ligt%20los%20en%20rol%20dit%20tegen%20de%20zorgvrager%20aan.tif"
+      },
+      "page": {
+        "documentOffset": 336,
+        "name": "323"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 32.11 Pak een schoon onderlaken en leg dit op het lege deel van het matras met de middelste vouw op het midden.",
+        "beforeText": "Afbeelding 32.10 Maak het onderlaken dat aan jouw kant ligt los en rol dit tegen de zorgvrager aan.",
+        "pageDocumentOffset": 336,
+        "paragraphIndexInBodyStory": 6214,
+        "text": "￼",
+        "x": 297.000001102024,
+        "y": 61.1596091205193
+      },
+      "asset": null,
+      "caption": {
+        "body": "Pak een schoon onderlaken en leg dit op het lege deel van het matras met de middelste vouw op het midden.",
+        "bounds": null,
+        "label": "Afbeelding 32.11:",
+        "raw": "Afbeelding 32.11 Pak een schoon onderlaken en leg dit op het lege deel van het matras met de middelste vouw op het midden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          297.000001102024,
+          61.1596091205193,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.11_Pak een schoon onderlaken en leg dit op het lege deel van de matras met de middelste vouw op het mi.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.11_Pak%20een%20schoon%20onderlaken%20en%20leg%20dit%20op%20het%20lege%20deel%20van%20de%20matras%20met%20de%20middelste%20vouw%20op%20het%20mi.tif"
+      },
+      "page": {
+        "documentOffset": 336,
+        "name": "323"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 336,
+        "paragraphIndexInBodyStory": 6215,
+        "text": "Afbeelding 32.11 Pak een schoon onderlaken en leg dit op het lege deel van het matras met de middelste vouw op het midden.",
+        "x": 297,
+        "y": 66.3929424538544
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorg dat de zorgvrager naar de andere kant van het bed rolt.",
+        "bounds": null,
+        "label": "Afbeelding 32.12:",
+        "raw": "Afbeelding 32.12 Zorg dat de zorgvrager naar de andere kant van het bed rolt.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          83.3722248612652,
+          297.000001102024,
+          124.591737056388,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.12_Zorg dat de zorgvrager naar de andere kant van het bed rolt.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.12_Zorg%20dat%20de%20zorgvrager%20naar%20de%20andere%20kant%20van%20het%20bed%20rolt.tif"
+      },
+      "page": {
+        "documentOffset": 336,
+        "name": "323"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿32.2.2  Een onbezet bed opmaken",
+        "beforeText": "￼  Maak het alarmsysteem zo nodig los van het beddengoed.",
+        "pageDocumentOffset": 331,
+        "paragraphIndexInBodyStory": 6074,
+        "text": "￼  Stel het bed in op de juiste werkhoogte.",
+        "x": 15,
+        "y": 56.2250000000064
+      },
+      "asset": null,
+      "caption": {
+        "body": "Maak altijd eerst de ene kant van het bed op en loop dan naar de andere kant om het bed daar op te maken.",
+        "bounds": null,
+        "label": "Afbeelding 32.1:",
+        "raw": "Afbeelding 32.1 Maak altijd eerst de ene kant van het bed op en loop dan naar de andere kant om het bed daar op te maken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          57.5042824074121,
+          102.000001102024,
+          98.3553462371913,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.1_Maak altijd eerst de ene kant van het bed op en loop dan naar de andere kant om het bed daar op te m.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.1_Maak%20altijd%20eerst%20de%20ene%20kant%20van%20het%20bed%20op%20en%20loop%20dan%20naar%20de%20andere%20kant%20om%20het%20bed%20daar%20op%20te%20m.tif"
+      },
+      "page": {
+        "documentOffset": 331,
+        "name": "318"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Wikkel bij het hoofdeinde de zijkant van het laken dat je wilt instoppen, om je duim.",
+        "beforeText": "￼  Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en de boven- en onderkant even lang zijn om in te stoppen (afbeelding 32.3).",
+        "pageDocumentOffset": 332,
+        "paragraphIndexInBodyStory": 6121,
+        "text": "￼  Sla het laken bij het hoofdeinde van het bed om het matras (afbeelding 32.4). Plaats hierbij je vingers om het matras heen. Je duim duwt hierbij het laken tegen de zijkant van het matras aan (afbeelding 32.5).",
+        "x": 297,
+        "y": 171.302777777782
+      },
+      "asset": null,
+      "caption": {
+        "body": "Maak het beddengoed aan het voeteinde wat los, zodat de zorgvrager plaats heeft voor zijn of haar voeten.",
+        "bounds": null,
+        "label": "Afbeelding 32.2:",
+        "raw": "Afbeelding 32.2 Maak het beddengoed aan het voeteinde wat los, zodat de zorgvrager plaats heeft voor zijn of haar voeten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          178.417432558981,
+          210.000001102024,
+          219.752953477768,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.2_Maak het beddengoed aan het voeteinde wat los, zodat de zorgvrager plaats heeft voor zijn voeten.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.2_Maak%20het%20beddengoed%20aan%20het%20voeteinde%20wat%20los%2C%20zodat%20de%20zorgvrager%20plaats%20heeft%20voor%20zijn%20voeten.tif"
+      },
+      "page": {
+        "documentOffset": 332,
+        "name": "319"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je moet een kussensloop volgens bepaalde stappen verwisselen om besmetting te voorkomen.",
+        "beforeText": "Afbeelding 32.6 Vouw de perfecte halve rechte hoek in het onderlaken.",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 6135,
+        "text": "﻿32.2.4  Een kussensloop verwisselen",
+        "x": 102,
+        "y": 23.3929991828102
+      },
+      "asset": null,
+      "caption": {
+        "body": "Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en boven- en onderkant even lang zijn om in te stoppen.",
+        "bounds": null,
+        "label": "Afbeelding 32.3:",
+        "raw": "Afbeelding 32.3 Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en boven- en onderkant even lang zijn om in te stoppen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.9999999999929,
+          15.0000011020237,
+          57.0000000000044,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.3_Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en boven- en onderzijde even lang z.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.3_Leg%20het%20onderlaken%20zo%20op%20het%20bed%2C%20dat%20de%20linker-%20en%20rechterhelft%20en%20boven-%20en%20onderzijde%20even%20lang%20z.tif"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "320"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 6128,
+        "text": "Afbeelding 32.3 Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en boven- en onderkant even lang zijn om in te stoppen.",
+        "x": 15,
+        "y": 62.2333333333394
+      },
+      "asset": null,
+      "caption": {
+        "body": "Sla het laken bij het hoofdeinde van het bed om het matras.",
+        "bounds": null,
+        "label": "Afbeelding 32.4:",
+        "raw": "Afbeelding 32.4 Sla het laken bij het hoofdeinde van het bed om het matras.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          79.2126157407502,
+          15.0000011020237,
+          116.212615740751,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.4_Sla het laken bij het hoofdeinde van het bed om de matras.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.4_Sla%20het%20laken%20bij%20het%20hoofdeinde%20van%20het%20bed%20om%20de%20matras.tif"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "320"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 6130,
+        "text": "Afbeelding 32.4 Sla het laken bij het hoofdeinde van het bed om het matras.",
+        "x": 15,
+        "y": 121.445949074086
+      },
+      "asset": null,
+      "caption": {
+        "body": "Je duim duwt het laken tegen de zijkant van het matras aan.",
+        "bounds": null,
+        "label": "Afbeelding 32.5:",
+        "raw": "Afbeelding 32.5 Je duim duwt het laken tegen de zijkant van het matras aan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          134.191898148154,
+          15.0000011020237,
+          171.191898148155,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.5_Je duim duwt het laken tegen de zijkant van het matras aan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.5_Je%20duim%20duwt%20het%20laken%20tegen%20de%20zijkant%20van%20het%20matras%20aan.tif"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "320"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 6132,
+        "text": "Afbeelding 32.5 Je duim duwt het laken tegen de zijkant van het matras aan.",
+        "x": 15,
+        "y": 176.4252314815
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vouw de perfecte halve rechte hoek in het onderlaken.",
+        "bounds": null,
+        "label": "Afbeelding 32.6:",
+        "raw": "Afbeelding 32.6 Vouw de perfecte halve rechte hoek in het onderlaken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          189.171180555567,
+          15.0000011020237,
+          229.171180555574,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.6_Vouw de perfecte halve rechte hoek in het onderlaken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.6_Vouw%20de%20perfecte%20halve%20rechte%20hoek%20in%20het%20onderlaken.tif"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "320"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 6130,
+        "text": "Afbeelding 32.4 Sla het laken bij het hoofdeinde van het bed om het matras.",
+        "x": 15,
+        "y": 121.445949074086
+      },
+      "asset": null,
+      "caption": {
+        "body": "Pak met de hand waarmee je de binnenstebuiten gekeerde kussensloop vasthebt het midden van een van de zijkanten van het kussen vast.",
+        "bounds": null,
+        "label": "Afbeelding 32.7:",
+        "raw": "Afbeelding 32.7 Pak met de hand waarmee je de binnenstebuiten gekeerde kussensloop vasthebt het midden van een van de zijkanten van het kussen vast.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          127.461170479101,
+          102.000001102024,
+          168.717894195478,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.7_Pak met de hand waarmee je de binnenstebuiten gekeerde kussensloop vasthebt, het midden van een van.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.7_Pak%20met%20de%20hand%20waarmee%20je%20de%20binnenstebuiten%20gekeerde%20kussensloop%20vasthebt%2C%20het%20midden%20van%20een%20van.tif"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "320"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Stop het bovenlaken in een waszak (tenzij je dit laken gebruikt om de zorgvrager warm te houden tijdens het verschonen van het beddengoed).",
+        "beforeText": "￼  Leg vervolgens een deken of handdoek over de zorgvrager om te zorgen dat hij of zij het niet koud krijgt.",
+        "pageDocumentOffset": 334,
+        "paragraphIndexInBodyStory": 6168,
+        "text": "￼  Vouw beddengoed dat opnieuw mag worden gebruikt op en leg dit op een stoel.",
+        "x": 297,
+        "y": 66.1027777777842
+      },
+      "asset": null,
+      "caption": {
+        "body": "Breng je hand tussen het sloop en het kussen en stop hiermee de hoeken in het kussensloop.",
+        "bounds": null,
+        "label": "Afbeelding 32.8:",
+        "raw": "Afbeelding 32.8 Breng je hand tussen het sloop en het kussen en stop hiermee de hoeken in het kussensloop.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          66.6765046296343,
+          210.000001102024,
+          107.582042088918,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.8_Breng je hand tussen de sloop en het kussen en stop hiermee de hoeken in de kussensloop.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.8_Breng%20je%20hand%20tussen%20de%20sloop%20en%20het%20kussen%20en%20stop%20hiermee%20de%20hoeken%20in%20de%20kussensloop.tif"
+      },
+      "page": {
+        "documentOffset": 334,
+        "name": "321"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 32.9 Laat de zorgvrager zich op de zij draaien, waarbij hij of zij met de rug naar jou toe ligt, zo dicht mogelijk tegen het tegenovergestelde bedhek.",
+        "beforeText": "￼  Noteer de handeling en eventuele bevindingen.",
+        "pageDocumentOffset": 336,
+        "paragraphIndexInBodyStory": 6210,
+        "text": "￼",
+        "x": 210.000001102024,
+        "y": 57.0000000000044
+      },
+      "asset": null,
+      "caption": {
+        "body": "Laat de zorgvrager zich op de zij draaien, waarbij hij of zij met de rug naar jou toe ligt, zo dicht mogelijk tegen het tegenovergestelde bedhek.",
+        "bounds": null,
+        "label": "Afbeelding 32.9:",
+        "raw": "Afbeelding 32.9 Laat de zorgvrager zich op de zij draaien, waarbij hij of zij met de rug naar jou toe ligt, zo dicht mogelijk tegen het tegenovergestelde bedhek.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          210.000001102024,
+          57.0000000000044,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 32_32.9_Laat de zorgvrager zich op zijn zij draaien, waarbij hij met zijn rug naar jou toe ligt, zo dicht mo.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2032_32.9_Laat%20de%20zorgvrager%20zich%20op%20zijn%20zij%20draaien%2C%20waarbij%20hij%20met%20zijn%20rug%20naar%20jou%20toe%20ligt%2C%20zo%20dicht%20mo.tif"
+      },
+      "page": {
+        "documentOffset": 336,
+        "name": "323"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

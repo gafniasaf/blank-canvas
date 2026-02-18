@@ -1,0 +1,991 @@
+{
+  "figures": [
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.1.png",
+      "alt": "Afbeelding 1.1",
+      "caption": "Van besmetting tot infectieziekte."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.2.png",
+      "alt": "Afbeelding 1.2",
+      "caption": "Schematische weergave van een virus."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.3.png",
+      "alt": "Afbeelding 1.3",
+      "caption": "Als zorgprofessional draag je een mondneusmasker om besmetting te voorkomenAfbeelding 1.4 Een infectie kan voorkomen worden door het dragen van steriele handschoenen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.4.png",
+      "alt": "Afbeelding 1.4",
+      "caption": ""
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.5.png",
+      "alt": "Afbeelding 1.5",
+      "caption": "Het dragen van quarantainekleding dient om besmetting te voorkomen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.6.png",
+      "alt": "Afbeelding 1.6",
+      "caption": "Handhygiëne: handen wassen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.7.png",
+      "alt": "Afbeelding 1.7",
+      "caption": "Het dragen van quarantainekleding verlaagt de kans op besmetting."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.8.png",
+      "alt": "Afbeelding 1.8",
+      "caption": "Infuusnaalden, injectienaalden en andere scherpe materialen doe je in een naaldencontainer."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.9.png",
+      "alt": "Afbeelding 1.9",
+      "caption": "Tijdens het werk draag je dienstkleding."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.10.png",
+      "alt": "Afbeelding 1.10",
+      "caption": "Tijdens het werk draag je geen hor­loge."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.11:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.11.png",
+      "alt": "Afbeelding 1.11",
+      "caption": "Nies bij gebrek aan een zakdoek in je elleboogplooi."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.12:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.12.png",
+      "alt": "Afbeelding 1.12",
+      "caption": "Desinfecteer je handen met handalcohol."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.13:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_1.13.png",
+      "alt": "Afbeelding 1.13",
+      "caption": "Steriele handschoenen."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_2.1.png",
+      "alt": "Afbeelding 2.1",
+      "caption": "Omgaan met klachten."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_2.2.png",
+      "alt": "Afbeelding 2.2",
+      "caption": "Verschillende bacteriën."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_2.3.png",
+      "alt": "Afbeelding 2.3",
+      "caption": "Kernpunten van hygiëne."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_2.4.png",
+      "alt": "Afbeelding 2.4",
+      "caption": "Incidenten moeten gemeld worden."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_2.5.png",
+      "alt": "Afbeelding 2.5",
+      "caption": "Als je een officiële melding doet bij Veilig Thuis, neemt Veilig Thuis de leiding over de procedure over."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_3.1.png",
+      "alt": "Afbeelding 3.1",
+      "caption": "Nekklachten kunnen ontstaan na fysieke belasting."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2",
+      "caption": "De natuurlijke krommingen van de wervelkolom."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_3.3.png",
+      "alt": "Afbeelding 3.3",
+      "caption": "Een bureau moet op de juiste hoogte worden afgesteld om overbelasting te voorkomen."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_3.5.png",
+      "alt": "Afbeelding 3.5",
+      "caption": "Voorbeeld van passieve tillift."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_10.1.png",
+      "alt": "Afbeelding 10.1",
+      "caption": "Een hoofdluis is zo groot als een luciferkopje."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_10.2.png",
+      "alt": "Afbeelding 10.2",
+      "caption": "Een luizenkam is een speciale fijne kam waarvan de tanden zeer dicht op elkaar staan."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_10.3.png",
+      "alt": "Afbeelding 10.3",
+      "caption": "Schaamluizen zijn zo klein dat ze met het blote oog niet te zien zijn."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.1.png",
+      "alt": "Afbeelding 11.1",
+      "caption": "Droog de voeten goed af, vooral tussen de tenen."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.2.png",
+      "alt": "Afbeelding 11.2",
+      "caption": "Benodigdheden voor voet- en handverzorging."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.3.png",
+      "alt": "Afbeelding 11.3",
+      "caption": "Zorg dat de nagels schoon zijn."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.4.png",
+      "alt": "Afbeelding 11.4",
+      "caption": "Knip de teennagels recht."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.5.png",
+      "alt": "Afbeelding 11.5",
+      "caption": "Vijl de teennagels glad na het knippen."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.6.png",
+      "alt": "Afbeelding 11.6",
+      "caption": "Help de zorgvrager bij het aantrekken van de sokken."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.7.png",
+      "alt": "Afbeelding 11.7",
+      "caption": "Zorg dat schoenen de juiste pasvorm hebben."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.8.png",
+      "alt": "Afbeelding 11.8",
+      "caption": "Verwijder eelt met een eeltrasp."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.9.png",
+      "alt": "Afbeelding 11.9",
+      "caption": "Soorten schimmelinfecties van de nagel."
+    },
+    {
+      "chapter": 11,
+      "figureNumber": "Afbeelding 11.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_11.10.png",
+      "alt": "Afbeelding 11.10",
+      "caption": "Voetverzorging bij diabetes."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.1.png",
+      "alt": "Afbeelding 12.1",
+      "caption": "Oren kunnen zonder problemen gewassen worden."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.2.png",
+      "alt": "Afbeelding 12.2",
+      "caption": "Het wattenstaafje mag niet te diep in de gehoorgang gebracht worden."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.3.png",
+      "alt": "Afbeelding 12.3",
+      "caption": "Een hoortoestel is eigenlijk een kleine luidspreker die in het oor wordt geplaatst."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.4.png",
+      "alt": "Afbeelding 12.4",
+      "caption": "Een gehoorimplantaat."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.5.png",
+      "alt": "Afbeelding 12.5",
+      "caption": "Laat een druppel midden in de onderste conjunctivaalzak vallen."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.6.png",
+      "alt": "Afbeelding 12.6",
+      "caption": "Breng de oogzalf bij voorkeur aan voor het slapengaan."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.7.png",
+      "alt": "Afbeelding 12.7",
+      "caption": "Het inzetten van zachte lenzen."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.8.png",
+      "alt": "Afbeelding 12.8",
+      "caption": "Een zuignapje (‘zuigertje’) om harde lenzen mee te verwijderen."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.9.png",
+      "alt": "Afbeelding 12.9",
+      "caption": "Lenzenbakje en lenzenvloeistof."
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_12.10.png",
+      "alt": "Afbeelding 12.10",
+      "caption": "Het snuiten van de neus is minder goed dan het ophalen van de neus."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.1.png",
+      "alt": "Afbeelding 15.1",
+      "caption": "Voorbeelden van voedingsmiddelen waarvoor zorgvragers allergisch kunnen zijn."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.2.png",
+      "alt": "Afbeelding 15.2",
+      "caption": "De SNAQ-vragenlijst."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.3.png",
+      "alt": "Afbeelding 15.3",
+      "caption": "Ondervoeding wordt niet alleen veroorzaakt door te weinig beschikbare voeding."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.4.png",
+      "alt": "Afbeelding 15.4",
+      "caption": "Obesitas is een verstoring in de energiebalans."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.5.png",
+      "alt": "Afbeelding 15.5",
+      "caption": "Voedingsmiddelen die veel vetten en suikers bevatten."
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_15.6.png",
+      "alt": "Afbeelding 15.6",
+      "caption": ""
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.1.png",
+      "alt": "Afbeelding 16.1",
+      "caption": "Hoeveel categorieën van de Schijf van Vijf zijn vertegenwoordigd in deze afbeelding?"
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.2.png",
+      "alt": "Afbeelding 16.2",
+      "caption": "Informeer zorgvragers over de relatie tussen een hoge bloeddruk en de inname van zout."
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.3.png",
+      "alt": "Afbeelding 16.3",
+      "caption": "Het meten van de bloedglucosewaarde bij een zorgvrager met diabetes kan gedaan worden door middel van een vingerprik."
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.4.png",
+      "alt": "Afbeelding 16.4",
+      "caption": "Water is helder vloeibaar."
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.5.png",
+      "alt": "Afbeelding 16.5",
+      "caption": "Een aangepaste lepel."
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.6.png",
+      "alt": "Afbeelding 16.6",
+      "caption": "Een beker met een neusuitsparing."
+    },
+    {
+      "chapter": 16,
+      "figureNumber": "Afbeelding 16.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_16.7.png",
+      "alt": "Afbeelding 16.7",
+      "caption": "Met behulp van een beker met een slokregulator kan een zorgvrager gedoseerd drinken."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.1.png",
+      "alt": "Afbeelding 17.1",
+      "caption": "Soms moet je de zorgvrager ondersteunen bij de toiletgang."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.2.png",
+      "alt": "Afbeelding 17.2",
+      "caption": "Urineweginfecties kunnen een branderig gevoel geven."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.3.png",
+      "alt": "Afbeelding 17.3",
+      "caption": "Het gebruik van een bladderscan."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.4.png",
+      "alt": "Afbeelding 17.4",
+      "caption": "Het spijsverteringsstelsel."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.5.png",
+      "alt": "Afbeelding 17.5",
+      "caption": "Aandrangincontinentie komt onder andere voor bij een blaasontsteking."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.6.png",
+      "alt": "Afbeelding 17.6",
+      "caption": "Het eendelige incontinentiemateriaal."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.7.png",
+      "alt": "Afbeelding 17.7",
+      "caption": "Het tweedelige incontinentiemateriaal."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.8.png",
+      "alt": "Afbeelding 17.8",
+      "caption": "Een po-stoel."
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.9.png",
+      "alt": "Afbeelding 17.9",
+      "caption": "ondersteek"
+    },
+    {
+      "chapter": 17,
+      "figureNumber": "Afbeelding 17.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_17.10.png",
+      "alt": "Afbeelding 17.10",
+      "caption": "Een urinaal met deksel."
+    },
+    {
+      "chapter": 18,
+      "figureNumber": "Afbeelding 18.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_18.1.png",
+      "alt": "Afbeelding 18.1",
+      "caption": "De menstruatiecyclus."
+    },
+    {
+      "chapter": 18,
+      "figureNumber": "Afbeelding 18.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_18.2.png",
+      "alt": "Afbeelding 18.2",
+      "caption": "Het reinigen van de schaamstreek bij een vrouw."
+    },
+    {
+      "chapter": 18,
+      "figureNumber": "Afbeelding 18.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_18.3.png",
+      "alt": "Afbeelding 18.3",
+      "caption": "Verbanden die gebruikt worden tijdens de menstruatie."
+    },
+    {
+      "chapter": 18,
+      "figureNumber": "Afbeelding 18.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_18.4.png",
+      "alt": "Afbeelding 18.4",
+      "caption": "‘De pil’ in de pillenstrip."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.1.png",
+      "alt": "Afbeelding 23.1",
+      "caption": "Zet het bed op een prettige werkhoogte."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.2.png",
+      "alt": "Afbeelding 23.2",
+      "caption": "Een glijzeil of steeklaken beschermt het matras tegen vocht."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.3.png",
+      "alt": "Afbeelding 23.3",
+      "caption": "Buig de knieën van de zorgvrager en leg een hand op de heup en de schouder."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.4.png",
+      "alt": "Afbeelding 23.4",
+      "caption": "Zorg dat de armen bij een buikligging niet onder de zorgvrager liggen."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.5.png",
+      "alt": "Afbeelding 23.5",
+      "caption": "Een zorgvrager kun je met behulp van het bed tot zit laten komen."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.6.png",
+      "alt": "Afbeelding 23.6",
+      "caption": "Met behulp van een touwladder kan een immobiele zorgvrager tot zit komen in het bed zonder dat de zorgprofessional hem fysiek hoeft te ondersteunen."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.7.png",
+      "alt": "Afbeelding 23.7",
+      "caption": "Omhoogkomen met behulp van de papegaai."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.8.png",
+      "alt": "Afbeelding 23.8",
+      "caption": "Om een immobiele zorgvrager vanuit liggende positie op de rand van het bed te helpen, leg je een arm onder de schouder van de zorgvrager en een arm onder de dijen."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.9.png",
+      "alt": "Afbeelding 23.9",
+      "caption": "Gebruik van een hydraulische lift."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.10.png",
+      "alt": "Afbeelding 23.10",
+      "caption": "Vergeet niet de zorgvrager schoenen aan te trekken bij een transfer van bed naar stoel."
+    },
+    {
+      "chapter": 23,
+      "figureNumber": "Afbeelding 23.11:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_23.11.png",
+      "alt": "Afbeelding 23.11",
+      "caption": "Soms heeft een zorgvrager hulpmiddelen nodig om te lopen, zoals krukken."
+    },
+    {
+      "chapter": 24,
+      "figureNumber": "Afbeelding 24.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_24.1.png",
+      "alt": "Afbeelding 24.1",
+      "caption": "Een ecogram is een schema van het sociale netwerk van de zorgvrager."
+    },
+    {
+      "chapter": 24,
+      "figureNumber": "Afbeelding 24.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_24.2.png",
+      "alt": "Afbeelding 24.2",
+      "caption": "Een ziekenhuisbed met een papegaai."
+    },
+    {
+      "chapter": 24,
+      "figureNumber": "Afbeelding 24.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_24.3.png",
+      "alt": "Afbeelding 24.3",
+      "caption": "Het gebruik van een opstalooprek."
+    },
+    {
+      "chapter": 26,
+      "figureNumber": "Afbeelding 26.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_26.1.png",
+      "alt": "Afbeelding 26.1",
+      "caption": "Spieratrofie ontstaat bij te weinig gebruik van de spier en bij een slechte voedingstoestand."
+    },
+    {
+      "chapter": 26,
+      "figureNumber": "Afbeelding 26.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_26.2.png",
+      "alt": "Afbeelding 26.2",
+      "caption": "Bij osteoporose bevat het bot te weinig kalk, waardoor het gemakkelijk breekt."
+    },
+    {
+      "chapter": 26,
+      "figureNumber": "Afbeelding 26.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_26.3.png",
+      "alt": "Afbeelding 26.3",
+      "caption": "De risicoplaatsen voor decubitus."
+    },
+    {
+      "chapter": 26,
+      "figureNumber": "Afbeelding 26.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_26.4.png",
+      "alt": "Afbeelding 26.4",
+      "caption": "Decubitus komt vaak voor op de zitbeenknobbels, uitstekende botdelen, het heiligbeen en de hielen."
+    },
+    {
+      "chapter": 26,
+      "figureNumber": "Afbeelding 26.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_26.5.png",
+      "alt": "Afbeelding 26.5",
+      "caption": "Als een blaar zichtbaar is, valt de decubitus in categorie II."
+    },
+    {
+      "chapter": 27,
+      "figureNumber": "Afbeelding 27.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_27.1.png",
+      "alt": "Afbeelding 27.1",
+      "caption": "De meeste mensen slapen zeven tot acht uur per nacht."
+    },
+    {
+      "chapter": 27,
+      "figureNumber": "Afbeelding 27.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_27.2.png",
+      "alt": "Afbeelding 27.2",
+      "caption": "Koffie, sigaretten en alcohol kunnen slaapproblemen veroorzaken.Een slaapprobleem is iets anders dan een slaapstoornis. Bij een slaapstoornis is sprake van een stoornis in het slaap-waakpatroon."
+    },
+    {
+      "chapter": 27,
+      "figureNumber": "Afbeelding 27.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_27.3.png",
+      "alt": "Afbeelding 27.3",
+      "caption": "Het rustelozebenensyndroom kan de nachtrust van zorgvragers verstoren."
+    },
+    {
+      "chapter": 27,
+      "figureNumber": "Afbeelding 27.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_27.4.png",
+      "alt": "Afbeelding 27.4",
+      "caption": "Bij snurken is sprake van een vernauwing in de luchtweg."
+    },
+    {
+      "chapter": 28,
+      "figureNumber": "Afbeelding 28.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_28.1.png",
+      "alt": "Afbeelding 28.1",
+      "caption": "Een warmwaterkruik is gemaakt van (hard) kunststof of metaal."
+    },
+    {
+      "chapter": 28,
+      "figureNumber": "Afbeelding 28.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_28.2.png",
+      "alt": "Afbeelding 28.2",
+      "caption": "Een warmwaterzak is gemaakt van rubber."
+    },
+    {
+      "chapter": 28,
+      "figureNumber": "Afbeelding 28.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_28.3.png",
+      "alt": "Afbeelding 28.3",
+      "caption": "Een elektrische kruik is oplaadbaar en wordt verwarmd door middel van een stekker."
+    },
+    {
+      "chapter": 28,
+      "figureNumber": "Afbeelding 28.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_28.4.png",
+      "alt": "Afbeelding 28.4",
+      "caption": "Een kersenpittenzak wordt in de oven of magnetron verwarmd. Welke stappen moet je volgen bij het gebruik van een pittenzak?"
+    },
+    {
+      "chapter": 28,
+      "figureNumber": "Afbeelding 28.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_28.5.png",
+      "alt": "Afbeelding 28.5",
+      "caption": "Wikkel altijd een doek om een hot-and-coldpack."
+    },
+    {
+      "chapter": 30,
+      "figureNumber": "Afbeelding 30.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_30.1.png",
+      "alt": "Afbeelding 30.1",
+      "caption": "Zorgprofessionals kunnen zorgvragers helpen bij het sorteren van post en het onderscheiden van ongewenste en gewenste mail."
+    },
+    {
+      "chapter": 30,
+      "figureNumber": "Afbeelding 30.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_30.2.png",
+      "alt": "Afbeelding 30.2",
+      "caption": "Zorgprofessionals kunnen zorgvragers helpen bij het organiseren en invullen van hun agenda."
+    },
+    {
+      "chapter": 30,
+      "figureNumber": "Afbeelding 30.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_30.3.png",
+      "alt": "Afbeelding 30.3",
+      "caption": "Een geschreven planning is voor sommige zorgvragers lastig; het kan dan helpen om met pictogrammen te werken."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.1.png",
+      "alt": "Afbeelding 31.1",
+      "caption": "Droog schoonmaken kan onder andere met een stofzuiger."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.2.png",
+      "alt": "Afbeelding 31.2",
+      "caption": "Ga over op nat schoonmaken bij aangehecht vuil."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.3.png",
+      "alt": "Afbeelding 31.3",
+      "caption": "Vastgeplakt vuil wordt losgeweekt met een reinigingsmiddel."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.4.png",
+      "alt": "Afbeelding 31.4",
+      "caption": "Desinfectiemiddelen bestrijden bacteriën."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.5.png",
+      "alt": "Afbeelding 31.5",
+      "caption": "Let op de gevaarsymbolen op verpakkingen van chemische stoffen."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.6.png",
+      "alt": "Afbeelding 31.6",
+      "caption": "Let bij het stofzuigen goed op je lichaamshouding om rugklachten te voorkomen."
+    },
+    {
+      "chapter": 31,
+      "figureNumber": "Afbeelding 31.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_31.7.png",
+      "alt": "Afbeelding 31.7",
+      "caption": "Bepaalde hulpmiddelen stellen zorgvragers in staat hun huis zo lang mogelijk zelfstandig schoon te maken, zoals een robotstofzuiger."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.1.png",
+      "alt": "Afbeelding 32.1",
+      "caption": "Maak altijd eerst de ene kant van het bed op en loop dan naar de andere kant om het bed daar op te maken."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.2.png",
+      "alt": "Afbeelding 32.2",
+      "caption": "Maak het beddengoed aan het voeteinde wat los, zodat de zorgvrager plaats heeft voor zijn of haar voeten."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.3.png",
+      "alt": "Afbeelding 32.3",
+      "caption": "Leg het onderlaken zo op het bed, dat de linker- en rechterhelft en boven- en onderkant even lang zijn om in te stoppen."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.4.png",
+      "alt": "Afbeelding 32.4",
+      "caption": "Sla het laken bij het hoofdeinde van het bed om het matras."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.5.png",
+      "alt": "Afbeelding 32.5",
+      "caption": "Je duim duwt het laken tegen de zijkant van het matras aan."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.6.png",
+      "alt": "Afbeelding 32.6",
+      "caption": "Vouw de perfecte halve rechte hoek in het onderlaken."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.7.png",
+      "alt": "Afbeelding 32.7",
+      "caption": "Pak met de hand waarmee je de binnenstebuiten gekeerde kussensloop vasthebt het midden van een van de zijkanten van het kussen vast."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.8.png",
+      "alt": "Afbeelding 32.8",
+      "caption": "Breng je hand tussen het sloop en het kussen en stop hiermee de hoeken in het kussensloop."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.9.png",
+      "alt": "Afbeelding 32.9",
+      "caption": "Laat de zorgvrager zich op de zij draaien, waarbij hij of zij met de rug naar jou toe ligt, zo dicht mogelijk tegen het tegenovergestelde bedhek."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.10.png",
+      "alt": "Afbeelding 32.10",
+      "caption": "Maak het onderlaken dat aan jouw kant ligt los en rol dit tegen de zorgvrager aan."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.11:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.11.png",
+      "alt": "Afbeelding 32.11",
+      "caption": "Pak een schoon onderlaken en leg dit op het lege deel van het matras met de middelste vouw op het midden."
+    },
+    {
+      "chapter": 32,
+      "figureNumber": "Afbeelding 32.12:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_32.12.png",
+      "alt": "Afbeelding 32.12",
+      "caption": "Zorg dat de zorgvrager naar de andere kant van het bed rolt."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.1.png",
+      "alt": "Afbeelding 33.1",
+      "caption": "Een waslabel in het wasgoed kan je helpen bij het sorteren van het wasgoed."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.2.png",
+      "alt": "Afbeelding 33.2",
+      "caption": "Wel of niet wassen?"
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.3.png",
+      "alt": "Afbeelding 33.3",
+      "caption": "Voorbeeld van een doseringstabel op een wasmiddelverpakking."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.4.png",
+      "alt": "Afbeelding 33.4",
+      "caption": "Alleen met de hand wassen."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.5.png",
+      "alt": "Afbeelding 33.5",
+      "caption": "Wastobbesymbolen."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.6:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.6.png",
+      "alt": "Afbeelding 33.6",
+      "caption": "Kleding met dit label moet professioneel gereinigd worden."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.7:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.7.png",
+      "alt": "Afbeelding 33.7",
+      "caption": "Wasgoed met dit label mag wel in de droger."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.8:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.8.png",
+      "alt": "Afbeelding 33.8",
+      "caption": "Wasgoed met dit label mag niet in de droger."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.9:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.9.png",
+      "alt": "Afbeelding 33.9",
+      "caption": "Op een lage of hoge temperatuur in de droger."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.10:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.10.png",
+      "alt": "Afbeelding 33.10",
+      "caption": "Het opvouwen van een overhemd."
+    },
+    {
+      "chapter": 33,
+      "figureNumber": "Afbeelding 33.11:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_33.11.png",
+      "alt": "Afbeelding 33.11",
+      "caption": "Wel of niet strijken?"
+    },
+    {
+      "chapter": 34,
+      "figureNumber": "Afbeelding 34.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_34.1.png",
+      "alt": "Afbeelding 34.1",
+      "caption": "Veilig en gezond koken begint met goede ingrediënten."
+    },
+    {
+      "chapter": 34,
+      "figureNumber": "Afbeelding 34.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_34.2.png",
+      "alt": "Afbeelding 34.2",
+      "caption": "Hoe hoger de temperatuur, hoe eerder het product bederft."
+    },
+    {
+      "chapter": 34,
+      "figureNumber": "Afbeelding 34.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_34.3.png",
+      "alt": "Afbeelding 34.3",
+      "caption": "Was altijd je handen voordat je voedsel gaat (voor)bereiden."
+    },
+    {
+      "chapter": 35,
+      "figureNumber": "Afbeelding 35.1:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_35.1.png",
+      "alt": "Afbeelding 35.1",
+      "caption": "Lepelplant."
+    },
+    {
+      "chapter": 35,
+      "figureNumber": "Afbeelding 35.2:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_35.2.png",
+      "alt": "Afbeelding 35.2",
+      "caption": "Vetplanten."
+    },
+    {
+      "chapter": 35,
+      "figureNumber": "Afbeelding 35.3:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_35.3.png",
+      "alt": "Afbeelding 35.3",
+      "caption": "Plantenspuit."
+    },
+    {
+      "chapter": 35,
+      "figureNumber": "Afbeelding 35.4:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_35.4.png",
+      "alt": "Afbeelding 35.4",
+      "caption": "Planten water geven met een gieter."
+    },
+    {
+      "chapter": 35,
+      "figureNumber": "Afbeelding 35.5:",
+      "src": "new_pipeline/assets/figures/persoonlijke_verzorging/Afbeelding_35.5.png",
+      "alt": "Afbeelding 35.5",
+      "caption": "Honden, katten en knaagdieren zijn de meest voorkomende huisdieren."
+    }
+  ]
+}

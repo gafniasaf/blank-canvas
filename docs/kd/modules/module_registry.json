@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "generated_at": "2025-12-26",
+  "notes": [
+    "This registry defines reusable didactic modules aligned to KD 2025 workprocesses.",
+    "Modules are referenced by stable module_id from per-book mapping files.",
+    "This is not the content itself; it is a contract + intent to keep the pipeline deterministic."
+  ],
+  "modules": [
+    {
+      "module_id": "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+      "title": "Observeer → signaleer → rapporteer (SBAR)",
+      "kind": "praktijk",
+      "kd_workprocesses": ["B1-K1-W1", "B1-K2-W2"],
+      "intent": "Korte praktijkcue die leerlingen traint in observeren/signalen benoemen en gestructureerd rapporteren (SBAR) binnen een zorgsituatie."
+    },
+    {
+      "module_id": "PRAKTIJK_INFO_ADVICE_HEALTH",
+      "title": "Voorlichting / advies (leefstijl, medicatie, hygiëne)",
+      "kind": "praktijk",
+      "kd_workprocesses": ["B1-K1-W6"],
+      "intent": "Korte praktijkcue waarin een student de kern uitlegt aan een zorgvrager (in eenvoudige taal) en 1–2 concrete adviezen geeft."
+    },
+    {
+      "module_id": "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+      "title": "Acute situatie: herken → handel (protocol/BLS) → rapporteer",
+      "kind": "praktijk",
+      "kd_workprocesses": ["B1-K1-W5"],
+      "intent": "Korte praktijkcue waarin de student herkent dat het acuut is, basisacties noemt, hulp inschakelt, en achteraf rapporteert."
+    },
+    {
+      "module_id": "PRAKTIJK_MANTELZORG_ALIGN",
+      "title": "Afstemmen met mantelzorg/naasten (belasting, grenzen, afspraken)",
+      "kind": "praktijk",
+      "kd_workprocesses": ["B1-K2-W1"],
+      "intent": "Korte praktijkcue waarin de student samenwerking met naasten beschrijft, overbelasting signaleert en grenzen respecteert."
+    },
+    {
+      "module_id": "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+      "title": "N4 verdieping: klinisch redeneren → verpleegkundige diagnose (EBP-light)",
+      "kind": "verdieping",
+      "kd_workprocesses": ["P2-K1-W1"],
+      "intent": "Optionele N4 verdieping: redeneerstappen + diagnoseformulering, zonder N3 basisroute te verzwaren."
+    },
+    {
+      "module_id": "VERDIEPING_N4_COORDINATE_OPTIMIZE",
+      "title": "N4 verdieping: coördineren/optimaliseren + kwaliteitsverbetering",
+      "kind": "verdieping",
+      "kd_workprocesses": ["P2-K1-W3"],
+      "intent": "Optionele N4 verdieping: ketenafstemming/organisatie + systematisch evalueren en optimaliseren."
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

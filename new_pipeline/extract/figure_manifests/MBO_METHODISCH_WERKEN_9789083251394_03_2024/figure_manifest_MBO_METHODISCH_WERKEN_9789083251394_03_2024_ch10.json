@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 56,
+    "words": 3709
+  },
+  "chapter": "10",
+  "chapterRange": {
+    "endOff": 123,
+    "ok": true,
+    "startOff": 113
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:48 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "je kan zeggen wanneer het doel nabesproken gaat worden;",
+        "pageDocumentOffset": 115,
+        "paragraphIndexInBodyStory": 87,
+        "text": "beschreven staat op welk moment je start met werken aan het doel.",
+        "x": 83.6220471780131,
+        "y": 107.869964599609
+      },
+      "asset": null,
+      "caption": {
+        "body": "Onderdelen van SMART.",
+        "bounds": null,
+        "label": "Afbeelding 10.1:",
+        "raw": "Afbeelding 10.1 Onderdelen van SMART.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          119.921047276774,
+          49.6062992125985,
+          355.690053447739,
+          374.958572647791
+        ],
+        "kind": "link",
+        "linkName": "Image 2.7 Onderdelen van SMART.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.7%20Onderdelen%20van%20SMART.tif"
+      },
+      "page": {
+        "documentOffset": 115,
+        "name": "102"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 10.2 Voorbeeld van de invulling van een zorgplan.",
+        "beforeText": "Jij bent als zorgprofessional verantwoordelijk voor het gebruiken van het zorgplan door andere zorgprofessionals. Bovendien regel jij dat iedereen het weet als zaken in het zorgplan zijn veranderd. Deze veranderingen kunnen dan in praktijk worden gebracht.",
+        "pageDocumentOffset": 117,
+        "paragraphIndexInBodyStory": 120,
+        "text": "￼",
+        "x": 64.9370846485529,
+        "y": 268.959280089992
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van de invulling van een zorgplan.",
+        "bounds": null,
+        "label": "Afbeelding 10.2:",
+        "raw": "Afbeelding 10.2 Voorbeeld van de invulling van een zorgplan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36.0000000000073,
+          64.9370846485529,
+          268.959280089992,
+          416.952665943536
+        ],
+        "kind": "link",
+        "linkName": "Image 3.2 Voorbeeld van de invulling van een zorgplan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%203.2%20Voorbeeld%20van%20de%20invulling%20van%20een%20zorgplan.tif"
+      },
+      "page": {
+        "documentOffset": 117,
+        "name": "104"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "2   Bepaal hoe het met de gezondheid van de zorgvrager gaat in de huidige situatie, dus op dit moment. Het kan zo zijn dat de situatie van de zorgvrager is veranderd sinds het zorgplan is gemaakt. Een voorbeeld van een verandering is dat de zorgvrager vóór het zorgplan nog hulp nodig had met eten, terwijl dat nu niet meer nodig is.",
+        "pageDocumentOffset": 118,
+        "paragraphIndexInBodyStory": 137,
+        "text": "3   Beoordeel of het zorgplan en de interventies nog passen bij de huidige situatie van de zorgvrager. Als het plan nog past, mag de behandeling doorgaan. Als het plan niet meer past bij de huidige situatie, moet je dit bespreken met de arts of een andere leidinggevende. Als iets in het plan niet duidelijk is, mag je dit aanpassen na overleg met de leidinggevende. Je mag het plan nóóit veranderen zonder goedkeuring van de arts en de zorgvrager.",
+        "x": 531.496062992126,
+        "y": 223
+      },
+      "asset": null,
+      "caption": {
+        "body": "Controleer het zorgplan en pas het waar nodig aan.",
+        "bounds": null,
+        "label": "Afbeelding 10.3:",
+        "raw": "Afbeelding 10.3 Controleer het zorgplan en pas het waar nodig aan.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          314.68484251968,
+          535.59232084019,
+          561.259842519685,
+          910.076981792299
+        ],
+        "kind": "link",
+        "linkName": "Image 6.3 Controleer het zorgplan en pas het waar nodig aan.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%206.3%20Controleer%20het%20zorgplan%20en%20pas%20het%20waar%20nodig%20aan.tif"
+      },
+      "page": {
+        "documentOffset": 118,
+        "name": "105"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

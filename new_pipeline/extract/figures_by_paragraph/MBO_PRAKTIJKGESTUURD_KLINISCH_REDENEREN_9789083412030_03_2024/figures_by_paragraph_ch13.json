@@ -1,0 +1,50 @@
+{
+  "afb0700f-ccbe-4c11-b73f-ce7bc1859587": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch13/linked/Image93-p195.png",
+      "alt": "Afbeelding 13.1: Niet lekker bij een huidafwijking.",
+      "figureNumber": "Afbeelding 13.1:",
+      "caption": "Niet lekker bij een huidafwijking.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "cb5453eb-b7f5-4ba6-a60c-e8cc20c2cc4c": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch13/linked/Image94-p200.png",
+      "alt": "Afbeelding 13.2: Sufheid en hoofdpijn bij een kind.",
+      "figureNumber": "Afbeelding 13.2:",
+      "caption": "Sufheid en hoofdpijn bij een kind.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch13/linked/Image95-p201.png",
+      "alt": "Afbeelding 13.3: De ernstigste vorm van hersenvliesontsteking wordt veroorzaakt door bacteriën.",
+      "figureNumber": "Afbeelding 13.3:",
+      "caption": "De ernstigste vorm van hersenvliesontsteking wordt veroorzaakt door bacteriën.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "195016c9-aa7d-4ef6-a268-534a3f21ccc6": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch13/linked/Image96-p203.png",
+      "alt": "Afbeelding 13.4: Omdat de hersenvliezen ook in de nek en de rug doorlopen, doet het bij hersenvliesontsteking soms pijn om de nek te buigen (wanneer de zorgvrager probeert de kin op de borst te plaatsen).",
+      "figureNumber": "Afbeelding 13.4:",
+      "caption": "Omdat de hersenvliezen ook in de nek en de rug doorlopen, doet het bij hersenvliesontsteking soms pijn om de nek te buigen (wanneer de zorgvrager probeert de kin op de borst te plaatsen).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "190e646c-50a5-4ac2-95f7-9b6e377d49c4": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch13/linked/Image97-p204.png",
+      "alt": "Afbeelding 13.5: Om hersenvocht af te tappen voor onderzoek bij hersenvliesontsteking, wordt een ruggenprik uitgevoerd door de arts. Hersenvocht wordt meestal in de onderrug afgetapt, bij het onderste gedeelte van de hersenvliezen (de hersenvliezen zitten niet alleen rondom de hersenen maar ook rondom het ruggenmerg).",
+      "figureNumber": "Afbeelding 13.5:",
+      "caption": "Om hersenvocht af te tappen voor onderzoek bij hersenvliesontsteking, wordt een ruggenprik uitgevoerd door de arts. Hersenvocht wordt meestal in de onderrug afgetapt, bij het onderste gedeelte van de hersenvliezen (de hersenvliezen zitten niet alleen rondom de hersenen maar ook rondom het ruggenmerg).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

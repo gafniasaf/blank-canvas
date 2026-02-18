@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 1463
+  },
+  "chapter": "4",
+  "chapterRange": {
+    "endOff": 66,
+    "ok": true,
+    "startOff": 62
+  },
+  "exportedAt": "Sat Jan 03 2026 22:41:14 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Ga zuinig om met water en elektriciteit:",
+        "beforeText": "Weet wat de kosten zijn van de gebruikte verpleegmaterialen. Kies het product met de beste prijs-kwaliteitverhouding.",
+        "pageDocumentOffset": 63,
+        "paragraphIndexInBodyStory": 874,
+        "text": "Blijf je bewust van het belang van hygiëne. Dit voorkomt infecties en ziekte bij zorgvragers en personeel. Hergebruik geen handschoenen of andere steriele materialen om kosten te besparen.",
+        "x": 108.000000045776,
+        "y": 160.009665849474
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het is belangrijk om als zorgprofessional kostenbewust te werken.",
+        "bounds": null,
+        "label": "Afbeelding 4.1:",
+        "raw": "Afbeelding 4.1 Het is belangrijk om als zorgprofessional kostenbewust te werken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          170.212615740742,
+          25.5775289111668,
+          234.723807461985,
+          82.4224720169699
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk4_4.1_Het is belangrijk om als zorgprofessional kostenbewust te werken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk4_4.1_Het%20is%20belangrijk%20om%20als%20zorgprofessional%20kostenbewust%20te%20werken.tif"
+      },
+      "page": {
+        "documentOffset": 63,
+        "name": "50"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

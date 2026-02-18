@@ -1,0 +1,942 @@
+{
+  "bodyStory": {
+    "index": 1007,
+    "words": 14700
+  },
+  "chapter": "6",
+  "chapterRange": {
+    "endOff": 242,
+    "ok": true,
+    "startOff": 197
+  },
+  "exportedAt": "Thu Dec 25 2025 17:25:15 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Na het ST-segment volgt de T-top. Dit is de laatste top van de hartcyclus. De T-top staat voor het herstellen (repolariseren) van de spiercellen in de hartkamers. Hierbij krijgen de cellen weer dezelfde lading als die zij aan het begin van de hartcyclus hadden (rustpotentiaal). De buitenkant van de hartspiercellen is na de depolarisatie negatief geladen. Na de repolarisatie is de buitenkant weer positief geladen, zoals aan het begin van de hartcyclus.",
+        "beforeText": "Soms is het ST-segment verhoogd of verlaagd. Je ziet dan een vlakke lijn die hoger of lager ligt dan normaal. Dit kan een teken zijn van een hartaanval. Het is daarom belangrijk dat op het ECG goed naar het ST-segment wordt gekeken.",
+        "pageDocumentOffset": 213,
+        "paragraphIndexInBodyStory": 153,
+        "text": "6.2.9  De T-top",
+        "x": 14.9999999994699,
+        "y": 211.911111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het J-punt en het ST-segment op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.10:",
+        "raw": "Afbeelding 6.10 Het J-punt en het ST-segment op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.10.png",
+        "bounds": [
+          112.7174,
+          15,
+          191.559,
+          167.4
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img10.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img10.TIF"
+      },
+      "page": {
+        "documentOffset": 213,
+        "name": "195"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.3.1  De hartcyclus",
+        "beforeText": "Na het ST-segment volgt de T-top. Dit is de laatste top van de hartcyclus. De T-top staat voor het herstellen (repolariseren) van de spiercellen in de hartkamers. Hierbij krijgen de cellen weer dezelfde lading als die zij aan het begin van de hartcyclus hadden (rustpotentiaal). De buitenkant van de hartspiercellen is na de depolarisatie negatief geladen. Na de repolarisatie is de buitenkant weer positief geladen, zoals aan het begin van de hartcyclus.",
+        "pageDocumentOffset": 214,
+        "paragraphIndexInBodyStory": 155,
+        "text": "6.3  De hartcyclus",
+        "x": 210,
+        "y": 115.955555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De T-top op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.11:",
+        "raw": "Afbeelding 6.11 De T-top op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.11.png",
+        "bounds": [
+          19.999999999998,
+          210,
+          98.8415999999972,
+          362.4
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 214,
+        "name": "196"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "tunica intima. Dit is de binnenste laag van het bloedvat. Het bloed stroomt in een holle ruimte binnenin het bloedvat. Deze holle ruimte noemen we het lumen. De binnenste wanden van het bloedvat, die grenzen aan het lumen, zijn bedekt met de tunica intima. De dekcellen van de tunica intima zorgen dat de vaatwand mooi glad is, zodat het bloed makkelijk door het vat kan stromen;",
+        "beforeText": "6.4.1  Bouw van de bloedvaten",
+        "pageDocumentOffset": 219,
+        "paragraphIndexInBodyStory": 214,
+        "text": "Het lichaam bevat duizenden bloedvaten. Via de bloedvaten komt bloed met zuurstof en voedingstoffen bij alle organen terecht. De bloedvaten zijn te vergelijken me holle buisjes. De wand van deze buisjes noemen we de vaatwand. De vaatwand is opgebouwd uit drie lagen, namelijk de:",
+        "x": 101.999999999937,
+        "y": 115.955555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De berekening van het hartminuutvolume.",
+        "bounds": null,
+        "label": "Afbeelding 6.12:",
+        "raw": "Afbeelding 6.12 De berekening van het hartminuutvolume.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.12.png",
+        "bounds": [
+          153.2057707347,
+          18.5865488607418,
+          242.473982302087,
+          86.5080141837517
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img13.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img13.png"
+      },
+      "page": {
+        "documentOffset": 219,
+        "name": "201"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.4.3  Slagaders",
+        "beforeText": "venulen. Vanuit de haarvaten stroomt het bloed verder in de venulen. Dit zijn de kleinste aders van het lichaam. Het bloed is nu zuurstofarm, omdat de zuurstof en voedingstoffen al eerder zijn afgegeven aan de weefsels en organen. Via de venulen stroomt het bloed verder naar de grotere aders, om de weg terug naar het hart te vervolgen;",
+        "pageDocumentOffset": 221,
+        "paragraphIndexInBodyStory": 226,
+        "text": "aders. De venulen komen samen in grotere vaten. Dit zijn de aders (venen) van het lichaam. Deze vaten stromen richting het hart. Uiteindelijk komen de venen samen in de onderste holle ader en de bovenste holle ader. Via deze twee grote vaten stroomt het bloed de rechterboezem in.",
+        "x": 109.000000026428,
+        "y": 206.26666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De verschillende soorten weefsel in een slagader en ader.",
+        "bounds": null,
+        "label": "Afbeelding 6.13:",
+        "raw": "Afbeelding 6.13 De verschillende soorten weefsel in een slagader en ader.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.13.png",
+        "bounds": [
+          41.7680225209978,
+          23.8653999999999,
+          152.210167448535,
+          169.017933333333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 221,
+        "name": "203"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.4.5  Haarvaten",
+        "beforeText": "De kleinere slagaders (arteriolen) zijn juist wat minder elastisch. Deze bloedvaten hebben wel meer spieren in de vaatwand. Daarom noemen we de kleinere slagaders ook wel gespierde slagaders. Ze regelen de hoeveelheid bloed die naar alle organen stroomt. Stel dat je net een flinke maaltijd hebt gegeten. In dat geval hebben je darmen veel bloed nodig om dit te verwerken. De kleine slagaderen die naar je darmen lopen, gaan dan een stukje meer open staan. Hierdoor stroomt meer bloed richting je darmen. Het ‘meer open staan’ van een bloedvat noemen we vasodilatatie. Dilateren is namelijk een ander woord voor uitrekken.",
+        "pageDocumentOffset": 222,
+        "paragraphIndexInBodyStory": 232,
+        "text": "Als de doorgang van de slagader nauwer wordt, noemen we dat vasoconstrictie. Constrictie is namelijk een ander woord voor samentrekking. Wanneer het bloedvat samentrekt, stroomt minder bloed naar een orgaan.",
+        "x": 296.999999999937,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+        "bounds": null,
+        "label": "Afbeelding 6.14:",
+        "raw": "Afbeelding 6.14 Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.14.png",
+        "bounds": [
+          175.086776426987,
+          246.487210410225,
+          233.092767616416,
+          344.023210410225
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img18.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img18.TIF"
+      },
+      "page": {
+        "documentOffset": 222,
+        "name": "204"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De slagaders (arteriën) zijn opgebouwd uit drie lagen. In de middelste laag zit veel van het stofje elastine. Dit is een eiwit dat de vaatwand elastisch maakt. Elastisch betekent dat het vat een beetje kan uitrekken en terugveren. Vooral de grote slagaders zijn erg elastisch. Daarom noemen we de grote slagaders ook wel de elastische arteriën. De lichaamsslagader is de grootste slagader en daarom het meest elastisch van alle slagaders.",
+        "beforeText": "aders. De venulen komen samen in grotere vaten. Dit zijn de aders (venen) van het lichaam. Deze vaten stromen richting het hart. Uiteindelijk komen de venen samen in de onderste holle ader en de bovenste holle ader. Via deze twee grote vaten stroomt het bloed de rechterboezem in.",
+        "pageDocumentOffset": 222,
+        "paragraphIndexInBodyStory": 227,
+        "text": "6.4.3  Slagaders",
+        "x": 210,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+        "bounds": null,
+        "label": "Afbeelding 6.15:",
+        "raw": "Afbeelding 6.15 Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.15.png",
+        "bounds": [
+          11.2125700965872,
+          18.8376445822103,
+          228.105674357589,
+          183.86500651993
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img15.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img15.TIF"
+      },
+      "page": {
+        "documentOffset": 223,
+        "name": "205"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De haarvaten (capillairen) zijn de kleinste bloedvaten in het lichaam. In het hele lichaam zitten ongelooflijk veel haarvaten: ongeveer 40 miljard. Dat is bijna zes keer zoveel haarvaten als alle mensen op de wereld.",
+        "beforeText": "Als de doorgang van de slagader nauwer wordt, noemen we dat vasoconstrictie. Constrictie is namelijk een ander woord voor samentrekking. Wanneer het bloedvat samentrekt, stroomt minder bloed naar een orgaan.",
+        "pageDocumentOffset": 224,
+        "paragraphIndexInBodyStory": 233,
+        "text": "6.4.5  Haarvaten",
+        "x": 210,
+        "y": 87.7333333333314
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+        "bounds": null,
+        "label": "Afbeelding 6.16:",
+        "raw": "Afbeelding 6.16 Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.16.png",
+        "bounds": [
+          21.6829462840978,
+          213.056271762424,
+          74.1061528901359,
+          317.196271762424
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img19.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img19.TIF"
+      },
+      "page": {
+        "documentOffset": 224,
+        "name": "206"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "ader portale circulaties. Een ader verbindt hierbij twee haarvatnetwerken met elkaar. Dit zie je terug bij bepaalde onderdelen van de hersenen. Tussen de hypothalamus en de hypofyse zit bijvoorbeeld een ader portale circulatie.",
+        "beforeText": "verbindende circulaties. Deze noem je ook wel portale circulaties. Hierbij bestaat een verbinding tussen haarvatennetwerken van twee organen. Je hebt twee soorten portale circulaties, namelijk:",
+        "pageDocumentOffset": 225,
+        "paragraphIndexInBodyStory": 243,
+        "text": "slagader portale circulaties. Een slagader verbindt hierbij twee haarvatnetwerken met elkaar. Dit is bijvoorbeeld zo in de nieren. Daarin zitten kleine werkstations, die bloed krijgen van hun eigen haarvatnetwerk. Een slagader verbindt deze haarvatnetwerken met elkaar;",
+        "x": 113.641666666603,
+        "y": 155.466666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+        "bounds": null,
+        "label": "Afbeelding 6.17:",
+        "raw": "Afbeelding 6.17 De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.17.png",
+        "bounds": [
+          31.0207104492975,
+          65.8183444444446,
+          99.2417974058149,
+          155.480344444445
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img20.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img20.TIF"
+      },
+      "page": {
+        "documentOffset": 225,
+        "name": "207"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "ader anastomose. Dit is een directe verbinding tussen twee aders;",
+        "beforeText": "anastomosen. Dit zijn dwarse verbindingen tussen bloedvaten. Die zorgen samen dat bijvoorbeeld één orgaan bloed krijgt. Als één van de bloedvaten van de anastomose dicht zit, zorgen de andere bloedvaten dat het orgaan toch nog bloed krijgt. Je hebt drie soorten anastomosen, namelijk:",
+        "pageDocumentOffset": 226,
+        "paragraphIndexInBodyStory": 247,
+        "text": "slagader anastomose. Dit is een directe verbinding tussen twee slagaders;",
+        "x": 221.641666666667,
+        "y": 76.4444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.18.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote slagaders in het lichaam.",
+        "bounds": null,
+        "label": "Afbeelding 6.18:",
+        "raw": "Afbeelding 6.18 De grote slagaders in het lichaam.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.18.png",
+        "bounds": [
+          82.3444444442707,
+          210,
+          237.311111111109,
+          349.220028516507
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img16.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img16.TIF"
+      },
+      "page": {
+        "documentOffset": 226,
+        "name": "208"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je lichaam heeft een aantal systemen die zorgen dat het bloed uit de benen toch bij het hart aankomt. Dit zijn de:",
+        "beforeText": "Vanuit de haarvaten stroomt het bloed de kleine aders (venulen) in. De venulen komen samen in grotere aders (venen). Samen noemen we de venulen en de venen het adersysteem (veneus systeem).",
+        "pageDocumentOffset": 227,
+        "paragraphIndexInBodyStory": 252,
+        "text": "De bloeddruk in het adersysteem is veel lager dan in de slagaders. Door de lage druk in het adersysteem stroomt het bloed met enige moeite terug naar het hart. De grootste uitdaging zien we bij het bloed in de aderen van de benen. Het bloed moet vanuit de benen namelijk een lange weg afleggen naar het hart. Daarnaast duwt de zwaartekracht het bloed naar beneden als je staat. Hierdoor moeten de aders meer moeite doen om het bloed vanuit de benen helemaal omhoog richting het hart te pompen.",
+        "x": 14.9999999994699,
+        "y": 110.311111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.19.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Voorbeeld van een verbindende circulatie.",
+        "bounds": null,
+        "label": "Afbeelding 6.19:",
+        "raw": "Afbeelding 6.19 Voorbeeld van een verbindende circulatie.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.19.png",
+        "bounds": [
+          143.337737256882,
+          19.6306724365235,
+          231.272617204136,
+          164.561556041283
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img21.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img21.TIF"
+      },
+      "page": {
+        "documentOffset": 227,
+        "name": "209"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "slagaderpomp. Op veel plekken in het lichaam liggen de slagaders en aders naast elkaar. Ze zitten dan samen in een beschermende laag van elastisch bindweefsel. Naast deze twee vaten ligt vaak ook een zenuw. Dit geheel van slagaders, aders en zenuw noemen we een vaatzenuwstreng. Bij elke hartslag maakt de slagader een pulserende beweging. In een vaatzenuwstreng duwt de slagader dan tegen de ader. Hierdoor duwt de slagader de ader een beetje dicht. Dit zorgt dat het bloed in deze ader vanzelf richting het hart wordt geduwd.",
+        "beforeText": "spierpomp. De aders liggen op een aantal plaatsen tussen de spieren in, bijvoorbeeld in de benen. Als deze spieren aanspannen, drukken ze de aders samen. De druk wordt hoger op de plek waar de spieren de ader samenknijpen. Door het aanspannen en ontspannen van de spieren wordt het bloed omhoog richting het hart gepompt. Dit gebeurt bijvoorbeeld in de kuiten als je aan het lopen bent. Daarom is het goed om tijdens lange vluchten af en toe even te lopen. Het bloed uit de benen wordt dan makkelijker omhoog gepompt;",
+        "pageDocumentOffset": 228,
+        "paragraphIndexInBodyStory": 256,
+        "text": "adempomp. Een andere naam hiervoor is de respiratoire pomp. De ademhaling helpt mee om het bloed vanuit de buikholte terug naar het hart te vervoeren. Als je inademt, gaat je middenrif omlaag. Hierdoor duwt het middenrif de buikorganen naar beneden. De organen in je buik worden hierdoor een beetje samengeduwd. De buikorganen drukken hierdoor op de aders in je buik. Hierdoor wordt het bloed in deze aders in de richting het hart gepompt;",
+        "x": 304.000000026428,
+        "y": 93.3777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.20.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+        "bounds": null,
+        "label": "Afbeelding 6.20:",
+        "raw": "Afbeelding 6.20 Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.20.png",
+        "bounds": [
+          130.209286636877,
+          215.861269246955,
+          187.375185406554,
+          296.77172828821
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img22c.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img22c.png"
+      },
+      "page": {
+        "documentOffset": 228,
+        "name": "210"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De bloeddruk wordt geregeld door verschillende systemen in het lichaam. Het lichaam moet dan wel eerst weten hoe hoog de bloeddruk precies is. Het lichaam meet de bloeddruk via druksensoren. Dit zijn speciale cellen die de druk op de vaatwand meten. Deze druksensoren geven de informatie over de druk die zij meten door aan de hersenen. Zo wordt de bloeddruk gemeten in het eerste gedeelte van de lichaamsslagader (aortaboog) en in de halsslagaders (carotiden). Dit zijn twee slagaders die aan beide kanten in de hals zitten. Deze bloedvaten lopen richting het hoofd.",
+        "beforeText": "6.4.9  Bloeddrukregulatie",
+        "pageDocumentOffset": 230,
+        "paragraphIndexInBodyStory": 271,
+        "text": "Het lichaam probeert het bloeddruk ongeveer gelijk te houden. Als de bloeddruk te laag is, krijgen de organen niet genoeg zuurstof en voedingsstoffen. Als de bloeddruk te hoog is, kan dit tot schade aan de organen leiden. Daarom is een belangrijke taak van het lichaam om de bloeddruk op het juiste niveau te houden.",
+        "x": 210,
+        "y": 36.9333333333313
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.21.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+        "bounds": null,
+        "label": "Afbeelding 6.21:",
+        "raw": "Afbeelding 6.21 De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.21.png",
+        "bounds": [
+          75.5777777775905,
+          238.022332664203,
+          194.554444444438,
+          341.223885109234
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img23.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img23.png"
+      },
+      "page": {
+        "documentOffset": 230,
+        "name": "212"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.4.13  Hemoglobine",
+        "beforeText": "Rode bloedcellen leven gemiddeld vier maanden. Daarom werkt het beenmerg de hele tijd door om nieuwe rode bloedcellen te maken. De dode rode bloedcellen moeten namelijk op tijd vervangen worden. Als een rode bloedcel net in het beenmerg aangemaakt is, bestaat deze nog uit verschillende onderdelen. Een voorbeeld van een onderdeel is de celkern. Dit is de gebruiksaanwijzing van de cel. In de celkern staat alle genetische informatie in die nodig is om een rode bloedcel te maken. Als een rode bloedcel helemaal klaar is, verliest deze veel van zijn onderdelen. Alles wat niet nodig is voor het vervoeren van zuurstof en koolstofdioxide gaat de cel uit. Volwassen rode bloedcellen hebben daarom geen celkern meer. Hierdoor zijn ze in het midden plat. Ze lijken een beetje op een donut, maar dan zonder het gat in het midden.",
+        "pageDocumentOffset": 234,
+        "paragraphIndexInBodyStory": 311,
+        "text": "Als een rode bloedcel doodgaat, valt deze cel uit elkaar. Hierbij komen een aantal stoffen vanuit de cel vrij. Een deel van de rode bloedcel bestaat uit ijzer. Het beenmerg gebruikt het vrijgekomen ijzer om weer nieuwe rode bloedcellen te maken. Zoals gezegd bevatten rode bloedcellen ook veel hemoglobine. Hemoglobine wordt ook afgebroken nadat de rode bloedcel doodgaat. Eén van de stoffen die vrijkomen bij de afbraak van hemoglobine, is bilirubine. We kennen bilirubine met name van zorgvragers met geelzucht. Bilirubine geeft de gele huidskleur en is giftig voor het lichaam. Gelukkig komt bilirubine normaal gesproken via de lever in het gal en daarna in de darmen terecht. Uiteindelijk verlaat bilirubine het lichaam via de ontlasting.",
+        "x": 209.99999999947,
+        "y": 82.0888888888869
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.22.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+        "bounds": null,
+        "label": "Afbeelding 6.22:",
+        "raw": "Afbeelding 6.22 Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.22.png",
+        "bounds": [
+          145.996054174172,
+          210,
+          228.591851007304,
+          367.0178724
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img24.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img24.png"
+      },
+      "page": {
+        "documentOffset": 234,
+        "name": "216"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.4.15  Bloedplaatjes",
+        "beforeText": "plasmacellen. Deze cellen verplaatsen zich naar het beenmerg om veel antistoffen aan te maken. Antistoffen herkennen de antigenen van een ziekteverwekker. Deze antistoffen binden zich aan de ziekteverwekker. Hierdoor ruimt het lichaam de ziekteverwekker op;",
+        "pageDocumentOffset": 236,
+        "paragraphIndexInBodyStory": 327,
+        "text": "geheugencellen. Dit zijn cellen die in het bloed blijven nadat het lichaam een ziekteverwekker heeft opgeruimd. Als dezelfde ziekteverwekker nog eens verschijnt, maken de geheugencellen snel antistoffen aan. Ze onthouden namelijk welke ziekteverwekker dit is geweest. Daarom heten ze geheugencellen. Ze zorgen op deze manier dat je immuun wordt voor bepaalde ziekteverwekkers waar je vroeger last van hebt gehad.",
+        "x": 308.641666666603,
+        "y": 25.6444444444425
+      },
+      "asset": null,
+      "caption": {
+        "body": "Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+        "bounds": null,
+        "label": "Afbeelding 6.23:",
+        "raw": "Afbeelding 6.23 Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          25.0357386666685,
+          212,
+          147.385599999764,
+          304.971582135437
+        ],
+        "kind": "link",
+        "linkName": "MAF Ch6_Img6.25-EDIT.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF%20Ch6_Img6.25-EDIT.png"
+      },
+      "page": {
+        "documentOffset": 236,
+        "name": "218"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "bloedplaatjesfase. In deze fase worden de bloedplaatjes actief. Ze hechten zich aan de wand van het beschadigde bloedvat. Hierdoor komen allerlei stofjes vrij. Deze stoffen maken nog meer bloedplaatjes actief, zodat nog meer bloedplaatjes zich aan de vaatwand en aan elkaar hechten;",
+        "beforeText": "Het stollen van het bloed gebeurt in drie fasen. Dit zijn de:",
+        "pageDocumentOffset": 237,
+        "paragraphIndexInBodyStory": 333,
+        "text": "vaatfase. In deze fase trekken de bloedvaten samen. Dit heet een vaatspasme. Hierdoor stroomt minder bloed door het kapotte bloedvat heen. Op deze manier probeert het lichaam zoveel mogelijk bloedverlies te voorkomen;",
+        "x": 22.000000026491,
+        "y": 99.0222222222202
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.24.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+        "bounds": null,
+        "label": "Afbeelding 6.24:",
+        "raw": "Afbeelding 6.24 Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.24.png",
+        "bounds": [
+          123.166666666465,
+          21.3031723788791,
+          219.250435952078,
+          170.451972378879
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img26.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img26.png"
+      },
+      "page": {
+        "documentOffset": 237,
+        "name": "219"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "antistoffen. Dit zijn cellen die het lichaam beschermen tegen ziekteverwekkers;",
+        "beforeText": "Lymfe is een vloeistof waarin stoffen opgelost zijn. Het lijkt veel op het bloedplasma. Als het lymfe net de lymfecapillairen in is gestroomd, heeft het nog geen kleur. De lymfevaten nemen op hun weg naar de sleutelbeenaderen vetten en eiwitten op. Hierdoor krijgt het lymfe een melkachtige kleur. Naast vetten en eiwitten bestaat het lymfe uit:",
+        "pageDocumentOffset": 241,
+        "paragraphIndexInBodyStory": 370,
+        "text": "afvalstoffen;",
+        "x": 22.000000026491,
+        "y": 194.977777777776
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.25.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De twee afvoerwegen van lymfe in het lichaam.",
+        "bounds": null,
+        "label": "Afbeelding 6.25:",
+        "raw": "Afbeelding 6.25 De twee afvoerwegen van lymfe in het lichaam.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.25.png",
+        "bounds": [
+          4.47777777817108,
+          21.2999999999998,
+          156.877777778171,
+          173.7
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img27.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img27.png"
+      },
+      "page": {
+        "documentOffset": 241,
+        "name": "223"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3 De rechterkamer pompt het bloed de longslagaders (arteriae pulmonales) in. Dit zijn sterke bloedvaten die vanuit de rechterkamer naar de longen toe lopen.",
+        "beforeText": "1 De bloedsomloop begint in de rechterboezem, waar ook bloed uit de rest van het lichaam terechtkomt. Dit bloed bevat nog maar weinig zuurstof, want in het lichaam is de zuurstof opgebruikt.",
+        "pageDocumentOffset": 199,
+        "paragraphIndexInBodyStory": 37,
+        "text": "2 Vanuit de rechterboezem stroomt het bloed naar de rechterkamer.",
+        "x": 14.99999999947,
+        "y": 189.333333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+        "bounds": null,
+        "label": "Afbeelding 6.2:",
+        "raw": "Afbeelding 6.2 In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.2.png",
+        "bounds": [
+          61.5528291614846,
+          20.6275515421794,
+          148.928829161487,
+          82.5500454112346
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 199,
+        "name": "181"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "lichaamsslagader of aorta. Dit is het grootste bloedvat van het lichaam. Via dit vat stroomt zuurstofrijk bloed naar alle organen in het lichaam.",
+        "beforeText": "longslagaders (arteriae pulmonales). Vanuit de rechterkamer komt het zuurstofarme bloed via de longslagaders in de longen terecht. De rechter longslagader brengt het bloed naar de rechterlong. De linkerlong krijgt bloed vanuit de linker longslagader. In de longen wordt dit zuurstofarme bloed van zuurstof voorzien. Wanneer het bloed de longen weer verlaat, is het daarom zuurstofrijk;",
+        "pageDocumentOffset": 201,
+        "paragraphIndexInBodyStory": 60,
+        "text": "longaders (venae pulmonales). Via deze bloedvaten stroomt zuurstofrijk bloed vanuit de longen terug naar het hart. In de longen heeft het bloed zuurstof opgenomen. Het is daarom nu zuurstofrijk;",
+        "x": 22.0000000259609,
+        "y": 76.4444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+        "bounds": null,
+        "label": "Afbeelding 6.3:",
+        "raw": "Afbeelding 6.3 Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.3.png",
+        "bounds": [
+          115.955555555554,
+          24.2644000000001,
+          234.488888888887,
+          175.8516
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img3.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img3.png"
+      },
+      "page": {
+        "documentOffset": 201,
+        "name": "183"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Bijna elke cel in het lichaam heeft een elektrische lading. Dit betekent dat de buitenkant van de cel een andere lading heeft dan de binnenkant. Vergelijk dit met een magneet met twee uiteinden. De magneet heeft een positief geladen kant en een negatief geladen kant. Dit noemen we ook wel de positieve pool en de negatieve pool. Bij cellen werkt dit ook zo. De binnenkant van de cel heeft een negatieve lading vergeleken met de buitenkant. Andersom heeft de buitenkant vergeleken met de binnenkant een positieve lading. We noemen de cel in dit geval gepolariseerd. Het verschil in lading drukken we uit in millivolt. In rust, dus wanneer de cel niet wordt geprikkeld door een elektrisch signaal, is het verschil tussen de binnenkant van de cel en de buitenkant ongeveer -0,90 millivolt. Dit noemen we de rustpotentiaal.",
+        "beforeText": "In bijna alle gevallen bepaalt de sinusknoop het ritme van het hart. In dat geval volgen de AV-knoop en de hartspiervezels ook dit ritme. Zij geven dan steeds de prikkel van de sinusknoop door en krijgen zelf niet de kans om eigen prikkels af te vuren. We kunnen de sinusknoop dan ook zien als ‘de baas’ over het hart. We noemen de sinusknoop ook wel de pacemaker van het hart. ‘Pacemaker’ betekent namelijk ‘gangmaker’ in het Engels.",
+        "pageDocumentOffset": 207,
+        "paragraphIndexInBodyStory": 118,
+        "text": "6.2.2  De elektrische lading van de cel",
+        "x": 14.9999999994699,
+        "y": 211.911111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+        "bounds": null,
+        "label": "Afbeelding 6.4:",
+        "raw": "Afbeelding 6.4 Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.4.png",
+        "bounds": [
+          13.8517666220073,
+          23.7233610461223,
+          156.414515991874,
+          182.311412170122
+        ],
+        "kind": "link",
+        "linkName": "MAF_CH6_Img4.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_CH6_Img4.png"
+      },
+      "page": {
+        "documentOffset": 207,
+        "name": "189"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.2.5  Het PQ-interval",
+        "beforeText": "6.2.4  Depolarisatie van de boezems: de P-top",
+        "pageDocumentOffset": 209,
+        "paragraphIndexInBodyStory": 128,
+        "text": "Vanuit de sinusknoop ontstaat een actiepotentiaal. Dit is een elektrisch stroompje dat de cellen van de hartspier actief maakt. Het stroompje zorgt dat de hartcyclus begint. Als eerste knijpen de boezems samen. Het elektrische stroompje dat bij het samenknijpen van de boezems ontstaat, is te zien als een top op het ECG. We noemen deze top de P-top.",
+        "x": 14.9999999994699,
+        "y": 110.311111111109
+      },
+      "asset": null,
+      "caption": {
+        "body": "De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.5:",
+        "raw": "Afbeelding 6.5 De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          156.122360891854,
+          22.2403934784976,
+          232.724999999998,
+          175.200934828624
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img5.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img5.png"
+      },
+      "page": {
+        "documentOffset": 209,
+        "name": "191"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "6.2.6  Het QRS-complex",
+        "beforeText": "De volgende verandering in de lijn van het ECG is het QRS-complex: de activatiefase van de kamers. Tussen de P-top en de Q (de Q is het begin van het QRS-complex), zien we een vlak stuk: het PQ-interval. Interval is een ander woord voor tussenstuk. Het PQ-interval geeft de tijd aan tussen activatie van de boezems (het begin van de P-top) en activatie van de kamers (het begin van het QRS-complex). Als we de lengte van het PQ-interval meten, weten we hoelang dit duurt. Normaal is het PQ-interval tussen de 120 en 200 milliseconden lang. Dit is hetzelfde als 0,12 tot 0,2 seconden.",
+        "pageDocumentOffset": 210,
+        "paragraphIndexInBodyStory": 132,
+        "text": "Bij sommige zorgvragers is het PQ-interval langer. Dit betekent dat de hartprikkel langzamer door de AV-knoop loopt. In dat geval zit meer tijd tussen het samenknijpen van de boezems en het samenknijpen van de kamers.",
+        "x": 210,
+        "y": 138.533333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De P-top op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.6:",
+        "raw": "Afbeelding 6.6 De P-top op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.6.png",
+        "bounds": [
+          19.2944444444527,
+          209.878496212504,
+          102.95600636345,
+          375
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img6.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img6.png"
+      },
+      "page": {
+        "documentOffset": 210,
+        "name": "192"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "S. Na de R-top volgt de S-deflectie. Dit is te zien als een scherp dal in het ECG.",
+        "beforeText": "Q. Het eerste onderdeel van het QRS-complex is een klein dal in het ECG. Dit betekent dat de lijn eerst een klein stukje naar beneden gaat. Het dal dat ontstaat, noemen we de Q-deflectie;",
+        "pageDocumentOffset": 211,
+        "paragraphIndexInBodyStory": 141,
+        "text": "R. Na de Q-deflectie gaat de lijn ineens bijna recht naar boven en direct hierna weer naar beneden. Deze scherpe top noemen we de R-top;",
+        "x": 22.0000000259609,
+        "y": 121.599999999993
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het PR-interval op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.7:",
+        "raw": "Afbeelding 6.7 Het PR-interval op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.7.png",
+        "bounds": [
+          17.6999999998391,
+          16.201402637238,
+          102.892524384872,
+          176.34330108789
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img7.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img7.png"
+      },
+      "page": {
+        "documentOffset": 211,
+        "name": "193"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het QRS-complex eindigt na de S-deflectie. De hartprikkel heeft dan alle cellen in de kamers geactiveerd. Op het ECG zie je na het QRS-complex een vlakke lijn: het ST-segment.",
+        "beforeText": "elektrolytstoornissen. Natrium, kalium en calcium zijn elektrolyten. Deze stoffen spelen een belangrijke rol bij het hartritme. Met name kalium heeft een effect op de breedte van het QRS-complex. Bij zorgvragers met een te hoog kaliumgehalte in het lichaam (een hyperkaliëmie) zie je een breder QRS-complex. In sommige gevallen zie je ook een verbreed QRS-complex bij zorgvragers met een te laag kaliumgehalte (een hypokaliëmie). In dat geval is het maar een klein beetje verbreed. Een teveel of tekort aan kalium ontstaat bijvoorbeeld door een sterk verminderde nierfunctie, verzuring, een tekort aan insuline of een teveel aan glucose in het bloed.",
+        "pageDocumentOffset": 212,
+        "paragraphIndexInBodyStory": 150,
+        "text": "6.2.8  Het ST-segment",
+        "x": 296.999999999937,
+        "y": 166.755555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het QRS-complex op het ECG.",
+        "bounds": null,
+        "label": "Afbeelding 6.8:",
+        "raw": "Afbeelding 6.8 Het QRS-complex op het ECG.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.8.png",
+        "bounds": [
+          19.999999999998,
+          212.7525,
+          101.017256012553,
+          374.528170951592
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img8.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img8.png"
+      },
+      "page": {
+        "documentOffset": 212,
+        "name": "194"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Na het ST-segment volgt de T-top. Dit is de laatste top van de hartcyclus. De T-top staat voor het herstellen (repolariseren) van de spiercellen in de hartkamers. Hierbij krijgen de cellen weer dezelfde lading als die zij aan het begin van de hartcyclus hadden (rustpotentiaal). De buitenkant van de hartspiercellen is na de depolarisatie negatief geladen. Na de repolarisatie is de buitenkant weer positief geladen, zoals aan het begin van de hartcyclus.",
+        "beforeText": "Soms is het ST-segment verhoogd of verlaagd. Je ziet dan een vlakke lijn die hoger of lager ligt dan normaal. Dit kan een teken zijn van een hartaanval. Het is daarom belangrijk dat op het ECG goed naar het ST-segment wordt gekeken.",
+        "pageDocumentOffset": 213,
+        "paragraphIndexInBodyStory": 153,
+        "text": "6.2.9  De T-top",
+        "x": 14.9999999994699,
+        "y": 211.911111111109
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch6/Afbeelding_6.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+        "bounds": null,
+        "label": "Afbeelding 6.9:",
+        "raw": "Afbeelding 6.9 De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch6/Afbeelding_6.9.png",
+        "bounds": [
+          20.7763511111127,
+          15,
+          97.0982711111129,
+          167.4
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch6_Img9.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch6_Img9.png"
+      },
+      "page": {
+        "documentOffset": 213,
+        "name": "195"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

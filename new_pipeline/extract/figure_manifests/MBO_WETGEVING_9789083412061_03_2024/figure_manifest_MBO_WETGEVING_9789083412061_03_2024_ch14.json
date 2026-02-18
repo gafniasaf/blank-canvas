@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 25,
+    "words": 3427
+  },
+  "chapter": "14",
+  "chapterRange": {
+    "endOff": 147,
+    "ok": true,
+    "startOff": 139
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:58 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Afbeelding 14.1 Steeds meer gespecialiseerde verpleegkundige zorg wordt in de thuissituatie gegeven.",
+        "beforeText": "Aan de hand van de Arbocheck worden vervolgens afspraken gemaakt om het werk van thuiszorgmedewerkers minder belastend te maken. Hierbij kan het gaan om aanpassingen die gedaan moeten worden aan materialen en werkomgeving. Daarnaast wordt gekeken welke hulpmiddelen gekocht moeten worden om fysieke overbelasting te voorkomen. De Arbocheck geldt voor verpleging en verzorging in de thuissituatie en voor huishoudelijke zorg en kraamhulp.",
+        "pageDocumentOffset": 145,
+        "paragraphIndexInBodyStory": 102,
+        "text": "￼",
+        "x": 17.5,
+        "y": 100.781083882652
+      },
+      "asset": null,
+      "caption": {
+        "body": "Steeds meer gespecialiseerde verpleegkundige zorg wordt in de thuissituatie gegeven.",
+        "bounds": null,
+        "label": "Afbeelding 14.1:",
+        "raw": "Afbeelding 14.1 Steeds meer gespecialiseerde verpleegkundige zorg wordt in de thuissituatie gegeven.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          24.4610361226404,
+          17.5,
+          100.781083882652,
+          134
+        ],
+        "kind": "link",
+        "linkName": "WBF_2.4_Steeds meer gespecialiseerde verpleegkundige zorg wordt in de thuissituatie gegeven.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_2.4_Steeds%20meer%20gespecialiseerde%20verpleegkundige%20zorg%20wordt%20in%20de%20thuissituatie%20gegeven.jpeg"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "132"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

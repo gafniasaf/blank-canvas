@@ -1,0 +1,639 @@
+{
+  "bodyStory": {
+    "index": 1242,
+    "words": 9388
+  },
+  "chapter": "11",
+  "chapterRange": {
+    "endOff": 406,
+    "ok": true,
+    "startOff": 373
+  },
+  "exportedAt": "Thu Dec 25 2025 17:27:01 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Meiose I gebeurt in vier fasen:",
+        "beforeText": "Tijdens meiose I worden de chromosomen gesplitst. Meiose II is hetzelfde proces als gewone celdeling (mitose).",
+        "pageDocumentOffset": 390,
+        "paragraphIndexInBodyStory": 144,
+        "text": "11.4.5  Meiose I",
+        "x": 209.99999999947,
+        "y": 189.333333333336
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+        "bounds": null,
+        "label": "Afbeelding 11.10:",
+        "raw": "Afbeelding 11.10 Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.10.png",
+        "bounds": [
+          19.5687284427397,
+          241.042575685385,
+          169.919399779269,
+          348.916782740453
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img10.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img10.TIF"
+      },
+      "page": {
+        "documentOffset": 390,
+        "name": "372"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Metafase I",
+        "beforeText": "de chromosoomparen gaan naar het midden van de cel. Ze gaan hier op een willekeurige manier op een rij liggen;",
+        "pageDocumentOffset": 391,
+        "paragraphIndexInBodyStory": 155,
+        "text": "soms raken de chromosomen elkaar aan wanneer ze naast elkaar komen te liggen. Zo raakt een chromatide van het ene chromosoom een chromatide van een ander chromosoom aan. Wat dan soms gebeurt, is dat deze stukjes van plaats verwisselen. Dit noemen we crossing-over. Hierdoor krijg je dat de chromatiden in één chromosoom niet meer precies hetzelfde zijn. Dit zorgt dat de genetische code verandert. Dit proces leidt tot meer verschillende genetische codes binnen een soort.",
+        "x": 22.000000026491,
+        "y": 172.400000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de verschillende fasen van meiose I.",
+        "bounds": null,
+        "label": "Afbeelding 11.11:",
+        "raw": "Afbeelding 11.11 Overzicht van de verschillende fasen van meiose I.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.11.png",
+        "bounds": [
+          23.5559999999986,
+          25.8504823348695,
+          140.395999999992,
+          181.637149001536
+        ],
+        "kind": "link",
+        "linkName": "MAF Ch11_img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF%20Ch11_img11.TIF"
+      },
+      "page": {
+        "documentOffset": 391,
+        "name": "373"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "profase II. In beide dochtercellen verdwijnt weer de membraan van de celkern. Daarnaast worden spoelfiguren gevormd;",
+        "beforeText": "11.4.6  Meiose II",
+        "pageDocumentOffset": 392,
+        "paragraphIndexInBodyStory": 163,
+        "text": "Nadat meiose I klaar is, begint meiose II. Tussen deze twee delingen wordt het DNA niet nog een keer verdubbeld. Meiose II is hetzelfde als mitose (gewone celdeling) en bestaat uit de volgende fasen:",
+        "x": 209.99999999947,
+        "y": 53.8666666666698
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van de verschillende fasen van meiose II.",
+        "bounds": null,
+        "label": "Afbeelding 11.12:",
+        "raw": "Afbeelding 11.12 Overzicht van de verschillende fasen van meiose II.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.12.png",
+        "bounds": [
+          64.2027777777162,
+          212.116666666667,
+          267.354752505247,
+          374.470391545228
+        ],
+        "kind": "link",
+        "linkName": "MAF Ch11_img12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF%20Ch11_img12.TIF"
+      },
+      "page": {
+        "documentOffset": 392,
+        "name": "374"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Bij vrouwen stopt de ontwikkeling van de geslachtscellen op dit moment tijdelijk. Bij mannen is dat niet zo. Zaadvorming gaat na meiose I meteen door met meiose II. De cellen die door deze deling worden gemaakt, noemen we spermatiden. Deze cellen zijn ook haploïde. Bij zaadcelvorming maakt het lichaam uit één primaire zaadcel, uiteindelijk vier spermatiden. De spermatiden worden uiteindelijk zaadcellen (spermatozoa).",
+        "beforeText": "Vanuit stamcellen ontstaan cellen die uiteindelijk zaadcellen worden. Deze cellen noemen we de voorlopercellen van de zaadcellen (spermatogonia). In de eerste fase van zaadcelvorming delen de voorlopercellen door mitose. Bij dit proces worden twee soorten cellen gemaakt. Ten eerste worden zo meer voorlopercellen gemaakt. Daarnaast worden primaire zaadcellen gemaakt. De nieuwe voorlopercellen delen steeds weer om nog meer voorlopercellen te maken. Op deze manier raken ze nooit op. Voorlopercellen en primaire zaadcellen zijn diploïde.",
+        "pageDocumentOffset": 395,
+        "paragraphIndexInBodyStory": 189,
+        "text": "Om een rijpe zaadcel te maken, moeten de primaire zaadcellen delen door meiose. Na meiose I, zijn secundaire zaadcellen ontstaan. Deze cellen hebben 23 chromosomen. Ze zijn daarom haploïde.",
+        "x": 101.999999999937,
+        "y": 245.777777777781
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Ontwikkeling van zaadcellen.",
+        "bounds": null,
+        "label": "Afbeelding 11.13:",
+        "raw": "Afbeelding 11.13 Ontwikkeling van zaadcellen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.13.png",
+        "bounds": [
+          169.982550911719,
+          23.4907131559829,
+          197.694688888899,
+          144.327034059719
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 395,
+        "name": "377"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Tijdens de menstruatiecyclus veranderen de eierstokken en de baarmoeder. De veranderingen aan de eierstokken worden geregeld door hormonen. De hormonen die dit doen zijn LH en FSH. Dit gebeurt in twee fasen:",
+        "beforeText": "Na de puberteit komt elke maand bloed uit de vagina van een vrouw. Dit noemen we de ongesteldheid of menstruatie. Voordat het bloeden begint, veranderen een aantal dingen in het lichaam van de vrouw. Deze veranderingen herhalen zich elke maand. Dit proces noemen we de menstruatiecyclus.",
+        "pageDocumentOffset": 397,
+        "paragraphIndexInBodyStory": 201,
+        "text": "Elke maand maakt het lichaam van een vrouw zich klaar om zwanger te worden. Hier zijn veranderingen in de geslachtsorganen voor nodig. Deze veranderingen worden getroffen door de menstruatiecyclus. Zonder de menstruatiecyclus is het dan ook niet mogelijk om zwanger te worden. Wanneer dit wel mogelijk is, is de vrouw vruchtbaar. Het lichaam maakt dan namelijk eicellen die bevrucht kunnen worden door een zaadcel. Per cyclus komt één eicel vrij in de eileider. Eén cyclus duurt ongeveer 28 dagen.",
+        "x": 15,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van de menstruatiecyclus.",
+        "bounds": null,
+        "label": "Afbeelding 11.14:",
+        "raw": "Afbeelding 11.14 Schematisch overzicht van de menstruatiecyclus.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.14.png",
+        "bounds": [
+          60.0213748833624,
+          27.6,
+          212.421374883362,
+          180
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img15.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img15.TIF"
+      },
+      "page": {
+        "documentOffset": 397,
+        "name": "379"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De afscheidingsfase (secretiefase)",
+        "beforeText": "De opbouwfase (proliferatiefase)",
+        "pageDocumentOffset": 400,
+        "paragraphIndexInBodyStory": 229,
+        "text": "Nadat het baarmoederslijmvlies uit de baarmoeder is gespoeld, begint het lichaam zich weer voor te bereiden op een nieuwe eicel. In deze fase maken de groeiende eiblaasjes in de eierstokken oestrogenen aan. De oestrogenen zorgen dat het baarmoederslijmvlies weer opnieuw begint te groeien. We noemen dit de opbouwfase, omdat het baarmoederslijmvlies dan dikker wordt. Een andere naam voor deze fase is proliferatiefase. Proliferatie betekent celgroei. Deze fase begint op de zevende dag van de menstruatiecyclus en eindigt op dag 21.",
+        "x": 209.99999999947,
+        "y": 53.8666666666698
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De hormonale regeling van de geslachtsklieren bij mannen.",
+        "bounds": null,
+        "label": "Afbeelding 11.15:",
+        "raw": "Afbeelding 11.15 De hormonale regeling van de geslachtsklieren bij mannen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.15.png",
+        "bounds": [
+          126.493999999998,
+          225.475655555556,
+          234.189999999997,
+          359.074011111111
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 400,
+        "name": "382"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "In de orgastische fase komt de man of vrouw klaar. Hij of zij krijgt dan een orgasme. Tijdens het klaarkomen, trekken spieren in de buurt van de geslachtsorganen ritmisch samen. Dit zijn de spieren van de bekkenbodem. Dit gebeurt zowel bij mannen als bij vrouwen. Bij de man komt het sperma door de penis naar buiten. Dit wordt zaadlozing of ejaculatie genoemd.",
+        "beforeText": "In deze fase wordt de ingang van de vagina nauwer. Tegelijkertijd wordt het binnenste deel van de vagina juist wijder. De penis gaat tijdens deze fase in de vagina. De opwinding is zo hoog tijdens deze fase dat je lichaam even anders functioneert. Je hart gaat bijvoorbeeld sneller kloppen, je krijgt een hogere bloeddruk en je krijgt een snellere ademhaling. Deze veranderingen worden steeds sterker. Ze gebeuren zonder dat je daar zelf bewust van bent. Daarom noemen we ze autonome verschijnselen.",
+        "pageDocumentOffset": 402,
+        "paragraphIndexInBodyStory": 253,
+        "text": "De orgastische fase",
+        "x": 296.999999999937,
+        "y": 178.044444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+        "bounds": null,
+        "label": "Afbeelding 11.16:",
+        "raw": "Afbeelding 11.16 Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.16.png",
+        "bounds": [
+          14.294444444552,
+          229.2644,
+          114.294444444547,
+          361.8524
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img17.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img17.TIF"
+      },
+      "page": {
+        "documentOffset": 402,
+        "name": "384"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Zaadcellen willen zo snel mogelijk naar een eicel toe. Alleen de allersnelste zaadcel kan de eicel namelijk bevruchten. De race begint in de vagina. Hier komen de zaadcellen terecht bij de zaadlozing. Hierna gaan de zaadcellen naar de baarmoeder. Om in de baarmoeder te komen, moeten de zaadcellen eerst door de baarmoederhals. Hier zit slijm in. Hormonen beïnvloeden hoeveel slijm in de baarmoederhals zit en hoe dik dit slijm is. Rond de eisprong maakt het lichaam van de vrouw het makkelijk voor zaadcellen om in de baarmoeder te komen. De hormonen zorgen daarom voor veel slijm. Slijmdraden lopen dan tot in de vagina. Het is makkelijk voor zaadcellen om door dit slijm te komen. Zodra de zaadcellen in de baarmoeder zijn, zwemmen ze naar de eileiders. Hier kunnen ze een eicel bevruchten.",
+        "beforeText": "Het zaadvocht is het tegenovergestelde van zuur. Dit noemen we alkalisch. Hierdoor is de pH-waarde van het sperma hoog. Een omgeving met een wat hogere pH-waarde is voor zaadcellen het best. In de vagina is de pH-waarde laag, omdat deze omgeving zuur is. Het alkalische zaadvocht beschermt de zaadcellen tegen de zure omgeving in de vagina. De zaadcellen moeten ver zwemmen om bij een eicel te komen. Ze hebben daarom voedingsstoffen nodig. Deze zitten in het zaadvocht. Daarnaast zitten in het zaadvocht eiwitten (enzymen) die de zaadcellen helpen te bewegen.",
+        "pageDocumentOffset": 404,
+        "paragraphIndexInBodyStory": 272,
+        "text": "11.6.4  De weg naar bevruchting",
+        "x": 209.99999999947,
+        "y": 161.111111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Zaadcellen bestaan uit een kop, middenstuk en staart.",
+        "bounds": null,
+        "label": "Afbeelding 11.17:",
+        "raw": "Afbeelding 11.17 Zaadcellen bestaan uit een kop, middenstuk en staart.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.17.png",
+        "bounds": [
+          24.6058666666738,
+          216.588888888889,
+          110.330866666674,
+          368.988888888889
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img18.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img18.TIF"
+      },
+      "page": {
+        "documentOffset": 404,
+        "name": "386"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "11.1  Geslachtskenmerken",
+        "beforeText": "",
+        "pageDocumentOffset": 373,
+        "paragraphIndexInBodyStory": 2,
+        "text": "Na het doorlopen van al deze onderwerpen is aan het eind van het hoofdstuk duidelijk wat de functie van het voortplantingsstelsel is en in welke processen de geslachtsorganen een rol spelen.",
+        "x": 15,
+        "y": 172.400000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Fysieke verandering tijdens de puberteit bij meisjes.",
+        "bounds": null,
+        "label": "Afbeelding 11.2:",
+        "raw": "Afbeelding 11.2 Fysieke verandering tijdens de puberteit bij meisjes.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.2.png",
+        "bounds": [
+          14.3191959052934,
+          22.5313722922716,
+          155.46666666667,
+          74.5313722922716
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img2.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img2.png"
+      },
+      "page": {
+        "documentOffset": 373,
+        "name": "355"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de eikel. Dit is het topje van de penis. Dit deel is wat dikker dan de rest van de penis. Dit komt omdat het zwellichaam om de urinebuis op deze plek wat dikker is. In de eikel zitten veel zenuwen. Dit maakt de eikel gevoelig voor aanraking. Dit is belangrijk voor de seksuele opwinding. Om de eikel heen zit een dun stukje huid: de voorhuid. Deze huid beschermt de gevoelige eikel.",
+        "beforeText": "de wortel. Dit is het deel waarmee de penis aan de rest van het lichaam is vastgemaakt. De wortel maakt namelijk de verbinding tussen de penis en het bekken. Het specifieke deel van het bekken waar de wortel aan vastzit, is het schaambeen (os pubis). De verbinding tussen het schaambeen en de penis wordt gemaakt met een sterke band. Dit noemen we een bindweefselband (ligament);",
+        "pageDocumentOffset": 375,
+        "paragraphIndexInBodyStory": 39,
+        "text": "de schacht. Vanuit de wortel loopt de penis door in de penisschacht. Dit is het deel van de penis dat vrij hangt. In dit deel van de penis zitten drie zwellichamen. Dit zijn een soort sponzen. Om elk zwellichaam zit een stevig vlies van bindweefsel. In de zwellichamen zitten spiercellen en elastische vezels. Daarnaast zit in de zwellichamen een groot netwerk van slagaders. Als veel bloed in de slagaders zit, zetten ze uit. Hierdoor zwellen de zwellichamen op (vandaar de naam). Aan de bovenkant van de penis zitten twee zwellichamen. Rondom de urinebuis ligt het derde zwellichaam. Aan het begin van dit zwellichaam zitten twee klieren. Tijdens de seks maken ze slijm dat in de urinebuis terechtkomt. Dit slijm houdt zaadcellen levend. Op deze manier gaan de zaadcellen niet dood in de urinebuis voordat ze uit de penis komen;",
+        "x": 22.000000026491,
+        "y": 211.911111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Dwarsdoorsnede van de penis.",
+        "bounds": null,
+        "label": "Afbeelding 11.3:",
+        "raw": "Afbeelding 11.3 Dwarsdoorsnede van de penis.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.3.png",
+        "bounds": [
+          6.27557885306047,
+          56.5588661652886,
+          191.590789703848,
+          159.604095517293
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img03.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img03.TIF"
+      },
+      "page": {
+        "documentOffset": 375,
+        "name": "357"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De zaadballen zijn de mannelijke geslachtsklieren. Hier worden zaadcellen en mannelijke hormonen gemaakt. We noemen zaadballen ook wel teelballen, testes of testikels. In de zaadballen zitten gekronkelde buisjes: de zaadbuisjes. In deze buisjes worden de zaadcellen (spermatozoa) gemaakt.",
+        "beforeText": "Omdat de temperatuur zo belangrijk is voor het maken van zaadcellen, moet de temperatuur van de zaadballen geregeld worden. Dit wordt gedaan door te veranderen hoe dicht ze tegen het lichaam hangen. Wanneer het buiten koud is, wordt de balzak dichter bij het lichaam getrokken. Hierdoor worden de zaadballen warm gehouden. Als het buiten warm is, hangt de balzak juist verder van het lichaam af. Op deze manier koelen de zaadballen beter af. Om dit te regelen is een spier nodig. Deze spier zit om een zaadstreng. Dit zijn bundels van structuren, waaronder slagaders, aders, zenuwen en een buis die we de zaadleider noemen. Beide zaadballen zijn verbonden met een zaadstreng. De zaadstrengen verbinden de zaadballen met de buikholte. De spieren om de zaadstrengen trekken zich samen om de zaadballen dichter tegen het lichaam te houden. Wanneer het warm is, ontspannen de spieren, waardoor de zaadballen verder van het lichaam af komen te hangen.",
+        "pageDocumentOffset": 377,
+        "paragraphIndexInBodyStory": 52,
+        "text": "11.2.4  De zaadballen",
+        "x": 101.999999999937,
+        "y": 211.911111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van de zaadballen.",
+        "bounds": null,
+        "label": "Afbeelding 11.4:",
+        "raw": "Afbeelding 11.4 Schematisch overzicht van de zaadballen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.4.png",
+        "bounds": [
+          19.2944444444476,
+          22.1628000000001,
+          172.710444444439,
+          175.5788
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 377,
+        "name": "359"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "11.2.9  Cowperse klieren",
+        "beforeText": "11.2.8  De zaadblaasjes",
+        "pageDocumentOffset": 379,
+        "paragraphIndexInBodyStory": 71,
+        "text": "Aan beide kanten van de urineblaas liggen de zaadblaasjes. Dit zijn klieren die een dik, doorzichtig vocht maken. Dit vocht is onderdeel van het zaadvocht. Zaadvocht maakt samen met de zaadcellen deel uit van het sperma dat tijdens de zaadlozing uit de penis komt. Zaadvocht bevat ook een suiker (fructose). Dit geeft de zaadcellen energie, zodat zij goed kunnen bewegen. Buisjes brengen het vocht van de zaadblaasjes naar de zaadcellen. Deze buisjes eindigen vlak boven de prostaat in de zaadleider. De buis wordt het spuitbuisje genoemd vanaf het stuk waar deze afvoerbuizen van de zaadblaasjes samenkomen met de zaadleider.",
+        "x": 101.999999999937,
+        "y": 172.400000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+        "bounds": null,
+        "label": "Afbeelding 11.5:",
+        "raw": "Afbeelding 11.5 Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.5.png",
+        "bounds": [
+          15.9280555555633,
+          17.9266444444445,
+          157.660055555567,
+          149.737404444445
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img05.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img05.TIF"
+      },
+      "page": {
+        "documentOffset": 379,
+        "name": "361"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De eierstokken (ovaria) zijn de geslachtsklieren van de vrouw. De eierstokken zitten in de buikholte, tegen de rand van het kleine bekken. Een vrouw heeft twee eierstokken, aan beide kanten van de baarmoeder één. De eierstokken worden goed op hun plek gehouden. Dit gebeurt doordat ze in bindweefsel liggen en met banden (ligamenten) vastzitten aan andere organen. De eierstokken lijken qua grootte en vorm op amandelen. Ze zijn bobbelig, ongeveer 4 cm lang, 2 cm breed en 1 cm dik.",
+        "beforeText": "de clitoris. De clitoris is te zien op de plek waar de binnenste schaamlippen aan de voorkant samenkomen. Maar een klein deel van de clitoris is zichtbaar. Dit deel is een klein knobbeltje. Het deel wat niet zichtbaar is, ligt onder de schaamlippen en om de vagina heen. Zelfs het deel van de clitoris wat aan de buitenkant zit, is vaak niet helemaal te zien. Dit is omdat een stukje huid de clitoris bedekt. Dit stukje huid noemen we de clitorishoed. De clitoris heeft veel zenuwen waardoor het zeer gevoelig is. De clitoris speelt dan ook een grote rol bij seksuele opwinding. De clitoris kan je vergelijken met de eikel van de penis bij de man. Net als de penis, zwelt de clitoris op door seksuele opwinding. Dit komt doordat de clitoris ook uit zwellichamen bestaat. De clitoris heeft twee zwellichamen die aan het eind wat dikker zijn. Door seksuele opwinding zwellen deze op.",
+        "pageDocumentOffset": 381,
+        "paragraphIndexInBodyStory": 82,
+        "text": "11.3.2  De eierstokken",
+        "x": 15,
+        "y": 82.088888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Vulva van de vrouw.",
+        "bounds": null,
+        "label": "Afbeelding 11.6:",
+        "raw": "Afbeelding 11.6 Vulva van de vrouw.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.6.png",
+        "bounds": [
+          94.9999999998225,
+          23.6031507246377,
+          232.667999999819,
+          175.892715942029
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 381,
+        "name": "363"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Wanneer je als vrouw vruchtbaar bent, heb je mogelijkheid om zwanger te worden. De periode van het leven waarin een vrouw vruchtbaar is, noemen we de vruchtbare levensfase. Deze fase begint tijdens de puberteit en eindigt tijdens de overgang (menopauze). Tijdens deze fase worden ongeveer 500 eiblaasjes rijp. Vanaf de puberteit wordt ongeveer één keer per maand een eiblaasje rijp. Uiteindelijk moet dit rijpe eiblaasje openbarsten. Een rijp eiblaasje dat op het punt van openbarsten staat, noemen we een Graafse follikel. Wanneer het rijpe eiblaasje openbarst, komt de rijpe eicel vrij. Dit noemen we de eisprong (ovulatie). Een vrijgekomen, rijpe eicel kan vervolgens bevrucht worden door een zaadcel van een man. Na de overgang worden geen eiblaasjes meer rijp. De vruchtbare levensfase komt dan ook ten einde.",
+        "beforeText": "de vrouwelijke geslachtshormonen. Dit zijn onder andere progesteron en oestrogeen.",
+        "pageDocumentOffset": 382,
+        "paragraphIndexInBodyStory": 87,
+        "text": "Een eicel komt uit een eiblaasje (follikel). Dit is een onrijpe eicel. Om de onrijpe eicel zit één laag of meerdere lagen speciale cellen. Deze cellen noemen we follikelcellen (granulosacellen). Deze cellen beschermen en voeden de onrijpe eicellen. De eierstokken bevatten veel eiblaasjes. Wanneer een meisje geboren wordt, bevatten haar twee eierstokken samen ongeveer 400.000 eiblaasjes. Deze eiblaasjes zitten allemaal in een andere fase van het rijp worden.",
+        "x": 209.99999999947,
+        "y": 82.088888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+        "bounds": null,
+        "label": "Afbeelding 11.7:",
+        "raw": "Afbeelding 11.7 Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.7.png",
+        "bounds": [
+          142.641721374545,
+          238.70110058951,
+          233.975084309744,
+          354.532041921311
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img07.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img07.TIF"
+      },
+      "page": {
+        "documentOffset": 382,
+        "name": "364"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Om nieuwe cellen te maken, heb je celdeling nodig. Dit is een erg belangrijk proces. Het is bijvoorbeeld nodig om wondjes te genezen. Als je een wondje krijgt raken cellen namelijk beschadigd en gaan deze dood. Om de kapotte of dode cellen te vervangen, moeten nieuwe cellen gemaakt worden. Daarnaast heb je celdeling nodig om te groeien. Celdeling gebeurt in een aantal fasen. Deze fasen volgen elkaar op in een cyclus. Een belangrijk deel van de celdeling is het kopiëren van de chromosomen. Zo maak je van één cel, twee cellen met hetzelfde aantal chromosomen. Het kopiëren van de chromosomen gebeurt vlak voordat de celkern zich gaat delen. Om het DNA in de chromosomen te kopiëren, moet het uitgerold zijn. Na het kopiëren, moet het DNA weer worden opgerold. Op deze manier wordt van de lange DNA-strengen een compacte bundel gemaakt. Hierdoor worden de chromosomen dikker en korter. Ze worden zelfs zo dik dat ze zichtbaar zijn onder een microscoop. Je DNA wordt opgerold door het om speciale eiwitten te wikkelen. Deze eiwitten noemen de histonen. DNA met histonen noemen we chromatine.",
+        "beforeText": "Bijna al onze cellen hebben 46 chromosomen. Elk chromosoom vormt een paar met een ander chromosoom. Dit noemen we een chromosomenpaar. Bijna al onze cellen hebben daarom 23 chromosomenparen. De cellen waarin alle chromosomen paren vormen, noemen we diploïde. In deze cellen bestaan de chromosomenparen uit één chromosoom die van de moeder komt en één die van de vader komt. De twee chromosomen in een paar hebben genen voor dezelfde soort eigenschappen. Zo hebben ze allebei bijvoorbeeld het gen dat de kleur van je ogen bepaalt. Chromosomen zoals deze die genen voor dezelfde eigenschappen hebben, heten homologe chromosomen. De homologe chromosomen zijn niet helemaal hetzelfde, maar ze lijken wel op elkaar.",
+        "pageDocumentOffset": 386,
+        "paragraphIndexInBodyStory": 121,
+        "text": "Je hebt twee soorten chromosomen: autosomen en geslachtschromosomen. Zoals de naam al aangeeft, bepalen de geslachtschromosomen je geslacht. Autosomen bepalen alle andere eigenschappen die niets te maken hebben met je geslacht. Van de 23 chromosoomparen in lichaamscellen heb je één paar geslachtschromosomen en 22 paren autosomen.",
+        "x": 209.99999999947,
+        "y": 161.111111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "In de celkern zit het erfelijk materiaal.",
+        "bounds": null,
+        "label": "Afbeelding 11.8:",
+        "raw": "Afbeelding 11.8 In de celkern zit het erfelijk materiaal.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.8.png",
+        "bounds": [
+          20.49255133057,
+          216.75,
+          122.09255133057,
+          369.15
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img8.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img8.TIF"
+      },
+      "page": {
+        "documentOffset": 386,
+        "name": "368"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "11.4.3  Interfase",
+        "beforeText": "Het geslachtschromosoom heeft niet alleen informatie dat te maken heeft met je geslacht. Je hebt bijvoorbeeld het gen voor bloedstolling op het X-chromosoom. Als je dit gen niet hebt, stolt je bloed niet goed. Het duurt dan te lang tot het bloed stolt of het stolt het helemaal niet. Deze ziekte noemen we hemofilie. Dit is erfelijk, omdat de informatie op het geslachtschromosoom wordt doorgegeven als je een kind krijgt. Het maakt dan wel uit of het kind een jongen of een meisje is.",
+        "pageDocumentOffset": 388,
+        "paragraphIndexInBodyStory": 133,
+        "text": "Sommige aandoeningen komen vaker voor bij mannen, zoals kleurenblindheid. Dit komt doordat ze maar één X-chromosoom hebben. Als het ene X-chromosoom dan een foutje heeft, wordt dit niet goedgemaakt door een andere, gezonde X-chromosoom. Dit gebeurt wel bij vrouwen. Hetzelfde probleem geldt voor het Y-chromosoom. Als man heb je namelijk ook maar één Y-chromosoom. Sommige genen op de Y-chromosomen zitten niet op de X-chromosomen. Als de man dan een foutje op het Y-chromosoom heeft, wordt dit niet goedgemaakt door het X-chromosoom. Een voorbeeld van een gen dat wel op het Y-chromosoom voorkomt maar niet op het X-chromosoom, is het gen voor haar op de oorschelp. Het gen om kleuren te zien, zit normaal juist op het X-chromosoom en niet op het Y-chromosoom.",
+        "x": 296.999999999937,
+        "y": 217.555555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch11/Afbeelding_11.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+        "bounds": null,
+        "label": "Afbeelding 11.9:",
+        "raw": "Afbeelding 11.9 Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.9.png",
+        "bounds": [
+          35.3272404737041,
+          228.187350079708,
+          161.182888446943,
+          374.67307032014
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch11_Img9.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch11_Img9.TIF"
+      },
+      "page": {
+        "documentOffset": 388,
+        "name": "370"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

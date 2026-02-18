@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 220 20% 97%;
+    --foreground: 220 25% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 220 25% 10%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 220 25% 10%;
+    --primary: 230 65% 52%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 220 14% 92%;
+    --secondary-foreground: 220 25% 15%;
+    --muted: 220 14% 95%;
+    --muted-foreground: 220 10% 46%;
+    --accent: 160 60% 40%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 220 13% 90%;
+    --input: 220 13% 90%;
+    --ring: 230 65% 52%;
+    --radius: 0.5rem;
+
+    --status-pending: 45 93% 47%;
+    --status-running: 230 65% 52%;
+    --status-done: 160 60% 40%;
+    --status-failed: 0 72% 51%;
+    --status-claimed: 270 50% 55%;
+    --status-cancelled: 220 10% 46%;
+
+    --sidebar-background: 225 25% 12%;
+    --sidebar-foreground: 220 14% 80%;
+    --sidebar-primary: 230 65% 60%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 225 20% 18%;
+    --sidebar-accent-foreground: 220 14% 90%;
+    --sidebar-border: 225 15% 20%;
+    --sidebar-ring: 230 65% 52%;
+  }
+
+  .dark {
+    --background: 225 25% 8%;
+    --foreground: 220 14% 90%;
+    --card: 225 20% 12%;
+    --card-foreground: 220 14% 90%;
+    --popover: 225 20% 12%;
+    --popover-foreground: 220 14% 90%;
+    --primary: 230 65% 60%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 225 15% 18%;
+    --secondary-foreground: 220 14% 85%;
+    --muted: 225 15% 15%;
+    --muted-foreground: 220 10% 55%;
+    --accent: 160 60% 45%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 225 15% 20%;
+    --input: 225 15% 20%;
+    --ring: 230 65% 60%;
+
+    --status-pending: 45 93% 55%;
+    --status-running: 230 65% 65%;
+    --status-done: 160 60% 50%;
+    --status-failed: 0 72% 58%;
+    --status-claimed: 270 50% 60%;
+    --status-cancelled: 220 10% 50%;
+
+    --sidebar-background: 225 30% 6%;
+    --sidebar-foreground: 220 14% 75%;
+    --sidebar-primary: 230 65% 60%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 225 25% 12%;
+    --sidebar-accent-foreground: 220 14% 90%;
+    --sidebar-border: 225 20% 14%;
+    --sidebar-ring: 230 65% 60%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Pulse animation for running status */
+@keyframes status-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+.animate-status-pulse {
+  animation: status-pulse 2s ease-in-out infinite;
+}

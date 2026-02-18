@@ -1,0 +1,391 @@
+/**
+ * Professional Educational Textbook Styles for Prince XML
+ * 
+ * MBO Healthcare Textbook - Print-ready CSS
+ * Page size: 195mm x 265mm (MBO standard)
+ */
+
+/* =============================================================================
+   CSS Variables
+   ============================================================================= */
+
+:root {
+  /* Typography - Professional book fonts */
+  --font-serif: 'Crimson Pro', 'Crimson Text', 'Georgia', serif;
+  --font-sans: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+  
+  /* Font sizes - optimized for print */
+  --size-base: 10.5pt;
+  --size-small: 9pt;
+  --size-tiny: 8pt;
+  --size-h1: 28pt;
+  --size-h2: 18pt;
+  --size-h3: 13pt;
+  
+  /* Colors */
+  --color-text: #1a1a1a;
+  --color-text-muted: #555;
+  --color-heading: #0a2540;
+  --color-accent: #0066cc;
+  
+  /* Praktijk - Professional teal */
+  --color-praktijk: #006d6d;
+  --color-praktijk-bg: #e6f3f3;
+  --color-praktijk-border: #008080;
+  
+  /* Verdieping - Professional purple */
+  --color-verdieping: #4a3660;
+  --color-verdieping-bg: #f0ebf5;
+  --color-verdieping-border: #6b4d8a;
+  
+  /* Layout */
+  --line-height: 1.45;
+  --paragraph-spacing: 0pt;
+  --paragraph-indent: 1.2em;
+}
+
+/* =============================================================================
+   Page Setup (CSS Paged Media)
+   ============================================================================= */
+
+@page {
+  size: 195mm 265mm;
+  margin: 25mm 20mm 25mm 25mm; /* Top, Right, Bottom, Left */
+  
+  /* Baseline grid for Prince */
+  /* line-height: 14pt; */
+
+  @top-center {
+    content: string(chapter-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    vertical-align: bottom;
+    padding-bottom: 0.5em;
+    border-bottom: 0.5pt solid #ccc;
+    width: 100%;
+  }
+  
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    vertical-align: top;
+    padding-top: 0.5em;
+  }
+}
+
+/* Left Page (Verso) */
+@page :left {
+  margin-right: 20mm;
+  margin-left: 25mm; /* Gutter */
+  
+  @top-left {
+    content: string(section-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+  }
+  @top-center { content: none; }
+  @top-right { content: none; }
+  
+  @bottom-left {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 600;
+  }
+  @bottom-center { content: none; }
+}
+
+/* Right Page (Recto) */
+@page :right {
+  margin-left: 20mm;
+  margin-right: 25mm; /* Gutter */
+  
+  @top-right {
+    content: string(chapter-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+  }
+  @top-center { content: none; }
+  @top-left { content: none; }
+  
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 600;
+  }
+  @bottom-center { content: none; }
+}
+
+/* First Page of Chapter */
+@page chapter-first {
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+  @bottom-center { content: counter(page); }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+  margin-top: 60mm;
+}
+
+/* Blank Pages */
+@page :blank {
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+}
+
+/* =============================================================================
+   Base Typography
+   ============================================================================= */
+
+html {
+  font-family: var(--font-serif);
+  font-size: var(--size-base);
+  line-height: var(--line-height);
+  color: var(--color-text);
+  text-align: justify;
+}
+
+/* Hyphenation */
+body {
+  hyphens: none;
+  adobe-hyphenate: none;
+  -webkit-hyphens: none;
+  prince-hyphens: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-sans);
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1.2;
+  break-after: avoid;
+  page-break-after: avoid;
+}
+
+/* =============================================================================
+   Headings & Structure
+   ============================================================================= */
+
+/* Chapter Title */
+.chapter-title-block {
+  string-set: chapter-title content();
+  prince-page-group: start;
+  page: chapter-first;
+  margin-bottom: 3em;
+}
+
+.chapter-number {
+  font-family: var(--font-sans);
+  font-size: 14pt;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-accent);
+  margin-bottom: 0.5em;
+}
+
+h1.chapter-title {
+  font-size: var(--size-h1);
+  margin: 0;
+  padding-bottom: 0.5em;
+  border-bottom: 2pt solid var(--color-heading);
+}
+
+/* Section Title */
+h2.section-title {
+  font-size: var(--size-h2);
+  margin-top: 2em;
+  margin-bottom: 0.8em;
+  string-set: section-title content();
+}
+
+/* Subparagraph Title */
+h3.subparagraph-title {
+  font-size: var(--size-h3);
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+/* =============================================================================
+   Paragraphs
+   ============================================================================= */
+
+p {
+  margin: 0;
+  orphans: 2;
+  widows: 2;
+}
+
+p + p {
+  text-indent: var(--paragraph-indent);
+}
+
+/* Remove indent after headings */
+h1 + p, h2 + p, h3 + p, h4 + p, .figure-block + p {
+  text-indent: 0;
+}
+
+/* =============================================================================
+   Layers (Praktijk / Verdieping)
+   ============================================================================= */
+
+.layer-block {
+  margin: 1.5em 0;
+  padding: 1em 1.2em;
+  page-break-inside: avoid;
+  border-radius: 4px;
+  text-indent: 0 !important;
+}
+
+.layer-block p {
+  text-indent: 0;
+}
+
+.layer-block.praktijk {
+  background-color: var(--color-praktijk-bg);
+  border-left: 4pt solid var(--color-praktijk-border);
+}
+
+.layer-block.verdieping {
+  background-color: var(--color-verdieping-bg);
+  border-left: 4pt solid var(--color-verdieping-border);
+}
+
+.layer-label {
+  font-family: var(--font-sans);
+  font-size: var(--size-tiny);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.5em;
+  display: block;
+}
+
+.praktijk .layer-label { color: var(--color-praktijk); }
+.verdieping .layer-label { color: var(--color-verdieping); }
+
+/* =============================================================================
+   Images
+   ============================================================================= */
+
+.figure-block {
+  margin: 1.5em 0;
+  page-break-inside: avoid;
+  text-align: center;
+}
+
+.figure-block img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 2px;
+}
+
+.figure-caption {
+  margin-top: 0.5em;
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  color: var(--color-text-muted);
+  font-style: italic;
+  text-align: left;
+}
+
+/* Chapter Opener Image */
+.chapter-opener-image {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+/* =============================================================================
+   TOC
+   ============================================================================= */
+
+.toc {
+  page-break-before: always;
+}
+
+.toc-entry {
+  margin-bottom: 0.5em;
+}
+
+.toc-entry a {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+}
+
+.toc-entry .title {
+  flex: 1;
+}
+
+.toc-entry .page {
+  /* target-counter needs correct target ID */
+  /* content: target-counter(attr(href), page); */
+}
+
+/* =============================================================================
+   Title Page
+   ============================================================================= */
+
+.title-page {
+  text-align: center;
+  margin-top: 30%;
+  page-break-after: always;
+}
+
+.book-title {
+  font-size: 36pt;
+  font-family: var(--font-sans);
+  font-weight: 700;
+  color: var(--color-heading);
+}
+
+.book-subtitle {
+  font-size: 18pt;
+  color: var(--color-text-muted);
+  margin-top: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

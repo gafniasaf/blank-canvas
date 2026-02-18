@@ -1,0 +1,89 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 2547
+  },
+  "chapter": "13",
+  "chapterRange": {
+    "endOff": 160,
+    "ok": true,
+    "startOff": 154
+  },
+  "exportedAt": "Sat Jan 03 2026 22:46:50 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Water en mineralen",
+        "beforeText": "mensen die altijd hun huid bedekken.",
+        "pageDocumentOffset": 156,
+        "paragraphIndexInBodyStory": 2619,
+        "text": "Een vitamine D-tekort is op te lossen met supplementen. Vitamine D is belangrijk voor een goed immuunsysteem en voor de botten;",
+        "x": 210,
+        "y": 145.233193800182
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch13/Afbeelding_13.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De Body Mass Index (BMI).",
+        "bounds": null,
+        "label": "Afbeelding 13.1:",
+        "raw": "Afbeelding 13.1 De Body Mass Index (BMI).",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch13/Afbeelding_13.1.png",
+        "bounds": [
+          163.145294790515,
+          229.69011,
+          235.54218374329,
+          355.30989
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk13_13.1_De body mass index.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk13_13.1_De%20body%20mass%20index.tif"
+      },
+      "page": {
+        "documentOffset": 156,
+        "name": "143"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "opgezwollen lippen, tong, strottenklepje of keel;",
+        "beforeText": "loopneus.",
+        "pageDocumentOffset": 159,
+        "paragraphIndexInBodyStory": 2719,
+        "text": "mond:",
+        "x": 107.999999830458,
+        "y": 113.688150151568
+      },
+      "asset": null,
+      "caption": {
+        "body": "Om uitdroging te voorkomen moet de zorgvrager voldoende water drinken.",
+        "bounds": null,
+        "label": "Afbeelding 13.2:",
+        "raw": "Afbeelding 13.2 Om uitdroging te voorkomen moet de zorgvrager voldoende water drinken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          115.406321447866,
+          15.0000011020237,
+          184.203572306975,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk13_13.2_Om uitdroging te voorkomen moet men voldoende water drinken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk13_13.2_Om%20uitdroging%20te%20voorkomen%20moet%20men%20voldoende%20water%20drinken.tif"
+      },
+      "page": {
+        "documentOffset": 159,
+        "name": "146"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

@@ -1,0 +1,289 @@
+{
+  "bodyStory": {
+    "index": 1562,
+    "words": 5750
+  },
+  "chapter": "10",
+  "chapterRange": {
+    "endOff": 370,
+    "ok": true,
+    "startOff": 354
+  },
+  "exportedAt": "Thu Dec 25 2025 17:26:40 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "nierzenuw (nervus renalis). De nierzenuw zorgt voor het meer of juist minder actief maken van de nier. Wanneer de nier meer actief wordt, betekent dit dat de nier meer urine gaat aanmaken. Als je bijvoorbeeld veel water gedronken hebt, maken je nieren meer urine aan. Je plast dan het teveel aan water in je lichaam weer uit.",
+        "beforeText": "nierslagader (arteria renalis). De nierslagader voert zuurstofrijk bloed naar de nieren toe. Hierdoor krijgt de nier voedingsstoffen binnen;",
+        "pageDocumentOffset": 355,
+        "paragraphIndexInBodyStory": 15,
+        "text": "nierader (vena renalis). De nierader voert zuurstofarm bloed van de nier terug naar het hart;",
+        "x": 22.000000026491,
+        "y": 155.46666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+        "bounds": null,
+        "label": "Afbeelding 10.1:",
+        "raw": "Afbeelding 10.1 De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.1.png",
+        "bounds": [
+          15.3766730306354,
+          17.9821566855268,
+          117.892080239252,
+          179.612287758917
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img1.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img1.TIF"
+      },
+      "page": {
+        "documentOffset": 355,
+        "name": "337"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "10.1.3  Functies van de nieren",
+        "beforeText": "Bij de nierpoort splitst de nierslagader in vier of vijf kleine slagaders. Deze splitsen zelf weer in nog kleinere slagaders. Deze kleinere slagaders noemen we de afferente arteriolen. Afferent betekent namelijk dat ze bloed aanvoeren, in dit geval naar de nefronen. Door deze kleinste slagaders komt het bloed aan in alle nefronen van de nier.",
+        "pageDocumentOffset": 357,
+        "paragraphIndexInBodyStory": 31,
+        "text": "De afvoerende vaten bevatten het bloed waar de afvalstoffen door de nier uitgehaald zijn. Deze vaten lopen in hetzelfde patroon de nier uit als het patroon waarin de aanvoerende vaten de nier inlopen. De afvoerende kleine aders noemen we de efferente venulen. Het bloed hiervan verzamelt zich vanuit deze kleine aders in de nierader (vena renalis). Vanuit daar loopt het bloed de nier uit richting de onderste holle ader (vena cava inferior). Deze grote ader vervoert het bloed terug naar het hart.",
+        "x": 15,
+        "y": 178.044444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de nier.",
+        "bounds": null,
+        "label": "Afbeelding 10.2:",
+        "raw": "Afbeelding 10.2 Doorsnede van de nier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.2.png",
+        "bounds": [
+          4.67369060945202,
+          44.3765483067722,
+          158.909838266728,
+          160.053659049728
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 357,
+        "name": "339"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als de nefronen urine gemaakt hebben, komt de urine samen in de verzamelbuizen. Vanuit de verzamelbuizen gaat de urine naar de nierkelken en daarna naar het nierbekken, zodat het via de urineleider in de blaas terechtkomt.",
+        "beforeText": "het filteren van bloed;",
+        "pageDocumentOffset": 359,
+        "paragraphIndexInBodyStory": 50,
+        "text": "het aanmaken van urine.",
+        "x": 109.000000026428,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Functionele onderdelen van het nefron.",
+        "bounds": null,
+        "label": "Afbeelding 10.3:",
+        "raw": "Afbeelding 10.3 Functionele onderdelen van het nefron.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.3.png",
+        "bounds": [
+          26.9204518094875,
+          243.421894441267,
+          157.781087123092,
+          345.202388574071
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img03.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img03.TIF"
+      },
+      "page": {
+        "documentOffset": 360,
+        "name": "342"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de lis van Henle;",
+        "beforeText": "Wanneer de bloedvaten veel bloed bevatten, is de bloeddruk hoog. Als de bloeddruk hoog genoeg is, duwt het bloed een beetje vocht uit de bloedvaten. In de glomerulus gaat dit gemakkelijk, omdat hier gaatjes in de wand van het bloedvat zitten. De stoffen die kleiner zijn dan deze gaatjes, passen hier doorheen. Op deze manier verplaatst vocht met daarin opgeloste stoffen zich door de wand van de glomerulus heen. Dit vocht komt dan in het kapsel van Bowman terecht. Het kapsel heeft een dubbele wand, waarbij tegen de binnenste wand speciale cellen aanliggen. Deze cellen heten podocyten. Ze lijken op een soort inktvis met veel tentakels. De tentakels liggen allemaal dicht tegen elkaar aan, waardoor kleine spleetjes ontstaan. Deze spleetjes vormen een extra filter. Hierdoor versterken de podocyten de filterwerking van de glomerulus. Sommige stoffen kunnen door de spleetjes van de podocyten heengaan, andere stoffen passen hier niet doorheen. Als stoffen wel passen en ze door de spleetjes gaan, zijn ze door de eerste laag van de dubbele wand gekomen. In dat geval komen de stoffen in de ruimte van Bowman. Deze ruimte loopt over in het buizensysteem (tubulussysteem) van het nefron. Het buizensysteem bestaat uit verschillende delen. Vanuit de ruimte van Bowman loopt de voorurine in deze volgorde door de volgende buizen:",
+        "pageDocumentOffset": 361,
+        "paragraphIndexInBodyStory": 61,
+        "text": "de proximale tubulus;",
+        "x": 22.000000026491,
+        "y": 183.688888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+        "bounds": null,
+        "label": "Afbeelding 10.4:",
+        "raw": "Afbeelding 10.4 Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.4.png",
+        "bounds": [
+          37.125306761133,
+          -2.5019171948228,
+          139.424104048731,
+          189.938429007062
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 361,
+        "name": "343"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "In een nefron van de nier zit de glomerulus. In de aanvoerende en afvoerende bloedvaten van de glomerulus liggen cellen, die we de juxtaglomerulaire cellen noemen. Deze cellen meten de bloeddruk in het afvoerende vat. Als reactie hierop worden verschillende enzymen actief. Een enzym is een stofje dat zorgt dat weer een volgende reactie plaatsvindt. In het RAAS systeem werken de volgende enzymen:",
+        "beforeText": "10.3.2  Renine-angiotensine-aldosteronsysteem",
+        "pageDocumentOffset": 367,
+        "paragraphIndexInBodyStory": 151,
+        "text": "De bloeddruk hangt af van de hoeveelheid water en zout. Als je te weinig zout en water in je lichaam hebt, wordt je bloeddruk laag. Hierdoor word je duizelig en kan je zelfs flauwvallen. Bij een lage bloeddruk kunnen je nieren de bloeddruk verhogen door zouten terug op te nemen uit de nierbuisjes. Dat doen je nieren voor een groot deel met behulp van een regulatiesysteem. Dit systeem noemen we het RAAS. RAAS staat voor renine-angiotensine-aldosteronsysteem. Renine, angiotensine en aldosteron zijn stofjes die samen voor een verandering van de bloeddruk kunnen zorgen.",
+        "x": 15,
+        "y": 87.7333333333365
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+        "bounds": null,
+        "label": "Afbeelding 10.5:",
+        "raw": "Afbeelding 10.5 Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.5.png",
+        "bounds": [
+          100.390869972333,
+          54.7871643160931,
+          174.414211551877,
+          124.412017482948
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 367,
+        "name": "349"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "10.3.3  Het bicarbonaat-buffersysteem",
+        "beforeText": "voor het aanmaken van het hormoon aldosteron. Dit hormoon komt uit je bijnier en zorgt voor het heropnemen van water en zout uit de voorurine. Hierdoor wordt het bloedvolume hoger en stijgt je bloeddruk.",
+        "pageDocumentOffset": 368,
+        "paragraphIndexInBodyStory": 161,
+        "text": "Doordat al deze enzymen en hormonen hun taak doen, blijven je bloedvolume en bloeddruk in balans. Soms is de doorstroming van het bloed in het afvoerende vat niet goed. Dat komt bijvoorbeeld voor als een zorgvrager aderverkalking heeft. In dat geval meten de juxtaglomerulaire cellen dat de bloeddruk te laag is, terwijl dit eigenlijk niet zo is. Het RAAS-systeem gaat hierdoor werken zonder dat de zorgvrager een laag bloedvolume of een lage bloeddruk heeft. Door de aderverkalking ontstaat dan een te hoge bloeddruk.",
+        "x": 296.999999999937,
+        "y": 36.9333333333365
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+        "bounds": null,
+        "label": "Afbeelding 10.6:",
+        "raw": "Afbeelding 10.6 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.6.png",
+        "bounds": [
+          21.1191606432507,
+          13.5597940436663,
+          181.607499999995,
+          181.904205956334
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 369,
+        "name": "351"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Bij een tekort aan EPO in je lichaam ontstaat soms bloedarmoede. Bij zorgvragers die een nierziekte hebben is te weinig EPO vaak de oorzaak van bloedarmoede.",
+        "beforeText": "De nieren scheiden ook nog in andere situaties hormonen uit. Dit is bijvoorbeeld als een zorgvrager een zuurstoftekort heeft in de organen en weefsels. Een zuurstoftekort noemen we ook wel hypoxie. Dit ontstaat bijvoorbeeld bij een zorgvrager met te weinig rode bloedcellen in het bloed. Hypoxie ontstaat ook als de hoeveelheid zuurstof in de buitenlucht lager is dan normaal, bijvoorbeeld hoog in de bergen. Omdat een zorgvrager bij hypoxie te weinig zuurstof in het lichaam heeft, is het verspreiden van zuurstof voor het lichaam een stuk moeilijker. De nieren van de zorgvrager merken dat. Als reactie op hypoxie scheiden de nieren het hormoon erytropoëtine (EPO) uit. De nieren maken de meeste EPO aan. De lever maakt ook een kleine hoeveelheid EPO aan.",
+        "pageDocumentOffset": 370,
+        "paragraphIndexInBodyStory": 166,
+        "text": "EPO zorgt dat je meer rode bloedcellen gaat aanmaken. Het aanmaken van rode bloedcellen vindt plaats in het beenmerg, dit is het binnenste van je botten. In je rode bloedcellen zit hemoglobine. Dit eiwit bindt zuurstof aan zich en vervoert het door het lichaam. Door EPO maak je meer rode bloedcellen aan en dus ook meer hemoglobine. Hierdoor bindt meer zuurstof aan hemoglobine en vervoert je bloed meer zuurstof naar de organen.",
+        "x": 209.99999999947,
+        "y": 132.888888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch10/Afbeelding_10.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+        "bounds": null,
+        "label": "Afbeelding 10.7:",
+        "raw": "Afbeelding 10.7 Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch10/Afbeelding_10.7.png",
+        "bounds": [
+          2.40485244049867,
+          210.490381503626,
+          95.0605482489109,
+          375.211618496374
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch10_Img7.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch10_Img7.TIF"
+      },
+      "page": {
+        "documentOffset": 370,
+        "name": "352"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

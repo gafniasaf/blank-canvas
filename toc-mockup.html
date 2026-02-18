@@ -1,0 +1,1217 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inhoudsopgave – Anatomie en fysiologie voor het mbo</title>
+  <style>
+    /* ========================================
+       DESIGN TOKENS (from InDesign export)
+       ======================================== */
+    :root {
+      /* Colors - converted from CMYK */
+      --hbo-donkerblauw: #1e3a5f;      /* CMYK(93, 78, 40, 39) - deep navy */
+      --vp-groen: #2ba573;              /* CMYK(77, 7, 56, 0) - teal green */
+      --vp-groen-header: #3eb489;       /* slightly lighter for header */
+      --text-black: #333333;
+      --text-gray: #666666;
+      --page-number-gray: #555555;
+      --bg-white: #ffffff;
+      --bg-off-white: #fafafa;
+      
+      /* Typography */
+      --font-facit: 'Facit', 'Inter', 'Segoe UI', -apple-system, sans-serif;
+      --font-freight: 'FreightSans Pro', 'Source Sans Pro', 'Open Sans', sans-serif;
+      
+      /* Spacing (converted from pt to rem) */
+      --space-xs: 0.125rem;    /* ~1pt */
+      --space-sm: 0.25rem;     /* ~2.8pt */
+      --space-md: 0.5rem;      /* ~5.7pt */
+      --space-lg: 0.75rem;     /* ~8.5pt */
+      --space-xl: 1rem;        /* ~11.3pt */
+      
+      /* Page dimensions - A4-like proportion */
+      --page-width: 210mm;
+      --page-height: 297mm;
+      --margin-top: 20mm;
+      --margin-bottom: 20mm;
+      --margin-outer: 18mm;
+      --margin-inner: 22mm;
+      --column-gap: 10mm;
+    }
+    
+    /* ========================================
+       RESET & BASE
+       ======================================== */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    html {
+      font-size: 16px;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    
+    body {
+      font-family: var(--font-freight);
+      background: linear-gradient(145deg, #e8e8e8 0%, #f5f5f5 100%);
+      min-height: 100vh;
+      padding: 40px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 40px;
+    }
+    
+    /* ========================================
+       PAGE CONTAINER
+       ======================================== */
+    .page {
+      width: var(--page-width);
+      min-height: var(--page-height);
+      background: var(--bg-white);
+      box-shadow: 
+        0 4px 6px rgba(0, 0, 0, 0.05),
+        0 10px 40px rgba(0, 0, 0, 0.1),
+        0 0 0 1px rgba(0, 0, 0, 0.02);
+      position: relative;
+      overflow: hidden;
+    }
+    
+    /* ========================================
+       HEADER BANNER
+       ======================================== */
+    .toc-header {
+      background: var(--vp-groen);
+      padding: 28px var(--margin-outer) 32px;
+      position: relative;
+    }
+    
+    .toc-header h1 {
+      font-family: var(--font-facit);
+      font-size: 42px;
+      font-weight: 700;
+      color: var(--bg-white);
+      letter-spacing: -0.5px;
+      margin: 0;
+    }
+    
+    /* Triangle indicator below header */
+    .toc-header::after {
+      content: '';
+      position: absolute;
+      bottom: -16px;
+      left: var(--margin-outer);
+      width: 0;
+      height: 0;
+      border-left: 12px solid transparent;
+      border-right: 12px solid transparent;
+      border-top: 16px solid var(--vp-groen);
+    }
+    
+    /* ========================================
+       TOC CONTENT AREA - TWO COLUMN GRID
+       ======================================== */
+    .toc-content {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: var(--column-gap);
+      padding: 32px var(--margin-outer) var(--margin-bottom);
+    }
+    
+    .toc-column {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    /* ========================================
+       INTRODUCTION SECTION (before chapters)
+       ======================================== */
+    .toc-intro {
+      margin-bottom: var(--space-lg);
+    }
+    
+    .toc-intro-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      padding: 2px 0;
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      color: var(--text-black);
+      line-height: 1.4;
+    }
+    
+    .toc-intro-item .title {
+      color: var(--vp-groen);
+      font-weight: 500;
+    }
+    
+    .toc-intro-item .page-num {
+      color: var(--page-number-gray);
+      font-variant-numeric: tabular-nums;
+      min-width: 28px;
+      text-align: right;
+      flex-shrink: 0;
+      margin-left: 8px;
+    }
+    
+    /* ========================================
+       CHAPTER ENTRY (TOC Level 1)
+       ======================================== */
+    .toc-chapter {
+      margin-top: var(--space-xl);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .toc-chapter:first-of-type {
+      margin-top: var(--space-md);
+    }
+    
+    .toc-chapter-header {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+    }
+    
+    .toc-chapter-number {
+      font-family: var(--font-facit);
+      font-size: 12pt;
+      font-weight: 700;
+      color: var(--hbo-donkerblauw);
+      min-width: 20px;
+    }
+    
+    .toc-chapter-title {
+      font-family: var(--font-facit);
+      font-size: 12pt;
+      font-weight: 700;
+      color: var(--hbo-donkerblauw);
+      flex: 1;
+    }
+    
+    .toc-chapter-page {
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      color: var(--page-number-gray);
+      font-variant-numeric: tabular-nums;
+      min-width: 28px;
+      text-align: right;
+    }
+    
+    /* ========================================
+       SECTION ENTRY (TOC Level 2)
+       ======================================== */
+    .toc-section {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      margin-top: var(--space-md);
+      margin-bottom: var(--space-sm);
+    }
+    
+    .toc-section-number {
+      font-family: var(--font-facit);
+      font-size: 10pt;
+      font-weight: 600;
+      color: var(--vp-groen);
+      min-width: 28px;
+    }
+    
+    .toc-section-title {
+      font-family: var(--font-facit);
+      font-size: 10pt;
+      font-weight: 600;
+      color: var(--vp-groen);
+      flex: 1;
+    }
+    
+    .toc-section-page {
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      color: var(--page-number-gray);
+      font-variant-numeric: tabular-nums;
+      min-width: 28px;
+      text-align: right;
+    }
+    
+    /* ========================================
+       SUBSECTION ENTRY (TOC Level 3)
+       ======================================== */
+    .toc-subsection {
+      display: flex;
+      align-items: baseline;
+      gap: 8px;
+      padding: 1px 0;
+    }
+    
+    .toc-subsection-number {
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      font-weight: 400;
+      color: var(--text-black);
+      min-width: 32px;
+    }
+    
+    .toc-subsection-title {
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      font-weight: 400;
+      color: var(--text-black);
+      flex: 1;
+      line-height: 1.35;
+    }
+    
+    .toc-subsection-page {
+      font-family: var(--font-freight);
+      font-size: 9pt;
+      color: var(--page-number-gray);
+      font-variant-numeric: tabular-nums;
+      min-width: 28px;
+      text-align: right;
+    }
+    
+    /* ========================================
+       CONTINUATION PAGES
+       ======================================== */
+    .page.continuation {
+      padding-top: 0;
+    }
+    
+    .page.continuation .toc-content {
+      padding-top: var(--margin-top);
+    }
+    
+    /* Subtle top border on continuation pages */
+    .page.continuation::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 50px;
+      background: var(--vp-groen);
+    }
+    
+    /* ========================================
+       RESPONSIVE / PRINT
+       ======================================== */
+    @media screen and (max-width: 240mm) {
+      body {
+        padding: 20px 10px;
+      }
+      
+      .page {
+        width: 100%;
+        max-width: var(--page-width);
+        min-height: auto;
+      }
+      
+      .toc-content {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    @media print {
+      body {
+        background: none;
+        padding: 0;
+        gap: 0;
+      }
+      
+      .page {
+        box-shadow: none;
+        page-break-after: always;
+      }
+    }
+  </style>
+  
+  <!-- Google Fonts fallback for similar typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- PAGE 1 -->
+  <div class="page">
+    <header class="toc-header">
+      <h1>Inhoudsopgave</h1>
+    </header>
+    
+    <div class="toc-content">
+      <!-- LEFT COLUMN -->
+      <div class="toc-column">
+        <!-- Introduction Section -->
+        <div class="toc-intro">
+          <div class="toc-intro-item">
+            <span class="title">Introductie</span>
+            <span class="page-num">xv</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>De opbouw van het organisme</span>
+            <span class="page-num">xv</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>De rol van water</span>
+            <span class="page-num">xv</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>Celdifferentiatie</span>
+            <span class="page-num">xvi</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>Weefsels</span>
+            <span class="page-num">xvi</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>Organen</span>
+            <span class="page-num">xvii</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>Orgaanstelsels</span>
+            <span class="page-num">xvii</span>
+          </div>
+          <div class="toc-intro-item">
+            <span>Anatomie en fysiologie</span>
+            <span class="page-num">xix</span>
+          </div>
+        </div>
+        
+        <!-- Chapter 1 -->
+        <div class="toc-chapter">
+          <div class="toc-chapter-header">
+            <span class="toc-chapter-number">1</span>
+            <span class="toc-chapter-title">De cel</span>
+            <span class="toc-chapter-page">1</span>
+          </div>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">1.1</span>
+          <span class="toc-section-title">De cel</span>
+          <span class="toc-section-page">3</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.1</span>
+          <span class="toc-subsection-title">De cel</span>
+          <span class="toc-subsection-page">3</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.2</span>
+          <span class="toc-subsection-title">De celmembraan</span>
+          <span class="toc-subsection-page">3</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.3</span>
+          <span class="toc-subsection-title">De celkern</span>
+          <span class="toc-subsection-page">6</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.4</span>
+          <span class="toc-subsection-title">De mitochondriën</span>
+          <span class="toc-subsection-page">7</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.5</span>
+          <span class="toc-subsection-title">Het endoplasmatisch reticulum</span>
+          <span class="toc-subsection-page">9</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.6</span>
+          <span class="toc-subsection-title">De ribosomen</span>
+          <span class="toc-subsection-page">10</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.7</span>
+          <span class="toc-subsection-title">De lysosomen</span>
+          <span class="toc-subsection-page">10</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.8</span>
+          <span class="toc-subsection-title">De spoellichaampjes</span>
+          <span class="toc-subsection-page">12</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.1.9</span>
+          <span class="toc-subsection-title">Het Golgi-systeem</span>
+          <span class="toc-subsection-page">14</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">1.2</span>
+          <span class="toc-section-title">Eiwitsynthese</span>
+          <span class="toc-section-page">14</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.2.1</span>
+          <span class="toc-subsection-title">DNA</span>
+          <span class="toc-subsection-page">14</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.2.2</span>
+          <span class="toc-subsection-title">DNA, RNA en eiwitsynthese</span>
+          <span class="toc-subsection-page">16</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.2.3</span>
+          <span class="toc-subsection-title">Verschillen tussen DNA en RNA</span>
+          <span class="toc-subsection-page">16</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.2.4</span>
+          <span class="toc-subsection-title">Transcriptie, codons en vorming van mRNA</span>
+          <span class="toc-subsection-page">18</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.2.5</span>
+          <span class="toc-subsection-title">Translatie en tRNA</span>
+          <span class="toc-subsection-page">18</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">1.3</span>
+          <span class="toc-section-title">Celcyclus</span>
+          <span class="toc-section-page">20</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.3.1</span>
+          <span class="toc-subsection-title">Chromosomen</span>
+          <span class="toc-subsection-page">20</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.3.2</span>
+          <span class="toc-subsection-title">Celcyclus</span>
+          <span class="toc-subsection-page">21</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.3.3</span>
+          <span class="toc-subsection-title">De interfase</span>
+          <span class="toc-subsection-page">23</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.3.4</span>
+          <span class="toc-subsection-title">Mitose</span>
+          <span class="toc-subsection-page">23</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.3.5</span>
+          <span class="toc-subsection-title">Fasen van de mitose</span>
+          <span class="toc-subsection-page">25</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">1.4</span>
+          <span class="toc-section-title">Transport en metabolisme</span>
+          <span class="toc-section-page">26</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.1</span>
+          <span class="toc-subsection-title">Transport</span>
+          <span class="toc-subsection-page">26</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.2</span>
+          <span class="toc-subsection-title">Diffusie</span>
+          <span class="toc-subsection-page">28</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.3</span>
+          <span class="toc-subsection-title">Osmose</span>
+          <span class="toc-subsection-page">29</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.4</span>
+          <span class="toc-subsection-title">Metabolisme</span>
+          <span class="toc-subsection-page">30</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.5</span>
+          <span class="toc-subsection-title">Dissimilatie</span>
+          <span class="toc-subsection-page">30</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">1.4.6</span>
+          <span class="toc-subsection-title">Enzymen</span>
+          <span class="toc-subsection-page">31</span>
+        </div>
+        
+        <!-- Chapter 2 -->
+        <div class="toc-chapter">
+          <div class="toc-chapter-header">
+            <span class="toc-chapter-number">2</span>
+            <span class="toc-chapter-title">De huid</span>
+            <span class="toc-chapter-page">33</span>
+          </div>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">2.1</span>
+          <span class="toc-section-title">De huid</span>
+          <span class="toc-section-page">34</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.1</span>
+          <span class="toc-subsection-title">De huid</span>
+          <span class="toc-subsection-page">34</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.2</span>
+          <span class="toc-subsection-title">De opperhuid</span>
+          <span class="toc-subsection-page">37</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.3</span>
+          <span class="toc-subsection-title">De lederhuid</span>
+          <span class="toc-subsection-page">39</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.4</span>
+          <span class="toc-subsection-title">Onderhuids weefsel</span>
+          <span class="toc-subsection-page">39</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.5</span>
+          <span class="toc-subsection-title">Eelt, nagels en haren</span>
+          <span class="toc-subsection-page">40</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">2.1.6</span>
+          <span class="toc-subsection-title">Klieren in de opperhuid</span>
+          <span class="toc-subsection-page">42</span>
+        </div>
+      </div>
+      
+      <!-- RIGHT COLUMN -->
+      <div class="toc-column">
+        <!-- Chapter 3 -->
+        <div class="toc-chapter" style="margin-top: 0;">
+          <div class="toc-chapter-header">
+            <span class="toc-chapter-number">3</span>
+            <span class="toc-chapter-title">Het skelet</span>
+            <span class="toc-chapter-page">47</span>
+          </div>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.1</span>
+          <span class="toc-section-title">Inleiding</span>
+          <span class="toc-section-page">48</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.1.1</span>
+          <span class="toc-subsection-title">Functies van de botten</span>
+          <span class="toc-subsection-page">48</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.1.2</span>
+          <span class="toc-subsection-title">Ondersteunende weefsels</span>
+          <span class="toc-subsection-page">49</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.2</span>
+          <span class="toc-section-title">Bouw van het bot</span>
+          <span class="toc-section-page">50</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.1</span>
+          <span class="toc-subsection-title">Botmatrix en botcellen</span>
+          <span class="toc-subsection-page">50</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.2</span>
+          <span class="toc-subsection-title">Botopbouw en botafbraak</span>
+          <span class="toc-subsection-page">50</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.3</span>
+          <span class="toc-subsection-title">Sponsachtig botweefsel</span>
+          <span class="toc-subsection-page">52</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.4</span>
+          <span class="toc-subsection-title">Hard botweefsel</span>
+          <span class="toc-subsection-page">53</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.5</span>
+          <span class="toc-subsection-title">Botvlies</span>
+          <span class="toc-subsection-page">53</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.2.6</span>
+          <span class="toc-subsection-title">De bloedstroom in je botten</span>
+          <span class="toc-subsection-page">54</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.3</span>
+          <span class="toc-section-title">Botvorming en botgroei</span>
+          <span class="toc-section-page">55</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.4</span>
+          <span class="toc-section-title">Soorten botten</span>
+          <span class="toc-section-page">56</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.5</span>
+          <span class="toc-section-title">Gewrichten</span>
+          <span class="toc-section-page">57</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.5.1</span>
+          <span class="toc-subsection-title">Bindweefselverbindingen</span>
+          <span class="toc-subsection-page">57</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.5.2</span>
+          <span class="toc-subsection-title">Kraakbeenverbindingen</span>
+          <span class="toc-subsection-page">58</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.5.3</span>
+          <span class="toc-subsection-title">Synoviale gewrichten</span>
+          <span class="toc-subsection-page">59</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.5.4</span>
+          <span class="toc-subsection-title">Bewegingsassen</span>
+          <span class="toc-subsection-page">61</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.6</span>
+          <span class="toc-section-title">De schedel</span>
+          <span class="toc-section-page">61</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.6.1</span>
+          <span class="toc-subsection-title">De botten van de aangezichtsschedel</span>
+          <span class="toc-subsection-page">62</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.6.2</span>
+          <span class="toc-subsection-title">De botten van de hersenschedel</span>
+          <span class="toc-subsection-page">63</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.6.3</span>
+          <span class="toc-subsection-title">De schedelnaden</span>
+          <span class="toc-subsection-page">65</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.6.4</span>
+          <span class="toc-subsection-title">De neusbijholten</span>
+          <span class="toc-subsection-page">66</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.7</span>
+          <span class="toc-section-title">De wervelkolom</span>
+          <span class="toc-section-page">67</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.1</span>
+          <span class="toc-subsection-title">De vorm van de wervelkolom</span>
+          <span class="toc-subsection-page">68</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.2</span>
+          <span class="toc-subsection-title">De onderdelen van de wervels</span>
+          <span class="toc-subsection-page">69</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.3</span>
+          <span class="toc-subsection-title">De tussenwervelschijven</span>
+          <span class="toc-subsection-page">71</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.4</span>
+          <span class="toc-subsection-title">De halswervels</span>
+          <span class="toc-subsection-page">72</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.5</span>
+          <span class="toc-subsection-title">De borstwervels en de lendenwervels</span>
+          <span class="toc-subsection-page">73</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.6</span>
+          <span class="toc-subsection-title">Het heiligbeen en het stuitje</span>
+          <span class="toc-subsection-page">74</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.7.7</span>
+          <span class="toc-subsection-title">De ligamenten van de wervelkolom</span>
+          <span class="toc-subsection-page">74</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.8</span>
+          <span class="toc-section-title">De ribben</span>
+          <span class="toc-section-page">75</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.9</span>
+          <span class="toc-section-title">Het borstbeen</span>
+          <span class="toc-section-page">76</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.10</span>
+          <span class="toc-section-title">De botten van de armen</span>
+          <span class="toc-section-page">77</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.10.1</span>
+          <span class="toc-subsection-title">De sleutelbeenderen</span>
+          <span class="toc-subsection-page">77</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.10.2</span>
+          <span class="toc-subsection-title">De schouderbladen</span>
+          <span class="toc-subsection-page">79</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.10.3</span>
+          <span class="toc-subsection-title">De armen</span>
+          <span class="toc-subsection-page">80</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.10.4</span>
+          <span class="toc-subsection-title">De ellebogen</span>
+          <span class="toc-subsection-page">81</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.10.5</span>
+          <span class="toc-subsection-title">De handen</span>
+          <span class="toc-subsection-page">82</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.11</span>
+          <span class="toc-section-title">De bekkengordel</span>
+          <span class="toc-section-page">84</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.11.1</span>
+          <span class="toc-subsection-title">De functies van het bekken</span>
+          <span class="toc-subsection-page">85</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">3.12</span>
+          <span class="toc-section-title">De botten van de benen</span>
+          <span class="toc-section-page">87</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.12.1</span>
+          <span class="toc-subsection-title">Het dijbeen</span>
+          <span class="toc-subsection-page">87</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- PAGE 2 (Continuation) -->
+  <div class="page continuation">
+    <div class="toc-content">
+      <!-- LEFT COLUMN -->
+      <div class="toc-column">
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.12.2</span>
+          <span class="toc-subsection-title">De onderbenen en knieën</span>
+          <span class="toc-subsection-page">88</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.12.3</span>
+          <span class="toc-subsection-title">De voeten</span>
+          <span class="toc-subsection-page">88</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">3.12.4</span>
+          <span class="toc-subsection-title">De enkels</span>
+          <span class="toc-subsection-page">90</span>
+        </div>
+        
+        <!-- Chapter 4 -->
+        <div class="toc-chapter">
+          <div class="toc-chapter-header">
+            <span class="toc-chapter-number">4</span>
+            <span class="toc-chapter-title">De spieren</span>
+            <span class="toc-chapter-page">91</span>
+          </div>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.1</span>
+          <span class="toc-section-title">Soorten spieren</span>
+          <span class="toc-section-page">92</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.1.1</span>
+          <span class="toc-subsection-title">Skeletspieren, gladde spieren en hartspieren</span>
+          <span class="toc-subsection-page">92</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.1.2</span>
+          <span class="toc-subsection-title">Skeletspieren</span>
+          <span class="toc-subsection-page">93</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.1.3</span>
+          <span class="toc-subsection-title">De vorm van spieren</span>
+          <span class="toc-subsection-page">95</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.2</span>
+          <span class="toc-section-title">Spierfysiologie</span>
+          <span class="toc-section-page">96</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.1</span>
+          <span class="toc-subsection-title">Myofibrillen, actine en myosine</span>
+          <span class="toc-subsection-page">96</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.2</span>
+          <span class="toc-subsection-title">Sarcomeren</span>
+          <span class="toc-subsection-page">96</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.3</span>
+          <span class="toc-subsection-title">Aansturing van skeletspieren door zenuwen</span>
+          <span class="toc-subsection-page">97</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.4</span>
+          <span class="toc-subsection-title">Typen spiervezels</span>
+          <span class="toc-subsection-page">98</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.5</span>
+          <span class="toc-subsection-title">Hypertrofie en atrofie van spierweefsel</span>
+          <span class="toc-subsection-page">99</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.2.6</span>
+          <span class="toc-subsection-title">Spiercontractie</span>
+          <span class="toc-subsection-page">100</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.3</span>
+          <span class="toc-section-title">De spieren van hoofd en hals</span>
+          <span class="toc-section-page">101</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.3.1</span>
+          <span class="toc-subsection-title">De mimische spieren</span>
+          <span class="toc-subsection-page">101</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.3.2</span>
+          <span class="toc-subsection-title">De kauwspieren</span>
+          <span class="toc-subsection-page">102</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.3.3</span>
+          <span class="toc-subsection-title">De oogspieren</span>
+          <span class="toc-subsection-page">102</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.3.4</span>
+          <span class="toc-subsection-title">De halsspieren</span>
+          <span class="toc-subsection-page">103</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.4</span>
+          <span class="toc-section-title">De spieren van de rug</span>
+          <span class="toc-section-page">105</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.4.1</span>
+          <span class="toc-subsection-title">De oppervlakkige rugspieren</span>
+          <span class="toc-subsection-page">105</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.4.2</span>
+          <span class="toc-subsection-title">De middelste laag van de rugspieren</span>
+          <span class="toc-subsection-page">105</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.4.3</span>
+          <span class="toc-subsection-title">De diepe rugspieren</span>
+          <span class="toc-subsection-page">106</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.5</span>
+          <span class="toc-section-title">De ademhalingsspieren</span>
+          <span class="toc-section-page">108</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.5.1</span>
+          <span class="toc-subsection-title">De tussenribspieren</span>
+          <span class="toc-subsection-page">108</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.5.2</span>
+          <span class="toc-subsection-title">Het middenrif</span>
+          <span class="toc-subsection-page">108</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.6</span>
+          <span class="toc-section-title">De buikspieren</span>
+          <span class="toc-section-page">109</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.6.1</span>
+          <span class="toc-subsection-title">De rechte en dwarse buikspier</span>
+          <span class="toc-subsection-page">109</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.6.2</span>
+          <span class="toc-subsection-title">De schuine buikspieren</span>
+          <span class="toc-subsection-page">112</span>
+        </div>
+      </div>
+      
+      <!-- RIGHT COLUMN -->
+      <div class="toc-column">
+        <div class="toc-section">
+          <span class="toc-section-number">4.9</span>
+          <span class="toc-section-title">De spieren die de bovenarm bewegen</span>
+          <span class="toc-section-page">116</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.1</span>
+          <span class="toc-subsection-title">De deltaspier</span>
+          <span class="toc-subsection-page">116</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.2</span>
+          <span class="toc-subsection-title">De bovendoornspier</span>
+          <span class="toc-subsection-page">117</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.3</span>
+          <span class="toc-subsection-title">De onderschouderbladspier</span>
+          <span class="toc-subsection-page">117</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.4</span>
+          <span class="toc-subsection-title">De grote ronde spier</span>
+          <span class="toc-subsection-page">118</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.5</span>
+          <span class="toc-subsection-title">De onderdoornspier en de kleine ronde spier</span>
+          <span class="toc-subsection-page">118</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.6</span>
+          <span class="toc-subsection-title">De brede rugspier</span>
+          <span class="toc-subsection-page">119</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.7</span>
+          <span class="toc-subsection-title">De ravenbek-armspier</span>
+          <span class="toc-subsection-page">119</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.8</span>
+          <span class="toc-subsection-title">De grote borstspier</span>
+          <span class="toc-subsection-page">120</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.9.9</span>
+          <span class="toc-subsection-title">De rotatorenmanchet</span>
+          <span class="toc-subsection-page">120</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.10</span>
+          <span class="toc-section-title">De spieren die de onderarm bewegen</span>
+          <span class="toc-section-page">120</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.10.1</span>
+          <span class="toc-subsection-title">De tweehoofdige bovenarmspier</span>
+          <span class="toc-subsection-page">121</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.10.2</span>
+          <span class="toc-subsection-title">De driehoofdige bovenarmspier</span>
+          <span class="toc-subsection-page">122</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.10.3</span>
+          <span class="toc-subsection-title">De bovenarmspier en de opperarm-spaakbeenspier</span>
+          <span class="toc-subsection-page">122</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.10.4</span>
+          <span class="toc-subsection-title">De supinatiespier</span>
+          <span class="toc-subsection-page">122</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.10.5</span>
+          <span class="toc-subsection-title">De vierkante en de ronde pronatiespier</span>
+          <span class="toc-subsection-page">124</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.11</span>
+          <span class="toc-section-title">De spieren die de hand en vingers bewegen</span>
+          <span class="toc-section-page">124</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.11.1</span>
+          <span class="toc-subsection-title">De handflexoren</span>
+          <span class="toc-subsection-page">124</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.11.2</span>
+          <span class="toc-subsection-title">De handextensoren</span>
+          <span class="toc-subsection-page">124</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.11.3</span>
+          <span class="toc-subsection-title">Spieren die de vingers bewegen</span>
+          <span class="toc-subsection-page">125</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.12</span>
+          <span class="toc-section-title">De spieren die de heup bewegen</span>
+          <span class="toc-section-page">126</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.12.1</span>
+          <span class="toc-subsection-title">De grote bilspier</span>
+          <span class="toc-subsection-page">126</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.12.2</span>
+          <span class="toc-subsection-title">De heup-lendenspier</span>
+          <span class="toc-subsection-page">126</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.12.3</span>
+          <span class="toc-subsection-title">De adductorengroep</span>
+          <span class="toc-subsection-page">128</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.13</span>
+          <span class="toc-section-title">De spieren die de knie bewegen</span>
+          <span class="toc-section-page">130</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.13.1</span>
+          <span class="toc-subsection-title">De hamstrings</span>
+          <span class="toc-subsection-page">130</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.13.2</span>
+          <span class="toc-subsection-title">De kleermakersspier</span>
+          <span class="toc-subsection-page">132</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.13.3</span>
+          <span class="toc-subsection-title">De vierhoofdige dijspier</span>
+          <span class="toc-subsection-page">133</span>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">4.14</span>
+          <span class="toc-section-title">De spieren die de voet bewegen</span>
+          <span class="toc-section-page">133</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.14.1</span>
+          <span class="toc-subsection-title">De driehoofdige kuitspier</span>
+          <span class="toc-subsection-page">134</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">4.14.2</span>
+          <span class="toc-subsection-title">De voorste scheenbeenspier</span>
+          <span class="toc-subsection-page">134</span>
+        </div>
+        
+        <!-- Chapter 5 -->
+        <div class="toc-chapter">
+          <div class="toc-chapter-header">
+            <span class="toc-chapter-number">5</span>
+            <span class="toc-chapter-title">Het ademhalingsstelsel</span>
+            <span class="toc-chapter-page">135</span>
+          </div>
+        </div>
+        
+        <div class="toc-section">
+          <span class="toc-section-number">5.1</span>
+          <span class="toc-section-title">Het ademhalingsstelsel</span>
+          <span class="toc-section-page">136</span>
+        </div>
+        
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">5.1.1</span>
+          <span class="toc-subsection-title">Het mediastinum</span>
+          <span class="toc-subsection-page">136</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">5.1.2</span>
+          <span class="toc-subsection-title">De longvliezen</span>
+          <span class="toc-subsection-page">136</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">5.1.3</span>
+          <span class="toc-subsection-title">Het middenrif</span>
+          <span class="toc-subsection-page">137</span>
+        </div>
+        <div class="toc-subsection">
+          <span class="toc-subsection-number">5.1.4</span>
+          <span class="toc-subsection-title">De onderdelen van het ademhalingsstelsel</span>
+          <span class="toc-subsection-page">138</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

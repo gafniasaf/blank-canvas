@@ -1,0 +1,22 @@
+{
+  "d1597cfc-6f43-4ebc-a7ad-32ad449930d6": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch3/linked/Image 2.2 Cyclus van klinisch redeneren.png",
+      "alt": "Afbeelding 3.1: Cyclus van klinisch redeneren.",
+      "figureNumber": "Afbeelding 3.1:",
+      "caption": "Cyclus van klinisch redeneren.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "95e7f2d5-dd58-4bf4-aeb6-4ab995c9bc98": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch3/linked/Image 2.3 SBAR.png",
+      "alt": "Afbeelding 3.2: SBAR.",
+      "figureNumber": "Afbeelding 3.2:",
+      "caption": "SBAR.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

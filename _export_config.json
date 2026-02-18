@@ -1,0 +1,12 @@
+{
+  "silent": true,
+  "closeDocAfter": true,
+  "docPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd",
+  "metadataPath": "/Users/asafgafni/Desktop/highres_labeled_figures/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024/figure_metadata.json",
+  "neededPagesPath": "/Users/asafgafni/Desktop/highres_labeled_figures/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024/needed_pages.txt",
+  "pageExports300Dir": "/Users/asafgafni/Desktop/highres_labeled_figures/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024/page_exports_300",
+  "pageExportsFallbackDir": "",
+  "figuresOutDir": "/Users/asafgafni/Desktop/highres_labeled_figures/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024/figures_300",
+  "figuresOutExt": ".png",
+  "noClean": false
+}

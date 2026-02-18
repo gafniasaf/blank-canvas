@@ -1,0 +1,202 @@
+[
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+    "chapter": "1",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 1.10:",
+    "captionBody": "DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+    "captionRaw": "Afbeelding 1.10 DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+    "pageName": "19",
+    "pageDocumentOffset": 37,
+    "imageKind": "pageItem",
+    "itemType": "Group",
+    "linkName": null,
+    "linkPath": null,
+    "bounds": [
+      16.5000000000049,
+      21.7944444444445,
+      153.477120000004,
+      174.453524444444
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.6.png",
+    "chapter": "4",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 4.6:",
+    "captionBody": "Overzicht van een motorneuron.",
+    "captionRaw": "Afbeelding 4.6 Overzicht van een motorneuron.",
+    "pageName": "98",
+    "pageDocumentOffset": 116,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch4_Img6.TIF",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch4_Img6.TIF",
+    "bounds": [
+      88.0535079006082,
+      224.045052468885,
+      249.954666666661,
+      354.61050308667
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.1.png",
+    "chapter": "5",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 5.1:",
+    "captionBody": "Anatomie van de luchtwegen – vooraanzicht.",
+    "captionRaw": "Afbeelding 5.1 Anatomie van de luchtwegen – vooraanzicht.",
+    "pageName": "137",
+    "pageDocumentOffset": 155,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch5_Img5.TIF",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch5_Img5.TIF",
+    "bounds": [
+      103.727860597201,
+      51.1129380499326,
+      234.199032467648,
+      152.445236889897
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.10.png",
+    "chapter": "5",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 5.10:",
+    "captionBody": "Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+    "captionRaw": "Afbeelding 5.10 Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+    "pageName": "154",
+    "pageDocumentOffset": 172,
+    "imageKind": "pageItem",
+    "itemType": "Group",
+    "linkName": null,
+    "linkPath": null,
+    "bounds": [
+      17.4118707750111,
+      210,
+      121.577573669437,
+      380
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch5/Afbeelding_5.16.png",
+    "chapter": "5",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 5.16:",
+    "captionBody": "Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+    "captionRaw": "Afbeelding 5.16 Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+    "pageName": "170",
+    "pageDocumentOffset": 188,
+    "imageKind": "pageItem",
+    "itemType": "Group",
+    "linkName": null,
+    "linkPath": null,
+    "bounds": [
+      22.8485037196939,
+      216.983925546684,
+      129.468679250425,
+      372.416074453316
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.15.png",
+    "chapter": "8",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 8.15:",
+    "captionBody": "De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+    "captionRaw": "Afbeelding 8.15 De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+    "pageName": "273",
+    "pageDocumentOffset": 291,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch8_Img7&15.png",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch8_Img7&15.png",
+    "bounds": [
+      2.3645505657886,
+      39.9075651293209,
+      127.561111110848,
+      151.929377282228
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.6.png",
+    "chapter": "9",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 9.6:",
+    "captionBody": "Doorsnede van de hersenen en de hersenstam.",
+    "captionRaw": "Afbeelding 9.6 Doorsnede van de hersenen en de hersenstam.",
+    "pageName": "315",
+    "pageDocumentOffset": 333,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch9_Img 6&8.png",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch9_Img 6&8.png",
+    "bounds": [
+      143.119444444448,
+      46.1717786055878,
+      234.864244444442,
+      145.397018907101
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch11/Afbeelding_11.15.png",
+    "chapter": "11",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 11.15:",
+    "captionBody": "De hormonale regeling van de geslachtsklieren bij mannen.",
+    "captionRaw": "Afbeelding 11.15 De hormonale regeling van de geslachtsklieren bij mannen.",
+    "pageName": "382",
+    "pageDocumentOffset": 400,
+    "imageKind": "pageItem",
+    "itemType": "Group",
+    "linkName": null,
+    "linkPath": null,
+    "bounds": [
+      126.493999999998,
+      225.475655555556,
+      234.189999999997,
+      359.074011111111
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.1.png",
+    "chapter": "12",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 12.1:",
+    "captionBody": "Levensduur van hormonen.",
+    "captionRaw": "Afbeelding 12.1 Levensduur van hormonen.",
+    "pageName": "394",
+    "pageDocumentOffset": 411,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch12_Img2.TIF",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img2.TIF",
+    "bounds": [
+      20.4744461341886,
+      238.052213896961,
+      172.238215921526,
+      351.875041237462
+    ]
+  },
+  {
+    "requiredPath": "new_pipeline/assets/figures/ch12/Afbeelding_12.10.png",
+    "chapter": "12",
+    "foundInManifest": true,
+    "figureLabel": "Afbeelding 12.10:",
+    "captionBody": "Schematisch overzicht van schildklierhormoon.",
+    "captionRaw": "Afbeelding 12.10 Schematisch overzicht van schildklierhormoon.",
+    "pageName": "409",
+    "pageDocumentOffset": 428,
+    "imageKind": "link",
+    "itemType": null,
+    "linkName": "MAF_Ch12_Img09.TIF",
+    "linkPath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/Links/MAF_Ch12_Img09.TIF",
+    "bounds": [
+      8.56706767230959,
+      45.8805555555556,
+      116.805154549919,
+      140.842882090237
+    ]
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "originalFilename": "Image03-p25.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image03-p25.tif",
+    "localFilename": "Image03-p25.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image03-p25.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image04-p26.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image04-p26.tif",
+    "localFilename": "Image04-p26.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image04-p26.png",
+    "usedInFigureLabels": [
+      "Afbeelding 1.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image05-p29.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image05-p29.tif",
+    "localFilename": "Image05-p29.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image05-p29.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image06-p30.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image06-p30.tif",
+    "localFilename": "Image06-p30.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image06-p30.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image07-p32.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image07-p32.tif",
+    "localFilename": "Image07-p32.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image07-p32.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image08-p33.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image08-p33.tif",
+    "localFilename": "Image08-p33.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image08-p33.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image09-p34.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image09-p34.tif",
+    "localFilename": "Image09-p34.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image09-p34.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image10-p35.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image10-p35.tif",
+    "localFilename": "Image10-p35.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image10-p35.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image11-p36.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image11-p36.tif",
+    "localFilename": "Image11-p36.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image11-p36.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.7:"
+    ]
+  },
+  {
+    "originalFilename": "Image12-p39.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image12-p39.tif",
+    "localFilename": "Image12-p39.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image12-p39.png",
+    "usedInFigureLabels": [
+      "Afbeelding 2.8:"
+    ]
+  },
+  {
+    "originalFilename": "Image13-p41.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image13-p41.tif",
+    "localFilename": "Image13-p41.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image13-p41.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image14-p42.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image14-p42.tif",
+    "localFilename": "Image14-p42.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image14-p42.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image15-p44.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image15-p44.tif",
+    "localFilename": "Image15-p44.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image15-p44.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image16-p45.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image16-p45.tif",
+    "localFilename": "Image16-p45.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image16-p45.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image17-p46.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image17-p46.tif",
+    "localFilename": "Image17-p46.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image17-p46.png",
+    "usedInFigureLabels": [
+      "Afbeelding 3.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image22-p63.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image22-p63.tif",
+    "localFilename": "Image22-p63.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image22-p63.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image23-p65.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image23-p65.tif",
+    "localFilename": "Image23-p65.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image23-p65.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image24-p66.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image24-p66.tif",
+    "localFilename": "Image24-p66.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image24-p66.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image25-p67.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image25-p67.tif",
+    "localFilename": "Image25-p67.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image25-p67.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image26-p68.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image26-p68.tif",
+    "localFilename": "Image26-p68.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image26-p68.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image29-p72.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image29-p72.tif",
+    "localFilename": "Image29-p72.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image29-p72.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.7:"
+    ]
+  },
+  {
+    "originalFilename": "Image31-p73.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image31-p73.tif",
+    "localFilename": "Image31-p73.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image31-p73.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.8:"
+    ]
+  },
+  {
+    "originalFilename": "Image32-p75.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image32-p75.tif",
+    "localFilename": "Image32-p75.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image32-p75.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.9:"
+    ]
+  },
+  {
+    "originalFilename": "Image34-p77.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image34-p77.tif",
+    "localFilename": "Image34-p77.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image34-p77.png",
+    "usedInFigureLabels": [
+      "Afbeelding 5.10:"
+    ]
+  },
+  {
+    "originalFilename": "Image35-p80.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image35-p80.tif",
+    "localFilename": "Image35-p80.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image35-p80.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image36-p82.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image36-p82.tif",
+    "localFilename": "Image36-p82.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image36-p82.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image37-p83.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image37-p83.tif",
+    "localFilename": "Image37-p83.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image37-p83.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image38-p84.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image38-p84.tif",
+    "localFilename": "Image38-p84.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image38-p84.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image39-p86.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image39-p86.tif",
+    "localFilename": "Image39-p86.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image39-p86.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image40-p87.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image40-p87.tif",
+    "localFilename": "Image40-p87.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image40-p87.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image41-p87.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image41-p87.tif",
+    "localFilename": "Image41-p87.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image41-p87.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.7:"
+    ]
+  },
+  {
+    "originalFilename": "Image42-p89.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image42-p89.tif",
+    "localFilename": "Image42-p89.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image42-p89.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.8:"
+    ]
+  },
+  {
+    "originalFilename": "Image43-p90.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image43-p90.tif",
+    "localFilename": "Image43-p90.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image43-p90.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.9:"
+    ]
+  },
+  {
+    "originalFilename": "Image44-p90.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image44-p90.tif",
+    "localFilename": "Image44-p90.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image44-p90.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.10:"
+    ]
+  },
+  {
+    "originalFilename": "Image45-p93.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image45-p93.tif",
+    "localFilename": "Image45-p93.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image45-p93.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.11:"
+    ]
+  },
+  {
+    "originalFilename": "Image46-p93.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image46-p93.tif",
+    "localFilename": "Image46-p93.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image46-p93.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.12:"
+    ]
+  },
+  {
+    "originalFilename": "Image48-p95.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image48-p95.tif",
+    "localFilename": "Image48-p95.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image48-p95.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.13:"
+    ]
+  },
+  {
+    "originalFilename": "Image49-p96.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image49-p96.tif",
+    "localFilename": "Image49-p96.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image49-p96.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.14:"
+    ]
+  },
+  {
+    "originalFilename": "Image50-p98.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image50-p98.tif",
+    "localFilename": "Image50-p98.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image50-p98.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.15:"
+    ]
+  },
+  {
+    "originalFilename": "Image51-p99.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image51-p99.tif",
+    "localFilename": "Image51-p99.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image51-p99.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.16:"
+    ]
+  },
+  {
+    "originalFilename": "Image52-p100.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image52-p100.tif",
+    "localFilename": "Image52-p100.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image52-p100.png",
+    "usedInFigureLabels": [
+      "Afbeelding 6.17:"
+    ]
+  },
+  {
+    "originalFilename": "Image55-p105.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image55-p105.tif",
+    "localFilename": "Image55-p105.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image55-p105.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image56-p108.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image56-p108.tif",
+    "localFilename": "Image56-p108.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image56-p108.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image57-p110.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image57-p110.tif",
+    "localFilename": "Image57-p110.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image57-p110.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image58-p111.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image58-p111.tif",
+    "localFilename": "Image58-p111.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image58-p111.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image59-p112.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image59-p112.tif",
+    "localFilename": "Image59-p112.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image59-p112.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image60-p113.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image60-p113.tif",
+    "localFilename": "Image60-p113.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image60-p113.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image61-p115.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image61-p115.tif",
+    "localFilename": "Image61-p115.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image61-p115.png",
+    "usedInFigureLabels": [
+      "Afbeelding 7.7:"
+    ]
+  },
+  {
+    "originalFilename": "Image62-p117.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image62-p117.tif",
+    "localFilename": "Image62-p117.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image62-p117.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image63-p118.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image63-p118.tif",
+    "localFilename": "Image63-p118.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image63-p118.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image64-p122.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image64-p122.tif",
+    "localFilename": "Image64-p122.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image64-p122.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image65-p125.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image65-p125.tif",
+    "localFilename": "Image65-p125.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image65-p125.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image66-p127.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image66-p127.tif",
+    "localFilename": "Image66-p127.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image66-p127.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image67-p129.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image67-p129.tif",
+    "localFilename": "Image67-p129.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image67-p129.png",
+    "usedInFigureLabels": [
+      "Afbeelding 8.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image68-p131.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image68-p131.tif",
+    "localFilename": "Image68-p131.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image68-p131.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.1:"
+    ]
+  },
+  {
+    "originalFilename": "Image69-p133.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image69-p133.tif",
+    "localFilename": "Image69-p133.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image69-p133.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.2:"
+    ]
+  },
+  {
+    "originalFilename": "Image70-p135.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image70-p135.tif",
+    "localFilename": "Image70-p135.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image70-p135.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.3:"
+    ]
+  },
+  {
+    "originalFilename": "Image71-p138.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image71-p138.tif",
+    "localFilename": "Image71-p138.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image71-p138.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.4:"
+    ]
+  },
+  {
+    "originalFilename": "Image72-p139.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image72-p139.tif",
+    "localFilename": "Image72-p139.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image72-p139.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.5:"
+    ]
+  },
+  {
+    "originalFilename": "Image73-p146.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image73-p146.tif",
+    "localFilename": "Image73-p146.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image73-p146.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.6:"
+    ]
+  },
+  {
+    "originalFilename": "Image74-p147.tif",
+    "sourcePath": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/Links/Image74-p147.tif",
+    "localFilename": "Image74-p147.png",
+    "localPath": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image74-p147.png",
+    "usedInFigureLabels": [
+      "Afbeelding 9.7:"
+    ]
+  }
+]

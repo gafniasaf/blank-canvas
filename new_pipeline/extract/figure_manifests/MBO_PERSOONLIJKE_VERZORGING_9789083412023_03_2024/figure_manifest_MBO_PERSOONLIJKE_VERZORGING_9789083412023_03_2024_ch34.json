@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3628
+  },
+  "chapter": "34",
+  "chapterRange": {
+    "endOff": 360,
+    "ok": true,
+    "startOff": 354
+  },
+  "exportedAt": "Sat Jan 03 2026 23:00:14 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "De TGT-datum wordt gebruikt voor producten die heel snel bederven, zoals vlees en zuivel. TGT staat voor ‘te gebruiken tot’. Je moet een TGT-datum dus altijd streng aanhouden als laatste geschikte datum voor consumptie. Eén dag na de TGT-datum is het product vaak al onveilig om te eten.",
+        "beforeText": "﻿34.1  Boodschappen en de houdbaarheidsdatum",
+        "pageDocumentOffset": 354,
+        "paragraphIndexInBodyStory": 6561,
+        "text": "Als je gezond en veilig wilt koken, moet je eerst goede ingrediënten hebben. Maaltijdbereiding begint dus met het doen van boodschappen in de supermarkt. Je moet daarbij goed letten op de houdbaarheidsdatum. Deze kan je terugvinden in twee verschillende vormen: de TGT-datum en de THT-datum.",
+        "x": 210,
+        "y": 165.374421588813
+      },
+      "asset": null,
+      "caption": {
+        "body": "Veilig en gezond koken begint met goede ingrediënten.",
+        "bounds": null,
+        "label": "Afbeelding 34.1:",
+        "raw": "Afbeelding 34.1 Veilig en gezond koken begint met goede ingrediënten.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          164.831481773998,
+          297.000001102024,
+          212.917196059714,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 34_34.1_Veilig en gezond koken begint met goede ingrediënten.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2034_34.1_Veilig%20en%20gezond%20koken%20begint%20met%20goede%20ingredi%C3%ABnten.tif"
+      },
+      "page": {
+        "documentOffset": 354,
+        "name": "341"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "als de temperatuur tot meer dan 10 °C gestegen is, gooi dan alle producten weg die gemakkelijk bederven, zoals vlees en vis;",
+        "pageDocumentOffset": 355,
+        "paragraphIndexInBodyStory": 6580,
+        "text": "als het in de koelkast warmer is geworden dan 15 °C, moet je alles weggooien.",
+        "x": 107.999999830458,
+        "y": 116.065927929354
+      },
+      "asset": null,
+      "caption": {
+        "body": "Hoe hoger de temperatuur, hoe eerder het product bederft.",
+        "bounds": null,
+        "label": "Afbeelding 34.2:",
+        "raw": "Afbeelding 34.2 Hoe hoger de temperatuur, hoe eerder het product bederft.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          125.284099225643,
+          102.000001102024,
+          169.24927876862,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 34_34.2_Hoe hoger de temperatuur, hoe eerder het product bederft.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2034_34.2_Hoe%20hoger%20de%20temperatuur%2C%20hoe%20eerder%20het%20product%20bederft.tif"
+      },
+      "page": {
+        "documentOffset": 355,
+        "name": "342"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "als het 0 °C of onder 0 °C is gebleven, zet je de vriezer weer aan. De veiligheid van de producten is niet in gevaar gekomen;",
+        "beforeText": "In de vriezer is de temperatuur het liefst -18 °C of lager. In tegenstelling tot de koelkast is de temperatuur binnen in de vriezer overal hetzelfde. Je hoeft dus niet te letten op waar in de vriezer je verschillende producten plaatst. Warme producten moet je niet direct in de vriezer zetten, maar eerst laten afkoelen. Anders verhogen ze de temperatuur van de vriezer, en dat is onveilig voor de andere producten en zonde van het extra stroomverbruik. Je mag producten die ontdooid zijn niet opnieuw invriezen.",
+        "pageDocumentOffset": 356,
+        "paragraphIndexInBodyStory": 6586,
+        "text": "Als de vriezer uitvalt, moet je net als bij de koelkast op de temperatuur letten:",
+        "x": 210,
+        "y": 22.6659279293516
+      },
+      "asset": null,
+      "caption": {
+        "body": "Was altijd je handen voordat je voedsel gaat (voor)bereiden.",
+        "bounds": null,
+        "label": "Afbeelding 34.3:",
+        "raw": "Afbeelding 34.3 Was altijd je handen voordat je voedsel gaat (voor)bereiden.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          297.000001102024,
+          78.4482758620715,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 34_34.3_Was altijd je handen voordat je voedsel gaat (voor)bereiden.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2034_34.3_Was%20altijd%20je%20handen%20voordat%20je%20voedsel%20gaat%20%28voor%29bereiden.tif"
+      },
+      "page": {
+        "documentOffset": 356,
+        "name": "343"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

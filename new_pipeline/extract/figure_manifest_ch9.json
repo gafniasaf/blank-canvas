@@ -1,0 +1,596 @@
+{
+  "bodyStory": {
+    "index": 172,
+    "words": 7921
+  },
+  "chapter": "9",
+  "chapterRange": {
+    "endOff": 352,
+    "ok": true,
+    "startOff": 325
+  },
+  "exportedAt": "Thu Dec 25 2025 17:26:22 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "de premotorische cortex. Dit gebied is verantwoordelijk voor de voorbereiding van de bewegingen die je maakt;",
+        "beforeText": "Elk gebied in de grote hersenen heeft een eigen functie. Het gebied dat je bewegingen aanstuurt, noemen we de motorische cortex. De motorische cortex bestaat uit drie delen:",
+        "pageDocumentOffset": 339,
+        "paragraphIndexInBodyStory": 167,
+        "text": "de primaire motorische cortex. Dit gebied is verantwoordelijk voor de uitvoering van alle bewegingen die je maakt;",
+        "x": 22.000000026491,
+        "y": 110.311111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Ligging van primaire sensorische schorsgebieden.",
+        "bounds": null,
+        "label": "Afbeelding 9.10:",
+        "raw": "Afbeelding 9.10 Ligging van primaire sensorische schorsgebieden.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.10.png",
+        "bounds": [
+          139.011640804745,
+          29.7881597945318,
+          241.122522222206,
+          139.282058373309
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img10.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img10.png"
+      },
+      "page": {
+        "documentOffset": 339,
+        "name": "321"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "C1 tot en met C7. Dit zijn je bovenste wer-vels, de letter C staat voor ‘cervicaal’. Dit betekent dat het over je nekwervels gaat. Je hebt hier dus zeven van;",
+        "beforeText": "Je wervelkolom bestaat uit wervels en hier doorheen loopt je ruggenmerg. Bij elke wervel hoort een zenuw, deze noemen we de spinale zenuwen. Een voorbeeld van een spinale zenuw is de zenuw die vanuit je ruggenmerg naar je arm loopt. Per wervel komen twee spinale zenuwen uit het ruggenmerg. De een gaat naar de rechterkant van het lichaam, de andere naar de linkerkant van het lichaam. De zenuwen die bij de wervel horen komen aan de onderkant van de wervel naar buiten. Dit gebeurt via de tussenwervelgaten. Deze noemen we ook wel foramina intravertebralis. Een ruggenwervel met de bijbehorende zenuw heten samen een ruggenmergsegment. Op deze manier verbindt het ruggenmerg de hersenen met het lichaam. Elke zenuw gaat naar een bepaald gebied van je lichaam. Motorische zenuwen gaan naar bepaalde groepjes van spieren die we myotomen noemen. Sensorische zenuwen gaan naar bepaalde gebieden in de huid die we dermatomen noemen.",
+        "pageDocumentOffset": 344,
+        "paragraphIndexInBodyStory": 228,
+        "text": "Je hebt heel veel ruggenwervels en zenuwen die bij die wervels horen. Om deze reden heeft elke wervel een eigen code. Hierdoor weet je altijd precies over welke wervel je het hebt. Van boven naar beneden noemen we de wervels:",
+        "x": 209.99999999947,
+        "y": 200.622222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De hersenen, het ruggenmerg en de zenuwen.",
+        "bounds": null,
+        "label": "Afbeelding 9.11:",
+        "raw": "Afbeelding 9.11 De hersenen, het ruggenmerg en de zenuwen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.11.png",
+        "bounds": [
+          15.8988666666697,
+          239.075795811542,
+          185.774066666667,
+          328.081698557145
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img11.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img11.png"
+      },
+      "page": {
+        "documentOffset": 344,
+        "name": "326"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Stel dat je het ruggenmerg dwars doorsnijdt. Je ziet dan precies hoe het ruggenmerg is opgebouwd. De vorm lijkt een beetje op die van een vlinder, waarbij de grijze stof aan de binnenkant ligt en de witte stof daaromheen. In het midden van de vlinder zit een ruimte, we noemen deze ruimte het centrale kanaal. Hier stroomt normaal de hersenvloeistof doorheen. Het centrale kanaal loopt van boven naar beneden. De hersenvloeistof loopt van het vierde ventrikel door het centrale kanaal naar het einde van het ruggenmerg.",
+        "beforeText": "Over de hele lengte van je ruggenmerg komen zenuwen het ruggenmerg uit. De ruggenmergzenuwen zijn verschillend in hoe ze uit het ruggenmerg gaan. Sommigen lopen horizontaal het ruggenmerg uit en anderen lopen eerst naar beneden. Het verschil tussen de zenuwen komt doordat het ruggenmerg niet even lang is als het ruggenwervelkanaal. Ter hoogte van L1-2 waaieren ze uit elkaar. De zenuwen van je ruggenmerg lopen als een soort staart naar beneden. Daarom noemen we ze ook wel de cauda equina, want dit betekent paardenstaart.",
+        "pageDocumentOffset": 345,
+        "paragraphIndexInBodyStory": 235,
+        "text": "9.3.2  Anatomie en functies",
+        "x": 101.999999999937,
+        "y": 127.244444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Dwarsdoorsnede van het ruggenmerg.",
+        "bounds": null,
+        "label": "Afbeelding 9.12:",
+        "raw": "Afbeelding 9.12 Dwarsdoorsnede van het ruggenmerg.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.12.png",
+        "bounds": [
+          25.6788212562107,
+          24.6643563477037,
+          107.087354166531,
+          162.310384283033
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 12.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%2012.png"
+      },
+      "page": {
+        "documentOffset": 345,
+        "name": "327"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "sensorische banen. Deze geven informatie door van het lichaam naar de hersenen. Dit zijn opstijgende banen. Je noemt ze ook wel afferente tracti.",
+        "beforeText": "De zenuwen zijn verdeeld in banen die we ook wel tracti noemen. Dit is het meervoud van tractus, een ander woord voor baan. Deze tracti lopen allemaal door de hersenen en het ruggenmerg. Verschillende soorten banen zijn:",
+        "pageDocumentOffset": 346,
+        "paragraphIndexInBodyStory": 238,
+        "text": "motorische banen. Deze geven informatie door van de hersenen naar het lichaam. Dit zijn afdalende banen. Je noemt ze ook wel efferente tracti;",
+        "x": 217.000000025961,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De opbouw van een zenuwcel (neuron).",
+        "bounds": null,
+        "label": "Afbeelding 9.13:",
+        "raw": "Afbeelding 9.13 De opbouw van een zenuwcel (neuron).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.13.png",
+        "bounds": [
+          14.5000000000914,
+          9.92544239096782,
+          238.026561429099,
+          180
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 347,
+        "name": "329"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "9.4.3  Prikkelgeleiding",
+        "beforeText": "Wanneer een actiepotentiaal een cel depolariseert, kunnen andere cellen ook depolariseren. Je kan dit vergelijken met een rij dominostenen. Als één steen omvalt, vallen de andere stenen ook om. De cellen die naast de gedepolariseerde cellen liggen gaan ook depolariseren. Vervolgens depolariseren zij weer andere cellen. Zo geven de zenuwcellen de actiepotentiaal door. Niet alleen in zenuwen is dit het geval.",
+        "pageDocumentOffset": 349,
+        "paragraphIndexInBodyStory": 268,
+        "text": "Wanneer een cel een actiepotentiaal heeft doorgegeven, herstelt deze weer. Dit noemen we repolarisatie. De lading in de cel wordt dan weer negatief en de lading buiten de cel wordt weer positief. Vervolgens kan opnieuw een actiepotentiaal ontstaan.",
+        "x": 101.999999999937,
+        "y": 144.177777777781
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Positieve cel.",
+        "bounds": null,
+        "label": "Afbeelding 9.14:",
+        "raw": "Afbeelding 9.14 Positieve cel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.14.png",
+        "bounds": [
+          23.0000000001007,
+          6.61272566343677,
+          91.6341820686957,
+          89.6379459077003
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 14.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%2014.png"
+      },
+      "page": {
+        "documentOffset": 349,
+        "name": "331"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "9.4.3  Prikkelgeleiding",
+        "beforeText": "Wanneer een actiepotentiaal een cel depolariseert, kunnen andere cellen ook depolariseren. Je kan dit vergelijken met een rij dominostenen. Als één steen omvalt, vallen de andere stenen ook om. De cellen die naast de gedepolariseerde cellen liggen gaan ook depolariseren. Vervolgens depolariseren zij weer andere cellen. Zo geven de zenuwcellen de actiepotentiaal door. Niet alleen in zenuwen is dit het geval.",
+        "pageDocumentOffset": 349,
+        "paragraphIndexInBodyStory": 268,
+        "text": "Wanneer een cel een actiepotentiaal heeft doorgegeven, herstelt deze weer. Dit noemen we repolarisatie. De lading in de cel wordt dan weer negatief en de lading buiten de cel wordt weer positief. Vervolgens kan opnieuw een actiepotentiaal ontstaan.",
+        "x": 101.999999999937,
+        "y": 144.177777777781
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Negatieve cel.",
+        "bounds": null,
+        "label": "Afbeelding 9.15:",
+        "raw": "Afbeelding 9.15 Negatieve cel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.15.png",
+        "bounds": [
+          27.6914861505512,
+          98.5901701078811,
+          86.9426959182554,
+          179.387274336563
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 15.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%2015.png"
+      },
+      "page": {
+        "documentOffset": 349,
+        "name": "331"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de pupillen. Deze kunnen ook wijder of nauwer worden;",
+        "beforeText": "Vooral de reflexen van het autonome zenuwstelsel gaan onbewust. Het autonome zenuwstelsel regelt het goed functioneren van je organen. De reflexen die hierbij horen zijn reflexen die in glad spierweefsel optreden. Glad spierweefsel zit in de wanden van holle organen, zoals de wanden van de bloedvaten. Op deze reflexen heb je geen invloed. Dit zijn de reflexen van:",
+        "pageDocumentOffset": 351,
+        "paragraphIndexInBodyStory": 288,
+        "text": "de bloedvaten. De bloedvaten kunnen wijder of nauwer worden;",
+        "x": 22.000000026491,
+        "y": 166.755555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+        "bounds": null,
+        "label": "Afbeelding 9.17:",
+        "raw": "Afbeelding 9.17 Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.17.png",
+        "bounds": [
+          31.0662928793472,
+          13.5905736295747,
+          148.138597644591,
+          157.58324793977
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img_17.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img_17.png"
+      },
+      "page": {
+        "documentOffset": 351,
+        "name": "333"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "verwerking van binnengekomen informatie. Zodra je ogen het bord pasta hebben gezien en je neus het heeft geroken, moet deze sensorische informatie naar je hersenen worden gebracht. Je zenuwen brengen de sensorische informatie via je ruggenmerg naar je hersenen. In je hersenen wordt geregistreerd dat je het bord pasta hebt gezien en geroken. Op deze manier word je je bewust van het feit dat een bord pasta voor je staat;",
+        "beforeText": "Het zenuwstelsel heeft verschillende functies. De drie belangrijkste zijn:",
+        "pageDocumentOffset": 326,
+        "paragraphIndexInBodyStory": 28,
+        "text": "informatie opnemen. Je lichaam ontvangt de hele tijd informatie over de wereld om je heen. Je ogen zien bijvoorbeeld dat je een bord pasta voor je hebt staan en met je neus ruik je de geur van de pastasaus. Speciale cellen in je ogen en je neus vangen deze informatie op. Deze speciale cellen noemen we receptoren en de informatie noemen we ook wel sensorische informatie;",
+        "x": 217.000000025961,
+        "y": 115.955555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Sensorische informatieverwerking.",
+        "bounds": null,
+        "label": "Afbeelding 9.2:",
+        "raw": "Afbeelding 9.2 Sensorische informatieverwerking.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.2.png",
+        "bounds": [
+          124.000000000005,
+          219.031111111111,
+          236.888888888894,
+          360.142222222222
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img_02.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img_02.png"
+      },
+      "page": {
+        "documentOffset": 326,
+        "name": "308"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "9.1.3  Het centrale zenuwstelsel",
+        "beforeText": "Normaal werken je centrale en perifere zenuwstelsel goed samen, maar bij sommige zorgvragers werkt het zenuwstelsel niet zo goed. Zij hebben bijvoorbeeld een ziekte waardoor het zenuwstelsel kapotgaat. Hierdoor komen signalen vanuit het lichaam niet goed bij de hersenen, of andersom niet goed vanuit de hersenen bij de spieren.",
+        "pageDocumentOffset": 327,
+        "paragraphIndexInBodyStory": 32,
+        "text": "Soms is het juist de bedoeling dat het zenuwstelsel minder signalen doorgeeft. Als je bijvoorbeeld schoenen aantrekt, voel je ze in het begin goed zitten. Als je al een tijdje met deze schoenen loopt, voel je ze niet meer. We noemen dit gewenning. Je zenuwen stoppen op een gegeven moment met het doorgeven van signalen. Dit is de bedoeling, anders zou je de hele dag je kleding voelen of het geruis van elektrische apparaten horen.",
+        "x": 15,
+        "y": 121.600000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+        "bounds": null,
+        "label": "Afbeelding 9.3:",
+        "raw": "Afbeelding 9.3 Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.3.png",
+        "bounds": [
+          143.921222222228,
+          38.2985647759333,
+          238.070555555563,
+          142.478252275933
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 3.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%203.png"
+      },
+      "page": {
+        "documentOffset": 327,
+        "name": "309"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het hersenweefsel in deze delen van de hersenen kan op twee manieren worden ingedeeld. De eerste indeling is de indeling in primaire en secundaire hersengebieden:",
+        "beforeText": "tussenhersenen. Dit deel van de hersenen ligt tussen de grote hersenen en de hersenstam;",
+        "pageDocumentOffset": 328,
+        "paragraphIndexInBodyStory": 38,
+        "text": "hersenstam. Dit deel ligt tussen de tussenhersenen en het ruggenmerg.",
+        "x": 217.000000025961,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Functies van het autonome zenuwstelsel.",
+        "bounds": null,
+        "label": "Afbeelding 9.4:",
+        "raw": "Afbeelding 9.4 Functies van het autonome zenuwstelsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.4.png",
+        "bounds": [
+          28.2399535202965,
+          39.0201538119102,
+          164.455068461546,
+          68.8038937652664
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 4.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%204.png"
+      },
+      "page": {
+        "documentOffset": 329,
+        "name": "311"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "spinnenwebvlies. Een andere naam hiervoor is de arachnoïdea;",
+        "beforeText": "Je hersenen worden beschermd door de schedel die hier omheen ligt. Tussen de hersenen en de schedel liggen een paar laagjes die we de hersenvliezen noemen. Deze hersenvliezen liggen ook tussen het ruggenmerg en de wervelkolom. In totaal heb je drie hersenvliezen. Van buiten naar binnen zijn dit het:",
+        "pageDocumentOffset": 332,
+        "paragraphIndexInBodyStory": 89,
+        "text": "harde hersenvlies. We noemen dit ook wel de dura mater;",
+        "x": 217.000000025961,
+        "y": 166.755555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+        "bounds": null,
+        "label": "Afbeelding 9.5:",
+        "raw": "Afbeelding 9.5 Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.5.png",
+        "bounds": [
+          19.9999999999929,
+          245.731047612847,
+          121.422199999998,
+          360.328703862847
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 5.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%205.png"
+      },
+      "page": {
+        "documentOffset": 332,
+        "name": "314"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "twee zijventrikels;",
+        "beforeText": "de subarachnoïdale ruimte;",
+        "pageDocumentOffset": 333,
+        "paragraphIndexInBodyStory": 110,
+        "text": "de hersenkamers. Dit zijn ruimten in je hersenen waarin ook hersenvocht zit. We noemen deze ruimten ventrikels. De plexus choroïdeus maakt de hersenvloeistof. Deze komt in de ventrikels terecht. In je hersenen heb je meerdere ventrikels die allemaal met dunne kanaaltjes met elkaar verbonden zijn. Je hebt:",
+        "x": 109.000000026428,
+        "y": 121.600000000003
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de hersenen en de hersenstam.",
+        "bounds": null,
+        "label": "Afbeelding 9.6:",
+        "raw": "Afbeelding 9.6 Doorsnede van de hersenen en de hersenstam.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.6.png",
+        "bounds": [
+          143.119444444448,
+          46.1717786055878,
+          234.864244444442,
+          145.397018907101
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 6&8.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%206%268.png"
+      },
+      "page": {
+        "documentOffset": 333,
+        "name": "315"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "II. De nervus opticus. Deze zorgt voor het zien;",
+        "beforeText": "De functies van je hersenzenuwen zijn het aansturen van je zintuigen en van de spieren van je autonome zenuwstelsel. Sommige hersenzenuwen zijn alleen sensorisch of alleen motorisch, terwijl andere juist sensorisch en motorisch zijn. Elke hersenzenuw heeft een andere functie. Je hebt de volgende hersenzenuwen:",
+        "pageDocumentOffset": 335,
+        "paragraphIndexInBodyStory": 122,
+        "text": "I. De nervus olfactorius. Deze zorgt dat je kan ruiken;",
+        "x": 22.000000026491,
+        "y": 178.044444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de kleine hersenen en de hersenstam.",
+        "bounds": null,
+        "label": "Afbeelding 9.7:",
+        "raw": "Afbeelding 9.7 Doorsnede van de kleine hersenen en de hersenstam.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.7.png",
+        "bounds": [
+          80.1962765638661,
+          61.9350146887185,
+          162.746276563866,
+          152.391922240802
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 7.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%207.png"
+      },
+      "page": {
+        "documentOffset": 335,
+        "name": "317"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "9.2.7  De tussenhersenen",
+        "beforeText": "Wanneer je naar de zijkant van de hersenen kijkt, liggen achter de hersenstam de kleine hersenen. Deze noemen we ook wel het cerebellum. De kleine hersenen liggen los van je grote hersenen. Aan de binnenkant ligt de witte stof en aan de buitenkant de grijze stof. Deze grijze stof noemen we ook wel de cortex. Als je vanaf de buitenkant kijkt, zie je allemaal inkepingen. Hierdoor is het oppervlakte van de kleine hersenen vergroot. Deze inkepingen noemen we folia.",
+        "pageDocumentOffset": 336,
+        "paragraphIndexInBodyStory": 137,
+        "text": "De functie van de kleine hersenen is het coördineren van bewegingen. Verbindingen lopen tussen de grote hersenen, het ruggenmerg, de hersenstam en de kleine hersenen. Op deze manier stemmen de kleine hersenen bewegingen op elkaar af. Als je geen kleine hersenen zou hebben, zouden de bewegingen niet soepel lopen. Je arm zou bijvoorbeeld bij het pakken van een kopje heel erg schokken. Als je kleine hersenen niet goed werken verlopen je bewegingen ongecoördineerd. Je loopt dan bijvoorbeeld net alsof je dronken bent.",
+        "x": 296.999999999937,
+        "y": 115.955555555559
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch9/Afbeelding_9.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+        "bounds": null,
+        "label": "Afbeelding 9.8:",
+        "raw": "Afbeelding 9.8 Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch9/Afbeelding_9.8.png",
+        "bounds": [
+          138.533333333336,
+          239.195253888889,
+          238.101333333333,
+          346.078453888889
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 6&8.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%206%268.png"
+      },
+      "page": {
+        "documentOffset": 336,
+        "name": "318"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De tussenhersenen liggen tussen de grote hersenen en de hersenstam. We noemen de tussenhersenen ook wel het diencephalon. Ze bestaan uit twee belangrijke gebieden:",
+        "beforeText": "De functie van de kleine hersenen is het coördineren van bewegingen. Verbindingen lopen tussen de grote hersenen, het ruggenmerg, de hersenstam en de kleine hersenen. Op deze manier stemmen de kleine hersenen bewegingen op elkaar af. Als je geen kleine hersenen zou hebben, zouden de bewegingen niet soepel lopen. Je arm zou bijvoorbeeld bij het pakken van een kopje heel erg schokken. Als je kleine hersenen niet goed werken verlopen je bewegingen ongecoördineerd. Je loopt dan bijvoorbeeld net alsof je dronken bent.",
+        "pageDocumentOffset": 337,
+        "paragraphIndexInBodyStory": 138,
+        "text": "9.2.7  De tussenhersenen",
+        "x": 101.999999999937,
+        "y": 189.333333333336
+      },
+      "asset": null,
+      "caption": {
+        "body": "Links de motorische homunculus en rechts de sensorische homunculus.",
+        "bounds": null,
+        "label": "Afbeelding 9.9:",
+        "raw": "Afbeelding 9.9 Links de motorische homunculus en rechts de sensorische homunculus.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          39.5888643490892,
+          174.432000000006,
+          172.939135650911
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch9_Img 9.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch9_Img%209.png"
+      },
+      "page": {
+        "documentOffset": 337,
+        "name": "319"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

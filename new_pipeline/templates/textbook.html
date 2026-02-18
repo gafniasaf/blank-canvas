@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{book.meta.title}}</title>
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  
+  <!-- Paged.js for print pagination -->
+  <script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+  
+  <!-- Book styles -->
+  <link rel="stylesheet" href="textbook.css">
+  
+  <style>
+    /* Loading indicator */
+    .pagedjs-loading {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-heading);
+      font-size: 14pt;
+      color: #666;
+      z-index: 9999;
+    }
+    
+    .pagedjs-loading::after {
+      content: 'Rendering book...';
+    }
+    
+    .pagedjs-complete .pagedjs-loading {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="pagedjs-loading"></div>
+  
+  <!-- Title Page -->
+  <section class="title-page page-break">
+    <div style="text-align: center; padding-top: 40%;">
+      <h1 style="font-size: 28pt; border: none; padding: 0;">{{book.meta.title}}</h1>
+      <p style="font-size: 14pt; color: #666; margin-top: 2em;">
+        Niveau: {{uppercase book.meta.level}}
+      </p>
+      {{#if book.meta.isbn}}
+      <p style="font-size: 10pt; color: #999; margin-top: 4em;">
+        ISBN: {{book.meta.isbn}}
+      </p>
+      {{/if}}
+    </div>
+  </section>
+  
+  <!-- Table of Contents -->
+  <section class="toc page-break">
+    <h1>Inhoudsopgave</h1>
+    <nav>
+      {{#each book.chapters}}
+      <div class="toc-chapter">
+        <a href="#chapter-{{number}}">
+          <span class="toc-number">{{number}}</span>
+          <span class="toc-title">{{title}}</span>
+        </a>
+        {{#each sections}}
+        <div class="toc-section">
+          <a href="#section-{{number}}">
+            <span class="toc-number">{{number}}</span>
+            {{#if title}}<span class="toc-title">{{title}}</span>{{/if}}
+          </a>
+        </div>
+        {{/each}}
+      </div>
+      {{/each}}
+    </nav>
+  </section>
+  
+  <!-- Chapters -->
+  {{#each book.chapters}}
+  <section class="chapter" id="chapter-{{number}}">
+    <header class="chapter-header">
+      <div class="chapter-number">Hoofdstuk {{number}}</div>
+      <h1 class="chapter-title">{{title}}</h1>
+    </header>
+    
+    {{#each sections}}
+    <section class="section" id="section-{{number}}">
+      <h2>
+        <span class="section-number">{{number}}</span>
+        {{#if title}}<span class="section-title">{{title}}</span>{{/if}}
+      </h2>
+      
+      {{#each content}}
+      {{#if (eq type "paragraph")}}
+      <div class="paragraph-block" data-id="{{id}}">
+        <p class="basis-text">{{basis}}</p>
+        
+        {{#if praktijk}}
+        <aside class="praktijk-block">
+          <div class="praktijk-label">In de praktijk</div>
+          <p class="praktijk-text">{{praktijk}}</p>
+        </aside>
+        {{/if}}
+        
+        {{#if verdieping}}
+        <aside class="verdieping-block">
+          <div class="verdieping-label">Verdieping</div>
+          <p class="verdieping-text">{{verdieping}}</p>
+        </aside>
+        {{/if}}
+      </div>
+      {{/if}}
+      
+      {{#if (eq type "subparagraph")}}
+      <div class="subparagraph" id="subparagraph-{{number}}">
+        <h3 class="subparagraph-header">
+          {{number}}
+          {{#if title}} {{title}}{{/if}}
+        </h3>
+        
+        {{#each content}}
+        <div class="paragraph-block" data-id="{{id}}">
+          <p class="basis-text">{{basis}}</p>
+          
+          {{#if praktijk}}
+          <aside class="praktijk-block">
+            <div class="praktijk-label">In de praktijk</div>
+            <p class="praktijk-text">{{praktijk}}</p>
+          </aside>
+          {{/if}}
+          
+          {{#if verdieping}}
+          <aside class="verdieping-block">
+            <div class="verdieping-label">Verdieping</div>
+            <p class="verdieping-text">{{verdieping}}</p>
+          </aside>
+          {{/if}}
+        </div>
+        {{/each}}
+      </div>
+      {{/if}}
+      
+      {{#if (eq type "image")}}
+      <figure class="image-block" id="{{id}}">
+        <img src="{{src}}" alt="{{alt}}">
+        {{#if caption}}
+        <figcaption>
+          {{#if figureNumber}}<span class="figure-number">{{figureNumber}}</span> {{/if}}
+          {{caption}}
+        </figcaption>
+        {{/if}}
+      </figure>
+      {{/if}}
+      
+      {{#if (eq type "table")}}
+      <div class="table-block" id="{{id}}">
+        {{#if caption}}
+        <p class="table-caption">
+          {{#if tableNumber}}<span class="table-number">{{tableNumber}}</span> {{/if}}
+          {{caption}}
+        </p>
+        {{/if}}
+        <table>
+          <thead>
+            <tr>
+              {{#each headers}}
+              <th>{{this}}</th>
+              {{/each}}
+            </tr>
+          </thead>
+          <tbody>
+            {{#each rows}}
+            <tr>
+              {{#each this}}
+              <td>{{this}}</td>
+              {{/each}}
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+      {{/if}}
+      {{/each}}
+    </section>
+    {{/each}}
+  </section>
+  {{/each}}
+  
+  <!-- Glossary (if present) -->
+  {{#if book.glossary}}
+  <section class="glossary page-break">
+    <h1 class="glossary-title">Woordenlijst</h1>
+    <dl>
+      {{#each book.glossary}}
+      <dt class="glossary-term">{{term}}</dt>
+      <dd class="glossary-definition">{{definition}}</dd>
+      {{/each}}
+    </dl>
+  </section>
+  {{/if}}
+  
+  <!-- Colophon -->
+  <section class="colophon page-break">
+    <div style="text-align: center; padding-top: 60%;">
+      <p style="font-size: 9pt; color: #999;">
+        Generated by New Pipeline<br>
+        {{book.export.exportedAt}}
+      </p>
+    </div>
+  </section>
+
+  <script>
+    // Add TOC styles
+    const tocStyles = `
+      .toc nav {
+        margin-top: 2em;
+      }
+      .toc-chapter {
+        margin-bottom: 1em;
+      }
+      .toc-chapter > a {
+        display: flex;
+        font-weight: 600;
+        color: var(--color-heading);
+        text-decoration: none;
+        padding: 0.25em 0;
+      }
+      .toc-section {
+        margin-left: 1.5em;
+      }
+      .toc-section > a {
+        display: flex;
+        color: var(--color-text);
+        text-decoration: none;
+        padding: 0.15em 0;
+        font-size: 0.95em;
+      }
+      .toc-number {
+        min-width: 2.5em;
+      }
+      .toc a:hover {
+        color: var(--color-praktijk);
+      }
+    `;
+    
+    const styleEl = document.createElement('style');
+    styleEl.textContent = tocStyles;
+    document.head.appendChild(styleEl);
+    
+    // Add class when Paged.js is done
+    window.PagedConfig = {
+      auto: true,
+      after: function() {
+        document.body.classList.add('pagedjs-complete');
+      }
+    };
+  </script>
+</body>
+</html>
+

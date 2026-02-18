@@ -1,0 +1,1049 @@
+{
+  "bodyStory": {
+    "index": 1393,
+    "words": 12543
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 108,
+    "ok": true,
+    "startOff": 66
+  },
+  "exportedAt": "Thu Dec 25 2025 17:23:51 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "de schedelbasis. De onderkant van je schedel heet de schedelbasis. Op dit bot rusten je hersenen. Je schedelbasis is dik en onregelmatig. De andere botten van je hersenschedel zijn juist plat en glad;",
+        "beforeText": "Je hersenschedel bevat ook nog andere onderdelen, zoals:",
+        "pageDocumentOffset": 82,
+        "paragraphIndexInBodyStory": 144,
+        "text": "de schedelnaden. De botten van je hersenschedel raken elkaar niet direct. Tussen je botten zit namelijk bindweefsel. Het weefsel tussen de botten van je hersenschedel noemen we schedelnaden. Dit noemen we ook wel een sutuur;",
+        "x": 217.000000026491,
+        "y": 200.62222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Structuren van de schedel.",
+        "bounds": null,
+        "label": "Afbeelding 3.10:",
+        "raw": "Afbeelding 3.10 Structuren van de schedel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.10.png",
+        "bounds": [
+          27.7527777777735,
+          209.343758298245,
+          165.752777777779,
+          279.325838298245
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img10.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img10.TIF"
+      },
+      "page": {
+        "documentOffset": 82,
+        "name": "64"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "kroonnaad (sutura coronalis). Deze loopt tussen je voorhoofdsbeen en je wandbeen. De naad loopt aan de voorkant dwars over je schedel;",
+        "beforeText": "Je schedel bestaat uit verschillende botten, waarvan je de meeste niet kan bewegen. Dit komt doordat tussen deze botten een laag bindweefsel zit. Hierdoor zijn ze helemaal aan elkaar vastgegroeid. Je kan de verschillende botten nog wel herkennen door deze bindweefsellagen. Ze vormen namelijk randen die over je schedel lopen. Deze randen noemen we je schedelnaden.",
+        "pageDocumentOffset": 83,
+        "paragraphIndexInBodyStory": 149,
+        "text": "Je hebt op je schedel drie naden lopen, namelijk de:",
+        "x": 14.9999999994699,
+        "y": 93.3777777777784
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De schedelnaden vormen een stevige verbinding tussen de botten van de schedel.",
+        "bounds": null,
+        "label": "Afbeelding 3.11:",
+        "raw": "Afbeelding 3.11 De schedelnaden vormen een stevige verbinding tussen de botten van de schedel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.11.png",
+        "bounds": [
+          102.183111111111,
+          31.0210122056653,
+          246.130555555556,
+          163.745681956509
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 83,
+        "name": "65"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "wiggenbeensholte (sinus sphenoidalis). Je hebt twee wiggenbeensholten. Aan beide kanten één. Deze holten liggen diep in je schedel, achter je neusholte;",
+        "beforeText": "kaakholte (sinus maxillaris). Je hebt aan beide kanten van je hoofd een kaakholte. Deze holten zitten in het bot van je bovenkaak en zijn de grootste neusbijholten van je lichaam;",
+        "pageDocumentOffset": 84,
+        "paragraphIndexInBodyStory": 158,
+        "text": "zeefbeenholte (sinus ethmoidalis). Deze holte ligt tussen je neus en je oogkassen. Eigenlijk gaat het niet om één holte, maar om een verzameling van heel veel kleine holten bij elkaar;",
+        "x": 304.000000026428,
+        "y": 76.4444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De neusbijholten in zij- en vooraanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 3.12:",
+        "raw": "Afbeelding 3.12 De neusbijholten in zij- en vooraanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.12.png",
+        "bounds": [
+          105.352922375119,
+          214.712708110777,
+          183.462904317683,
+          282.538220206306
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img12.TIF"
+      },
+      "page": {
+        "documentOffset": 84,
+        "name": "66"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "voorhoofdbeenholte (sinus frontalis). Je hebt een linker en een rechter voorhoofdsholte. Deze holten zitten in je voorhoofd net boven je ogen.",
+        "beforeText": "zeefbeenholte (sinus ethmoidalis). Deze holte ligt tussen je neus en je oogkassen. Eigenlijk gaat het niet om één holte, maar om een verzameling van heel veel kleine holten bij elkaar;",
+        "pageDocumentOffset": 85,
+        "paragraphIndexInBodyStory": 159,
+        "text": "wiggenbeensholte (sinus sphenoidalis). Je hebt twee wiggenbeensholten. Aan beide kanten één. Deze holten liggen diep in je schedel, achter je neusholte;",
+        "x": 22.0000000259609,
+        "y": 36.9333333333313
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De wervelkolom bestaat uit zeven halswervels, twaalf borstwervels, vijf lendenwervels, het heiligbeen en het staartbeen.",
+        "bounds": null,
+        "label": "Afbeelding 3.13:",
+        "raw": "Afbeelding 3.13 De wervelkolom bestaat uit zeven halswervels, twaalf borstwervels, vijf lendenwervels, het heiligbeen en het staartbeen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.13.png",
+        "bounds": [
+          13.9999999999981,
+          102,
+          151.999999999999,
+          180
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img13.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img13.TIF"
+      },
+      "page": {
+        "documentOffset": 85,
+        "name": "67"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3.7.2  De onderdelen van de wervels",
+        "beforeText": "Naast deze fysiologische krommingen hebben sommige zorgvragers nog een extra kromming. Deze is dus niet standaard in je rug aanwezig. Bij deze zorgvragers zie je soms een kromming naar opzij als je vanaf de achterkant naar de rug kijkt. Je ziet hier dan opnieuw de vorm van de letter S in de wervelkolom. Deze kromming naar opzij noemen we scoliose. Dit komt het meest voor in de borstwervels. De halswervels of de lendenwervels maken bij zorgvragers met scoliose dan juist een kromming de andere kant op. Hierdoor zijn de krommingen weer in evenwicht, zodat het hoofd dus gewoon recht boven de benen staat. In een helemaal gezonde rug zie je geen scoliose. Toch komt het vaak voor. Niet alle zorgvragers met scoliose hebben hier last van, doordat het erg verschilt hoe erg de scoliose is.",
+        "pageDocumentOffset": 87,
+        "paragraphIndexInBodyStory": 182,
+        "text": "In het onderste deel van je rug gaan de lumbale wervels over in het heiligbeen. Deze overgang noemen we het promontorium. Je kan het zien zitten als je goed naar de onderkant van je rug kijkt. De bovenkant van de eerste wervel van het heiligbeen steekt daar uit. Het promontorium noemen we daarom ook wel het vooruitspringende deel.",
+        "x": 101.999999999937,
+        "y": 48.2222222222228
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De wervelkolom heeft een dubbele S-vorm.",
+        "bounds": null,
+        "label": "Afbeelding 3.14:",
+        "raw": "Afbeelding 3.14 De wervelkolom heeft een dubbele S-vorm.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.14.png",
+        "bounds": [
+          5.5000000000042,
+          12,
+          159.700000000001,
+          94.304160015698
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img14.TIF"
+      },
+      "page": {
+        "documentOffset": 87,
+        "name": "69"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De lendenwervels of lumbale wervels zitten onder in je rug. Deze moeten het meeste lichaamsgewicht dragen, waardoor de lendenwervels het grootst zijn van alle wervels in je wervelkolom. De vorm van deze wervels maakt dat je dit deel van je rug niet kan draaien. Dit komt doordat het doornuitsteeksel hier meer overdwars en rechter loopt dan bij de borstwervels. De lendenwervels kan je juist wel van voren naar achteren bewegen. Een lendenwervel heeft een groot wervellichaam. De vorm daarvan lijkt op twee bonen die tegen elkaar aan liggen. Hierdoor heeft het wervellichaam een beetje de vorm van een nier. Het wervelgat van de lendenwervels is juist klein en heeft de vorm van een driehoek.",
+        "beforeText": "3.7.5  De borstwervels en de lendenwervels",
+        "pageDocumentOffset": 91,
+        "paragraphIndexInBodyStory": 217,
+        "text": "De borstwervels of thoracale wervels zijn anders dan de halswervels. Ze zijn bijvoorbeeld groter en steviger. Dit moeten ze ook zijn, omdat aan deze wervels je ribben vastzitten. Het wervellichaam van de borstwervels maakt twee bollingen. Hierdoor lijkt het een beetje op een hart. Het wervelgat van deze wervels is rond en klein. Het doornuitsteeksel aan de achterkant van de borstwervels loopt wat meer naar beneden en steekt uit naar achteren. De facetgewrichten zijn de gewrichten tussen je wervels. Tussen de borstwervels staan deze gewrichten vrij rechtop. Het is daardoor moeilijk om ter hoogte van de borstwervels naar voren en naar achteren te buigen. Draaien of van links naar rechts bewegen gaat wel makkelijker.",
+        "x": 14.9999999994699,
+        "y": 82.0888888888869
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Halswervels (cervicale wervels), borstwervels (thoracale wervels) en lendenwervels (lumbale wervels) hebben kenmerkende vormen.",
+        "bounds": null,
+        "label": "Afbeelding 3.15:",
+        "raw": "Afbeelding 3.15 Halswervels (cervicale wervels), borstwervels (thoracale wervels) en lendenwervels (lumbale wervels) hebben kenmerkende vormen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.15.png",
+        "bounds": [
+          157.141455443248,
+          96.4416666666666,
+          220.007767969994,
+          176.942471806532
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img15.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img15.TIF"
+      },
+      "page": {
+        "documentOffset": 91,
+        "name": "73"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "het wervelgat (foramen vertebrale). Een foramen is een opening. Het foramen vertebrale is dus een opening in de wervel. Deze opening zit tussen het wervellichaam en de wervelboog in. Het wervelgat grenst aan de voorkant aan het wervellichaam en aan de achterkant aan de wervelboog;",
+        "beforeText": "twee pedikels. Deze botten steken uit aan de achterkant van het wervellichaam. Ze zijn kort en hebben de vorm van een koker;",
+        "pageDocumentOffset": 88,
+        "paragraphIndexInBodyStory": 191,
+        "text": "twee lamina. Deze zitten vast aan de pedikels. In het midden van de wervel komen de twee lamina weer bij elkaar. Ze zijn ook gemaakt van bot, maar platter dan de pedikels;",
+        "x": 308.641666666667,
+        "y": 144.177777777776
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De structuren van een wervel.",
+        "bounds": null,
+        "label": "Afbeelding 3.16:",
+        "raw": "Afbeelding 3.16 De structuren van een wervel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.16.png",
+        "bounds": [
+          19.999999999998,
+          236.13222072953,
+          131.943097787712,
+          353.00194810211
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img16.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img16.TIF"
+      },
+      "page": {
+        "documentOffset": 88,
+        "name": "70"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De wervels in je wervelkolom zijn niet allemaal hetzelfde. De halswervels zijn bijvoorbeeld klein en licht. Ze zijn ook soepeler omdat de tussenwervelschijven hier relatief dik zijn. De volgende halswervels bevinden zich in je hals:",
+        "beforeText": "De letterlijke vertaling van ‘anulus fibrosus’ is bindweefselring. Deze buitenste ring van de tussenwervelschijf bestaat uit vezelig kraakbeen, waarin veel kleine collageenvezels zitten. Collageen is een plakkerig eiwit dat verschillende weefsels als het ware aan elkaar lijmt. In de bindweefselring lopen ook bloedvaten. Deze leveren zuurstof en voedingsstoffen aan voor de tussenwervelschijf. De letterlijke vertaling van ‘nucleus pulposus’ is een kern van pulp. De binnenkant van de tussenwervelschijf zit een kern met daarin een zachte gelei-structuur. Deze zachte gelei noemen we pulp. De gelei bindt aan water, waardoor de kern een volle en stevige inhoud krijgt. Als je beweegt, neemt de druk op je wervels toe. De gelei in de kern drukt zich dan samen, waardoor de tussenwervelschijven schokken kunnen opvangen. Als je voor langere tijd druk krijgt op je wervels, moet de gelei ook voor langere tijd samendrukken. Dit heeft als gevolg dat het minder goed water kan binden. De tussenwervelschijf heeft dan een minder volle kern en is dus minder groot. Dit gebeurt ook op een normale dag. Aan het begin van de dag heb je nog geen druk gehad op je wervelkolom, doordat je de hele nacht hebt gelegen. De tussenwervelschijven zijn dan voller en nog niet lang samengedrukt, waardoor je ook langer bent. Aan het eind van de dag heb je de hele dag druk gehad op je wervelkolom, waardoor je dan korter bent dan aan het begin van de dag. Als je ouder wordt, heb je steeds minder water in je geleikern. Hierdoor krimp je op oudere leeftijd langzaam. Door de nucleus pulposus lopen geen bloedvaten. Dit deel krijgt dus voedingsstoffen vanuit de buitenste ring.",
+        "pageDocumentOffset": 90,
+        "paragraphIndexInBodyStory": 210,
+        "text": "3.7.4  De halswervels",
+        "x": 296.999999999937,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tussenwervelschijf bestaat uit een anulus fibrosus (buitenkant) en een geleiachtige nucleus pulposus (binnenkant).",
+        "bounds": null,
+        "label": "Afbeelding 3.17:",
+        "raw": "Afbeelding 3.17 De tussenwervelschijf bestaat uit een anulus fibrosus (buitenkant) en een geleiachtige nucleus pulposus (binnenkant).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.17.png",
+        "bounds": [
+          11.1194444444519,
+          207,
+          124.909111111114,
+          294.892139144961
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img18.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img18.TIF"
+      },
+      "page": {
+        "documentOffset": 90,
+        "name": "72"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Het wervelkanaal loopt door je wervelkolom heen. Onderaan loopt het ook door het heiligbeen. Hier verandert de naam en noemen we het het sacrale kanaal. Het heiligbeen heeft de vorm van een driehoek. De vijf wervels van het heiligbeen zijn met elkaar samengegroeid tot één stuk. Hierdoor kan je deze wervels niet los van elkaar bewegen. Een voordeel hiervan is dat je wervelkolom een stuk steviger is.",
+        "beforeText": "De lendenwervels of lumbale wervels zitten onder in je rug. Deze moeten het meeste lichaamsgewicht dragen, waardoor de lendenwervels het grootst zijn van alle wervels in je wervelkolom. De vorm van deze wervels maakt dat je dit deel van je rug niet kan draaien. Dit komt doordat het doornuitsteeksel hier meer overdwars en rechter loopt dan bij de borstwervels. De lendenwervels kan je juist wel van voren naar achteren bewegen. Een lendenwervel heeft een groot wervellichaam. De vorm daarvan lijkt op twee bonen die tegen elkaar aan liggen. Hierdoor heeft het wervellichaam een beetje de vorm van een nier. Het wervelgat van de lendenwervels is juist klein en heeft de vorm van een driehoek.",
+        "pageDocumentOffset": 92,
+        "paragraphIndexInBodyStory": 219,
+        "text": "3.7.6  Het heiligbeen en het stuitje",
+        "x": 210,
+        "y": 53.8666666666647
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.18.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het staartbeen bevindt zich onder het heiligbeen.",
+        "bounds": null,
+        "label": "Afbeelding 3.18:",
+        "raw": "Afbeelding 3.18 Het staartbeen bevindt zich onder het heiligbeen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.18.png",
+        "bounds": [
+          44.9833333333281,
+          294,
+          158.983333333329,
+          382
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img17 (1).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img17%20%281%29.png"
+      },
+      "page": {
+        "documentOffset": 92,
+        "name": "74"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de tussenwervelschijven beschadigen;",
+        "beforeText": "De wervelkolom moet stabiel zijn omdat je stevig moet kunnen staan. Dit is extra belangrijk omdat op de wervelkolom veel gewicht leunt. Om deze stevigheid te behouden, heeft de wervelkolom bindweefselbanden (ligamenten). Deze banden hebben een aantal functies, namelijk het voorkomen dat:",
+        "pageDocumentOffset": 93,
+        "paragraphIndexInBodyStory": 226,
+        "text": "de wervelkolom een te grote beweging maakt. Een voorbeeld hiervan is dat de bindweefselbanden de wervelkolom niet te ver laten buigen;",
+        "x": 22.0000000259609,
+        "y": 178.044444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.19.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bindweefselbanden van de wervelkolom.",
+        "bounds": null,
+        "label": "Afbeelding 3.19:",
+        "raw": "Afbeelding 3.19 De bindweefselbanden van de wervelkolom.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.19.png",
+        "bounds": [
+          12.9855719837018,
+          26.9033848092898,
+          162.625049239405,
+          171.340016626655
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img19.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img19.png"
+      },
+      "page": {
+        "documentOffset": 93,
+        "name": "75"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Naast ondersteuning en bescherming spelen je botten ook een rol bij bewegen. Aan je botten zitten namelijk allerlei spieren vast, zoals je:",
+        "beforeText": "de opslag van mineralen.",
+        "pageDocumentOffset": 66,
+        "paragraphIndexInBodyStory": 13,
+        "text": "Stel, je speelt een voetbalwedstrijd en je staat helemaal vrij. Je teamgenoot speelt je de bal toe en jij kopt hem zo in het doel. De bal komt hierbij hard op je hoofd terecht. Zonder schedel zou de bal tegen je hersenen aan komen waarbij veel schade zou ontstaan. Om dit te voorkomen, heb je gelukkig een schedel die de klap van de bal opvangt. Op deze manier worden je hersenen dus beschermd. Een ander voorbeeld is je borstkas. Deze bestaat uit allerlei botten die we de ribben noemen. Door de ribben in je borstkas worden je longen en je hart beschermd.",
+        "x": 297,
+        "y": 93.3777777777784
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bouw van een bot.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 Bouw van een bot.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          108.969444444448,
+          210,
+          241.136111111117,
+          375
+        ],
+        "kind": "link",
+        "linkName": "1.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/1.tif"
+      },
+      "page": {
+        "documentOffset": 66,
+        "name": "48"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zwaardvormig aanhangsel (processus xiphoideus). ‘Processus’ betekent aanhangsel en ‘enxiphoideus’ betekent zwaardvormig. Het uiterlijk van dit aanhangsel is dan ook lang en dun. Het zwaardvormig aanhangsel vormt het onderste deel van je borstbeen. Als je het vergelijkt met je rug, vind je het zwaardvormig aanhangsel op het niveau van je tiende borstwervel. Tussen het zwaardvormig aanhangsel en het lichaam zit een gewricht. Soms vergroeit het lichaam met het zwaardvorming aanhangsel als je ouder wordt. Deze vormen dan samen één gedeelte.",
+        "beforeText": "handvat (manubrium). Dit is de bovenkant van je borstbeen met de vorm van een ruit. Aan het handvat zitten twee andere botten vast, namelijk je sleutelbeenderen. Deze zitten vast aan de bovenkant, aan de linkerkant en aan de rechterkant van het handvat. De sleutelbeenderen, ook wel claviculae genoemd, verbinden je borstbeen met je schouderblad. Tussen je borstbeen en je sleutelbeenderen zitten gewrichten. Deze noemen we SC-gewrichten, een afkorting van sternoclaviculaire gewrichten. Ze hebben deze naam omdat ze van je sternum naar je claviculae lopen;",
+        "pageDocumentOffset": 94,
+        "paragraphIndexInBodyStory": 239,
+        "text": "lichaam (corpus). Dit is het middelste gedeelte van je borstbeen. Als je het vergelijkt met je rug, vind je het lichaam op het niveau van je vijfde tot negende borstwervel. Het lichaam is dunner dan het handvat en ook een stuk langer. Het handvat en het lichaam komen samen op één plek, de sternale hoek (angulus sterni). Op deze plek voel je ook een kuiltje;",
+        "x": 304.000000026491,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.20.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ribben en het borstbeen.",
+        "bounds": null,
+        "label": "Afbeelding 3.20:",
+        "raw": "Afbeelding 3.20 De ribben en het borstbeen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.20.png",
+        "bounds": [
+          139.211975044449,
+          292.766666666667,
+          235.899999999998,
+          375.190746666667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img20.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img20.TIF"
+      },
+      "page": {
+        "documentOffset": 94,
+        "name": "76"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Om de borstholte heen liggen de ribben. Deze lopen van je borstbeen helemaal door naar achteren. Daar zitten ze vast aan de ruggenwervels. Sommige van je ribben vind je op dezelfde hoogte als je schouders. De schouderbladen (scapula) liggen daar over de ribben heen. Wanneer je je arm beweegt, glijdt je schouderblad makkelijk mee over de ribben. Hierdoor beweegt je arm makkelijk in verschillende richtingen.",
+        "beforeText": "zorgen voor vrije beweging van je armen. Het sleutelbeen vormt een stevige verbinding tussen je schouder en je borstbeen. Hierdoor maakt het niet uit dat je schouders (met daaraan je armen) helemaal aan de zijkant van je lichaam zitten. Je sleutelbeenderen houden je schouders toch goed op hun plaats. Het is zelfs erg handig dat je schouders en armen helemaal aan de zijkant van je lichaam zitten. Op deze manier hebben je armen namelijk genoeg ruimte om te bewegen zonder de hele tijd tegen de rest van je lichaam aan te botsen.",
+        "pageDocumentOffset": 97,
+        "paragraphIndexInBodyStory": 262,
+        "text": "3.10.2  De schouderbladen",
+        "x": 15,
+        "y": 149.822222222223
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.21.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het schoudergewricht is een kogelgewricht.",
+        "bounds": null,
+        "label": "Afbeelding 3.21:",
+        "raw": "Afbeelding 3.21 Het schoudergewricht is een kogelgewricht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.21.png",
+        "bounds": [
+          16.824999999998,
+          27.0379046750305,
+          126.069444444441,
+          149.058333333333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img21.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img21.TIF"
+      },
+      "page": {
+        "documentOffset": 97,
+        "name": "79"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3.10.3  De armen",
+        "beforeText": "Een ander woord voor bovenarmbot is opperarmbeen (humerus). De bovenkant van het bovenarmbot noemen we daarom ook wel de humeruskop. Tussen deze kop en de gewrichtskom zit een laagje kraakbeen, dat is een soort weefsel. Je vindt dit weefsel bijvoorbeeld ook in je neus, je oren en veel van je gewrichten. Denk hierbij aan je schouders, maar bijvoorbeeld ook aan je knieën en je heupen. In de schouders laat het kraakbeen de humeruskop soepel door de kom glijden. Vergelijk dit met een laagje olie tussen twee scharnieren. Hierdoor bewegen de scharnieren soepeler langs elkaar. Verder ligt de humeruskop maar voor een deel in de gewrichtskop. Dit maakt het nog makkelijker om je arm op verschillende manieren te bewegen. Het nadeel is wel dat de humeruskop best makkelijk uit de gewrichtskom schiet.",
+        "pageDocumentOffset": 98,
+        "paragraphIndexInBodyStory": 269,
+        "text": "Je humeruskop en je gewrichtskom vormen samen een gewricht. Dit noemen we het schoudergewricht (glenohumeraal gewricht). Hierbij betekent ‘gleno-’ schouder. ‘Glenohumeraal’ is dus een combinatie van schouder en humerus. De naam van het gewricht gaat hiermee uit van de twee delen van je schoudergewricht. Een gewricht met een kop en een kom noemen we ook wel een kogelgewricht. Van alle soorten gewrichten is dit het meest beweeglijke gewricht.",
+        "x": 209.99999999947,
+        "y": 93.3777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.22.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De elleboog is een scharniergewricht.",
+        "bounds": null,
+        "label": "Afbeelding 3.22:",
+        "raw": "Afbeelding 3.22 De elleboog is een scharniergewricht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.22.png",
+        "bounds": [
+          127.347222222228,
+          231.992075739598,
+          240.347222222222,
+          357.472949287209
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img22.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img22.TIF"
+      },
+      "page": {
+        "documentOffset": 98,
+        "name": "80"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "handwortelbeentjes (carpale botten). Deze maken direct contact met je spaakbeen. In totaal heeft je hand acht van dit soort botjes die allemaal een andere vorm hebben. Ze liggen naast elkaar in twee rijen. Dat betekent dus dat iedere rij bestaat uit vier handwortelbeentjes. Doordat deze botjes zo liggen, beweeg je je pols heel gemakkelijk;",
+        "beforeText": "Het polsgewricht zorgt voor een goede verbinding tussen de handen en de onderarmen. Toch zitten niet allebei de botten van je onderarm vast aan je pols. Alleen het spaakbeen is onderdeel van het polsgewricht. Dat betekent dat je ellepijp niet direct vastzit aan de botten van je hand, in plaats daarvan zit de ellepijp vast aan het spaakbeen.",
+        "pageDocumentOffset": 100,
+        "paragraphIndexInBodyStory": 286,
+        "text": "In je hand zitten een heleboel kleine botjes, namelijk je:",
+        "x": 210,
+        "y": 87.7333333333314
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.23.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Botten van de hand.",
+        "bounds": null,
+        "label": "Afbeelding 3.23:",
+        "raw": "Afbeelding 3.23 Botten van de hand.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.23.png",
+        "bounds": [
+          109.458333333911,
+          220.15405496698,
+          234.834730355941,
+          359.268037856995
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img23.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img23.TIF"
+      },
+      "page": {
+        "documentOffset": 100,
+        "name": "82"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3.11  De bekkengordel",
+        "beforeText": "vingerkootjes (falangen). Wanneer je goed aan je eigen vingers voelt, dan valt het je misschien op dat een aantal van deze botjes samen een vinger maken. Hierbij verschilt je duim een beetje van de rest van je vingers. Je duim bestaat namelijk maar uit twee vingerkootjes, terwijl de rest van je vingers drie kootjes hebben. Deze vier vingers behalve je duim hebben samen dus 3x4 = 12 vingerkootjes. Tel je hier de kootjes van je duim bij op, dan kom je uit op in totaal 14 vingerkootjes in iedere hand.",
+        "pageDocumentOffset": 101,
+        "paragraphIndexInBodyStory": 290,
+        "text": "Doordat je hand veel verschillende botjes heeft, vind je ook een aantal gewrichten in je hand. De meeste hiervan zijn scharniergewrichten. Dit zijn gewrichten die maar twee kanten op bewegen, namelijk in de richting van buigen en strekken. Je vindt scharniergewichten bijvoorbeeld tussen twee vingerkootjes. Een ander voorbeeld van dit soort gewrichten zit tussen de middenhandsbeentjes en de vingerkootjes. Een uitzondering hierop is de duim. Deze moet in meer richtingen bewegen dan de rest van je vingers. Hierdoor pak je bijvoorbeeld makkelijk een beker drinken op. Tussen de middenhandsbeentjes en het eerste vingerkootje van de duim zit daarom een ander soort gewricht. Dit is een zadelgewricht. Deze naam heeft te maken met de vorm van het gewricht. De botten van het gewricht lijken namelijk een beetje op een paardrijzadel. Met een zadelgewricht maak je bewegingen in twee verschillende richtingen. Dat betekent dat je je duim naar voren en naar achteren beweegt, maar ook van links naar rechts. Door deze twee bewegingen te combineren, draai je je duim helemaal rond.",
+        "x": 14.99999999947,
+        "y": 223.199999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.24.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Tussen de middenhandsbeentjes en de vingerkoot van de duim zit een zadelgewricht. Hierdoor kan de duim in alle richtingen bewegen.",
+        "bounds": null,
+        "label": "Afbeelding 3.24:",
+        "raw": "Afbeelding 3.24 Tussen de middenhandsbeentjes en de vingerkoot van de duim zit een zadelgewricht. Hierdoor kan de duim in alle richtingen bewegen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.24.png",
+        "bounds": [
+          15.0305555555622,
+          28.0023078637375,
+          148.685393017811,
+          166.504984683712
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img24.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img24.TIF"
+      },
+      "page": {
+        "documentOffset": 101,
+        "name": "83"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "kleine bekken (pelvis minor). ‘Minor’ is een ander woord voor klein. Je kleine bekken ligt namelijk aan de onderkant van je bekkenkanaal en dit deel is smaller dan het bovenste deel van je bekkenkanaal. Het ligt ook wat meer tussen je heupbotten in dan je grote bekken. Daarom noemen we de kleine bekken ook wel de ‘echte’ bekkenholte.",
+        "beforeText": "Je bekken heeft de vorm van een ring. In het midden van deze ring zit een gat, dit noemen we het bekkenkanaal. Deze heeft een bovenkant en een onderkant. Hierbij gaat het om de:",
+        "pageDocumentOffset": 103,
+        "paragraphIndexInBodyStory": 298,
+        "text": "grote bekken (pelvis major). ‘Major’ is een ander woord voor groot. Je vindt je grote bekken verder aan de bovenkant van je bekkenkanaal. Hiermee is je grote bekken eigenlijk ook de onderkant van je buikholte;",
+        "x": 22.0000000259609,
+        "y": 149.82222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.25.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het bekken.",
+        "bounds": null,
+        "label": "Afbeelding 3.25:",
+        "raw": "Afbeelding 3.25 Het bekken.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.25.png",
+        "bounds": [
+          20.0000000005678,
+          36.2796973704689,
+          125.962834514174,
+          172.551969296198
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img25.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img25.TIF"
+      },
+      "page": {
+        "documentOffset": 103,
+        "name": "85"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Naast de heupbeenderen zijn ook de onderste twee delen van de wervelkolom onderdeel van onze bekkengordel, namelijk je:",
+        "beforeText": "zitbeen.",
+        "pageDocumentOffset": 104,
+        "paragraphIndexInBodyStory": 313,
+        "text": "Het voordeel van een diepe heupkom is dat je femurkop beter vastzit in je heupkom. Maak om dit beter te begrijpen eens een vuist met één van je handen. Dit is nu je femurkop. Met je andere hand maak je een soort heupkom. Maak deze eerst eens ondiep. Je vuist heeft nu veel ruimte om te glijden in deze kom. Je vuist glijdt zelfs heel makkelijk uit de kom. Maak nu eens een diepe kom met je hand. Nu zie je dat de hand waarmee je de kom maakt veel meer om je vuist heen zit. Deze beweegt hierdoor moeilijk en glijdt minder makkelijk uit de kom. Dit geldt ook voor je heupgewricht. Met een diepe heupkom glijdt je femurkop veel minder snel uit de kom. Hierbij speelt ook bindweefsel een rol. Dit weefsel is erg sterk, het houdt je hele lichaam bij elkaar. Een voorbeeld van de functie van bindweefsel is het heupgewricht. Hier zorgen banden van bindweefsel dat je femurkop extra goed in je heupkom blijft zitten.",
+        "x": 297,
+        "y": 53.8666666666672
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.26.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De botten van het been.",
+        "bounds": null,
+        "label": "Afbeelding 3.26:",
+        "raw": "Afbeelding 3.26 De botten van het been.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.26.png",
+        "bounds": [
+          88.9169771520688,
+          241.197113086754,
+          248.194442784736,
+          358.414687385594
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img26.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img26.TIF"
+      },
+      "page": {
+        "documentOffset": 104,
+        "name": "86"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "voetwortelbeentjes (tarsale botten). Je hebt zeven van dit soort botjes in iedere voet. Deze zijn niet allemaal hetzelfde. Drie verschillende voorbeelden zijn je:",
+        "beforeText": "teenkootjes (falangen). Net zoals bij je handen verschilt je grote teen van de rest van je tenen. Je grote teen heeft namelijk maar twee teenkootjes en de rest van je tenen hebben drie teenkootjes. Daarmee heb je in totaal veertien teenkootjes in je voet. Tussen de teenkootjes zitten scharniergewrichten, deze zorgen dat je je tenen kan buigen en strekken;",
+        "pageDocumentOffset": 107,
+        "paragraphIndexInBodyStory": 340,
+        "text": "middenvoetsbeentjes (metatarsale botten). In iedere voet heb je vijf van dit soort botjes. Deze zitten vast aan de teenkootjes met scharniergewrichten;",
+        "x": 22.0000000259609,
+        "y": 183.688888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.27.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Botten van de voet en de enkel.",
+        "bounds": null,
+        "label": "Afbeelding 3.27:",
+        "raw": "Afbeelding 3.27 Botten van de voet en de enkel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.27.png",
+        "bounds": [
+          19.6472222227875,
+          23.8786553217933,
+          151.580418887172,
+          175.715789122651
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img27.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img27.TIF"
+      },
+      "page": {
+        "documentOffset": 107,
+        "name": "89"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "osteocyten. Als je osteoblasten goed hun best doen, krijg je uiteindelijk veel nieuwe botmatrix. Deze matrix vormt zich helemaal om je osteoblasten heen. Vervolgens veranderen je osteoblasten in osteocyten, dit zijn volwassen osteoblasten die niet meer delen. Osteoblasten kunnen dat dus nog wel, wat betekent dat ze zich dan in tweeën splitsen. Deze deling zorgt voor meer osteoblasten die samen het werk doen. Doordat ze midden in je botmatrix liggen houden osteocyten je botmatrix goed in de gaten. Zo geven ze aan of je botmatrix moet worden opgebouwd of afgebroken.",
+        "beforeText": "osteoclasten. Deze cellen zijn je botslopers, want ze breken oude stukjes bot af. Dit proces noemen we botresorptie. Om dit afbreken te kunnen doen, maken de osteoclasten speciale eiwitten die je botmatrix beschadigen. Deze eiwitten zijn zuur en zorgen voor het oplossen van andere eiwitten. We noemen deze eiwitten ook wel enzymen. Ze zorgen voor het vrijkomen van alle stoffen die vastzaten in je botmatrix, zoals calcium. Door het oplossen van een stukje bot, stroomt calcium terug je bloed in en kan het opnieuw gebruikt worden;",
+        "pageDocumentOffset": 69,
+        "paragraphIndexInBodyStory": 41,
+        "text": "osteoblasten. Nadat een stukje van je bot is opgelost, is het tijd om dat stukje weer op te bouwen. Daar komen je botopbouwers goed bij van pas, ze doen precies het omgekeerde van je osteoclasten. Ze geven namelijk geen calcium af aan je bloed, maar nemen het juist weer op. Op de plaats waar je nieuwe stukje bot moet komen, slaan ze calcium op. Deze hoeveelheid calcium komt dan samen in je botmatrix met fosfaat uit je bloed. Dit vormt samen calciumfosfaat en zorgt voor een stevig en hard stuk bot. Het opbouwen van dit nieuwe bot noemen we ossificatie;",
+        "x": 22.000000026491,
+        "y": 206.266666666666
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De buitenkant van een bot, net onder het botvlies, noemen we compact botweefsel. De binnenkant van het bot bevat sponsachtig botweefsel.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 De buitenkant van een bot, net onder het botvlies, noemen we compact botweefsel. De binnenkant van het bot bevat sponsachtig botweefsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.2.png",
+        "bounds": [
+          84.9416666666728,
+          45.5666666666666,
+          119.069268279062,
+          107.727655317792
+        ],
+        "kind": "link",
+        "linkName": "MicrosoftTeams-image.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MicrosoftTeams-image.png"
+      },
+      "page": {
+        "documentOffset": 69,
+        "name": "51"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Om je sponsachtige bot heen zit je harde botweefsel. Dit botweefsel bestaat uit twee lagen:",
+        "beforeText": "geel beenmerg. Dit is de plek waar je botten vet opslaan.",
+        "pageDocumentOffset": 71,
+        "paragraphIndexInBodyStory": 54,
+        "text": "3.2.4  Hard botweefsel",
+        "x": 15,
+        "y": 166.755555555556
+      },
+      "asset": null,
+      "caption": {
+        "body": "De kanalen van Havers bevinden zich direct onder het botvlies.",
+        "bounds": null,
+        "label": "Afbeelding 3.3:",
+        "raw": "Afbeelding 3.3 De kanalen van Havers bevinden zich direct onder het botvlies.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          22.1319734865239,
+          33.611454367943,
+          145.57358206903,
+          161.388545632056
+        ],
+        "kind": "link",
+        "linkName": "2.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/2.tif"
+      },
+      "page": {
+        "documentOffset": 71,
+        "name": "53"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3.2.6  De bloedstroom in je botten",
+        "beforeText": "beschermen van je botten.",
+        "pageDocumentOffset": 72,
+        "paragraphIndexInBodyStory": 62,
+        "text": "Je hebt op veel plekken in je lichaam gewrichten, zoals je enkel of je elleboog. In je gewrichten is iets bijzonders aan de hand. Op de plek waar de twee botten tegen elkaar aan zitten, vind je namelijk geen botvlies. In plaats daarvan heb je hier een laagje kraakbeen, waardoor de twee botten makkelijker over elkaar heen bewegen.",
+        "x": 210,
+        "y": 93.3777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het botvlies (periost) is de buitenste laag van het bot.",
+        "bounds": null,
+        "label": "Afbeelding 3.4:",
+        "raw": "Afbeelding 3.4 Het botvlies (periost) is de buitenste laag van het bot.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.4.png",
+        "bounds": [
+          143.731640870051,
+          204.380555555556,
+          244.488888888891,
+          373.962144248684
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 72,
+        "name": "54"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "3.3  Botvorming en botgroei",
+        "beforeText": "Wanneer je bloedvaten voorbij je botvlies zijn komen ze terecht in je harde botweefsel. Hier lopen je bloedvaten door kleine kanaaltjes heen, die we de kanalen van Volkmann noemen. Vanuit je botvlies lopen deze kanaatjes naar het midden van je osteonen. Daar vind je andere kanalen, namelijk de kanalen van Havers. Tussen deze kanalen lopen ook nog extra kanalen van Volkmann. Deze lopen precies loodrecht op de kanalen van Havers. Dit betekent dat ze een hoek van negentig graden maken. Doordat je zoveel kanaaltjes door je harde botweefsel hebt lopen, komen je bloedvaten overal. Dit geldt ook voor lymfevaten en zenuwen. Door je lymfevaten loopt een vloeistof die we lymfe noemen, waarin bijvoorbeeld witte bloedcellen en afvalstoffen zitten.",
+        "pageDocumentOffset": 73,
+        "paragraphIndexInBodyStory": 66,
+        "text": "Uiteindelijk gaan je bloedvaten door je sponsachtige botweefsel. Hier lopen de bloedvaten door de gaatjes van dit botweefsel heen. De benodigde stoffen komen in alle botbalkjes terecht, dankzij een proces dat we diffusie noemen. Hierbij verplaatsen stoffen zich vanuit je bloed naar het weefsel waar ze nodig zijn. Dit gaat helemaal vanzelf en kost geen energie.",
+        "x": 15,
+        "y": 65.1555555555536
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Verschillende cellen in het bot zorgen voor remodellering.",
+        "bounds": null,
+        "label": "Afbeelding 3.5:",
+        "raw": "Afbeelding 3.5 Verschillende cellen in het bot zorgen voor remodellering.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.5.png",
+        "bounds": [
+          117.016258426663,
+          16.905974438,
+          234.488888888884,
+          175.494025562
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img5.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img5.png"
+      },
+      "page": {
+        "documentOffset": 73,
+        "name": "55"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "gewrichtsholte. Dit is de ruimte tussen de twee gewrichtsvlakken. Het is een kleine holte waar een dun laagje vloeistof in zit;",
+        "beforeText": "De synoviale gewrichten zijn de verbindingen die we zien als de ‘normale’ gewrichten. Voorbeelden hiervan zijn je heup-, knie- en schoudergewricht. Deze gewrichten maken allerlei bewegingen mogelijk. De synoviale gewrichten bestaan uit verschillende onderdelen:",
+        "pageDocumentOffset": 77,
+        "paragraphIndexInBodyStory": 101,
+        "text": "gewrichtskraakbeen. Dit zit op de uiteinden van de botten die door het gewricht met elkaar verbonden zijn. Bij je knie zit dit kraakbeen bijvoorbeeld op de onderzijde van het bot van je bovenbeen en op de bovenzijde van het bot van je onderbeen. We noemen deze met kraakbeen beklede gebieden je gewrichtsvlakken. Dit kraakbeen kan erg goed tegen druk en speelt daarom een rol bij het opvangen van drukkrachten wanneer je bijvoorbeeld springt;",
+        "x": 109.000000026491,
+        "y": 25.6444444444425
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een deel van de ribben bestaat uit hyalien kraakbeen terwijl tussenwervelschijven uit vezelig kraakbeen bestaan.",
+        "bounds": null,
+        "label": "Afbeelding 3.6:",
+        "raw": "Afbeelding 3.6 Een deel van de ribben bestaat uit hyalien kraakbeen terwijl tussenwervelschijven uit vezelig kraakbeen bestaan.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          14.5000000000041,
+          15.0000000000001,
+          104.666666666667,
+          93
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 77,
+        "name": "59"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "gewrichtskapsel. Dit is een laag weefsel dat om het gewricht heen zit. Het houdt de botten van het gewricht stevig bij elkaar. Het weefsel waar het kapsel uit bestaat, noemen we de membraan. Het kapsel bestaat uit twee delen:",
+        "beforeText": "opvangen van schokken;",
+        "pageDocumentOffset": 77,
+        "paragraphIndexInBodyStory": 106,
+        "text": "mogelijk maken van soepele beweging van het gewricht. Dit kan je vergelijken met de olie die je gebruikt om een deurscharnier soepel te laten bewegen.",
+        "x": 113.641666666667,
+        "y": 138.533333333331
+      },
+      "asset": null,
+      "caption": {
+        "body": "De knie is een synoviaal gewricht.",
+        "bounds": null,
+        "label": "Afbeelding 3.7:",
+        "raw": "Afbeelding 3.7 De knie is een synoviaal gewricht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          139.563211618617,
+          107.7931469273,
+          235.683333333327,
+          174.2068530727
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img7.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img7.TIF"
+      },
+      "page": {
+        "documentOffset": 77,
+        "name": "59"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "gewrichtsholte. Dit is de ruimte tussen de twee gewrichtsvlakken. Het is een kleine holte waar een dun laagje vloeistof in zit;",
+        "beforeText": "De synoviale gewrichten zijn de verbindingen die we zien als de ‘normale’ gewrichten. Voorbeelden hiervan zijn je heup-, knie- en schoudergewricht. Deze gewrichten maken allerlei bewegingen mogelijk. De synoviale gewrichten bestaan uit verschillende onderdelen:",
+        "pageDocumentOffset": 77,
+        "paragraphIndexInBodyStory": 101,
+        "text": "gewrichtskraakbeen. Dit zit op de uiteinden van de botten die door het gewricht met elkaar verbonden zijn. Bij je knie zit dit kraakbeen bijvoorbeeld op de onderzijde van het bot van je bovenbeen en op de bovenzijde van het bot van je onderbeen. We noemen deze met kraakbeen beklede gebieden je gewrichtsvlakken. Dit kraakbeen kan erg goed tegen druk en speelt daarom een rol bij het opvangen van drukkrachten wanneer je bijvoorbeeld springt;",
+        "x": 109.000000026491,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De anatomische lichaamsvlakken en -assen.",
+        "bounds": null,
+        "label": "Afbeelding 3.8:",
+        "raw": "Afbeelding 3.8 De anatomische lichaamsvlakken en -assen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.8.png",
+        "bounds": [
+          20.0000000005678,
+          210,
+          234.488888888889,
+          374.835074230204
+        ],
+        "kind": "link",
+        "linkName": "3.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/3.tif"
+      },
+      "page": {
+        "documentOffset": 78,
+        "name": "60"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "diepe vingerbuiger. Deze spier helpt bij het buigen van je vingers;",
+        "beforeText": "ellepijp (ulna). In tegenstelling tot je spaakbeen, loopt je ellepijp aan de kant van je pink. Uiteindelijk komt je ellepijp uit in je ellebooggewricht, daar maakt het contact met je opperarmbeen en je radiuskop. De ellepijp is een stuk langer dan het spaakbeen. Hierdoor steekt het uit aan de bovenkant. Je voelt je ellepijpkop (olecranon) daarom aan de onderkant van je elleboog.",
+        "pageDocumentOffset": 99,
+        "paragraphIndexInBodyStory": 275,
+        "text": "Het spaakbeen en de ellepijp zitten aan elkaar vast met een vlies. Dit loopt van bovenaan tot onderaan beide botten. We noemen dit vlies het membrana interossea. Hierbij is ‘membrana’ een ander woord voor vlies en betekent ‘interossea’ tussen de botten. Het membrana interossea is dus een vlies dat tussen je botten loopt, in dit geval tussen je spaakbeen en je ellepijp. Aan het vlies tussen deze twee botten zitten verschillende onderarmspieren vast. Voorbeelden hiervan zijn je:",
+        "x": 15,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch3/Afbeelding_3.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ellepijp en het spaakbeen draaien om elkaar en vormen zo een rolgewricht.",
+        "bounds": null,
+        "label": "Afbeelding 3.9:",
+        "raw": "Afbeelding 3.9 De ellepijp en het spaakbeen draaien om elkaar en vormen zo een rolgewricht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch3/Afbeelding_3.9.png",
+        "bounds": [
+          136.122454945225,
+          103.35376434058,
+          232.008333333329,
+          190.070765173913
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch3_Img9.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch3_Img9.TIF"
+      },
+      "page": {
+        "documentOffset": 99,
+        "name": "81"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

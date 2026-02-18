@@ -1,0 +1,499 @@
+/**
+ * Educational Textbook Styles
+ * 
+ * Print-optimized CSS for MBO healthcare textbooks.
+ * Designed for Paged.js rendering to PDF.
+ * 
+ * Page size: 195mm x 265mm (MBO standard)
+ */
+
+/* =============================================================================
+   CSS Variables (Theme)
+   ============================================================================= */
+
+:root {
+  /* Typography */
+  --font-body: 'Source Serif 4', 'Georgia', serif;
+  --font-heading: 'Source Sans 3', 'Helvetica Neue', sans-serif;
+  --font-mono: 'JetBrains Mono', 'Consolas', monospace;
+  
+  /* Font sizes */
+  --size-base: 10.5pt;
+  --size-small: 9pt;
+  --size-h1: 24pt;
+  --size-h2: 16pt;
+  --size-h3: 13pt;
+  --size-h4: 11pt;
+  
+  /* Colors */
+  --color-text: #1a1a1a;
+  --color-text-light: #4a4a4a;
+  --color-heading: #0d3b66;
+  --color-praktijk: #1d7874;
+  --color-praktijk-bg: #e8f5f4;
+  --color-praktijk-border: #1d7874;
+  --color-verdieping: #5c4d7d;
+  --color-verdieping-bg: #f3f0f7;
+  --color-verdieping-border: #5c4d7d;
+  --color-border: #d0d0d0;
+  --color-page-number: #666666;
+  
+  /* Spacing */
+  --space-xs: 0.25em;
+  --space-sm: 0.5em;
+  --space-md: 1em;
+  --space-lg: 1.5em;
+  --space-xl: 2em;
+  
+  /* Line height */
+  --line-height-body: 1.55;
+  --line-height-heading: 1.2;
+}
+
+/* =============================================================================
+   Page Setup (Paged.js)
+   ============================================================================= */
+
+@page {
+  size: 195mm 265mm;
+  margin: 22mm 18mm 25mm 22mm;
+  
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-heading);
+    font-size: var(--size-small);
+    color: var(--color-page-number);
+  }
+}
+
+@page :left {
+  margin-left: 18mm;
+  margin-right: 22mm;
+  
+  @bottom-left {
+    content: counter(page);
+    font-family: var(--font-heading);
+    font-size: var(--size-small);
+    color: var(--color-page-number);
+  }
+  
+  @bottom-center {
+    content: none;
+  }
+}
+
+@page :right {
+  margin-left: 22mm;
+  margin-right: 18mm;
+  
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-heading);
+    font-size: var(--size-small);
+    color: var(--color-page-number);
+  }
+  
+  @bottom-center {
+    content: none;
+  }
+}
+
+@page chapter-start {
+  @bottom-center {
+    content: none;
+  }
+  @bottom-left {
+    content: none;
+  }
+  @bottom-right {
+    content: none;
+  }
+}
+
+/* =============================================================================
+   Base Styles
+   ============================================================================= */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: var(--size-base);
+}
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--size-base);
+  line-height: var(--line-height-body);
+  color: var(--color-text);
+  text-align: justify;
+  hyphens: none;
+  -webkit-hyphens: none;
+  orphans: 2;
+  widows: 2;
+}
+
+/* =============================================================================
+   Typography
+   ============================================================================= */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  line-height: var(--line-height-heading);
+  color: var(--color-heading);
+  margin-top: var(--space-lg);
+  margin-bottom: var(--space-md);
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h1 {
+  font-size: var(--size-h1);
+  margin-top: 0;
+  padding-top: var(--space-xl);
+  border-bottom: 3px solid var(--color-heading);
+  padding-bottom: var(--space-sm);
+}
+
+h2 {
+  font-size: var(--size-h2);
+  margin-top: var(--space-xl);
+}
+
+h3 {
+  font-size: var(--size-h3);
+}
+
+h4 {
+  font-size: var(--size-h4);
+}
+
+p {
+  margin: 0 0 var(--space-md) 0;
+  text-indent: 0;
+}
+
+p + p {
+  text-indent: 1.5em;
+}
+
+strong, b {
+  font-weight: 600;
+}
+
+em, i {
+  font-style: italic;
+}
+
+/* =============================================================================
+   Chapter Structure
+   ============================================================================= */
+
+.chapter {
+  page: chapter-start;
+  break-before: page;
+}
+
+.chapter-header {
+  margin-bottom: var(--space-xl);
+}
+
+.chapter-number {
+  font-family: var(--font-heading);
+  font-size: 14pt;
+  font-weight: 400;
+  color: var(--color-text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: var(--space-xs);
+}
+
+.chapter-title {
+  font-size: var(--size-h1);
+  margin-top: var(--space-xs);
+}
+
+/* =============================================================================
+   Section Structure
+   ============================================================================= */
+
+.section {
+  margin-top: var(--space-xl);
+}
+
+.section-number {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  color: var(--color-heading);
+}
+
+.section-title {
+  display: inline;
+}
+
+/* =============================================================================
+   Subparagraph Structure
+   ============================================================================= */
+
+.subparagraph {
+  margin-top: var(--space-lg);
+}
+
+.subparagraph-header {
+  font-family: var(--font-heading);
+  font-size: var(--size-h4);
+  font-weight: 600;
+  color: var(--color-heading);
+  margin-bottom: var(--space-sm);
+}
+
+/* =============================================================================
+   Content Blocks
+   ============================================================================= */
+
+.paragraph-block {
+  margin-bottom: var(--space-md);
+}
+
+.basis-text {
+  /* Default body text styling */
+}
+
+/* =============================================================================
+   Praktijk Block (In de praktijk)
+   ============================================================================= */
+
+.praktijk-block {
+  margin: var(--space-md) 0;
+  padding: var(--space-md);
+  background-color: var(--color-praktijk-bg);
+  border-left: 4px solid var(--color-praktijk-border);
+  border-radius: 0 4px 4px 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.praktijk-label {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: var(--size-small);
+  color: var(--color-praktijk);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-xs);
+}
+
+.praktijk-text {
+  font-size: var(--size-base);
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* =============================================================================
+   Verdieping Block (Verdieping)
+   ============================================================================= */
+
+.verdieping-block {
+  margin: var(--space-md) 0;
+  padding: var(--space-md);
+  background-color: var(--color-verdieping-bg);
+  border-left: 4px solid var(--color-verdieping-border);
+  border-radius: 0 4px 4px 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.verdieping-label {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: var(--size-small);
+  color: var(--color-verdieping);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-xs);
+}
+
+.verdieping-text {
+  font-size: var(--size-base);
+  color: var(--color-text);
+  margin: 0;
+}
+
+/* =============================================================================
+   Images and Figures
+   ============================================================================= */
+
+figure {
+  margin: var(--space-lg) 0;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+figcaption {
+  font-family: var(--font-heading);
+  font-size: var(--size-small);
+  color: var(--color-text-light);
+  margin-top: var(--space-sm);
+  text-align: left;
+}
+
+.figure-number {
+  font-weight: 600;
+}
+
+/* =============================================================================
+   Tables
+   ============================================================================= */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--space-lg) 0;
+  font-size: var(--size-small);
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+th, td {
+  padding: var(--space-sm);
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+
+th {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  background-color: #f5f5f5;
+  border-bottom: 2px solid var(--color-heading);
+}
+
+caption {
+  font-family: var(--font-heading);
+  font-size: var(--size-small);
+  color: var(--color-text-light);
+  text-align: left;
+  margin-bottom: var(--space-sm);
+}
+
+/* =============================================================================
+   Lists
+   ============================================================================= */
+
+ul, ol {
+  margin: var(--space-md) 0;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: var(--space-xs);
+}
+
+/* =============================================================================
+   Glossary
+   ============================================================================= */
+
+.glossary {
+  margin-top: var(--space-xl);
+}
+
+.glossary-title {
+  font-size: var(--size-h2);
+  border-bottom: 2px solid var(--color-heading);
+  padding-bottom: var(--space-sm);
+}
+
+.glossary-term {
+  font-weight: 600;
+  color: var(--color-heading);
+}
+
+.glossary-definition {
+  margin-left: 1.5em;
+  margin-bottom: var(--space-md);
+}
+
+/* =============================================================================
+   Utility Classes
+   ============================================================================= */
+
+.page-break {
+  page-break-before: always;
+  break-before: page;
+}
+
+.no-break {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.mt-lg {
+  margin-top: var(--space-lg);
+}
+
+.mb-lg {
+  margin-bottom: var(--space-lg);
+}
+
+/* =============================================================================
+   Print Optimizations
+   ============================================================================= */
+
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  .praktijk-block,
+  .verdieping-block {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

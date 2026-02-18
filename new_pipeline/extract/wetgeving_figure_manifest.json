@@ -1,0 +1,844 @@
+{
+  "figures": [
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.1.png",
+      "alt": "Afbeelding 1.1",
+      "caption": "Voor verschillende beroepen geldt titelbescherming."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.2.png",
+      "alt": "Afbeelding 1.2",
+      "caption": "Ook door middel van scholing kan iemand in aanmerking komen voor herregistratie."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.3.png",
+      "alt": "Afbeelding 1.3",
+      "caption": "Het tuchtcollege kan een geldboete opleggen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.4.png",
+      "alt": "Afbeelding 1.4",
+      "caption": "Na doorhaling mag een verpleegkundige het beroep niet meer uitoefenen."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.5.png",
+      "alt": "Afbeelding 1.5",
+      "caption": "Terminale zorg wordt gegeven als het levenseinde in zicht is."
+    },
+    {
+      "chapter": 1,
+      "figureNumber": "Afbeelding 1.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_1.6.png",
+      "alt": "Afbeelding 1.6",
+      "caption": "Een zorgvrager kan met zijn klachten terecht bij een speciale functionaris."
+    },
+    {
+      "chapter": 2,
+      "figureNumber": "Afbeelding 2.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_2.1.png",
+      "alt": "Afbeelding 2.1",
+      "caption": "Een ergotherapeut adviseert over aanpassingen in huis, ook voor de badkamer."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_3.1.png",
+      "alt": "Afbeelding 3.1",
+      "caption": "Verpleegkundige geeft zorgvrager toelichting over de inhoud van zijn of haar dossier."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2",
+      "caption": "De zorgprofessional en zorgvrager hebben de plicht elkaar goed te informeren."
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_3.3.png",
+      "alt": "Afbeelding 3.3",
+      "caption": ""
+    },
+    {
+      "chapter": 3,
+      "figureNumber": "Afbeelding 3.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_3.4.png",
+      "alt": "Afbeelding 3.4",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.1.png",
+      "alt": "Afbeelding 4.1",
+      "caption": "Stappenplan Wet zorg en dwang."
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.2.png",
+      "alt": "Afbeelding 4.2",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.3.png",
+      "alt": "Afbeelding 4.3",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.4.png",
+      "alt": "Afbeelding 4.4",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.5.png",
+      "alt": "Afbeelding 4.5",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.6.png",
+      "alt": "Afbeelding 4.6",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.7:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.7.png",
+      "alt": "Afbeelding 4.7",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.8:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.8.png",
+      "alt": "Afbeelding 4.8",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.9:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.9.png",
+      "alt": "Afbeelding 4.9",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.10:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.10.png",
+      "alt": "Afbeelding 4.10",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.11:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.11.png",
+      "alt": "Afbeelding 4.11",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.12:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.12.png",
+      "alt": "Afbeelding 4.12",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.13:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.13.png",
+      "alt": "Afbeelding 4.13",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.14:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.14.png",
+      "alt": "Afbeelding 4.14",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.15:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.15.png",
+      "alt": "Afbeelding 4.15",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.16:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.16.png",
+      "alt": "Afbeelding 4.16",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.17:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.17.png",
+      "alt": "Afbeelding 4.17",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.18:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.18.png",
+      "alt": "Afbeelding 4.18",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.19:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.19.png",
+      "alt": "Afbeelding 4.19",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.20:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.20.png",
+      "alt": "Afbeelding 4.20",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.21:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.21.png",
+      "alt": "Afbeelding 4.21",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.22:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.22.png",
+      "alt": "Afbeelding 4.22",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.23:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.23.png",
+      "alt": "Afbeelding 4.23",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.24:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.24.png",
+      "alt": "Afbeelding 4.24",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.25:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.25.png",
+      "alt": "Afbeelding 4.25",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.26:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.26.png",
+      "alt": "Afbeelding 4.26",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.27:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.27.png",
+      "alt": "Afbeelding 4.27",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.28:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.28.png",
+      "alt": "Afbeelding 4.28",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.29:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.29.png",
+      "alt": "Afbeelding 4.29",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.30:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.30.png",
+      "alt": "Afbeelding 4.30",
+      "caption": ""
+    },
+    {
+      "chapter": 4,
+      "figureNumber": "Afbeelding 4.31:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_4.31.png",
+      "alt": "Afbeelding 4.31",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.1.png",
+      "alt": "Afbeelding 5.1",
+      "caption": "Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap."
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.2.png",
+      "alt": "Afbeelding 5.2",
+      "caption": "Samen met de patiënt wordt een zorgplan op maat gemaakt."
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.3.png",
+      "alt": "Afbeelding 5.3",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.4.png",
+      "alt": "Afbeelding 5.4",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.5.png",
+      "alt": "Afbeelding 5.5",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.6.png",
+      "alt": "Afbeelding 5.6",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.7:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.7.png",
+      "alt": "Afbeelding 5.7",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.8:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.8.png",
+      "alt": "Afbeelding 5.8",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.9:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.9.png",
+      "alt": "Afbeelding 5.9",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.10:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.10.png",
+      "alt": "Afbeelding 5.10",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.11:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.11.png",
+      "alt": "Afbeelding 5.11",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.12:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.12.png",
+      "alt": "Afbeelding 5.12",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.13:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.13.png",
+      "alt": "Afbeelding 5.13",
+      "caption": ""
+    },
+    {
+      "chapter": 5,
+      "figureNumber": "Afbeelding 5.14:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_5.14.png",
+      "alt": "Afbeelding 5.14",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.1.png",
+      "alt": "Afbeelding 6.1",
+      "caption": "Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.2.png",
+      "alt": "Afbeelding 6.2",
+      "caption": "De samenstelling van een gemeente bepaalt de hoogte van het Wmo-bedrag."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.3.png",
+      "alt": "Afbeelding 6.3",
+      "caption": "Een scootmobiel wordt vergoed vanuit de Wmo."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.4.png",
+      "alt": "Afbeelding 6.4",
+      "caption": "De zorgvrager helpen een brief te begrijpen."
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.5.png",
+      "alt": "Afbeelding 6.5",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.6.png",
+      "alt": "Afbeelding 6.6",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.7:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.7.png",
+      "alt": "Afbeelding 6.7",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.8:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.8.png",
+      "alt": "Afbeelding 6.8",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.9:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.9.png",
+      "alt": "Afbeelding 6.9",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.10:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.10.png",
+      "alt": "Afbeelding 6.10",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.11:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.11.png",
+      "alt": "Afbeelding 6.11",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.12:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.12.png",
+      "alt": "Afbeelding 6.12",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.13:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.13.png",
+      "alt": "Afbeelding 6.13",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.14:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.14.png",
+      "alt": "Afbeelding 6.14",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.15:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.15.png",
+      "alt": "Afbeelding 6.15",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.16:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.16.png",
+      "alt": "Afbeelding 6.16",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.17:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.17.png",
+      "alt": "Afbeelding 6.17",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.18:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.18.png",
+      "alt": "Afbeelding 6.18",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.19:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.19.png",
+      "alt": "Afbeelding 6.19",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.20:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.20.png",
+      "alt": "Afbeelding 6.20",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.21:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.21.png",
+      "alt": "Afbeelding 6.21",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.22:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.22.png",
+      "alt": "Afbeelding 6.22",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.23:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.23.png",
+      "alt": "Afbeelding 6.23",
+      "caption": ""
+    },
+    {
+      "chapter": 6,
+      "figureNumber": "Afbeelding 6.24:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_6.24.png",
+      "alt": "Afbeelding 6.24",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.1.png",
+      "alt": "Afbeelding 7.1",
+      "caption": "Voorbeeldberekening."
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.2.png",
+      "alt": "Afbeelding 7.2",
+      "caption": "Wijkverpleegkundige."
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.3.png",
+      "alt": "Afbeelding 7.3",
+      "caption": "Een fysiotherapeut behandelt problemen aan het bewegingsapparaat."
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.4.png",
+      "alt": "Afbeelding 7.4",
+      "caption": "Veel huisartsenposten werken samen met de spoedeisende hulp."
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.5.png",
+      "alt": "Afbeelding 7.5",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.6.png",
+      "alt": "Afbeelding 7.6",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.7:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.7.png",
+      "alt": "Afbeelding 7.7",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.8:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.8.png",
+      "alt": "Afbeelding 7.8",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.9:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.9.png",
+      "alt": "Afbeelding 7.9",
+      "caption": ""
+    },
+    {
+      "chapter": 7,
+      "figureNumber": "Afbeelding 7.10:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_7.10.png",
+      "alt": "Afbeelding 7.10",
+      "caption": ""
+    },
+    {
+      "chapter": 8,
+      "figureNumber": "Afbeelding 8.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_8.1.png",
+      "alt": "Afbeelding 8.1",
+      "caption": "Elektronisch dossier beschikbaar via tablet."
+    },
+    {
+      "chapter": 8,
+      "figureNumber": "Afbeelding 8.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_8.2.png",
+      "alt": "Afbeelding 8.2",
+      "caption": "Je geeft uitleg aan de zorgvrager over de mogelijkheden en werking van een tablet."
+    },
+    {
+      "chapter": 8,
+      "figureNumber": "Afbeelding 8.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_8.3.png",
+      "alt": "Afbeelding 8.3",
+      "caption": ""
+    },
+    {
+      "chapter": 8,
+      "figureNumber": "Afbeelding 8.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_8.4.png",
+      "alt": "Afbeelding 8.4",
+      "caption": ""
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_9.1.png",
+      "alt": "Afbeelding 9.1",
+      "caption": "Drie onderdelen van evidence-based practice."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_9.2.png",
+      "alt": "Afbeelding 9.2",
+      "caption": ". Medewerker die ambulante zorg komt geven bij de zorgvrager thuis."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_9.3.png",
+      "alt": "Afbeelding 9.3",
+      "caption": "Verpleegkundige en zorgvrager maken afspraken in het elektronisch cliëntendossier."
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_9.4.png",
+      "alt": "Afbeelding 9.4",
+      "caption": ""
+    },
+    {
+      "chapter": 9,
+      "figureNumber": "Afbeelding 9.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_9.5.png",
+      "alt": "Afbeelding 9.5",
+      "caption": ""
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_10.1.png",
+      "alt": "Afbeelding 10.1",
+      "caption": "Over wat normaal is, zijn we het niet altijd eens."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_10.2.png",
+      "alt": "Afbeelding 10.2",
+      "caption": "Handen schudden bij het voorstellen is een norm."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_10.3.png",
+      "alt": "Afbeelding 10.3",
+      "caption": "Normen veranderen."
+    },
+    {
+      "chapter": 10,
+      "figureNumber": "Afbeelding 10.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_10.4.png",
+      "alt": "Afbeelding 10.4",
+      "caption": ""
+    },
+    {
+      "chapter": 12,
+      "figureNumber": "Afbeelding 12.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_12.2.png",
+      "alt": "Afbeelding 12.2",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.1.png",
+      "alt": "Afbeelding 13.1",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.2.png",
+      "alt": "Afbeelding 13.2",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.3.png",
+      "alt": "Afbeelding 13.3",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.4.png",
+      "alt": "Afbeelding 13.4",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.5:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.5.png",
+      "alt": "Afbeelding 13.5",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.6:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.6.png",
+      "alt": "Afbeelding 13.6",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.7:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.7.png",
+      "alt": "Afbeelding 13.7",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.8:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.8.png",
+      "alt": "Afbeelding 13.8",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.9:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.9.png",
+      "alt": "Afbeelding 13.9",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.10:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.10.png",
+      "alt": "Afbeelding 13.10",
+      "caption": ""
+    },
+    {
+      "chapter": 13,
+      "figureNumber": "Afbeelding 13.11:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_13.11.png",
+      "alt": "Afbeelding 13.11",
+      "caption": ""
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_14.1.png",
+      "alt": "Afbeelding 14.1",
+      "caption": "Steeds meer gespecialiseerde verpleegkundige zorg wordt in de thuissituatie gegeven."
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.2:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_14.2.png",
+      "alt": "Afbeelding 14.2",
+      "caption": ""
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.3:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_14.3.png",
+      "alt": "Afbeelding 14.3",
+      "caption": ""
+    },
+    {
+      "chapter": 14,
+      "figureNumber": "Afbeelding 14.4:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_14.4.png",
+      "alt": "Afbeelding 14.4",
+      "caption": ""
+    },
+    {
+      "chapter": 15,
+      "figureNumber": "Afbeelding 15.1:",
+      "src": "new_pipeline/assets/figures/wetgeving/Afbeelding_15.1.png",
+      "alt": "Afbeelding 15.1",
+      "caption": ""
+    }
+  ]
+}

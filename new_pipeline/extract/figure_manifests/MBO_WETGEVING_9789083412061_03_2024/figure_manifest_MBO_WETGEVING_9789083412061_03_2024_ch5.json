@@ -1,0 +1,118 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 1136
+  },
+  "chapter": "5",
+  "chapterRange": {
+    "endOff": 57,
+    "ok": true,
+    "startOff": 53
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:42 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "psychiatrische aandoeningen (GGZ-B).",
+        "pageDocumentOffset": 54,
+        "paragraphIndexInBodyStory": 446,
+        "text": "Een zorgvrager valt pas onder de Wet langdurige zorg als hij of zij minstens drie jaar opgenomen en behandeld moet worden.",
+        "x": 187.5,
+        "y": 30.8819041781951
+      },
+      "asset": null,
+      "caption": {
+        "body": "Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.",
+        "bounds": null,
+        "label": "Afbeelding 5.1:",
+        "raw": "Afbeelding 5.1 Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          40.2193694559733,
+          187.5,
+          130.268578344862,
+          319.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.8_Er zijn verschillende zorgprofielen, ook voor mensen met een zintuiglijke handicap.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.8_Er%20zijn%20verschillende%20zorgprofielen%2C%20ook%20voor%20mensen%20met%20een%20zintuiglijke%20handicap.jpg"
+      },
+      "page": {
+        "documentOffset": 54,
+        "name": "41"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.2 Samen met de patiënt wordt een zorgplan op maat gemaakt.",
+        "beforeText": "Met persoonlijke verzorging bedoelen we het helpen bij of het volledig overnemen van de zelfzorg. Tegelijkertijd probeer je als zorgprofessional een zorgvrager bepaalde taken weer zelf te laten doen. Denk hierbij aan het laten oefenen met zichzelf aankleden.",
+        "pageDocumentOffset": 55,
+        "paragraphIndexInBodyStory": 452,
+        "text": "￼",
+        "x": 17.5,
+        "y": 83.9412222222226
+      },
+      "asset": null,
+      "caption": {
+        "body": "Samen met de patiënt wordt een zorgplan op maat gemaakt.",
+        "bounds": null,
+        "label": "Afbeelding 5.2:",
+        "raw": "Afbeelding 5.2 Samen met de patiënt wordt een zorgplan op maat gemaakt.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.7,
+          17.5,
+          83.9412222222226,
+          122.84
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.9_Samen met de client wordt een zorgplan op maat gemaakt.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.9_Samen%20met%20de%20client%20wordt%20een%20zorgplan%20op%20maat%20gemaakt.jpeg"
+      },
+      "page": {
+        "documentOffset": 55,
+        "name": "42"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "persoonsgebonden budget (pgb). De zorgvrager krijgt elke maand een bepaalde hoeveelheid geld. Met dit geld kan de zorgvrager zelf hulp of andere zorg kiezen;",
+        "pageDocumentOffset": 57,
+        "paragraphIndexInBodyStory": 494,
+        "text": "hulp in natura. De zorgvrager krijgt hulp of begeleiding van organisaties waarmee de gemeente samenwerkt.",
+        "x": 29.4999999766879,
+        "y": 140.948570844862
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.",
+        "bounds": null,
+        "label": "Afbeelding 6.1:",
+        "raw": "Afbeelding 6.1 Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          150.080480567084,
+          17.5,
+          214.435480567075,
+          120.895
+        ],
+        "kind": "link",
+        "linkName": "WBF_5.17_Een pgb maakt het mogelijk de zorgverlening aan te passen aan het dagelijkse ritme.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_5.17_Een%20pgb%20maakt%20het%20mogelijk%20de%20zorgverlening%20aan%20te%20passen%20aan%20het%20dagelijkse%20ritme.jpg"
+      },
+      "page": {
+        "documentOffset": 57,
+        "name": "44"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

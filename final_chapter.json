@@ -1,0 +1,1528 @@
+{
+  "meta": {
+    "id": "5c39f5a2-7c03-4489-b8cd-cd11c0d1a29c",
+    "title": "MBO A&F 4",
+    "level": "n4"
+  },
+  "chapters": [
+    {
+      "number": "1",
+      "title": ".1 De cel",
+      "sections": [
+        {
+          "number": "1.1",
+          "title": "De cel",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.1.1",
+              "number": "1.1.1",
+              "title": "De cel",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "18287099-457d-4e2b-85d6-6424cfa6939a",
+                  "paragraphNumber": 1,
+                  "basis": "Net als dieren zijn we levende wezens. We noemen levende wezens ook wel <<BOLD_START>>organismen<<BOLD_END>>. Alle organismen bestaan uit <<BOLD_START>>cellen<<BOLD_END>>. Dit zijn de kleinste bouwstenen van een organisme. Er zijn twee soorten cellen:\n\n• <<BOLD_START>>prokaryoten<<BOLD_END>>. Dit zijn cellen zonder een kern. Bacteriën zijn over het algemeen prokaryoten. Ze bestaan uit één cel zonder celkern.\n\n• <<BOLD_START>>eukaryoten<<BOLD_END>>. Dit zijn cellen met een kern. Organismen waarvan de cellen een celkern bevatten zijn eukaryoten.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "d0a40d84-d9c7-40aa-9c42-16cb03ba95ee",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>prokaryoten<<BOLD_END>>. Dit zijn cellen zonder een kern. Bacteriën zijn over het algemeen prokaryoten. Ze bestaan uit één cel zonder celkern.",
+                    "<<BOLD_START>>eukaryoten<<BOLD_END>>. Dit zijn cellen met een kern. Organismen waarvan de cellen een celkern bevatten zijn eukaryoten."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "e3eec479-a2fd-498d-b8ea-8c70c0e2749f",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "<<BOLD_START>>mensen<<BOLD_END>>",
+                    "<<BOLD_START>>dieren<<BOLD_END>>",
+                    "<<BOLD_START>>planten<<BOLD_END>>",
+                    "<<BOLD_START>>schimmels<<BOLD_END>>"
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "e184426e-2d8d-479d-80df-83b0894eea9d",
+                  "paragraphNumber": 1,
+                  "basis": "In je lichaam zitten verschillende cellen. Deze cellen hebben allemaal een eigen functie, maar lijken veel op elkaar. Ze hebben namelijk dezelfde onderdelen. Om de buitenkant van elke cel zit een dun vliesje. Dit is de <<BOLD_START>>celmembraan<<BOLD_END>>. In de cellen zit een vloeistof die net zo dik is als stroop. We noemen deze het <<BOLD_START>>cytoplasma<<BOLD_END>>. In het cytoplasma liggen onderdelen van de cel, die we <<BOLD_START>>organellen<<BOLD_END>> noemen. Elk organel heeft een speciale functie. Je kunt organellen zien als kleine fabriekjes in de cel. Voorbeelden van organellen zijn:\n\n• de celkern  \n• mitochondriën  \n• het endoplasmatisch reticulum  \n• ribosomen  \n• het Golgi-systeem  \n• lysosomen",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "a5e711d7-a96c-4a1e-a2eb-8c5c7d58429a",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "de celkern",
+                    "mitochondriën",
+                    "het endoplasmatisch reticulum",
+                    "ribosomen",
+                    "het Golgi-systeem",
+                    "lysosomen"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.2",
+              "number": "1.1.2",
+              "title": "De celmembraan",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "f19cbc4e-7624-49a7-be2c-5b2ac1d286d5",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>De celmembraan<<MICRO_TITLE_END>>\n\nRondom elke cel in je lichaam zit een celmembraan. Dit is een dun vliesje en het vormt de grens tussen de binnenkant en de buitenkant van je cellen. De ruimte binnen in de cel noemen we de <<BOLD_START>>intracellulaire ruimte<<BOLD_END>>. De omgeving buiten de cel heet de <<BOLD_START>>extracellulaire ruimte<<BOLD_END>>. De celmembraan is maar 7,5 tot 10 micrometer dun. \n\nDe celmembraan bestaat uit:\n• een dubbele laag van <<BOLD_START>>fosfolipiden<<BOLD_END>>. Deze deeltjes bestaan uit vettige en waterige stoffen. Fosfolipiden zorgen ervoor dat stoffen uit water en stoffen uit vet niet zomaar door de celmembraan heen gaan.\n• De fosfolipiden hebben twee kanten: de ene kant houdt van water, de <<BOLD_START>>kop<<BOLD_END>>, en de andere kant houdt van vet, de <<BOLD_START>>staart<<BOLD_END>>. \n• De fosfolipiden liggen in twee lagen boven op elkaar. Samen noemen we dit de <<BOLD_START>>fosfolipide dubbellaag<<BOLD_END>>. \n• Aan de buitenkant en de binnenkant van de celmembraan zitten vloeistoffen die op water lijken. Daarom zitten de koppen van de fosfolipiden aan beide kanten van de celmembraan. De staarten liggen tegen elkaar aan tussen de koppen. \n\nVan buiten naar binnen bestaat de celmembraan dus uit deze lagen en structuren.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "4e290bdd-697e-45fa-b655-49b37257a551",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "een dubbele laag van <<BOLD_START>>fosfolipiden<<BOLD_END>>. Deze deeltjes bestaan uit vettige en waterige stoffen. Fosfolipiden zorgen ervoor dat stoffen uit water en stoffen uit vet niet zomaar door de celmembraan heen gaan.",
+                    "De fosfolipiden hebben twee kanten: de ene kant houdt van water, de <<BOLD_START>>kop<<BOLD_END>>, en de andere kant houdt van vet, de <<BOLD_START>>staart<<BOLD_END>>.",
+                    "De fosfolipiden liggen in twee lagen boven op elkaar. Samen noemen we dit de <<BOLD_START>>fosfolipide dubbellaag<<BOLD_END>>.",
+                    "Aan de buitenkant en de binnenkant van de celmembraan zitten vloeistoffen die op water lijken. Daarom zitten de koppen van de fosfolipiden aan beide kanten van de celmembraan. De staarten liggen tegen elkaar aan tussen de koppen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "2d7a0027-d3f5-422e-85e6-2b3aa8e09358",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "Eén laag koppen die van water houden",
+                    "Twee lagen staarten die van vet houden",
+                    "Eén laag koppen die van water houden"
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "list",
+                  "id": "6603822c-b1d9-4faf-8b10-274dca384342",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>cholesteroldeeltjes<<BOLD_END>>. Deze liggen tussen de fosfolipiden. Cholesterol is een vettige stof. In de ene celmembraan zitten meer cholesteroldeeltjes dan in de andere celmembraan.",
+                    "<<BOLD_START>>membraaneiwitten<<BOLD_END>>. Deze zorgen voor het vervoer van grote stoffen door de celmembraan. Sommige membraaneiwitten maken speciale poortjes, de <<BOLD_START>>membraanporiën<<BOLD_END>>. Deze poortjes gaan open en dicht, zodat stoffen de cel in en uit kunnen. Andere membraaneiwitten laten alleen stoffen door als ze een seintje krijgen van hormonen of neurotransmitters. Deze membraaneiwitten noemen we <<BOLD_START>>receptoreiwitten<<BOLD_END>>. Receptoren ontvangen de seintjes."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.2.png",
+                      "alt": "Afbeelding 1.2: Anatomie van de celwand.",
+                      "figureNumber": "Afbeelding 1.2:",
+                      "caption": "Anatomie van de celwand.",
+                      "width": "75%"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "id": "dcff155a-5188-4696-a117-975166ff9ef7",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Functies van de celmembraan<<MICRO_TITLE_END>>\n\nDe celmembraan heeft verschillende functies:\n\n• De celmembraan zorgt voor een stevige vorm van de cel.  \n• De celmembraan houdt de inhoud van je cellen bij elkaar. Deze inhoud bestaat uit het cytoplasma en de organellen.  \n• De celmembraan vormt een hindernis tussen de binnenkant en buitenkant van de cel. Het is een soort muur die de cel beschermt. Hierdoor houdt de celmembraan schadelijke stoffen en ziekteverwekkers buiten de cel. Deze stoffen passen niet door de hindernis heen. Andere stoffen kunnen hier wel doorheen.  \n\nWe noemen de celmembraan ook wel een <<BOLD_START>>semipermeabel membraan<<BOLD_END>>. ‘Semi’ betekent half en ‘permeabel’ betekent doorlaatbaar. Semipermeabel betekent dus half doorlaatbaar. Goede stoffen kunnen wel door de celmembraan heen, maar schadelijke stoffen en ziekteverwekkers niet. Dit betekent dat de celmembraan een vlies is dat sommige stoffen wel doorlaat en andere niet.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "afc2abd3-1346-4265-878a-240ccb66015d",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "De celmembraan zorgt voor een stevige vorm van de cel.",
+                    "De celmembraan houdt de inhoud van je cellen bij elkaar. Deze inhoud bestaat uit het cytoplasma en de organellen.",
+                    "De celmembraan vormt een hindernis tussen de binnenkant en buitenkant van de cel. Het is een soort muur die de cel beschermt. Hierdoor houdt de celmembraan schadelijke stoffen en ziekteverwekkers buiten de cel. Deze stoffen passen niet door de hindernis heen. Andere stoffen kunnen hier wel doorheen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "e23db1ec-418c-46ed-9138-bae280f99122",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>De celmembraan en het vervoer van stoffen<<MICRO_TITLE_END>>\n\nDe <<BOLD_START>>celmembraan<<BOLD_END>> regelt het vervoer van stoffen in en uit de cel. Kleine stoffen kunnen hier makkelijk doorheen gaan, zoals:\n\n• <<BOLD_START>>zuurstof<<BOLD_END>>\n• <<BOLD_START>>koolstofdioxide<<BOLD_END>>\n• <<BOLD_START>>water<<BOLD_END>>.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "f750b57b-99a6-4b06-a123-58e948d25f3f",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>zuurstof<<BOLD_END>>",
+                    "<<BOLD_START>>koolstofdioxide<<BOLD_END>>",
+                    "<<BOLD_START>>water<<BOLD_END>>."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "cc252091-8e1f-4d73-9083-5f21a1e8eb1a",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Grote stoffen en celmembraan<<MICRO_TITLE_END>>\n\nGrote stoffen, zoals eiwitten en suikers, gaan op een speciale manier door de celmembraan. Ze binden aan een eiwit in de celmembraan dat precies op hen past. Dit eiwit laat de grote stoffen door de celmembraan de cel in. Je kunt de grote stoffen zien als sleutels. Het eiwit is een soort poort in de celmembraan. De poort gaat alleen open met de juiste sleutel. De juiste grote stof moet aan het eiwit binden om de cel in te gaan. \n\nOp de buitenkant van de celmembraan zitten ook andere stoffen, zoals suikers. Deze suikers zitten vast aan:\n\n• membraaneiwitten. Samen noemen we ze <<BOLD_START>>glycoproteïnen<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘proteïne’ betekent eiwit. Glycoproteïnen zijn combinaties van suikers en eiwitten. Ze hebben verschillende functies. Een voorbeeld van glycoproteïnen zijn <<BOLD_START>>AB0-antigenen<<BOLD_END>>. Deze zitten op de buitenkant van rode bloedcellen en bepalen je bloedgroep: A, B, AB of 0.\n\n• de fosfolipiden van de celmembraan. De suikers die vastzitten aan de fosfolipiden noemen we <<BOLD_START>>glycolipiden<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘lipide’ betekent vet.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "794dfca1-2fb5-4ec9-a1e9-a7135cba65d3",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "membraaneiwitten. Samen noemen we ze <<BOLD_START>>glycoproteïnen<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘proteïne’ betekent eiwit. Glycoproteïnen zijn combinaties van suikers en eiwitten. Ze hebben verschillende functies. Een voorbeeld van glycoproteïnen zijn <<BOLD_START>>AB0-antigenen<<BOLD_END>>. Deze zitten op de buitenkant van rode bloedcellen en bepalen je bloedgroep: A, B, AB of 0.",
+                    "de fosfolipiden van de celmembraan. De suikers die vastzitten aan de fosfolipiden noemen we <<BOLD_START>>glycolipiden<<BOLD_END>>. ‘Glyco’ betekent suiker en ‘lipide’ betekent vet."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "798b306b-a83e-4364-bc56-8175da1fecd9",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Glycocalyx en zijn functies<<MICRO_TITLE_END>>\n\nDe <<BOLD_START>>glycocalyx<<BOLD_END>> is een laag om de cel. Deze laag bestaat uit <<BOLD_START>>glycoproteïnen<<BOLD_END>> en <<BOLD_START>>glycolipiden<<BOLD_END>>. De <<BOLD_START>>glycocalyx<<BOLD_END>> heeft belangrijke functies:\n\n• Hij beschermt je cellen.  \n• Hij helpt je <<BOLD_START>>afweersysteem<<BOLD_END>> om cellen te herkennen die bij je lichaam horen.  \n• Hij zorgt ervoor dat je <<BOLD_START>>afweersysteem<<BOLD_END>> ziekteverwekkers aanvalt, zoals schadelijke bacteriën. Deze bacteriën horen niet in je lichaam thuis.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "99425b1a-51bd-4d29-b1df-07d8a5c58846",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "Hij beschermt je cellen.",
+                    "Hij helpt je <<BOLD_START>>afweersysteem<<BOLD_END>> om cellen te herkennen die bij je lichaam horen.",
+                    "Hij zorgt ervoor dat je <<BOLD_START>>afweersysteem<<BOLD_END>> ziekteverwekkers aanvalt, zoals schadelijke bacteriën. Deze bacteriën horen niet in je lichaam thuis."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "d783eafe-09c7-4608-919a-6e4a419cea42",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Glycoproteïnen en contactremming<<MICRO_TITLE_END>>\n\nGlycoproteïnen zorgen voor <<BOLD_START>>contactremming<<BOLD_END>>. Dit betekent dat cellen stoppen met delen als hun glycocalyx de glycocalyx van een andere cel aanraakt. Cellen delen niet verder als er geen ruimte meer is. \n\nBij kanker werkt contactremming niet goed. Cellen blijven delen, zelfs als de ruimte vol is. Dit noemen we <<BOLD_START>>wildgroei<<BOLD_END>>.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.3",
+              "number": "1.1.3",
+              "title": "De celkern",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "fa8b0628-2971-447f-aedd-f95d7bb9d77a",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>De celkern en zijn onderdelen<<MICRO_TITLE_END>>\n\nDe organellen van een cel zijn verschillende onderdelen met elk een eigen functie. Je kan de organellen vergelijken met de organen in je lichaam. Een belangrijke organel is de <<BOLD_START>>celkern<<BOLD_END>>. Deze heeft de vorm van een bolletje en is ongeveer 10% van de totale inhoud van een cel. De onderdelen van de celkern zijn:\n\n• het <<BOLD_START>>nucleoplasma<<BOLD_END>>. Dit is een vloeistof die lijkt op stroop, net als het cytoplasma.\n\n• het <<BOLD_START>>DNA<<BOLD_END>>, dat staat voor <<BOLD_START>>desoxyribonucleïnezuur<<BOLD_END>>. DNA is <<BOLD_START>>erfelijk materiaal<<BOLD_END>>. Dit betekent dat je het van je ouders hebt gekregen. DNA bepaalt bijvoorbeeld de kleur van je ogen, haren en huid. Je kan het zien als een soort recept in een kookboek. DNA ligt in het nucleoplasma.\n\n• <<BOLD_START>>chromosomen<<BOLD_END>>. Deze liggen ook in het nucleoplasma. Chromosomen zijn eiwitten waar je DNA op ligt. Ze hebben een X-vorm met twee poten die in het midden aan elkaar vastzitten. Beide poten hebben hetzelfde DNA. Als één cel zich deelt, verdelen de poten van een chromosoom zich over de twee nieuwe cellen. Zo krijgt elke nieuwe cel hetzelfde DNA als de oorspronkelijke cel.\n\n• één of meerdere <<BOLD_START>>kernlichamen<<BOLD_END>>. Dit zijn organellen die eiwitten maken. Deze eiwitten zijn nodig voor de opbouw van verschillende onderdelen van je cellen.\n\n• de <<BOLD_START>>kernenvelop<<BOLD_END>>. Deze ligt om de celkern heen. De kernenvelop is een dun vliesje dat bestaat uit een dubbele laag, net als de celmembraan. Het vormt de grens tussen de celkern en het cytoplasma. In de kernenvelop zitten kleine gaatjes, de <<BOLD_START>>kernporiën<<BOLD_END>>. Door deze gaatjes bewegen stoffen zich tussen de celkern en het cytoplasma.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "a211d9fe-bd29-411b-af09-8c2a5c596bcb",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "het <<BOLD_START>>nucleoplasma<<BOLD_END>>. Dit is een vloeistof die lijkt op stroop, net als het cytoplasma.",
+                    "het <<BOLD_START>>DNA<<BOLD_END>>, dat staat voor <<BOLD_START>>desoxyribonucleïnezuur<<BOLD_END>>. DNA is <<BOLD_START>>erfelijk materiaal<<BOLD_END>>. Dit betekent dat je het van je ouders hebt gekregen. DNA bepaalt bijvoorbeeld de kleur van je ogen, haren en huid. Je kan het zien als een soort recept in een kookboek. DNA ligt in het nucleoplasma.",
+                    "<<BOLD_START>>chromosomen<<BOLD_END>>. Deze liggen ook in het nucleoplasma. Chromosomen zijn eiwitten waar je DNA op ligt. Ze hebben een X-vorm met twee poten die in het midden aan elkaar vastzitten. Beide poten hebben hetzelfde DNA. Als één cel zich deelt, verdelen de poten van een chromosoom zich over de twee nieuwe cellen. Zo krijgt elke nieuwe cel hetzelfde DNA als de oorspronkelijke cel.",
+                    "één of meerdere <<BOLD_START>>kernlichamen<<BOLD_END>>. Dit zijn organellen die eiwitten maken. Deze eiwitten zijn nodig voor de opbouw van verschillende onderdelen van je cellen.",
+                    "de <<BOLD_START>>kernenvelop<<BOLD_END>>. Deze ligt om de celkern heen. De kernenvelop is een dun vliesje dat bestaat uit een dubbele laag, net als de celmembraan. Het vormt de grens tussen de celkern en het cytoplasma. In de kernenvelop zitten kleine gaatjes, de <<BOLD_START>>kernporiën<<BOLD_END>>. Door deze gaatjes bewegen stoffen zich tussen de celkern en het cytoplasma."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "adf946f5-4739-4fa6-9fc8-0a33725272d1",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Functies van de celkern<<MICRO_TITLE_END>>\n\nDe celkern heeft meerdere functies. Deze functies zijn belangrijk voor de werking van de cel.\n\n• De celkern slaat <<BOLD_START>>DNA<<BOLD_END>>, <<BOLD_START>>RNA<<BOLD_END>> en eiwitten op.  \n• De celkern regelt de groei en deling van de cel.  \n• RNA wordt uitgewisseld tussen de celkern en de rest van de cel.  \n• De celkern regelt welke <<BOLD_START>>genen<<BOLD_END>> 'aan' staan en welke 'uit' staan. Een gen is een stukje DNA dat één eiwit maakt. Genen maken alleen eiwitten als ze aan staan.  \n• Tijdens de <<BOLD_START>>celdeling<<BOLD_END>> verdeelt de celkern het DNA over twee cellen. Eén cel splitst in twee cellen.  \n• Bij <<BOLD_START>>transcriptie<<BOLD_END>> maakt de celkern een kopie van een stukje DNA. Deze kopie noemen we <<BOLD_START>>mRNA<<BOLD_END>>. De 'm' staat voor 'messenger', wat boodschapper betekent. mRNA bevat de boodschap om eiwitten te maken.  \n• De celkern maakt eiwitten die nodig zijn voor de groei van de cel.  \n• De celkern regelt de <<BOLD_START>>stofwisseling<<BOLD_END>> in de cel. Stofwisseling is een proces waarbij een stof wordt omgezet in een andere stof, meestal in een aantal stappen.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "0aef29a4-4612-447b-95bd-730e0561e3fe",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "De celkern slaat <<BOLD_START>>DNA<<BOLD_END>>, <<BOLD_START>>RNA<<BOLD_END>> en eiwitten op.",
+                    "De celkern regelt de groei en deling van de cel.",
+                    "RNA wordt uitgewisseld tussen de celkern en de rest van de cel.",
+                    "De celkern regelt welke <<BOLD_START>>genen<<BOLD_END>> 'aan' staan en welke 'uit' staan. Een gen is een stukje DNA dat één eiwit maakt. Genen maken alleen eiwitten als ze aan staan.",
+                    "Tijdens de <<BOLD_START>>celdeling<<BOLD_END>> verdeelt de celkern het DNA over twee cellen. Eén cel splitst in twee cellen.",
+                    "Bij <<BOLD_START>>transcriptie<<BOLD_END>> maakt de celkern een kopie van een stukje DNA. Deze kopie noemen we <<BOLD_START>>mRNA<<BOLD_END>>. De 'm' staat voor 'messenger', wat boodschapper betekent. mRNA bevat de boodschap om eiwitten te maken.",
+                    "De celkern maakt eiwitten die nodig zijn voor de groei van de cel.",
+                    "De celkern regelt de <<BOLD_START>>stofwisseling<<BOLD_END>> in de cel. Stofwisseling is een proces waarbij een stof wordt omgezet in een andere stof, meestal in een aantal stappen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.3.png",
+                      "alt": "Afbeelding 1.3: Anatomie van een mitochondrion.",
+                      "figureNumber": "Afbeelding 1.3:",
+                      "caption": "Anatomie van een mitochondrion.",
+                      "width": "100%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.4",
+              "number": "1.1.4",
+              "title": "De mitochondriën",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "b8f18678-440d-401d-8966-965b2829eab4",
+                  "paragraphNumber": 1,
+                  "basis": "Eén van de soorten organellen in je cellen zijn de <<BOLD_START>>mitochondriën<<BOLD_END>>. Dit zijn de energiecentrales van je cellen. Ze maken de energie die je cellen nodig hebben om goed te werken. Mitochondriën hebben de vorm van een dikke staaf en zijn ongeveer één micrometer groot. Bijna elke cel bevat mitochondriën. Vooral actieve cellen hebben veel mitochondriën, omdat ze veel energie nodig hebben.\n\nDe mitochondriën hebben twee vliezen, die we <<BOLD_START>>membranen<<BOLD_END>> noemen. De buitenste membraan is glad, terwijl de binnenste membraan veel plooien heeft. Deze plooien heten <<BOLD_START>>cristae<<BOLD_END>>. De cristae vergroten het oppervlak van de binnenste membraan. Hierdoor kunnen de mitochondriën meer energie aanmaken.\n\nDe mitochondriën bestaan uit twee delen:\n• <<BOLD_START>>intermembraanruimte<<BOLD_END>>: de ruimte tussen de buitenste en de binnenste membraan van de mitochondriën.\n• <<BOLD_START>>mitochondriale matrix<<BOLD_END>>: dit zit aan de binnenkant van de binnenste membraan van de mitochondriën.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "3f4a3f96-b96a-4ffd-ad6f-514aaaf325c4",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>intermembraanruimte<<BOLD_END>>: de ruimte tussen de buitenste en de binnenste membraan van de mitochondriën.",
+                    "<<BOLD_START>>mitochondriale matrix<<BOLD_END>>: dit zit aan de binnenkant van de binnenste membraan van de mitochondriën."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "ce4f9bc9-fdbd-4f55-a3d2-da8709ff5d56",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "Verschillende soorten <<BOLD_START>>enzymen<<BOLD_END>>. Dit zijn eiwitten die processen in je lichaam mogelijk maken of versnellen.",
+                    "<<BOLD_START>>Mitochondriaal DNA<<BOLD_END>>. Dit is het erfelijke materiaal in de mitochondriën.",
+                    "<<BOLD_START>>Ribosomen<<BOLD_END>>. Dit zijn organellen die eiwitten maken."
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "30a9e5f6-ddd8-4efd-b3bd-f38a9d2cc2ca",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Energieproductie in het lichaam<<MICRO_TITLE_END>>\n\nMitochondriën maken energie uit voedingsstoffen, zoals suikers. Voor deze verbranding hebben ze zuurstof nodig. De verbranding van voedingsstoffen met zuurstof noemen we <<BOLD_START>>aerobe dissimilatie<<BOLD_END>>. 'Aeroob' betekent met zuurstof en 'dissimilatie' is verbranding. \n\nJe lichaam gebruikt de <<BOLD_START>>citroenzuurcyclus<<BOLD_END>> voor deze verbranding. Dit is een ingewikkeld proces met verschillende stofjes. Tijdens het afbreken van suikers ontstaat het stofje <<BOLD_START>>ATP<<BOLD_END>>. ATP staat voor adenosinetrifosfaat en bevat energie voor de cellen. Dit stofje is nodig omdat energie die direct uit suikers vrijkomt:\n\n• te veel energie in één keer bevat  \n• voor een deel verloren gaat als warmte",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "e3e1ed44-9750-455c-b1f6-acfc3291c580",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "te veel energie in één keer bevat",
+                    "voor een deel verloren gaat als warmte"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "a10b4a0a-ffeb-4a1a-9e6f-2f364e8efe10",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Energie in ATP<<MICRO_TITLE_END>>\n\nIn <<BOLD_START>>ATP<<BOLD_END>> wordt de energie uit suikers tijdelijk opgeslagen. Wanneer je lichaam energie nodig heeft, haalt het deze uit de voorraad in <<BOLD_START>>ATP<<BOLD_END>>.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "6f93d14e-ab8e-46ac-a70e-da63349280b0",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Functies van mitochondriën<<MICRO_TITLE_END>>\n\nDe mitochondriën maken energie voor de cel. Dit doen ze tijdens de citroenzuurcyclus. Ze maken ATP door adenosinedifosfaat (ADP) en fosfaat (P) aan elkaar te binden. Dit kost energie. De formule voor ATP is: ADP + P + energie → ATP. Mitochondriën pompen ATP het cytoplasma in. Daar valt ATP weer uit elkaar tot ADP en P. Bij deze afbraak komt veel energie vrij. De formule voor de afbraak van ATP is: ATP → ADP + P + energie. \n\nDe belangrijkste functie van de mitochondriën is energie maken. Daarnaast hebben ze ook andere functies:\n\n• Helpen bij het maken van onderdelen van je bloed.  \n• Helpen bij het maken van hormonen, zoals testosteron en oestrogeen.  \n• Het stofje ammoniak afbreken, dit doen alleen de mitochondriën in de cellen van je lever.  \n• Een <<BOLD_START>>geprogrammeerde celdood<<BOLD_END>> regelen, ook wel <<BOLD_START>>apoptose<<BOLD_END>> genoemd. Hierbij gaan cellen op een gecontroleerde manier dood zonder veel rommel te maken.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "3f19b371-5270-4f10-8535-7aa6146e888e",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "Helpen bij het maken van onderdelen van je bloed.",
+                    "Helpen bij het maken van hormonen, zoals testosteron en oestrogeen.",
+                    "Het stofje ammoniak afbreken, dit doen alleen de mitochondriën in de cellen van je lever.",
+                    "Een <<BOLD_START>>geprogrammeerde celdood<<BOLD_END>> regelen, ook wel <<BOLD_START>>apoptose<<BOLD_END>> genoemd. Hierbij gaan cellen op een gecontroleerde manier dood zonder veel rommel te maken."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.5",
+              "number": "1.1.5",
+              "title": "Het endoplasmatisch reticulum",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "167ce74e-bfba-42d4-93c4-3a3f2f34ca9a",
+                  "paragraphNumber": 1,
+                  "basis": "Het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> is een organel dat alleen in de cellen van eukaryoten voorkomt. Dit organel is aanwezig in de cellen van mensen, dieren, planten en schimmels, maar niet in bacteriën. Het endoplasmatisch reticulum ligt in het cytoplasma en bestaat uit een netwerk van:\n\n• buisjes, die we ook wel <<BOLD_START>>tubuli<<BOLD_END>> noemen.  \n• zakjes, die we <<BOLD_START>>cisternae<<BOLD_END>> noemen.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "8e3f9c78-1abd-4dab-9a8f-9e13935482d3",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "buisjes, die we ook wel <<BOLD_START>>tubuli<<BOLD_END>> noemen.",
+                    "zakjes, die we <<BOLD_START>>cisternae<<BOLD_END>> noemen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "6d59527e-e42a-4904-a5ec-0755fc04ec28",
+                  "paragraphNumber": 1,
+                  "basis": "Het endoplasmatisch reticulum is een grote membraan. Het vormt meer dan de helft van de membranen in je cellen, zoals de celmembraan. Het endoplasmatisch reticulum is verbonden met de kernmembraan, de membraan rondom de celkern. Het bestaat uit twee onderdelen:\n\n• <<BOLD_START>>ruwe endoplasmatisch reticulum<<BOLD_END>>: Deze membraan is ruw door de <<BOLD_START>>ribosomen<<BOLD_END>> die erop zitten. Ribosomen zijn organellen die eiwitten maken. De belangrijkste functie van het ruwe endoplasmatisch reticulum is het vervoeren van eiwitten.\n\n• <<BOLD_START>>gladde endoplasmatisch reticulum<<BOLD_END>>: Deze membraan is glad omdat er geen ribosomen aan de buitenkant zitten. Het gladde endoplasmatisch reticulum heeft veel verschillende functies, die kunnen verschillen per cel. De belangrijkste functies zijn:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.4.png",
+                      "alt": "Afbeelding 1.4: Schematisch overzicht van het endoplasmatisch reticulum.",
+                      "figureNumber": "Afbeelding 1.4:",
+                      "caption": "Schematisch overzicht van het endoplasmatisch reticulum.",
+                      "width": "100%"
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "id": "6d1c5c34-eb4a-4b04-ae12-1000835030bf",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>ruwe endoplasmatisch reticulum<<BOLD_END>>: Deze membraan is ruw door de <<BOLD_START>>ribosomen<<BOLD_END>> die erop zitten. Ribosomen zijn organellen die eiwitten maken. De belangrijkste functie van het ruwe endoplasmatisch reticulum is het vervoeren van eiwitten.",
+                    "<<BOLD_START>>gladde endoplasmatisch reticulum<<BOLD_END>>: Deze membraan is glad omdat er geen ribosomen aan de buitenkant zitten. Het gladde endoplasmatisch reticulum heeft veel verschillende functies, die kunnen verschillen per cel. De belangrijkste functies zijn:"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "d2fa4cb7-a7e3-4ce7-b9ef-4973b558fcae",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "Het maakt bepaalde <<BOLD_START>>suikers<<BOLD_END>> aan.",
+                    "Het ruimt <<BOLD_START>>medicijnen<<BOLD_END>> en <<BOLD_START>>gifstoffen<<BOLD_END>> op.",
+                    "Het slaat de stof <<BOLD_START>>calcium<<BOLD_END>> op.",
+                    "Het speelt een rol in de <<BOLD_START>>stofwisseling<<BOLD_END>>.",
+                    "Het helpt bij het samentrekken van <<BOLD_START>>spieren<<BOLD_END>> door calcium af te geven in de spiercellen."
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "9d9cb86a-6a9f-4e0e-a3fa-6e42e8e35ebd",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Functies van het endoplasmatisch reticulum<<MICRO_TITLE_END>>\n\nHet <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> heeft verschillende functies in de cel. \n\n• Het brengt bepaalde suikers naar andere organellen in de cel.  \n• Het zorgt ervoor dat de totale hoeveelheid membranen in je cellen groter wordt. Het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> heeft plooien, net als de mitochondriën. Hierdoor gaan verschillende processen makkelijker en sneller.  \n• Tijdens de celdeling maakt het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> de kernmembraan. Hierbij ontstaan er twee cellen, die beide een kernmembraan nodig hebben.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "6e0e5636-71c3-4c4b-a613-9c2b39a77338",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "Het brengt bepaalde suikers naar andere organellen in de cel.",
+                    "Het zorgt ervoor dat de totale hoeveelheid membranen in je cellen groter wordt. Het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> heeft plooien, net als de mitochondriën. Hierdoor gaan verschillende processen makkelijker en sneller.",
+                    "Tijdens de celdeling maakt het <<BOLD_START>>endoplasmatisch reticulum<<BOLD_END>> de kernmembraan. Hierbij ontstaan er twee cellen, die beide een kernmembraan nodig hebben."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "d3b876b4-a8f1-4f0e-ae16-7374f26bac83",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>medicijnen<<BOLD_END>>",
+                    "<<BOLD_START>>desinfectiemiddelen<<BOLD_END>>",
+                    "<<BOLD_START>>verbandmaterialen<<BOLD_END>>",
+                    "<<BOLD_START>>voedingsmiddelen<<BOLD_END>>",
+                    "<<BOLD_START>>cosmetica<<BOLD_END>>"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "0dabde5f-ed44-4817-b1e8-b235db848d0d",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "<<BOLD_START>>eiwitten<<BOLD_END>>",
+                    "<<BOLD_START>>vetten<<BOLD_END>>",
+                    "<<BOLD_START>>suikers<<BOLD_END>>",
+                    "<<BOLD_START>>steroïden<<BOLD_END>>. Dit zijn vettige stoffen, zoals cholesterol. De hormonen progesteron en testosteron zijn ook steroïden."
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.6",
+              "number": "1.1.6",
+              "title": "De ribosomen",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "c94b25dc-3681-4797-a6c5-6a4ad51d853c",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Ribosomen en hun functie<<MICRO_TITLE_END>>\n\nRibosomen maken eiwitten aan. Ze bestaat uit twee delen: een groot deel en een klein deel. Elk deel bestaat uit:\n\n• <<BOLD_START>>ribosomaal RNA<<BOLD_END>>. Dit noemen we ook wel <<BOLD_START>>rRNA<<BOLD_END>>. Dit is een vorm van RNA die als onderdeel van een ribosoom eiwitten maakt. rRNA is 60% van de ribosomen.\n\n• Eiwit. Dit is 40% van de ribosomen.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "b7a51167-8e2e-4dc4-a2e1-09d3b228c88e",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>ribosomaal RNA<<BOLD_END>>. Dit noemen we ook wel <<BOLD_START>>rRNA<<BOLD_END>>. Dit is een vorm van RNA die als onderdeel van een ribosoom eiwitten maakt. rRNA is 60% van de ribosomen.",
+                    "Eiwit. Dit is 40% van de ribosomen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "a37e6deb-b288-4eb2-a015-cdababf30efa",
+                  "paragraphNumber": 1,
+                  "basis": "Sommige cellen maken veel eiwitten. Deze cellen hebben veel ribosomen. Ribosomen zijn klein en hebben geen membranen. We onderscheiden twee soorten ribosomen, elk met een eigen functie:\n\n• Ribosomen op het ruwe endoplasmatisch reticulum. Dit zijn de meeste ribosomen en zij maken de meeste eiwitten. Deze eiwitten gaan uiteindelijk de cel uit en komen in de extracellulaire ruimte terecht.\n\n• <<BOLD_START>>vrije ribosomen<<BOLD_END>>. Dit zijn ribosomen die vrij rondzweven in de cellen. Ze maken vooral de eiwitten die de cel zelf gebruikt.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "4c2d8896-3ca9-4a78-8530-e297551e5773",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "Ribosomen op het ruwe endoplasmatisch reticulum. Dit zijn de meeste ribosomen en zij maken de meeste eiwitten. Deze eiwitten gaan uiteindelijk de cel uit en komen in de extracellulaire ruimte terecht.",
+                    "<<BOLD_START>>vrije ribosomen<<BOLD_END>>. Dit zijn ribosomen die vrij rondzweven in de cellen. Ze maken vooral de eiwitten die de cel zelf gebruikt."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.7",
+              "number": "1.1.7",
+              "title": "De lysosomen",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "c9acb8cf-1170-41ea-88df-b81861f592b7",
+                  "paragraphNumber": 1,
+                  "basis": "Een <<BOLD_START>>lysosoom<<BOLD_END>> is een klein, bol blaasje in het cytoplasma. Hierin zitten verschillende soorten <<BOLD_START>>enzymen<<BOLD_END>>. Deze eiwitten maken of versnellen processen in je lichaam. De enzymen in de lysosomen breken bepaalde stoffen in de cellen af. Ze werken het beste in een zure omgeving. Omdat het cytoplasma niet zuur is, willen we niet dat de enzymen hierin komen. Daarom heeft het lysosoom een membraan, het <<BOLD_START>>lysosoommembraan<<BOLD_END>>. Dit membraan zorgt ervoor dat de enzymen in het lysosoom blijven en het cytoplasma niet aanraken.\n\nDe functies van de lysosomen zijn:\n\n• De cel helpen bij het afbreken van stoffen die via <<BOLD_START>>endocytose<<BOLD_END>> de cel in zijn gekomen. Endocytose is het opnemen van stoffen van buiten de cel door ze in te sluiten in de celmembraan. Dit gebeurt via blaasjes die de cel maakt van stukjes celmembraan. De celmembraan stulpt uit richting de binnenkant van de cel. Als in die uitstulping voedingsstoffen komen, komt dit deel van de celmembraan los als een blaasje. Dit blaasje gaat naar binnen in de cel. De stoffen die een cel via endocytose opneemt, zijn vaak schadelijk of ziekteverwekkers, zoals bacteriën. Het is belangrijk dat deze stoffen goed worden afgebroken.\n\n• De opslag en het vervoer van schadelijke stoffen.\n\n• Het opnieuw gebruiken van afvalstoffen, zoals afvalstoffen van oude organellen of dode bacteriën. Lysosomen breken deze afvalstoffen zo af dat ze als nieuwe bouwstenen voor de cel gebruikt kunnen worden.\n\n• Afvalstoffen veilig buiten de cel afgeven.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "f811aef6-d252-41a1-9895-6b9f1b178181",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "De cel helpen bij het afbreken van stoffen die via <<BOLD_START>>endocytose<<BOLD_END>> de cel in zijn gekomen. Endocytose is het opnemen van stoffen van buiten de cel door ze in te sluiten in de celmembraan. Dit gebeurt via blaasjes die de cel maakt van stukjes celmembraan. De celmembraan stulpt uit richting de binnenkant van de cel. Als in die uitstulping voedingsstoffen komen, komt dit deel van de celmembraan los als een blaasje. Dit blaasje gaat naar binnen in de cel. De stoffen die een cel via endocytose opneemt, zijn vaak schadelijk of ziekteverwekkers, zoals bacteriën. Het is belangrijk dat deze stoffen goed worden afgebroken.",
+                    "De opslag en het vervoer van schadelijke stoffen.",
+                    "Het opnieuw gebruiken van afvalstoffen, zoals afvalstoffen van oude organellen of dode bacteriën. Lysosomen breken deze afvalstoffen zo af dat ze als nieuwe bouwstenen voor de cel gebruikt kunnen worden.",
+                    "Afvalstoffen veilig buiten de cel afgeven."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.5.png",
+                      "alt": "Afbeelding 1.5: Anatomie van een ribosoom.",
+                      "figureNumber": "Afbeelding 1.5:",
+                      "caption": "Anatomie van een ribosoom.",
+                      "width": "100%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.8",
+              "number": "1.1.8",
+              "title": "De spoellichaampjes",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "c94707a4-28a3-4615-91c9-28dc2345ef78",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Spoellichaampjes<<MICRO_TITLE_END>>\n\n<<BOLD_START>>Spoellichaampjes<<BOLD_END>> zijn organellen in het cytoplasma. We noemen ze ook <<BOLD_START>>centrosomen<<BOLD_END>>. Ze liggen dicht bij de celkern. Alleen mensen en dieren hebben spoellichaampjes. Planten en schimmels hebben ze niet. \n\nEen spoellichaampje bestaat uit twee onderdelen: de <<BOLD_START>>centriolen<<BOLD_END>>. Deze centriolen staan loodrecht op elkaar. De ene centriool staat van boven naar beneden en de andere van links naar rechts. Een centriool bestaat uit eiwitstaven in een ronde vorm, vergelijkbaar met de schoepen van een watermolen. \n\n<<MICRO_TITLE>>Rol van de spoellichaampjes<<MICRO_TITLE_END>>\n\n• Spoellichaampjes spelen een belangrijke rol bij de celdeling.  \n• Wanneer een cel deelt, bewegen de spoellichaampjes naar twee verschillende kanten van de cel.  \n• Ze liggen uit elkaar, maar wel tegenover elkaar.  \n• Ze maken draden die de <<BOLD_START>>spoelfiguur<<BOLD_END>> creëren.  \n• De spoelfiguur is een combinatie van spoellichaampjes en eiwitdraden.  \n• De spoellichaampjes trekken aan deze draden.  \n• Hierdoor worden de eiwitdraden aangetrokken en trekt de cel uit elkaar, zodat er twee nieuwe cellen ontstaan.",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.6.png",
+                      "alt": "Afbeelding 1.6: Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+                      "figureNumber": "Afbeelding 1.6:",
+                      "caption": "Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+                      "width": "55%"
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "id": "9b5aea63-1d73-48be-b87e-e7a164001d27",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "Spoellichaampjes spelen een belangrijke rol bij de celdeling.",
+                    "Wanneer een cel deelt, bewegen de spoellichaampjes naar twee verschillende kanten van de cel.",
+                    "Ze liggen uit elkaar, maar wel tegenover elkaar.",
+                    "Ze maken draden die de <<BOLD_START>>spoelfiguur<<BOLD_END>> creëren.",
+                    "De spoelfiguur is een combinatie van spoellichaampjes en eiwitdraden.",
+                    "De spoellichaampjes trekken aan deze draden.",
+                    "Hierdoor worden de eiwitdraden aangetrokken en trekt de cel uit elkaar, zodat er twee nieuwe cellen ontstaan."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "242e967a-8e27-4fe0-9ec7-ea5ad12ef156",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "De <<BOLD_START>>cytokinese<<BOLD_END>> zorgt ervoor dat het cytoplasma ook deelt. Hierdoor krijgt elke nieuwe cel evenveel cytoplasma.",
+                    "De cellen krijgen signalen om te beginnen met leven. Dit leven noemen we de <<BOLD_START>>celcyclus<<BOLD_END>>.",
+                    "De cel maakt <<BOLD_START>>microtubuli<<BOLD_END>>. Dit zijn buisvormige eiwitten die in een netwerk liggen. Dit netwerk noemen we het <<BOLD_START>>cytoskelet<<BOLD_END>>. Het cytoskelet houdt de cellen in hun vorm."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.7.png",
+                      "alt": "Afbeelding 1.7: Anatomie van het Golgi-systeem.",
+                      "figureNumber": "Afbeelding 1.7:",
+                      "caption": "Anatomie van het Golgi-systeem.",
+                      "width": "75%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.1.9",
+              "number": "1.1.9",
+              "title": "Het Golgi-systeem",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "dbdb40d5-1c3a-4909-8a23-778de4a00c2d",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Het Golgi-systeem<<MICRO_TITLE_END>>\n\nHet <<BOLD_START>>Golgi-systeem<<BOLD_END>> is een organel in het cytoplasma. Dit organel heeft ook andere namen. Deze zijn:\n\n• <<BOLD_START>>Golgicomplex<<BOLD_END>>  \n• <<BOLD_START>>Golgi-apparaat<<BOLD_END>>  \n• <<BOLD_START>>Golgi-lichaam<<BOLD_END>>",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "bfbe32ed-beb6-4228-91ee-23b11492d640",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>Golgicomplex<<BOLD_END>>",
+                    "<<BOLD_START>>Golgi-apparaat<<BOLD_END>>",
+                    "<<BOLD_START>>Golgi-lichaam<<BOLD_END>>"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "fc616384-4df1-4703-a14b-50dc7864d135",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Het Golgi-systeem<<MICRO_TITLE_END>>\n\nDe cellen van mensen, planten en dieren hebben allemaal een <<BOLD_START>>Golgi-systeem<<BOLD_END>>. Dit systeem ligt vlak bij de celkern en het endoplasmatisch reticulum. Het Golgi-systeem bestaat uit verschillende lagen met zakken vol vloeistof. Deze zakken noemen we <<BOLD_START>>cisternae<<BOLD_END>>. Elke zak is een platte schijf die gevuld is met <<BOLD_START>>Golgi-enzymen<<BOLD_END>>. Deze enzymen helpen bij het veranderen van eiwitten die door het Golgi-systeem worden vervoerd. Met veranderen bedoelen we:\n\n• het aanpassen van nieuwe eiwitten  \n• het sorteren van nieuwe eiwitten  \n• het verdelen van nieuwe eiwitten",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "d5901a17-7e36-4908-a45d-172b13b65c2a",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "het aanpassen van nieuwe eiwitten",
+                    "het sorteren van nieuwe eiwitten",
+                    "het verdelen van nieuwe eiwitten"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "e972f46f-d0be-4e1d-8ea5-fd7505fa1225",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Functies van het Golgi-systeem<<MICRO_TITLE_END>>\n\nHet Golgi-systeem heeft belangrijke functies. Het zorgt voor de verwerking en het transport van eiwitten. Bij plantencellen maakt het Golgi-systeem ook bepaalde <<BOLD_START>>suikers<<BOLD_END>>. Deze suikers zijn belangrijk voor de wand van de <<BOLD_START>>cel<<BOLD_END>>.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "ca0ec20a-9239-45b4-a81b-e6e48ba6aa19",
+                  "paragraphNumber": 1,
+                  "basis": "<<MICRO_TITLE>>Golgi-systeem<<MICRO_TITLE_END>>\n\nHet Golgi-systeem krijgt nieuwe eiwitten van het endoplasmatisch reticulum. De kant die deze eiwitten ontvangt, heet de <<BOLD_START>>cis-kant<<BOLD_END>>. Het Golgi-systeem voegt stoffen toe of haalt ze weg van de eiwitten. Voorbeelden van deze stoffen zijn koolwaterstoffen en fosfaten.\n\nNa deze aanpassing sorteert het Golgi-systeem de eiwitten. Ze gaan naar andere delen van de cel. De eiwitten verlaten het Golgi-systeem in blaasjes aan de <<BOLD_START>>trans-kant<<BOLD_END>>. Dit is de andere kant van het Golgi-systeem. Vanaf de trans-kant gaan de eiwitten naar andere delen van de cel of naar de extracellulaire ruimte.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.2",
+          "title": "Eiwitsynthese",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.2.1",
+              "number": "1.2.1",
+              "title": "DNA",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "c1f173b1-af0c-4819-8ef0-373e378eedf8",
+                  "paragraphNumber": 2,
+                  "basis": "DNA is het erfelijk materiaal in je cellen. Het ligt opgeslagen in de celkern. Daar ligt het op speciale eiwitten. Dit zijn je <<BOLD_START>>chromosomen<<BOLD_END>>. Je DNA is een heel lang deeltje met een dubbele keten in de vorm van een wenteltrap. We noemen dit een <<BOLD_START>>dubbele helix<<BOLD_END>>. Elke keten bestaat uit <<BOLD_START>>nucleotiden<<BOLD_END>>. Dit zijn de bouwstenen van je DNA.Je nucleotiden bestaan uit:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "155ba22b-0dac-414a-898f-325355279e34",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "een suikergroep. Dit is de <<BOLD_START>>desoxyribose<<BOLD_END>> uit desoxyribonucleïnezuur (DNA)",
+                    "een fosfaatgroep",
+                    "een stikstofbase. Deze komt voor in twee soorten, namelijk:"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "5caa8ba3-d27b-4476-b35b-a9755312983b",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "<<BOLD_START>>purines<<BOLD_END>>. Dit zijn <<BOLD_START>>adenine<<BOLD_END>> (A) en <<BOLD_START>>guanine<<BOLD_END>> (G)",
+                    "<<BOLD_START>>pyrimidinen<<BOLD_END>>. Dit zijn <<BOLD_START>>cytosine<<BOLD_END>> (C) en <<BOLD_START>>thymine<<BOLD_END>> (T)."
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "a3d2f46d-deb0-4cc0-9660-8239327fae12",
+                  "paragraphNumber": 2,
+                  "basis": "In je DNA zitten dus vier stikstofbasen, namelijk:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "320c0a35-1a64-4562-98b9-4be7b6af4c67",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "adenine",
+                    "guanine"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "54e47d20-6156-410f-b5c9-5d17f82ddc16",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "cytosine",
+                    "thymine."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "74b8af33-ab8b-4d2b-8f78-89dde0238a93",
+                  "paragraphNumber": 2,
+                  "basis": "Deze basen liggen in paren bij elkaar. We noemen dit <<BOLD_START>>basenparen<<BOLD_END>>. Hierbij zijn adenine en thymine samen een basenpaar. Cytosine is een basenpaar met guanine. Als twee basen samen een basenpaar maken, noemen we ze <<BOLD_START>>complementair<<BOLD_END>>. Twee complementaire basen verbinden de twee ketens van je DNA met elkaar. Ze vormen als het ware samen één trede van de wenteltrap. Dit doen ze door <<BOLD_START>>waterstofbruggen<<BOLD_END>> te maken. Dit zijn verbindingen van waterstof. Zo ontstaat de dubbele helixvorm.<<BOLD_START>>Genen<<BOLD_END>> zijn stukjes DNA met informatie over de aanmaak van eiwitten. Ze zijn daarmee een soort recepten voor eiwitten. De volgorde van de stikstofbasen in je DNA bepaalt welke eiwitten je cel maakt. Elke drie basen na elkaar noemen we een <<BOLD_START>>codogen<<BOLD_END>>. Dit is de code voor een bepaald <<BOLD_START>>aminozuur<<BOLD_END>>. Aminozuren zijn de bouwstenen van eiwitten. Tijdens het maken van eiwitten worden aminozuren in een bepaalde volgorde aan elkaar geplakt. Hierdoor ontstaat een lange keten van aminozuren. Dit wordt uiteindelijk een eiwit. Genen op je DNA hebben informatie voor een paar tot duizenden codogenen achter elkaar. Dit hangt af van het eiwit waar ze het recept voor hebben. Voor een groot eiwit is het recept langer dan voor een klein eiwit.",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.8.png",
+                      "alt": "Afbeelding 1.8: DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+                      "figureNumber": "Afbeelding 1.8:",
+                      "caption": "DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+                      "width": "100%"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.2.2",
+              "number": "1.2.2",
+              "title": "DNA, RNA en eiwitsynthese",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "8533fb60-98b2-4cae-9321-24acef2128ed",
+                  "paragraphNumber": 2,
+                  "basis": "In je DNA staat de erfelijke informatie over de bouw van eiwitten. Vanuit je DNA maakt niet direct een eiwit aan. De aanmaak van eiwitten gebeurt in verschillende fasen. De fasen van DNA naar eiwit zijn:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "a631fc1e-ac69-424d-844a-f3a54138b8e5",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>transcriptiefase<<BOLD_END>>. Tijdens deze fase kopieert je cel de informatie voor een bepaald eiwit dat op je DNA staat naar mRNA. Het mRNA verlaat de celkern en gaat dan naar de ribosomen op het endoplasmatisch reticulum",
+                    "<<BOLD_START>>translatiefase<<BOLD_END>>. Dit is de fase waarin een eiwit wordt gemaakt. Tijdens de translatiefase speelt <<BOLD_START>>tRNA<<BOLD_END>> een belangrijke rol. Dit staat voor <<BOLD_START>>transfer-RNA<<BOLD_END>>. ‘Transfer’ betekent verplaatsen. tRNA is gebonden aan de ribosomen in het endoplasmatisch reticulum. De functie van tRNA is om mRNA af te lezen en eiwitten te maken. Op het mRNA staan namelijk specifieke codes om aminozuren aan elkaar te koppelen. Eén code bestaat uit drie stikstofbasen achter elkaar. Dit noemen we een <<BOLD_START>>codon<<BOLD_END>>. Dit komt overeen met een codogen op je DNA. Eén codon staat voor één aminozuur. tRNA leest de codons op het mRNA af en koppelt daarna aminozuren aan elkaar. Dit koppelen doet het tRNA met <<BOLD_START>>anticodons<<BOLD_END>>. Dat zijn codes van drie stikstofbasen die precies op de codons van het mRNA passen. Terwijl een ribosoom met tRNA over het mRNA beweegt, maakt tRNA aminozuren. tRNA ‘verplaatst’ zich dus steeds over het mRNA. Daar komt de naam transfer-RNA vandaan. De aminozuren die het tRNA maakt, komen overeen met de codes die op het mRNA staan. tRNA maakt de aminozuren daarna vast aan een steeds langere eiwitketen. Als het eiwit klaar is, laat het ribosoom met tRNA los van het mRNA. Hierdoor komt het gemaakte eiwit vrij. Het ribosoom met tRNA kan nu aan een volgend eiwit beginnen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "25bff5a8-c4e8-4383-9f5d-febe56c62122",
+                  "paragraphNumber": 2,
+                  "basis": "Ten slotte nog <<BOLD_START>>rRNA<<BOLD_END>>. Dit staat voor <<BOLD_START>>ribosomaal RNA<<BOLD_END>>. Het is een ander type RNA dat helpt bij de bouw van ribosomen zelf. rRNA bindt aan verschillende eiwitten. Hierbij geeft het vorm aan een ribosoom. Het maakt ook nieuwe onderdelen en enzymen voor dit ribosoom.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.2.3",
+              "number": "1.2.3",
+              "title": "Verschillen tussen DNA en RNA",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "da8dd5ad-bfb6-495e-b2cf-af8672e3ee83",
+                  "paragraphNumber": 2,
+                  "basis": "Een aantal verschillen tussen DNA en mRNA zijn dat:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "85133f10-354c-49be-8f5c-126d586f5b77",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "mRNA uit één streng van nucleotiden bestaat, terwijl DNA uit een dubbele streng nucleotiden bestaat, de dubbele helix",
+                    "mRNA uit een andere suiker dan DNA bestaat. mRNA bestaat namelijk uit ribose, terwijl DNA bestaat uit desoxyribose",
+                    "mRNA <<BOLD_START>>uracil<<BOLD_END>> (U) als stikstofbase heeft, terwijl DNA thymine (T) heeft. De basenparen van DNA zijn T, A, C en G. mRNA heeft als basen U, A, C en G. Uracil (U) is wel net als thymine (T) een basenpaar met adenine (A)."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "3a08aac9-c473-43df-82e8-d7489b51c1e9",
+                  "paragraphNumber": 2,
+                  "basis": "DNA heeft de code voor eiwitten. mRNA is een soort kopie van deze code. Deze kopie maakt je cel tijdens de transcriptie. Tijdens deze fase kopieert je cel dus de code voor een bepaald eiwit dat op je DNA staat naar mRNA. Je cel gebruikt de code van je mRNA om van aminozuren eiwitten te maken. Dit noemen we de translatie. Eiwitten bestaan uit een keten van aminozuren die in een speciale volgorde achter elkaar liggen. De genetische code van je DNA bepaalt deze volgorde. Je DNA bepaalt uiteindelijk dus bijvoorbeeld de kleur van je haren. Als je blond haar hebt, heb je een andere eiwitvolgorde voor haarkleur dan iemand die bruin haar heeft.",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.9.png",
+                      "alt": "Afbeelding 1.9: Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+                      "figureNumber": "Afbeelding 1.9:",
+                      "caption": "Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+                      "width": "140.2mm"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.2.4",
+              "number": "1.2.4",
+              "title": "Transcriptie, codons en vorming van mRNA",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "0acfd9df-b668-449d-9231-a715bddb6808",
+                  "paragraphNumber": 2,
+                  "basis": "<<BOLD_START>>Transcriptie<<BOLD_END>> is het proces waarbij de cel je DNA leest en kopieert naar mRNA. De transcriptie begint dus bij je DNA, wat bestaat uit twee ketens van nucleotiden. Het enzym <<BOLD_START>>DNA-polymerase<<BOLD_END>> trekt deze twee ketens uit elkaar als een soort rits die je openmaakt. Hierna gaan bepaalde eiwitten op de open plekken zitten die zijn ontstaan. Deze eiwitten noemen we <<BOLD_START>>transcriptiefactoren<<BOLD_END>>. Daarna bindt het enzym <<BOLD_START>>RNA-polymerase<<BOLD_END>> aan één van de ketens van je DNA. Het leest dan de volgorde van de stikstofbasen in je DNA af. Van elke drie stikstofbasen maakt RNA-polymerase drie complementaire stikstofbasen voor het mRNA. Dit betekent het volgende:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "70c747db-1545-4b2a-9ac2-2566985220a1",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "bij adenine (A) in je DNA maakt RNA-polymerase voor mRNA uracil (U). In mRNA heb je geen thymine. Dit is vervangen door uracil",
+                    "bij guanine (G) in je DNA maakt RNA-polymerase voor mRNA cytosine (C)",
+                    "bij cytosine (C) in je DNA maakt RNA-polymerase voor mRNA guanine (G)",
+                    "bij thymine (T) in je DNA maakt RNA-polymerase voor mRNA adenine (A)."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "9c61b85a-59af-4a61-a734-7be5801484cd",
+                  "paragraphNumber": 2,
+                  "basis": "mRNA is dus een keten van zogenaamde <<BOLD_START>>complementaire stikstofbasen<<BOLD_END>>. mRNA bestaat uit basenparen die op elkaar aansluiten, zoals adenine (A) en uracil (U). We noemen mRNA daarom ook wel een <<BOLD_START>>complementaire kopie<<BOLD_END>> van het DNA. Elke drie gekopieerde stikstofbasen in het mRNA samen noemen we een <<BOLD_START>>codon<<BOLD_END>>. Als je in je DNA de volgorde thymine-adenine-cytosine (TAC) hebt, dan maakt RNA-polymerase hier het codon adenine-uracil-guanine (AUG) van in het mRNA. Een codon is de code voor een aminozuur. AUC is bijvoorbeeld de code voor het aminozuur methionine.In totaal heb je 64 codons. Deze maken twintig verschillende aminozuren. Elk aminozuur wordt gemaakt vanuit tenminste één codon. Sommige aminozuren worden gemaakt vanuit meerdere codons. Zo maken de codons ACU, ACC, ACA en ACG allemaal het aminozuur threonine. Je lichaam maakt niet alle aminozuren zelf. Sommige aminozuren moet je binnenkrijgen via je voeding. Deze aminozuren noemen we <<BOLD_START>>essentiële aminozuren<<BOLD_END>>.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.2.5",
+              "number": "1.2.5",
+              "title": "Translatie en tRNA",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "6c0ed191-b2c3-43be-841c-21e985e181ed",
+                  "paragraphNumber": 2,
+                  "basis": "<<BOLD_START>>Translatie<<BOLD_END>> is het proces waarbij je lichaam vanuit mRNA eiwitten maakt. Tijdens de translatie bindt mRNA aan een ribosoom met tRNA in het endoplasmatisch reticulum. Ribosomen zijn organellen die eiwitten maken. tRNA leest het hele mRNA af. Het tRNA is zo gevouwen dat het plekken heeft met drie stikstofbasen achter elkaar. Deze plekken lijken een beetje op de drie basenparen die in het mRNA achter elkaar liggen. Bij mRNA noemen we deze drie basenparen samen een codon. Bij tRNA noemen we ze een <<BOLD_START>>anticodon<<BOLD_END>>. Een anticodon bindt aan een codon van het mRNA dat hier precies op past. Een codon en anticodon zijn complementair aan elkaar. Dit betekent dat ze precies het omgekeerde van elkaar zijn. Hierdoor passen ze precies op elkaar. De volgorde van de codons van het mRNA bepaalt de volgorde van de anticodons op het tRNA. Hierdoor ligt de volgorde van de aminozuren in het eiwit al vast in het mRNA. Door de combinatie van codons en anticodons maakt het tRNA aminozuren. Deze aminozuren maakt het tRNA aan elkaar vast. Hierdoor ontstaat een eiwit. Een eiwit is namelijk een keten van aminozuren. In totaal heb je 64 codons die voor de aanmaak van 20 aminozuren zorgen. Het mRNA begint meestal met het codon <<BOLD_START>>AUG<<BOLD_END>>. Dit noemen we het <<BOLD_START>>startcodon<<BOLD_END>>. Het tRNA anticodon dat hierop past, is UAC. De U past namelijk op de A, de A op de U en de C op de G. Andere anticodons passen niet op dit startcodon. Doordat het tRNA anticodons gebruikt, maakt het aminozuren in de juiste volgorde aan elkaar vast. Deze volgorde komt overeen met de volgorde van de codons in het mRNA. Op die manier komt elk aminozuur op de juiste plek in een eiwit terecht. De translatie gaat verder door allerlei andere codons te vertalen naar aminozuren. Dit proces stopt pas als het ribosoom aankomt bij een <<BOLD_START>>stopcodon<<BOLD_END>>. Je kan dit vergelijken met een rood stoplicht. De translatie stopt op dit punt namelijk. Het eiwit is dan klaar en laat los van het ribosoom. De stopcodons waarbij dit gebeurt, zijn UAA, UAG en UGA.",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+                      "alt": "Afbeelding 1.10: DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+                      "figureNumber": "Afbeelding 1.10:",
+                      "caption": "DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+                      "width": "100%"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.3",
+          "title": "Celcyclus",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.3.1",
+              "number": "1.3.1",
+              "title": "Chromosomen",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "3a1f15ab-8bca-49f3-bce9-950f89666ae6",
+                  "paragraphNumber": 3,
+                  "basis": "Je DNA ligt op <<BOLD_START>>chromosomen<<BOLD_END>>. Dit zijn speciale eiwitten die in de celkern liggen. Je DNA is een lange keten die bestaat uit erfelijke informatie. Deze keten bestaat uit verschillende stukjes. Al deze kleine stukjes noemen we <<BOLD_START>>genen<<BOLD_END>>. Elk gen bepaalt een andere eigenschap. Je hebt bijvoorbeeld een gen voor oogkleur en een ander gen voor haarkleur. Elk gen heeft een vaste plek op een bepaald chromosoom. Die plek noemen we de <<BOLD_START>>locus<<BOLD_END>> van een gen.In de meeste cellen in je lichaam zitten chromosomen in paren. Dit betekent dat je van elk chromosoom twee exemplaren in één cel hebt. We noemen deze cellen <<BOLD_START>>diploïd<<BOLD_END>>. ‘Di’ betekent namelijk twee. Van de twee exemplaren van een chromosoom heb je de ene van je vader gekregen en de andere van je moeder. Tijdens celdelingen gaan de chromosomen van een chromosomenpaar uit elkaar. Op deze manier wordt je DNA eerlijk verdeeld over twee nieuwe cellen.Als mens heb je in je <<BOLD_START>>lichaamscellen<<BOLD_END>> 23 paren chromosomen. Elk chromosomenpaar bestaat uit 2 chromosomen. Je hebt dus 2 x 23 = 46 chromosomen per cel. 22 paren hiervan zijn je <<BOLD_START>>autosomen<<BOLD_END>>. Het laatste paar zijn je <<BOLD_START>>geslachtschromosomen<<BOLD_END>>. Dit zijn de X- en Y-chromosomen. Ze bepalen of je een jongen of een meisje bent. Een jongen heeft als geslachtschromosomen XY. Een meisje heeft XX.In je lichaam heb je ook <<BOLD_START>>geslachtscellen,<<BOLD_END>> die we ook wel <<BOLD_START>>gameten<<BOLD_END>> noemen. Dit zijn de eicellen bij de vrouw en de zaadcellen bij de man. De chromosomen in deze cellen liggen niet in paren. Elke geslachtscel heeft van elk chromosoom maar één exemplaar. De geslachtscellen zijn daarom niet diploïd, maar <<BOLD_START>>haploïd<<BOLD_END>>. In de geslachtscellen zitten dus maar 23 chromosomen. Dit is de helft van het aantal chromosomen in de lichaamscellen. Dit is belangrijk voor een zwangerschap. Daarbij komen namelijk een eicel en een zaadcel samen. Dit zijn allebei geslachtscellen, waardoor ze allebei 23 chromosomen hebben. Als ze samenkomen, ontstaat een cel met 23 + 23 = 46 chromosomen. Op die manier ontstaat de eerste lichaamscel van een nieuw mens, de <<BOLD_START>>bevruchte eicel<<BOLD_END>>.Dieren hebben allemaal een andere hoeveelheid chromosomen dan mensen. Voorbeelden hiervan zijn dat:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "c50786fc-e33e-4c2e-9d26-9353bcbf97b1",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "een fruitvlieg 4 chromosomenparen heeft. Dit zijn 8 chromosomen",
+                    "een kat 19 chromosomenparen heeft. Dit zijn 38 chromosomen",
+                    "een hond 39 chromosomenparen heeft. Dit zijn 78 chromosomen",
+                    "een chimpansee 24 chromosomenparen heeft. Dit zijn 48 chromosomen",
+                    "een olifant 28 chromosomenparen heeft. Dit zijn 56 chromosomen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "52d936ac-9bc2-4878-8b3c-743541f35ed4",
+                  "paragraphNumber": 3,
+                  "basis": "Vlak voordat een celkern gaat delen tot twee nieuwe cellen, verdubbelen je chromosomen zich. Zo hebben de twee nieuwe cellen na de celdeling dezelfde hoeveelheid chromosomen als de oude cel. Na het verdubbelen rollen je chromosomen zich op in een spiraalvorm. Deze vorm lijkt op een wenteltrap. We noemen dit oprolproces <<BOLD_START>>spiraliseren<<BOLD_END>>. Als chromosomen dit doen, kan je ze zien onder een <<BOLD_START>>microscoop<<BOLD_END>>. Dit is een apparaat waarmee je naar dingen kijkt die te klein zijn om met het blote oog te zien. Normaal zijn chromosomen zelfs nog te klein om met een normale microscoop te zien, maar na spiraliseren zijn ze zo strak opgerold dat ze wel onder de microscoop zichtbaar worden.Tijdens het spiraliseren van je chromosomen rolt je DNA zich om speciale eiwitten heen. Dit zijn de <<BOLD_START>>histonen<<BOLD_END>>. Deze zorgen dat je lange DNA-ketens in elkaar rollen. Zo worden je chromosomen korter. DNA en histonen samen noemen we <<BOLD_START>>chromatine<<BOLD_END>>. Als chromatine gaat spiraliseren, zie je dit ook onder de microscoop.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.3.2",
+              "number": "1.3.2",
+              "title": "Celcyclus",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "fce7e85d-f69a-4c2d-918f-0402e4071fd8",
+                  "paragraphNumber": 3,
+                  "basis": "De <<BOLD_START>>celcyclus<<BOLD_END>> is het leven van een cel. Het bestaat uit alle fasen die een cel doormaakt, zoals celgroei en celdeling. Als mens groei je tijdens je leven vanuit één cel naar miljarden cellen. Alle processen die samen zorgen voor de deling van je cellen zijn onderdeel van de celcyclus. Hoelang een celdeling duurt, is verschillend voor alle cellen. De ene cel doet hier een paar uur over, de andere een paar weken. Bij planten en dieren duurt de celcyclus ongeveer twintig uur.We delen de celcyclus in drie fasen in:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.11.png",
+                      "alt": "Afbeelding 1.11: In de celkern zit het erfelijk materiaal.",
+                      "figureNumber": "Afbeelding 1.11:",
+                      "caption": "In de celkern zit het erfelijk materiaal.",
+                      "width": "100%"
+                    }
+                  ]
+                },
+                {
+                  "type": "steps",
+                  "id": "ad091d79-0a9f-456b-a746-8265cc778c34",
+                  "items": [
+                    "Tijdens de delingsfase deelt een cel zich in twee nieuwe cellen die precies hetzelfde zijn.",
+                    "Tijdens de groeifase wordt een cel groter. Dit komt doordat je cel cytoplasma en water opneemt. Verder maakt je cel in deze fase nieuwe organellen.",
+                    "Tijdens de functionele fase ontwikkelt elke cel zijn eigen functies. De ene cel wordt bijvoorbeeld een huidcel. De andere cel wordt een darmcel. Dit is voor je cellen de laatste fase van de celcyclus. Ze delen daarna niet meer."
+                  ],
+                  "styleHint": "_Numbered Paragraph",
+                  "role": "numbered_steps"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "4dc1bd36-06ff-4ad8-9e15-13135c444738",
+                  "paragraphNumber": 3,
+                  "basis": "De delingsfase delen we ook weer in drie fasen in:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/images/ch1/fromSteven.PNG",
+                      "alt": "Afbeelding 1.12: De cyclus van de cel opgedeeld in verschillende fasen.",
+                      "figureNumber": "Afbeelding 1.12:",
+                      "caption": "De cyclus van de cel opgedeeld in verschillende fasen.",
+                      "width": "140.2mm"
+                    }
+                  ]
+                },
+                {
+                  "type": "steps",
+                  "id": "ba7bd0dd-9c5f-4a58-9ffc-299ecf2cf2b6",
+                  "items": [
+                    "Tijdens de interfase eet de cel genoeg om goed voorbereid te zijn op de celdeling. In deze fase verdubbelt het aantal chromosomen in je cel.",
+                    "Tijdens de mitose deelt de celkern zich. Hierdoor ontstaan twee nieuwe celkernen die nog samen in één cel zitten.",
+                    "Tijdens de cytokinese splitst je cel zich in twee nieuwe cellen die precies hetzelfde zijn. De celkern en andere organellen worden dan gelijk verdeeld over beide cellen."
+                  ],
+                  "styleHint": "_Numbered Paragraph",
+                  "role": "numbered_steps"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "ad4cfd12-da56-402d-8bbf-ce0750ab63db",
+                  "paragraphNumber": 3,
+                  "basis": "Hoelang celgroei en mitose duren, hangt af van het type cel. Bloedcellen delen bijvoorbeeld snel, terwijl zenuwcellen maar langzaam delen.Een mens ontstaat vanuit één cel, de <<BOLD_START>>bevruchte eicel<<BOLD_END>>. Dit is de eicel van je moeder en de zaadcel van je vader samen. Vanuit deze cel ontwikkelen zich alle cellen van je lichaam. Je cellen krijgen soms wel duizenden verschillende functies. Dit ligt aan welke delen van het DNA actief worden na de celdeling. Dit proces van het krijgen van verschillende functies heet <<BOLD_START>>celdifferentiatie<<BOLD_END>>. Dit betekent dat een aparte cel zich ontwikkelt tot een cel met maar een paar functies. Dit hangt af van de plek waar de cel zit en welke taken die daar moet uitvoeren. Een cel die gedifferentieerd is, ontwikkelt zich vaak nog verder totdat deze één bepaalde functie uit kan voeren.Sommige cellen zijn al gedifferentieerd vóór je geboorte. Je lichaam vervangt deze cellen vaak niet tijdens je leven, zoals de eicellen bij een vrouw. Deze cellen zijn al ‘volwassen’ bij de geboorte en gaan tijdens het leven langzaam dood. Andere volwassen cellen zijn bijvoorbeeld je rode en witte bloedcellen. Deze delen ook niet meer nadat ze gemaakt zijn.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "ac4b094e-1c32-4135-b711-5ea73f27fb64",
+                  "paragraphNumber": 3,
+                  "basis": "Je lichaam heeft naast volwassen cellen ook nog <<BOLD_START>>stamcellen<<BOLD_END>>. Dit zijn cellen die nog kunnen differentiëren tot allerlei andere cellen. Dit komt doordat ze nog via mitose kunnen delen. De functie van stamcellen is het aanvullen van bepaalde cellen die steeds doodgaan, zoals je huidcellen.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.3.3",
+              "number": "1.3.3",
+              "title": "De interfase",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "cc45f0fe-476b-40b5-b268-74b472c102dc",
+                  "paragraphNumber": 3,
+                  "basis": "Voordat een cel zich gaat delen, bereidt deze zich hierop voor. De fase waarin die voorbereiding plaatsvindt, noemen we de <<BOLD_START>>interfase<<BOLD_END>>. Dit is de langste fase van de celcyclus. Hierin kopieert je cel het DNA.De interfase delen we weer in drie fasen in, namelijk de:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "5b23c0c7-9dd7-4e71-934a-b3692f4af17f",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>G1-fase<<BOLD_END>>. Dit is de fase waarin cellen hun werk doen. Voordat een cel gaat delen, groeit deze tijdens de G1-fase. Verder neemt je cel dan extra voedingsstoffen op en slaat deze op. Deze voedingsstoffen zijn nodig om de celdeling later goed aan te kunnen",
+                    "<<BOLD_START>>S-fase<<BOLD_END>>. In deze fase worden je DNA en chromosomen verdubbeld. Deze fase kost best veel tijd. Je cel maakt van je chromosomen <<BOLD_START>>chromatiden<<BOLD_END>>. Dit zijn twee precies dezelfde kopieën van een chromosoom die aan elkaar vastzitten. Het middelste deel waar ze verbonden zijn noemen we de <<BOLD_START>>centromeer<<BOLD_END>>. Tijdens de mitose komen de twee chromatiden los van elkaar. De mitose is de fase waarin de celkern in tweeën splitst. Elk van de chromatiden komt in één van de twee nieuwe celkernen terecht",
+                    "<<BOLD_START>>G2-fase<<BOLD_END>>. In deze fase groeit je cel nog steeds. Hierin gebeuren de laatste voorbereidingen voor de mitose. De G2-fase is dan ook de laatste fase voor de celdeling."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.3.4",
+              "number": "1.3.4",
+              "title": "Mitose",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "97f84071-9e3c-4cd1-b705-549feca19188",
+                  "paragraphNumber": 3,
+                  "basis": "<<BOLD_START>>Mitose<<BOLD_END>> is een andere naam voor celdeling. Deze vorm van deling vindt plaats in je lichaamscellen. Je geslachtscellen delen niet. Zij doorlopen dus niet deze fase van de celcyclus. Bij eukaryoten en prokaryoten vindt allebei deling van cellen plaats. Prokaryoten delen wel, maar mitose vindt niet plaats. Mitose is namelijk de deling van de celkern. Omdat prokaryoten geen celkern hebben, noemen we de celdeling bij hen dus ook niet mitose.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "f0bd2cf9-7ef3-44cb-8a44-02d7eac22437",
+                  "paragraphNumber": 3,
+                  "basis": "Tijdens de mitose maakt je cel twee nieuwe celkernen. Hiervoor zijn je chromosomen al gekopieerd tijdens de interfase. Tijdens de mitose krijgt elke nieuwe celkern chromosomen die precies gelijk zijn aan de chromosomen van je oude cel. Zo krijg je twee nieuwe cellen die genetisch hetzelfde zijn.Mitose is nodig voor:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.13.png",
+                      "alt": "Afbeelding 1.13: Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+                      "figureNumber": "Afbeelding 1.13:",
+                      "caption": "Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+                      "width": "100%"
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "id": "1e62ba3e-49ed-499c-89b8-5fccdde4e6fd",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>ontwikkeling en groei van je lichaam<<BOLD_END>>",
+                    "<<BOLD_START>>het vervangen van cellen<<BOLD_END>>. In sommige delen van je lichaam gaan cellen de hele tijd dood. Denk bijvoorbeeld aan de cellen op je huid. Door mitose maakt je lichaam steeds nieuwe cellen aan die de dode cellen vervangen. Een ander voorbeeld zijn de cellen in je darmen. Deze leven maar een paar dagen. Je lichaam vervangt ze daarom steeds",
+                    "<<BOLD_START>>reparatie<<BOLD_END>>. Als je een wond of botbreuk krijgt, moet je lichaam nieuwe cellen maken om deze te repareren. De genezing begint dan met mitose. Je lichaam vervangt de kapotte cellen door nieuwe cellen",
+                    "<<BOLD_START>>ongeslachtelijke voortplanting<<BOLD_END>>. Dit is een proces dat we vooral bij planten zien. Een plant maakt hierbij in zijn eentje kinderen. Voor het maken van een ‘plantenkind’ zijn dus niet altijd twee cellen nodig, zoals bij een mens de eicel en de zaadcel",
+                    "<<BOLD_START>>regeneratie<<BOLD_END>>. Sommige dieren laten verloren lichaamsdelen teruggroeien via mitose. Dit proces noemen we regeneratie. Je ziet dit bijvoorbeeld bij zeesterren en kikkers die armen en benen opnieuw aan kunnen laten groeien."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.3.5",
+              "number": "1.3.5",
+              "title": "Fasen van de mitose",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "3c9a3f11-cce7-4653-b38c-e85219ccd9ec",
+                  "paragraphNumber": 3,
+                  "basis": "De interfase is de voorbereidende fase waarin je cellen zich <<BOLD_START>>niet<<BOLD_END>> delen. Tijdens deze fase zie je chromosomen nog niet onder een microscoop. Ze zijn dan namelijk nog niet opgerold, waardoor ze nog niet te zien zijn. Ze zijn wel zichtbaar als de mitose begint.De mitose bestaat uit vijf fasen. Dit zijn de:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.14.png",
+                      "alt": "Afbeelding 1.14: De vijf fasen van de mitose.",
+                      "figureNumber": "Afbeelding 1.14:",
+                      "caption": "De vijf fasen van de mitose.",
+                      "width": "100%"
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "id": "2911f1fc-d7b0-4492-b4a5-46106398bf15",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>profase<<BOLD_END>>. Dit is de start van de mitose. Tijdens de profase bestaan alle chromosomen uit twee chromatiden. In één chromosoom heb je dan twee DNA-ketens. De chromatiden zijn in het midden met elkaar verbonden bij de centromeer. In deze fase zie je de kernmembraan van de celkern nog onder de microscoop",
+                    "<<BOLD_START>>prometafase<<BOLD_END>>. Tijdens deze fase verdwijnt de kernmembraan helemaal. Alle chromosomen gaan naar het midden van je cel toe. De spoellichaampjes gaan juist naar twee verschillende uiteinden van je cel. Ze liggen dan recht tegenover elkaar. De spoellichaampjes zorgen voor draden die de spoelfiguur maken. Deze draden zitten vast aan je chromosomen die nu in het midden van je cel liggen. In de spoelfiguur zitten ondersteunende draden en trekdraden. Beide soorten draden bestaan uit eiwitten. Zij spelen een belangrijke rol bij de beweging van je chromosomen tijdens de mitose",
+                    "<<BOLD_START>>metafase<<BOLD_END>>. De spoelfiguur zorgt nu dat je chromosomen netjes gesorteerd in het midden van je cel klaarliggen voor de volgende fase",
+                    "<<BOLD_START>>anafase<<BOLD_END>>. In deze fase deelt de centromeer. Je kan dit vergelijken met een schaar die alle chromosomen precies in het midden doorknipt. De spoelfiguur trekt de beide chromatiden nu naar een andere kant van de cel. Vanaf het moment dat de chromatiden gaan bewegen, noemen we ze <<BOLD_START>>dochterchromosomen.<<BOLD_END>> Deze bestaan uit één keten DNA, omdat ze maar uit één chromatide bestaan"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "66ea133a-8c73-45c5-9872-2b9288f955c3",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>telofase<<BOLD_END>>. De twee dochterchromosomen gaan allebei naar hun eigen kant van de cel. Als ze hier zijn aangekomen, krijgen ze in de telofase een nieuwe kernmembraan. De celdeling is pas helemaal klaar als beide nieuwe cellen een celmembraan hebben. Je ziet chromosomen hierdoor weer minder goed onder de microscoop."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "7f25d201-d765-4368-b72a-8490822a0724",
+                  "paragraphNumber": 3,
+                  "basis": "De celkern gaat hierna terug naar de interfase. Aan het begin van die fase bestaan de dochterchromosomen nog uit één keten DNA. Je lichaam verdubbelt dit DNA tijdens de interfase, zodat je chromosomen bij de volgende celdeling weer twee chromatiden hebben.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": "1.4",
+          "title": "Transport en metabolisme",
+          "content": [
+            {
+              "type": "subparagraph",
+              "id": "1.4.1",
+              "number": "1.4.1",
+              "title": "Transport",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "741212a0-41a4-403c-928c-7752366f3959",
+                  "paragraphNumber": 4,
+                  "basis": "Voor de voeding van je cellen is het belangrijk dat verschillende stofjes door je celmembraan heen gaan. Deze stofjes moeten door je celmembraan heen worden vervoerd. Sommige stoffen gaan door je celmembraan heen zonder dat dit de cel energie kost. Dit noemen we <<BOLD_START>>passief transport<<BOLD_END>>. Gassen, zoals koolstofdioxide en zuurstof, gaan via passief transport door de celmembraan heen. Dit doen ze door <<BOLD_START>>diffusie<<BOLD_END>>. Dat is het proces waarbij stoffen zich van een plek met een grote hoeveelheid naar een plek met een kleine hoeveelheid verplaatsen. Een voorbeeld hiervan is de diffusie in de longen. Vanuit je longen gaat zuurstof namelijk je bloed in. Dit komt doordat de hoeveelheid zuurstof in de ingeademde lucht in je longen veel hoger is dan de hoeveelheid zuurstof in je bloed. Zuurstof gaat dan vanuit je longen je bloed in. Dit is dus van een plek met een hoge hoeveelheid naar een plek met een lage hoeveelheid. Diffusie kost geen energie. Het is dus een vorm van passief transport. Een andere belangrijke vorm van passief transport is <<BOLD_START>>osmose<<BOLD_END>>. Dit is verplaatsing van water door een membraan heen, zoals de celmembraan. Water verplaatst zich namelijk de hele tijd tussen de binnenkant en de buitenkant van een cel. De snelheid waarmee dit gebeurt, hangt af van de verschillen in de hoeveelheid van bepaalde stoffen binnen en buiten de cel. Het cytoplasma heeft namelijk een andere opbouw dan de vloeistof buiten de cel. Vooral zouten en eiwitten spelen hierbij een belangrijke rol, omdat deze water aanzuigen. Als buiten de cel veel zouten zitten, zal water de cel uitgaan. Zo wordt het evenwicht in stoffen tussen de binnenkant en de buitenkant van de cel beter. Hoe sterk zouten water aanzuigen, noemen we de <<BOLD_START>>kristalloïd-osmotische druk<<BOLD_END>>. Bij veel zouten in het bloed is de kristalloïd-osmotische druk hoger. Een ander begrip is de <<BOLD_START>>colloïd-osmotische druk<<BOLD_END>>. Deze laat zien hoe sterk eiwitten water aanzuigen. Hoe meer eiwitten in het bloed zitten, hoe hoger de colloïd-osmotische druk is.Naast passief transport bestaat ook <<BOLD_START>>actief transport<<BOLD_END>>. Hierbij heeft je cel energie nodig om een stof door de celmembraan heen te vervoeren. Dit is bijvoorbeeld zo wanneer stoffen van een plek met een kleine hoeveelheid naar een plek met een grote hoeveelheid moeten. Je cel heeft verschillende systemen voor actief transport, zoals:",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.15.png",
+                      "alt": "Afbeelding 1.15: Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+                      "figureNumber": "Afbeelding 1.15:",
+                      "caption": "Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+                      "width": "140.2mm"
+                    }
+                  ]
+                },
+                {
+                  "type": "list",
+                  "id": "9724979a-9d94-47e1-aa26-ac2733ec04f7",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "de <<BOLD_START>>enzymatische pomp<<BOLD_END>>. Dit is een systeem waarbij enzymen stoffen door de celmembraan de cel inpompen. Hiervoor heeft deze pomp energie nodig uit ATP. Dit is een stofje waarin een voorraad energie ligt opgeslagen. Bij dit systeem bindt een enzym aan de stof die door de celmembraan heen moet. Samen gaan het enzym en de stof dan door de celmembraan heen. Aan de andere kant van de celmembraan laat het enzym de stof weer los. Je kan dit vergelijken met een jong persoon die een oud vrouwtje helpt het zebrapad over te steken. Wanneer de oude vrouw aan de andere kant is, kan ze alleen weer verder",
+                    "<<BOLD_START>>vervoer via blaasjes<<BOLD_END>>. Bij dit systeem komt een deel van de celmembraan los. Dit sluit om een stof heen. De celmembraan smelt dan samen tot een blaasje met de stof daarin. Hierbij bestaan verschillende soorten vervoer, namelijk:"
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "list",
+                  "id": "2ad8dedf-7fbd-4d81-8986-b86e522caeff",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "<<BOLD_START>>endocytose<<BOLD_END>>. Hierbij vervoeren de blaasjes stoffen de cel in. Dit gebeurt door:"
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                },
+                {
+                  "type": "list",
+                  "id": "be5b026d-ef2a-4d4a-8585-bb3ffb25adf2",
+                  "ordered": false,
+                  "level": 3,
+                  "items": [
+                    "<<BOLD_START>>fagocytose<<BOLD_END>>. De blaasjes vervoeren hierbij een vaste stof de cel in. Daar ‘eten’ ze deze dan op. Dit betekent dat ze de stof in zich opnemen en afbreken. Ze ‘eten’ bijvoorbeeld dode ziekteverwekkers op, zoals dode bacteriën. De blaasjes helpen ook bij de afweer tegen levende ziekteverwekkers. Speciale cellen van het afweersysteem maken de levende ziekteverwekkers in de blaasjes dan ongevaarlijk",
+                    "<<BOLD_START>>pinocytose<<BOLD_END>>. Hierbij vervoeren de blaasjes geen vaste stof, maar een vloeistof de cel in."
+                  ],
+                  "styleHint": "_Bullets lvl3",
+                  "role": "bullet_lvl3"
+                },
+                {
+                  "type": "list",
+                  "id": "2eb33e51-cc71-432d-b8ee-46faafa2a4e6",
+                  "ordered": false,
+                  "level": 2,
+                  "items": [
+                    "<<BOLD_START>>exocytose<<BOLD_END>>. Dit is het vervoer van stoffen via blaasjes de cel uit."
+                  ],
+                  "styleHint": "_Bullets lvl 2",
+                  "role": "bullet_lvl2"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.4.2",
+              "number": "1.4.2",
+              "title": "Diffusie",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "0a34640b-c62e-4c7f-aee6-7da1b287f703",
+                  "paragraphNumber": 4,
+                  "basis": "<<BOLD_START>>Diffusie<<BOLD_END>> is het verplaatsen van stoffen van een plek met een grote hoeveelheid van die stof naar een plek met een kleine hoeveelheid van die stof. Dit systeem werkt zo, doordat stoffen zich graag eerlijk verdelen over alle ruimte die ze beschikbaar hebben. Ze willen dat hun hoeveelheid overal in de ruimte gelijk is. Daarom gaan stoffen van een plek met een grote hoeveelheid naar een plek met een kleine hoeveelheid. Je ziet dit bijvoorbeeld als je limonade maakt. De siroop verspreidt zich zo over het glas water, dat de hoeveelheid siroop in het hele glas gelijk wordt.Een aantal zaken bepalen samen de snelheid van diffusie in vloeistoffen, namelijk:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "8ac0803f-99ed-45dd-b824-80bcd4cf38b8",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>een verschil in hoeveelheid<<BOLD_END>>. Hoe groter dit verschil is, hoe hoger de diffusiesnelheid is",
+                    "<<BOLD_START>>diffusieoppervlakte<<BOLD_END>>. Bij een grotere beschikbare ruimte is de diffusiesnelheid hoger",
+                    "<<BOLD_START>>temperatuur<<BOLD_END>>. De snelheid van diffusie is hoger bij een hogere temperatuur. Dit komt doordat een stof meer energie heeft om te bewegen als de temperatuur hoger is. Een stof verplaatst zich dan sneller",
+                    "<<BOLD_START>>diffusieafstand<<BOLD_END>>. Een grotere afstand zorgt voor een lagere diffusiesnelheid. Je hebt bijvoorbeeld een grotere diffusieafstand bij een dikke celmembraan. Als de celmembraan dik is, moet een stof zich over een grotere afstand verplaatsen om van buiten binnen in een cel te komen",
+                    "<<BOLD_START>>viscositeit<<BOLD_END>>. Dit is de stroperigheid van je bloed. Een hogere stroperigheid zorgt voor een lagere diffusiesnelheid. Als je bloed stroperig is, bewegen stoffen hier namelijk moeilijker doorheen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.4.3",
+              "number": "1.4.3",
+              "title": "Osmose",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "b92e4185-65cd-4ed7-b072-dc82a0d396f6",
+                  "paragraphNumber": 4,
+                  "basis": "<<BOLD_START>>Osmose<<BOLD_END>> is een proces dat gaat over de verplaatsing van water door een membraan. Bepaalde stoffen gaan wel door de celmembraan heen en andere niet. Water gaat bijvoorbeeld goed door de celmembraan heen. Als een stof niet door de celmembraan heen gaat, ontstaan verschillen in hoeveelheden van die stof aan de binnenkant en de buitenkant van de cel. Je lichaam probeert die verschillen op te lossen door water te verplaatsen via de celmembraan.",
+                  "styleHint": "•Basis",
+                  "role": "body",
+                  "images": [
+                    {
+                      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.16.png",
+                      "alt": "Afbeelding 1.16: Overzicht van endocytose en exocytose.",
+                      "figureNumber": "Afbeelding 1.16:",
+                      "caption": "Overzicht van endocytose en exocytose.",
+                      "width": "100%"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "id": "6109f2fb-17a8-4e0c-98c7-6cae6d4d7bbb",
+                  "paragraphNumber": 4,
+                  "basis": "Als je een stof oplost in 100 ml water, neemt deze stof ruimte in het water in. De hoeveelheid water blijft 100 ml. Water is alleen niet meer 100% van de oplossing. De oplossing bestaat namelijk voor een deel uit de 100 ml water, maar ook voor een deel uit de opgeloste stof. Als je alleen 100 ml water zou hebben, is de hoeveelheid water gelijk aan 100%. Hoe hoger de hoeveelheid van opgeloste stoffen in de 100 ml water is, hoe kleiner het deel water in de oplossing is. Water verplaatst zich van een plek met een kleine hoeveelheid opgeloste stoffen naar een plek met een grote hoeveelheid opgeloste stoffen. Water gaat dan dus van een plek waar een groot deel van de oplossing uit water bestaat, naar een plek waar een klein deel van de oplossing uit water bestaat. De verplaatsing van water noemen we osmose.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.4.4",
+              "number": "1.4.4",
+              "title": "Metabolisme",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "d234e8da-507e-4c71-a67e-708830829764",
+                  "paragraphNumber": 4,
+                  "basis": "Je lichaam doet iets met alle stoffen die je lichaam binnenkomen, zoals je eten en drinken. Dat ‘iets’ noemen we een <<BOLD_START>>chemische reactie<<BOLD_END>>. Dit gebeurt in je cellen. Alle chemische reacties in je lichaam samen noemen we de <<BOLD_START>>stofwisseling<<BOLD_END>> of het <<BOLD_START>>metabolisme<<BOLD_END>>.Het metabolisme bestaat uit twee soorten, namelijk:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "d8058023-aa27-4fa7-95c3-b3cba16b9336",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>anabolisme<<BOLD_END>>. Dit is de opbouw van grote stoffen uit kleinere stoffen. Dit is belangrijk voor de groei en ontwikkeling van je cellen. Verder is anabolisme belangrijk om je cellen te onderhouden. Dit doet je lichaam door ze te repareren als ze kapot zijn. Hiervoor is energie nodig. Dit opbouwende metabolisme noemen we ook wel <<BOLD_START>>assimilatie<<BOLD_END>>. Een ander woord hiervoor is <<BOLD_START>>opbouwstofwisseling<<BOLD_END>>",
+                    "<<BOLD_START>>katabolisme<<BOLD_END>>. Dit is de afbraak van grote stoffen tot kleinere stoffen. Hierbij komt energie vrij in de vorm van bewegingsenergie. Dit betekent dat energie zorgt dat een stof gaat bewegen. Je lichaam gebruikt deze energie bij het uitvoeren van allerlei processen. Denk hierbij aan belangrijke functies van je lichaam, zoals groei, beweging, onderhoud van cellen en reparatie. Deze vorm van afbrekend metabolisme noemen we ook wel <<BOLD_START>>dissimilatie<<BOLD_END>>. Een ander woord hiervoor is <<BOLD_START>>afbraakstofwisseling<<BOLD_END>>."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.4.5",
+              "number": "1.4.5",
+              "title": "Dissimilatie",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "37561b65-b451-4040-a2a2-a9c419ecea31",
+                  "paragraphNumber": 4,
+                  "basis": "Energie die je lichaam niet gebruikt, sla je op in je cellen. Als je lichaam dit op een bepaald moment wel nodig heeft, maakt het die energie vrij. Dit proces noemen we <<BOLD_START>>dissimilatie<<BOLD_END>>. Dit is een ander woord voor <<BOLD_START>>verbranding<<BOLD_END>>. De energie die dan vrijkomt, gebruikt je lichaam om het stofje ATP te maken. Dit stofje slaat energie op die snel weer vrijkomt als je lichaam ATP afbreekt.Twee verschillende processen van dissimilatie zijn de:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "d189867b-e627-4782-b1a2-363dfc7f1d36",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>aerobe dissimilatie<<BOLD_END>>. Bij dit proces speelt zuurstof een belangrijke rol. Glucose en zuurstof reageren namelijk met elkaar. Bij deze reactie komen koolstofdioxide, water en energie vrij:glucose + zuurstof à koolstofdioxide + water + energie",
+                    "<<BOLD_START>>anaerobe dissimilatie<<BOLD_END>>. Bij dit proces speelt zuurstof geen rol. Je ziet anaerobe dissimilatie dan ook vaak in een situatie waar te weinig zuurstof is. Denk hierbij aan je spiercellen als je zwaar aan het sporten bent. Je hart krijgt dan niet genoeg bloed met zuurstof bij je spiercellen. Op dat moment gaan je spiercellen over op anaerobe dissimilatie om toch aan genoeg energie te komen."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "2813f61e-766d-4399-9326-00f7d2b83c4a",
+                  "paragraphNumber": 4,
+                  "basis": "De belangrijkste stoffen in je lichaam die energie maken door dissimilatie zijn suikers en vetten. De belangrijkste suiker is <<BOLD_START>>glucose<<BOLD_END>>. Bij de anaerobe dissimilatie van glucose komt minder energie vrij dan bij de aerobe dissimilatie van glucose. Dit komt doordat je lichaam glucose tijdens de anaerobe dissimilatie niet helemaal afbreekt tot energie. Je lichaam zet het namelijk ook om in de stoffen melkzuur en alcohol. Dit zijn eigenlijk een soort afvalstoffen van de anaerobe dissimilatie van glucose.Je lichaam breekt vetten alleen af via de aerobe dissimilatie. Vet is eigenlijk een betere bron van energie dan glucose. Eén gram vet geeft namelijk twee keer zoveel energie als één gram glucose. Bij de aerobe dissimilatie van vetten komen wel meer afvalstoffen vrij, zoals koolstofdioxide.",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                }
+              ]
+            },
+            {
+              "type": "subparagraph",
+              "id": "1.4.6",
+              "number": "1.4.6",
+              "title": "Enzymen",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "id": "952873b0-a396-4fb0-aaa6-19a09d34511e",
+                  "paragraphNumber": 4,
+                  "basis": "<<BOLD_START>>Enzymen<<BOLD_END>> zijn eiwitten die chemische reacties in je lichaam mogelijk maken of versnellen. Ze verhogen daarbij je metabolisme. We noemen ze ook wel <<BOLD_START>>biokatalysatoren<<BOLD_END>>. ‘Bio’ geeft aan dat het een biologische reactie van je lichaam is. Een ‘katalysator’ is een enzym dat een reactie versnelt. Een voorbeeld van een reactie die door enzymen versneld wordt, is de afbraak van eten in je maag. Enzymen veranderen niets aan de opbouw van de stoffen in een reactie. Verder gaan ze niet dood nadat ze een reactie hebben versneld. Enzymen zijn dus alleen hulpstoffen bij een chemische reactie.Een enzym heeft een speciale plek aan de buitenkant. Deze past precies op een bepaalde plek op de buitenkant van het <<BOLD_START>>substraat<<BOLD_END>>. Dit is de stof waarvan het enzym de reactie moet versnellen. Een enzym werkt door te binden aan de bepaalde plek op het substraat. Je krijgt dan een <<BOLD_START>>enzym-substraatcomplex<<BOLD_END>>. Na de reactie laten het enzym en het substraat elkaar weer los.De activiteit van een enzym wordt beïnvloed door een aantal zaken, zoals:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "4899dc73-7aed-4919-b9f4-bbb73e562926",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "<<BOLD_START>>de aanwezigheid van remmers en activators.<<BOLD_END>> Remmers zijn stoffen die de activiteit van een enzym verlagen, zoals sommige medicijnen en gifstoffen. Activators zijn stoffen die de activiteit van een enzym juist verhogen",
+                    "<<BOLD_START>>het type en de hoeveelheid substraat<<BOLD_END>>. Je hebt veel verschillende enzymen die veel verschillende reacties beïnvloeden. Elk apart enzym versnelt maar één reactie. Enzymen zijn dus <<BOLD_START>>reactiespecifiek<<BOLD_END>>. De hoeveelheid van een substraat bepaalt ook de kans dat een chemische reactie plaatsvindt. Hoe groter de hoeveelheid substraat is, hoe groter de kans dat dit substraat een geschikt enzym tegenkomt. Je kan dit vergelijken met een loterij. Hoe meer loten je koopt, hoe groter de kans dat je een prijs wint",
+                    "<<BOLD_START>>de temperatuur<<BOLD_END>>. Hoe hoger de temperatuur is, hoe sneller een chemische reactie werkt. Je hebt daarbij wel een bepaalde temperatuurgrens. Boven die temperatuur verandert een enzym van vorm. Het werkt dan niet meer. De beste temperatuur voor een enzym bij mensen is 37 °C. Die beste temperatuur noemen we de <<BOLD_START>>optimumtemperatuur<<BOLD_END>> van een enzym",
+                    "<<BOLD_START>>de zuurgraad van de omgeving<<BOLD_END>>. Sommige enzymen werken beter in een zure omgeving, terwijl andere beter werken in een minder zure omgeving. Denk bijvoorbeeld aan de enzymen in je maag. Die werken het beste in een zure omgeving, namelijk je maagzuur. Het speeksel in je mond is een stuk minder zuur. Daar zitten enzymen die beter werken in een minder zure omgeving."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "99229d08-f85a-4d4d-96d3-5c510d86aed2",
+                  "paragraphNumber": 4,
+                  "basis": "De naam van een enzym komt vaak van het substraat of van de chemische reactie die door het enzym wordt versnelt. De naam eindigt vaak op ‘<<BOLD_START>>-ase<<BOLD_END>>’. Voorbeelden van namen van enzymen zijn:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "e467a4ba-d9b2-40fe-9c60-b16c7a4d08e0",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "lactase. Dit enzym is betrokken bij het afbreken van de stof lactose. Dit zit bijvoorbeeld in melk",
+                    "alcoholdehydrogenase. Dit enzym is betrokken bij de afbraak van alcohol",
+                    "DNA-ligase. Dit enzym repareert DNA-ketens. Het helpt ook bij het kopiëren van je DNA."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                },
+                {
+                  "type": "paragraph",
+                  "id": "5138a2d4-2781-4f2c-a64b-5db914a0937e",
+                  "paragraphNumber": 4,
+                  "basis": "Vaak hebben enzymen nog een extra hulpstof nodig om goed te werken. Deze stof noemen we een <<BOLD_START>>co-enzym<<BOLD_END>>. Voorbeelden hiervan zijn:",
+                  "styleHint": "•Basis",
+                  "role": "body"
+                },
+                {
+                  "type": "list",
+                  "id": "df4c3258-75fb-407b-a83f-21b0dbf8bcb1",
+                  "ordered": false,
+                  "level": 1,
+                  "items": [
+                    "ijzer",
+                    "koper",
+                    "vitamine B1."
+                  ],
+                  "styleHint": "_Bullets",
+                  "role": "bullet_lvl1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "src": "new_pipeline/assets/images/ch1/Book_chapter_opener.jpg",
+          "alt": "Hoofdstuk opener",
+          "width": "100%"
+        }
+      ]
+    }
+  ],
+  "export": {
+    "exportedAt": "2025-12-27T12:16:27.216Z",
+    "source": "supabase",
+    "schemaVersion": "1.0"
+  }
+}

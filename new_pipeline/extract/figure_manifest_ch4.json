@@ -1,0 +1,2725 @@
+{
+  "bodyStory": {
+    "index": 817,
+    "words": 8086
+  },
+  "chapter": "4",
+  "chapterRange": {
+    "endOff": 152,
+    "ok": true,
+    "startOff": 110
+  },
+  "exportedAt": "Thu Dec 25 2025 17:24:30 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Je hebt zes oogspieren (musculi bulbi). Ze zitten rondom het oog en zorgen dat je oog kan bewegen. Alle spieren rond één oog moeten goed samenwerken. Daarnaast moeten beide ogen ook nog eens tegelijk bewegen. Op die manier kijk je met twee ogen naar hetzelfde punt. Als een zorgvrager dubbelziet, komt dat doordat de twee ogen niet naar precies hetzelfde punt kijken. De hersenen krijgen dan twee verschillende beelden binnen.",
+        "beforeText": "proeven.",
+        "pageDocumentOffset": 120,
+        "paragraphIndexInBodyStory": 88,
+        "text": "4.3.3  De oogspieren",
+        "x": 296.999999999937,
+        "y": 149.82222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kauwspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.10:",
+        "raw": "Afbeelding 4.10 De kauwspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.10.png",
+        "bounds": [
+          151.586111111109,
+          206,
+          238.763888888899,
+          288
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.10.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.10.TIF"
+      },
+      "page": {
+        "documentOffset": 120,
+        "name": "102"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "mediale rechte oogspier (musculus rectus medialis). Dit is de spier die het dichtst bij je neus zit. Je gebruikt deze spier om je oogbal van naar binnen te bewegen;",
+        "beforeText": "bovenste rechte oogspier (musculus rectus superior). Je gebruikt deze spier om je oogbal naar binnen en naar boven te bewegen;",
+        "pageDocumentOffset": 121,
+        "paragraphIndexInBodyStory": 93,
+        "text": "onderste rechte oogspier (musculus rectus inferior). Je gebruikt deze spier om je oogbal naar binnen en naar onder te bewegen;",
+        "x": 26.6416666661366,
+        "y": 155.466666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De oogspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.11:",
+        "raw": "Afbeelding 4.11 De oogspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.11.png",
+        "bounds": [
+          11.5333333333339,
+          19.0925098919279,
+          122.027391688889,
+          180.674156774739
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.11.TIF"
+      },
+      "page": {
+        "documentOffset": 121,
+        "name": "103"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "huidspier van de hals (musculus platysma). Dit is een grote, platte spier die vlak onder de huid ligt. De spier zit vast aan de onderkaak en de huid van je gezicht. Aan het andere uiteinde zit hij vast aan je borstspieren. Je gebruikt deze spier als je de:",
+        "beforeText": "onderste deel. Dit loopt vanaf de wervels schuin omhoog. Hiermee trek je je schouders omlaag.",
+        "pageDocumentOffset": 122,
+        "paragraphIndexInBodyStory": 111,
+        "text": "schuine halsspier (musculus sternocleidomastoïdeus). Deze spier ligt aan de voorkant van de hals en zit vast aan het bot vlak achter je oog (rotsbeen of mastoid). De spier bestaat uit twee gedeelten. Het ene deel zit vast aan het bovenste deel van je borstbeen. Het andere deel zit vast aan je sleutelbeen. Als je deze spier links samentrekt, buig je je hoofd naar voren en draait je hoofd naar rechts. Als je deze spier rechts samentrekt, buig je je hoofd naar voren en draait je hoofd naar links. Als je de spier aan allebei de kanten samentrekt, beweeg je het hoofd achterover of de kin naar de borst. De schuine halsspier hoort bij de hulpademhalingsspieren. Dit zijn spieren die je gebruikt als je moeite hebt met ademhalen. Met deze spier maak je je borstkas groter. Op die manier hebben je longen meer ruimte om zuurstof op te nemen. Zo wordt het ademhalen makkelijker;",
+        "x": 304.000000026428,
+        "y": 121.600000000001
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De halsspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.12:",
+        "raw": "Afbeelding 4.12 De halsspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.12.png",
+        "bounds": [
+          144.177777777776,
+          219.169444444444,
+          234.488888888887,
+          295
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.12.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.12.TIF"
+      },
+      "page": {
+        "documentOffset": 122,
+        "name": "104"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "de diepe rugspieren. Deze liggen het diepst in het lichaam en kom je dus als laatste tegen.",
+        "beforeText": "de oppervlakkige rugspieren. Deze kom je als eerste tegen;",
+        "pageDocumentOffset": 123,
+        "paragraphIndexInBodyStory": 120,
+        "text": "de middelste rugspieren. Deze liggen in de laag daaronder;",
+        "x": 109.000000026428,
+        "y": 25.6444444444425
+      },
+      "asset": null,
+      "caption": {
+        "body": "De hoofdspalkspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.13:",
+        "raw": "Afbeelding 4.13 De hoofdspalkspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          20.5000000000091,
+          7.99999999999999,
+          106,
+          98
+        ],
+        "kind": "link",
+        "linkName": "MAF_CH4_Img_4.13.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_CH4_Img_4.13.TIF"
+      },
+      "page": {
+        "documentOffset": 123,
+        "name": "105"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "het doornuitsteeksel van de halswervels;",
+        "beforeText": "het rotsbeen.",
+        "pageDocumentOffset": 124,
+        "paragraphIndexInBodyStory": 134,
+        "text": "doornspier (musculus spinalis). Deze loopt van het bekken tot:",
+        "x": 304.000000026428,
+        "y": 166.755555555556
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De rugstrekker.",
+        "bounds": null,
+        "label": "Afbeelding 4.14:",
+        "raw": "Afbeelding 4.14 De rugstrekker.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.14.png",
+        "bounds": [
+          10.0356136629386,
+          240.610112653596,
+          156.59683725989,
+          343.920891533168
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.14.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.14.TIF"
+      },
+      "page": {
+        "documentOffset": 124,
+        "name": "106"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "buitenste tussenribspieren (musculi intercostales externi). Als deze spieren samentrekken, tillen ze de ribben op. Hierdoor wordt de borstholte groter en wordt lucht de longen in gezogen. Als je inademt, gaat je borstkas dus omhoog. Dit kan je ook bij jezelf voelen als je inademt;",
+        "beforeText": "4.5.1  De tussenribspieren",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 148,
+        "text": "Tussen je ribben liggen de tussenribspieren (musculi intercostales). Deze spieren helpen je met ademhalen. Ze zitten vast aan de onderkant van een rib. Vanuit daar lopen ze schuin naar de rib daaronder. Op deze rib zitten ze vast aan de bovenkant. Je hebt twee soorten tussenribspieren, namelijk de:",
+        "x": 210,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De spier van de halve ruggengraat.",
+        "bounds": null,
+        "label": "Afbeelding 4.15:",
+        "raw": "Afbeelding 4.15 De spier van de halve ruggengraat.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.15.png",
+        "bounds": [
+          127.837773782408,
+          5.15769472189075,
+          239.633333333333,
+          106.130812757064
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.17.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.17.TIF"
+      },
+      "page": {
+        "documentOffset": 125,
+        "name": "107"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Tussen je ribben liggen de tussenribspieren (musculi intercostales). Deze spieren helpen je met ademhalen. Ze zitten vast aan de onderkant van een rib. Vanuit daar lopen ze schuin naar de rib daaronder. Op deze rib zitten ze vast aan de bovenkant. Je hebt twee soorten tussenribspieren, namelijk de:",
+        "beforeText": "4.5  De ademhalingsspieren",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 147,
+        "text": "4.5.1  De tussenribspieren",
+        "x": 210,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De meermalen gespleten rugspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.16:",
+        "raw": "Afbeelding 4.16 De meermalen gespleten rugspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.16.png",
+        "bounds": [
+          125.203279198125,
+          89.5003502736996,
+          240.133333333331,
+          195.75128998846
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.18.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.18.TIF"
+      },
+      "page": {
+        "documentOffset": 125,
+        "name": "107"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "buitenste tussenribspieren (musculi intercostales externi). Als deze spieren samentrekken, tillen ze de ribben op. Hierdoor wordt de borstholte groter en wordt lucht de longen in gezogen. Als je inademt, gaat je borstkas dus omhoog. Dit kan je ook bij jezelf voelen als je inademt;",
+        "beforeText": "4.5.1  De tussenribspieren",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 148,
+        "text": "Tussen je ribben liggen de tussenribspieren (musculi intercostales). Deze spieren helpen je met ademhalen. Ze zitten vast aan de onderkant van een rib. Vanuit daar lopen ze schuin naar de rib daaronder. Op deze rib zitten ze vast aan de bovenkant. Je hebt twee soorten tussenribspieren, namelijk de:",
+        "x": 210,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Draaispieren van de rug.",
+        "bounds": null,
+        "label": "Afbeelding 4.17:",
+        "raw": "Afbeelding 4.17 Draaispieren van de rug.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.17.png",
+        "bounds": [
+          127.837773782408,
+          5.15769472189075,
+          239.633333333333,
+          106.130812757064
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.17.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.17.TIF"
+      },
+      "page": {
+        "documentOffset": 125,
+        "name": "107"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Tussen je ribben liggen de tussenribspieren (musculi intercostales). Deze spieren helpen je met ademhalen. Ze zitten vast aan de onderkant van een rib. Vanuit daar lopen ze schuin naar de rib daaronder. Op deze rib zitten ze vast aan de bovenkant. Je hebt twee soorten tussenribspieren, namelijk de:",
+        "beforeText": "4.5  De ademhalingsspieren",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 147,
+        "text": "4.5.1  De tussenribspieren",
+        "x": 210,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.18.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tussenribspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.18:",
+        "raw": "Afbeelding 4.18 De tussenribspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.18.png",
+        "bounds": [
+          125.203279198125,
+          89.5003502736996,
+          240.133333333331,
+          195.75128998846
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.18.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.18.TIF"
+      },
+      "page": {
+        "documentOffset": 125,
+        "name": "107"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.6.1  De rechte en dwarse buikspier",
+        "beforeText": "slokdarm (oesofagus). Deze buis brengt het eten vanuit de keel naar maag. De slokdarm gaat wel door de spier heen. Als je inademt, trekt het middenrif samen en wordt de slokdarm dus even dichtgedrukt. Dit zorgt dat eten vanuit de maag niet terug de slokdarm instroomt. Als je het eten doorslikt, moet je slokdarm juist niet dicht zitten. Daarom adem je tijdens het slikken even niet.",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 169,
+        "text": "4.6  De buikspieren",
+        "x": 101.999999999937,
+        "y": 53.8666666666647
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het middenrif.",
+        "bounds": null,
+        "label": "Afbeelding 4.19:",
+        "raw": "Afbeelding 4.19 Het middenrif.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          13.337055068083,
+          276.922222222222,
+          130.37961159858,
+          372.969444444444
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.20.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.20.TIF"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "110"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Een skeletspier bestaat uit:",
+        "beforeText": "Je spiercellen zijn niet allemaal even lang. Sommige zijn maar een paar millimeter lang, terwijl andere spiercellen wel 10 tot 30 cm kunnen zijn.",
+        "pageDocumentOffset": 111,
+        "paragraphIndexInBodyStory": 15,
+        "text": "4.1.2  Skeletspieren",
+        "x": 14.9999999994699,
+        "y": 183.688888888889
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De structuur van de verschillende soorten spierweefsel.",
+        "bounds": null,
+        "label": "Afbeelding 4.1:",
+        "raw": "Afbeelding 4.1 De structuur van de verschillende soorten spierweefsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.1.png",
+        "bounds": [
+          19.999999999998,
+          15.0460178381407,
+          161.111111111109,
+          168.623982161859
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img1.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img1.TIF"
+      },
+      "page": {
+        "documentOffset": 111,
+        "name": "93"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.6.1  De rechte en dwarse buikspier",
+        "beforeText": "slokdarm (oesofagus). Deze buis brengt het eten vanuit de keel naar maag. De slokdarm gaat wel door de spier heen. Als je inademt, trekt het middenrif samen en wordt de slokdarm dus even dichtgedrukt. Dit zorgt dat eten vanuit de maag niet terug de slokdarm instroomt. Als je het eten doorslikt, moet je slokdarm juist niet dicht zitten. Daarom adem je tijdens het slikken even niet.",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 169,
+        "text": "4.6  De buikspieren",
+        "x": 101.999999999937,
+        "y": 53.8666666666647
+      },
+      "asset": null,
+      "caption": {
+        "body": "De rechte buikspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.20:",
+        "raw": "Afbeelding 4.20 De rechte buikspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          13.337055068083,
+          276.922222222222,
+          130.37961159858,
+          372.969444444444
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.20.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.20.TIF"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "110"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "lichaamsslagader (aorta). Dit sterke bloedvat loopt wel door het spierweefsel heen. De aorta bevat namelijk een sterke wand die zorgt dat het vat niet wordt dichtgeknepen door het middenrif;",
+        "beforeText": "In het middenrif zitten een aantal openingen, waar verschillende buisvormige organen doorheen kunnen, zoals de:",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 166,
+        "text": "onderste holle ader (vena cava inferior). Dit grote bloedvat vervoert bloed vanuit je lichaam richting je hart. De onderste holle ader moet altijd openblijven, zodat het bloed altijd terug naar je hart kan stromen. Als je inademt, trekt het middenrif samen. Om te voorkomen dat de onderste holle ader hierbij wordt dichtgedrukt, loopt het vat door de peesplaat heen en niet door de spier. Deze peesplaat trekt namelijk niet samen;",
+        "x": 22.0000000259609,
+        "y": 132.888888888887
+      },
+      "asset": null,
+      "caption": {
+        "body": "De binnenste schuine buikspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.21:",
+        "raw": "Afbeelding 4.21 De binnenste schuine buikspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          135.358333333331,
+          209.675,
+          244.477858849531,
+          292.175
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.21.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.21.TIF"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "110"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "lichaamsslagader (aorta). Dit sterke bloedvat loopt wel door het spierweefsel heen. De aorta bevat namelijk een sterke wand die zorgt dat het vat niet wordt dichtgeknepen door het middenrif;",
+        "beforeText": "In het middenrif zitten een aantal openingen, waar verschillende buisvormige organen doorheen kunnen, zoals de:",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 166,
+        "text": "onderste holle ader (vena cava inferior). Dit grote bloedvat vervoert bloed vanuit je lichaam richting je hart. De onderste holle ader moet altijd openblijven, zodat het bloed altijd terug naar je hart kan stromen. Als je inademt, trekt het middenrif samen. Om te voorkomen dat de onderste holle ader hierbij wordt dichtgedrukt, loopt het vat door de peesplaat heen en niet door de spier. Deze peesplaat trekt namelijk niet samen;",
+        "x": 22.0000000259609,
+        "y": 132.888888888887
+      },
+      "asset": null,
+      "caption": {
+        "body": "De buitenste schuine buikspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.22:",
+        "raw": "Afbeelding 4.22 De buitenste schuine buikspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          135.358333333331,
+          209.675,
+          244.477858849531,
+          292.175
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.21.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.21.TIF"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "110"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "kraakbeen van de vijfde tot zevende rib. Dit kraakbeen zit tussen de rib en het borstbeen.",
+        "beforeText": "Aan de voorkant van je buik zit een rechte buikspier (musculus rectus abdominis). In het midden van je buik zit een lijn, de zogenaamde middellijn. De rechte buikspier zit aan beide kanten van die lijn. Bij de middellijn zijn de buikspieren met elkaar verbonden. Die verbinding is te zien als een witten lijn en heet de linea alba. Aan de onderkant is dit verbonden met het schaambeen (os pubis). Dit is het harde gedeelte net boven je penis of vagina. De spier loopt vanaf het schaambeen naar het:",
+        "pageDocumentOffset": 129,
+        "paragraphIndexInBodyStory": 176,
+        "text": "onderste deel van het borstbeen (processus xiphoideus);",
+        "x": 21.9999996491535,
+        "y": 155.466666666667
+      },
+      "asset": null,
+      "caption": {
+        "body": "De bekkenbodemspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.23:",
+        "raw": "Afbeelding 4.23 De bekkenbodemspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          14.3388888888977,
+          30.2890595412641,
+          141.431274915442,
+          155.710940458736
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.23.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.23.TIF"
+      },
+      "page": {
+        "documentOffset": 129,
+        "name": "111"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.7  Het lieskanaal en de bekkenbodem",
+        "beforeText": "het schaambeen;",
+        "pageDocumentOffset": 130,
+        "paragraphIndexInBodyStory": 196,
+        "text": "de bovenste helft van het bekken (crista iliaca).",
+        "x": 308.641666666603,
+        "y": 104.666666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.24.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De monnikskapspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.24:",
+        "raw": "Afbeelding 4.24 De monnikskapspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.24.png",
+        "bounds": [
+          118.951583256985,
+          294.169180414153,
+          242.975926608113,
+          381.744592838735
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.25.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.25.TIF"
+      },
+      "page": {
+        "documentOffset": 130,
+        "name": "112"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.7  Het lieskanaal en de bekkenbodem",
+        "beforeText": "het schaambeen;",
+        "pageDocumentOffset": 130,
+        "paragraphIndexInBodyStory": 196,
+        "text": "de bovenste helft van het bekken (crista iliaca).",
+        "x": 308.641666666603,
+        "y": 104.666666666667
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.25.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kleine borstspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.25:",
+        "raw": "Afbeelding 4.25 De kleine borstspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.25.png",
+        "bounds": [
+          118.951583256985,
+          294.169180414153,
+          242.975926608113,
+          381.744592838735
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.25.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.25.TIF"
+      },
+      "page": {
+        "documentOffset": 130,
+        "name": "112"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.7.1  De liesband",
+        "beforeText": "de bovenste helft van het bekken (crista iliaca).",
+        "pageDocumentOffset": 131,
+        "paragraphIndexInBodyStory": 197,
+        "text": "4.7  Het lieskanaal en de bekkenbodem",
+        "x": 14.9999999994699,
+        "y": 127.244444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.26.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ruitvormige spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.26:",
+        "raw": "Afbeelding 4.26 De ruitvormige spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.26.png",
+        "bounds": [
+          9.32286004153991,
+          4.63333333333336,
+          109.50633333333,
+          104.816806625124
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.26.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.26.TIF"
+      },
+      "page": {
+        "documentOffset": 131,
+        "name": "113"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.7.1  De liesband",
+        "beforeText": "de bovenste helft van het bekken (crista iliaca).",
+        "pageDocumentOffset": 131,
+        "paragraphIndexInBodyStory": 197,
+        "text": "4.7  Het lieskanaal en de bekkenbodem",
+        "x": 14.9999999994699,
+        "y": 127.244444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.27.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De schouderbladheffer.",
+        "bounds": null,
+        "label": "Afbeelding 4.27:",
+        "raw": "Afbeelding 4.27 De schouderbladheffer.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.27.png",
+        "bounds": [
+          12.5916666666647,
+          102.352777777778,
+          103.558048580454,
+          190.958851996046
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.27.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.27.TIF"
+      },
+      "page": {
+        "documentOffset": 131,
+        "name": "113"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De belangrijkste spier van de bekkenbodem is de anusopheffer (musculus levator ani). Deze spier begint bij het schaambeen en loopt naar:",
+        "beforeText": "baarmoeder.",
+        "pageDocumentOffset": 132,
+        "paragraphIndexInBodyStory": 207,
+        "text": "In de bekkenbodem zit een opening in de vorm van een driehoek. Bij mannen loopt alleen de urinebuis door die opening. Bij vrouwen loopt naast de urinebuis ook nog de vagina door deze opening.",
+        "x": 209.99999999947,
+        "y": 127.244444444442
+      },
+      "asset": null,
+      "caption": {
+        "body": "De voorste gezaagde spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.28:",
+        "raw": "Afbeelding 4.28 De voorste gezaagde spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          9.75833333333424,
+          203,
+          110.73355555555,
+          291.606074218268
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.28.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.28.TIF"
+      },
+      "page": {
+        "documentOffset": 132,
+        "name": "114"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De belangrijkste spier van de bekkenbodem is de anusopheffer (musculus levator ani). Deze spier begint bij het schaambeen en loopt naar:",
+        "beforeText": "baarmoeder.",
+        "pageDocumentOffset": 132,
+        "paragraphIndexInBodyStory": 207,
+        "text": "In de bekkenbodem zit een opening in de vorm van een driehoek. Bij mannen loopt alleen de urinebuis door die opening. Bij vrouwen loopt naast de urinebuis ook nog de vagina door deze opening.",
+        "x": 209.99999999947,
+        "y": 127.244444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.29.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ondersleutelbeenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.29:",
+        "raw": "Afbeelding 4.29 De ondersleutelbeenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.29.png",
+        "bounds": [
+          -6.91388888888018,
+          265.307265862323,
+          108.547222222223,
+          400.705555555556
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.29.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.29.TIF"
+      },
+      "page": {
+        "documentOffset": 132,
+        "name": "114"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Om soepel te bewegen, moeten de skeletspieren goed samenwerken. Als de ene spier samentrekt, moet de andere spier juist ontspannen. Als je bijvoorbeeld je elleboog buigt, trek je de spier die dit regelt (musculus biceps) samen. Op hetzelfde moment ontspant de spier die de elleboog strekt (musculus triceps). De spier die samentrekt, noemen we de agonist. De spier die op datzelfde moment ontspant, noemen we de antagonist. De agonist en antagonist vormen samen een duo dat goed moet samenwerken.",
+        "beforeText": "organen, bijvoorbeeld aan de huid. In je huid zitten bijvoorbeeld haartjes die vastzitten aan hele kleine spieren. Deze trekken samen als je het koud hebt, waardoor kippenvel ontstaat.",
+        "pageDocumentOffset": 112,
+        "paragraphIndexInBodyStory": 27,
+        "text": "Naast het bewegen van je lichaam hebben je spieren nog een andere functie. Ze zorgen namelijk voor het warmhouden van je lichaam. Bij het bewegen verbruiken de spieren energie en daar komt warmte bij vrij. Daarom krijg je het vanzelf warm als je gaat bewegen.",
+        "x": 210,
+        "y": 104.666666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Dwarsdoorsnede van een skeletspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.2:",
+        "raw": "Afbeelding 4.2 Dwarsdoorsnede van een skeletspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.2.png",
+        "bounds": [
+          128.771969514253,
+          208.5,
+          270.275718971995,
+          350.354228437278
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img2.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img2.TIF"
+      },
+      "page": {
+        "documentOffset": 112,
+        "name": "94"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als de voorste gezaagde spier samentrekt:",
+        "beforeText": "4.8.4  De voorste gezaagde spier",
+        "pageDocumentOffset": 133,
+        "paragraphIndexInBodyStory": 233,
+        "text": "Aan de zijkant van je borstkas loopt de voorste gezaagde spier (musculus serratus anterior). Hij zit hier vast aan de voorkant van de eerste tot achtste rib. Aan het andere eind zit de spier vast aan rand van het schouderblad.",
+        "x": 101.999999999937,
+        "y": 93.3777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.30.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De deltaspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.30:",
+        "raw": "Afbeelding 4.30 De deltaspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.30.png",
+        "bounds": [
+          104.313888888887,
+          102,
+          242.91303655236,
+          184.798571746878
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.30.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.30.TIF"
+      },
+      "page": {
+        "documentOffset": 133,
+        "name": "115"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.9.1  De deltaspier",
+        "beforeText": "De ondersleutelbeenspier (musculus subclavius) is ook een borstspier. Deze zit vast aan de overgang van bot naar kraakbeen van de eerste rib. Aan het andere eind zit de spier vast aan de onderkant van het sleutelbeen. Als deze spier samentrekt, beweegt het sleutelbeen naar beneden.",
+        "pageDocumentOffset": 134,
+        "paragraphIndexInBodyStory": 241,
+        "text": "4.9  De spieren die de bovenarm bewegen",
+        "x": 296.999999999937,
+        "y": 110.311111111112
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.31.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bovendoornspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.31:",
+        "raw": "Afbeelding 4.31 De bovendoornspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.31.png",
+        "bounds": [
+          -17.4273406286835,
+          209.99999999947,
+          94.0000000000004,
+          287.99999999947
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.31.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.31.TIF"
+      },
+      "page": {
+        "documentOffset": 134,
+        "name": "116"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.9.1  De deltaspier",
+        "beforeText": "De ondersleutelbeenspier (musculus subclavius) is ook een borstspier. Deze zit vast aan de overgang van bot naar kraakbeen van de eerste rib. Aan het andere eind zit de spier vast aan de onderkant van het sleutelbeen. Als deze spier samentrekt, beweegt het sleutelbeen naar beneden.",
+        "pageDocumentOffset": 134,
+        "paragraphIndexInBodyStory": 241,
+        "text": "4.9  De spieren die de bovenarm bewegen",
+        "x": 296.999999999937,
+        "y": 110.311111111112
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.32.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De onderschouderbladspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.32:",
+        "raw": "Afbeelding 4.32 De onderschouderbladspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.32.png",
+        "bounds": [
+          -8.33324657262904,
+          297,
+          95.333333333336,
+          374.999999999937
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.32.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.32.TIF"
+      },
+      "page": {
+        "documentOffset": 134,
+        "name": "116"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.9.3  De onderschouderbladspier",
+        "beforeText": "bovendoornspier (musculus supraspinatus).",
+        "pageDocumentOffset": 135,
+        "paragraphIndexInBodyStory": 256,
+        "text": "De bovendoornspier zit vast aan het schouderblad. Aan het andere eind zit hij vast aan een grote knobbel van het bot in de bovenarm (tuberculum majus).",
+        "x": 15,
+        "y": 104.666666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.33.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote ronde spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.33:",
+        "raw": "Afbeelding 4.33 De grote ronde spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.33.png",
+        "bounds": [
+          123.175000000001,
+          14.7560916862287,
+          237.663888888889,
+          92.403313908451
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.33.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.33.TIF"
+      },
+      "page": {
+        "documentOffset": 135,
+        "name": "117"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.9.4  De grote ronde spier",
+        "beforeText": "draait je arm naar binnen;",
+        "pageDocumentOffset": 135,
+        "paragraphIndexInBodyStory": 261,
+        "text": "gaat je schouder niet uit de kom. Deze spier houdt het bot in de bovenarm dus op zijn plek.",
+        "x": 109.000000026428,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.34.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De onderdoornspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.34:",
+        "raw": "Afbeelding 4.34 De onderdoornspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.34.png",
+        "bounds": [
+          125.893608622419,
+          101.999999999937,
+          236.675000000001,
+          187
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.34.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.34.TIF"
+      },
+      "page": {
+        "documentOffset": 135,
+        "name": "117"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Aan de onderkant en zijkant van het schouderblad ligt de grote ronde spier (musculus teres major). Deze spier zit met het andere eind vast aan de voorkant van het opperarmbeen (humerus). Als je deze spier samentrekt:",
+        "beforeText": "gaat je schouder niet uit de kom. Deze spier houdt het bot in de bovenarm dus op zijn plek.",
+        "pageDocumentOffset": 136,
+        "paragraphIndexInBodyStory": 262,
+        "text": "4.9.4  De grote ronde spier",
+        "x": 209.99999999947,
+        "y": 149.822222222223
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.35.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kleine ronde spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.35:",
+        "raw": "Afbeelding 4.35 De kleine ronde spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.35.png",
+        "bounds": [
+          6.87307780807366,
+          209.833463869327,
+          122.718608622419,
+          288.705555555025
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.35.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.35.TIF"
+      },
+      "page": {
+        "documentOffset": 136,
+        "name": "118"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Aan de onderkant en zijkant van het schouderblad ligt de grote ronde spier (musculus teres major). Deze spier zit met het andere eind vast aan de voorkant van het opperarmbeen (humerus). Als je deze spier samentrekt:",
+        "beforeText": "gaat je schouder niet uit de kom. Deze spier houdt het bot in de bovenarm dus op zijn plek.",
+        "pageDocumentOffset": 136,
+        "paragraphIndexInBodyStory": 262,
+        "text": "4.9.4  De grote ronde spier",
+        "x": 209.99999999947,
+        "y": 149.822222222223
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.36.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De brede rugspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.36:",
+        "raw": "Afbeelding 4.36 De brede rugspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.36.png",
+        "bounds": [
+          0.72135183305899,
+          297,
+          127.244444444442,
+          374.647222222222
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.36.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.36.TIF"
+      },
+      "page": {
+        "documentOffset": 136,
+        "name": "118"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De grootste spier van je rug is de brede rugspier (musculus latissimus dorsi). Hij zit vast aan de:",
+        "beforeText": "blijft je schoudergewricht stevig op zijn plek.",
+        "pageDocumentOffset": 137,
+        "paragraphIndexInBodyStory": 274,
+        "text": "4.9.6  De brede rugspier",
+        "x": 102,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.37.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ravenbek-armspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.37:",
+        "raw": "Afbeelding 4.37 De ravenbek-armspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.37.png",
+        "bounds": [
+          -13.0700075364164,
+          -13.1916666666667,
+          93.3777777777758,
+          95.6666666666666
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.37.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.37.TIF"
+      },
+      "page": {
+        "documentOffset": 137,
+        "name": "119"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "beweegt je bovenarm omhoog;",
+        "beforeText": "onderste drie of vier ribben.",
+        "pageDocumentOffset": 137,
+        "paragraphIndexInBodyStory": 279,
+        "text": "Aan het andere eind zit de spier vast aan een diepe smalle rand tussen de kleine en grote knobbel op het bot in de bovenarm. Dit noemen we de intertuberculaire groeve. Als je de brede rugspier samentrekt:",
+        "x": 102,
+        "y": 76.4444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.38.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote borstspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.38:",
+        "raw": "Afbeelding 4.38 De grote borstspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.38.png",
+        "bounds": [
+          110.311111111109,
+          15.0000000000001,
+          234.046775996867,
+          93
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.38.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.38.TIF"
+      },
+      "page": {
+        "documentOffset": 137,
+        "name": "119"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.9.9  De rotatorenmanchet",
+        "beforeText": "beweegt je arm opzij;",
+        "pageDocumentOffset": 138,
+        "paragraphIndexInBodyStory": 297,
+        "text": "draait je bovenarm naar binnen.",
+        "x": 217.000000025961,
+        "y": 138.533333333334
+      },
+      "asset": null,
+      "caption": {
+        "body": "De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+        "bounds": null,
+        "label": "Afbeelding 4.39:",
+        "raw": "Afbeelding 4.39 De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          147.868143280628,
+          202.557892981853,
+          235.904642952479,
+          384.47781952737
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.39.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.39.TIF"
+      },
+      "page": {
+        "documentOffset": 138,
+        "name": "120"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.2  Spierfysiologie",
+        "beforeText": "4.1.3  De vorm van spieren",
+        "pageDocumentOffset": 113,
+        "paragraphIndexInBodyStory": 31,
+        "text": "De vorm van je spiercellen is van belang voor de samentrekking van spierweefsel. Spiercellen moeten zich kunnen verkorten om samentrekking van je spier (spiercontractie) mogelijk te maken. Deze cellen hebben dan ook meestal een langwerpige cilindrische vorm en hebben een lengte van enkele millimeters tot enkele decimeters. Het verschil in lengte is mogelijk doordat je celmembranen van voorlopers van spiercellen (de myoblasten) in de lengterichting met elkaar zijn gefuseerd tot één membraan: het sarcolemma. Over het algemeen noemen we deze samengestelde cellen spiervezels. De spiervezels zijn op hun beurt samengesteld uit vele fibrillen, die we myofibrillen noemen. Myos is namelijk de Latijnse term voor spier. Myofibrillen geven je spiercellen een gegroefd uiterlijk en zijn verantwoordelijk voor de samentrekking. We noemen ze de contractiele elementen.",
+        "x": 14.99999999947,
+        "y": 59.5111111111091
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+        "bounds": null,
+        "label": "Afbeelding 4.3:",
+        "raw": "Afbeelding 4.3 De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.3.png",
+        "bounds": [
+          158.657620244372,
+          40.0844712349373,
+          239.562884997256,
+          152.166198627794
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img3.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img3.TIF"
+      },
+      "page": {
+        "documentOffset": 113,
+        "name": "95"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je de tweehoofdige bovenarmspier samentrekt:",
+        "beforeText": "ange kop (caput longum). Deze zit vast aan de gewrichtskom van het schoudergewricht.",
+        "pageDocumentOffset": 139,
+        "paragraphIndexInBodyStory": 310,
+        "text": "De twee spierbuiken komen onderaan de bovenarm bij elkaar. Vanaf daar worden het twee pezen die aanhechten aan het spaakbeen (radius). Dit is één van de twee botten van je onderarm.",
+        "x": 101.999999999937,
+        "y": 138.533333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.40.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tweehoofdige bovenarmspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.40:",
+        "raw": "Afbeelding 4.40 De tweehoofdige bovenarmspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.40.png",
+        "bounds": [
+          10.5280819558247,
+          10,
+          121.952777777776,
+          96
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.40.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.40.TIF"
+      },
+      "page": {
+        "documentOffset": 139,
+        "name": "121"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je de tweehoofdige bovenarmspier samentrekt:",
+        "beforeText": "ange kop (caput longum). Deze zit vast aan de gewrichtskom van het schoudergewricht.",
+        "pageDocumentOffset": 139,
+        "paragraphIndexInBodyStory": 310,
+        "text": "De twee spierbuiken komen onderaan de bovenarm bij elkaar. Vanaf daar worden het twee pezen die aanhechten aan het spaakbeen (radius). Dit is één van de twee botten van je onderarm.",
+        "x": 101.999999999937,
+        "y": 138.533333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.41.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De driehoofdige bovenarmspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.41:",
+        "raw": "Afbeelding 4.41 De driehoofdige bovenarmspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.41.png",
+        "bounds": [
+          9.06388888888691,
+          101.999999999937,
+          125.00579137923,
+          179.999999999937
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.41.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.41.TIF"
+      },
+      "page": {
+        "documentOffset": 139,
+        "name": "121"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Aan de achterkant van je bovenarm zit een grote spier die je arm strekt. Deze noemen we de driehoofdige bovenarmspier (musculus triceps brachii). Deze spier heeft drie spierbuiken, namelijk een:",
+        "beforeText": "beweegt je bovenarm naar voren en omhoog.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 315,
+        "text": "4.10.2  De driehoofdige bovenarmspier",
+        "x": 209.99999999947,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.42.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bovenarmspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.42:",
+        "raw": "Afbeelding 4.42 De bovenarmspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.42.png",
+        "bounds": [
+          13.1415080820455,
+          292.5,
+          126.333836787734,
+          377.500000000063
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.42.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.42.TIF"
+      },
+      "page": {
+        "documentOffset": 140,
+        "name": "122"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Aan de achterkant van je bovenarm zit een grote spier die je arm strekt. Deze noemen we de driehoofdige bovenarmspier (musculus triceps brachii). Deze spier heeft drie spierbuiken, namelijk een:",
+        "beforeText": "beweegt je bovenarm naar voren en omhoog.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 315,
+        "text": "4.10.2  De driehoofdige bovenarmspier",
+        "x": 209.99999999947,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.43.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De opperarm-spaakbeenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.43:",
+        "raw": "Afbeelding 4.43 De opperarm-spaakbeenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.43.png",
+        "bounds": [
+          7.1642246671846,
+          15,
+          123.011111111109,
+          93.2819999999998
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.43.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.43.TIF"
+      },
+      "page": {
+        "documentOffset": 141,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Aan de achterkant van je bovenarm zit een grote spier die je arm strekt. Deze noemen we de driehoofdige bovenarmspier (musculus triceps brachii). Deze spier heeft drie spierbuiken, namelijk een:",
+        "beforeText": "beweegt je bovenarm naar voren en omhoog.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 315,
+        "text": "4.10.2  De driehoofdige bovenarmspier",
+        "x": 209.99999999947,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.44.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De supinatiespier.",
+        "bounds": null,
+        "label": "Afbeelding 4.44:",
+        "raw": "Afbeelding 4.44 De supinatiespier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.44.png",
+        "bounds": [
+          5.29119563867276,
+          100.666666666667,
+          121.996425019553,
+          182
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.44.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.44.TIF"
+      },
+      "page": {
+        "documentOffset": 141,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je de driehoofdige bovenarmspier samentrekt:",
+        "beforeText": "laterale kop (caput laterale). Dit is de kop die aan de buitenkant van je bovenarm zit. Deze zit ook vast aan de achterkant van het bot in de bovenarm.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 320,
+        "text": "Alle drie de koppen zitten aan de onderkant vast aan het uitsteeksel van de ellepijp. Dit is één van de twee botten in je onderarm. Het zit aan de kant van je pink. Dit bot is voelbaar als de punt van je elleboog (olecranon).",
+        "x": 209.99999999947,
+        "y": 127.244444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.45.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De vierkante pronatiespier.",
+        "bounds": null,
+        "label": "Afbeelding 4.45:",
+        "raw": "Afbeelding 4.45 De vierkante pronatiespier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.45.png",
+        "bounds": [
+          131.333333333336,
+          15,
+          234.488888888887,
+          94.6666666666666
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.45.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.45.TIF"
+      },
+      "page": {
+        "documentOffset": 141,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je de driehoofdige bovenarmspier samentrekt:",
+        "beforeText": "laterale kop (caput laterale). Dit is de kop die aan de buitenkant van je bovenarm zit. Deze zit ook vast aan de achterkant van het bot in de bovenarm.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 320,
+        "text": "Alle drie de koppen zitten aan de onderkant vast aan het uitsteeksel van de ellepijp. Dit is één van de twee botten in je onderarm. Het zit aan de kant van je pink. Dit bot is voelbaar als de punt van je elleboog (olecranon).",
+        "x": 209.99999999947,
+        "y": 127.244444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.46.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ronde pronatiespier.",
+        "bounds": null,
+        "label": "Afbeelding 4.46:",
+        "raw": "Afbeelding 4.46 De ronde pronatiespier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.46.png",
+        "bounds": [
+          128.600000000005,
+          96,
+          240.133333333337,
+          182
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.46.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.46.TIF"
+      },
+      "page": {
+        "documentOffset": 141,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.11  De spieren die de hand en vingers bewegen",
+        "beforeText": "Aan het onderste deel van de ellepijp ligt de vierkante pronatiespier (musculus pronator quadratus). Deze spier zit met het andere eind vast aan het onderste deel van het spaakbeen. De spiervezels van de vierkante pronatiespier zorgen dat het spaakbeen en de ellepijp bij elkaar blijven zitten. De vierkante pronatiespier regelt het naar binnen draaien van je onderarm. Dit heet pronatie.",
+        "pageDocumentOffset": 142,
+        "paragraphIndexInBodyStory": 332,
+        "text": "Aan de binnenzijde van de onderkant van het opperarmbeen ligt de ronde pronatiespier (musculus pronator teres). Deze spier zit met het andere eind vast aan het middelste deel van het spaakbeen. Net als de vierkante pronatiespier regelt deze spier het naar binnen draaien van je onderarm. Als je deze spier samentrekt, buigt je onderarm ook in de elleboog.",
+        "x": 296.999999999937,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.47.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ulnaire handbuiger.",
+        "bounds": null,
+        "label": "Afbeelding 4.47:",
+        "raw": "Afbeelding 4.47 De ulnaire handbuiger.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.47.png",
+        "bounds": [
+          20.3514204679285,
+          209.926091686229,
+          111.850536130661,
+          287.99999999947
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.47.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.47.TIF"
+      },
+      "page": {
+        "documentOffset": 142,
+        "name": "124"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "beweegt je hand richting de pink.",
+        "beforeText": "ulnaire handstrekker (musculus extensor carpi ulnaris). Als je deze samentrekt:",
+        "pageDocumentOffset": 143,
+        "paragraphIndexInBodyStory": 346,
+        "text": "buigt je pols naar boven;",
+        "x": 113.641666666667,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.48.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De radiale handbuiger.",
+        "bounds": null,
+        "label": "Afbeelding 4.48:",
+        "raw": "Afbeelding 4.48 De radiale handbuiger.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.48.png",
+        "bounds": [
+          16.0013273157884,
+          15,
+          119.548824157966,
+          93
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.48.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.48.TIF"
+      },
+      "page": {
+        "documentOffset": 143,
+        "name": "125"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je hebt twee soorten spieren die de beweging van de hand regelen. Dit zijn de:",
+        "beforeText": "spieren die de vingers spreiden (adductoren) en sluiten (abductoren);",
+        "pageDocumentOffset": 143,
+        "paragraphIndexInBodyStory": 355,
+        "text": "opponerende en reponerende spieren van de duim. Een opponerende spier beweegt de duim naar de vingertop van de pink. Een reponerende spier beweegt de duim weer terug naar de normale plek van de duim.",
+        "x": 109.000000026491,
+        "y": 127.244444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.49.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De lange handpalmspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.49:",
+        "raw": "Afbeelding 4.49 De lange handpalmspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.49.png",
+        "bounds": [
+          131.146463881946,
+          16.2656861461358,
+          234.693960724123,
+          92.6472222222223
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.49.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.49.TIF"
+      },
+      "page": {
+        "documentOffset": 143,
+        "name": "125"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.2.1  Myofibrillen, actine en myosine",
+        "beforeText": "De vorm van je spiercellen is van belang voor de samentrekking van spierweefsel. Spiercellen moeten zich kunnen verkorten om samentrekking van je spier (spiercontractie) mogelijk te maken. Deze cellen hebben dan ook meestal een langwerpige cilindrische vorm en hebben een lengte van enkele millimeters tot enkele decimeters. Het verschil in lengte is mogelijk doordat je celmembranen van voorlopers van spiercellen (de myoblasten) in de lengterichting met elkaar zijn gefuseerd tot één membraan: het sarcolemma. Over het algemeen noemen we deze samengestelde cellen spiervezels. De spiervezels zijn op hun beurt samengesteld uit vele fibrillen, die we myofibrillen noemen. Myos is namelijk de Latijnse term voor spier. Myofibrillen geven je spiercellen een gegroefd uiterlijk en zijn verantwoordelijk voor de samentrekking. We noemen ze de contractiele elementen.",
+        "pageDocumentOffset": 114,
+        "paragraphIndexInBodyStory": 32,
+        "text": "4.2  Spierfysiologie",
+        "x": 210,
+        "y": 127.244444444445
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.4.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+        "bounds": null,
+        "label": "Afbeelding 4.4:",
+        "raw": "Afbeelding 4.4 Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.4.png",
+        "bounds": [
+          12.2388888888869,
+          210.309884635091,
+          108.194444444442,
+          372.745670920464
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img4.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img4.TIF"
+      },
+      "page": {
+        "documentOffset": 114,
+        "name": "96"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "strekt je bovenbeen.",
+        "beforeText": "Aan de andere kant zit deze spier vast aan het bot in het bovenbeen (femur). Als je deze spier samentrekt:",
+        "pageDocumentOffset": 144,
+        "paragraphIndexInBodyStory": 365,
+        "text": "draait je bovenbeen naar buiten in het heupgewricht;",
+        "x": 304.000000026491,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.50.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ulnaire handstrekker.",
+        "bounds": null,
+        "label": "Afbeelding 4.50:",
+        "raw": "Afbeelding 4.50 De ulnaire handstrekker.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.50.png",
+        "bounds": [
+          5.00408108560991,
+          210,
+          105.151451104747,
+          288
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.50.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.50.TIF"
+      },
+      "page": {
+        "documentOffset": 144,
+        "name": "126"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "darmbeenspier (musculus iliacus). Deze zit met de ene kant vast aan het darmbeen. Het andere eind van de spier zit vast aan het dijbeen.",
+        "beforeText": "Eén van de sterkste spieren in je lichaam is de heup-lendenspier (musculus iliopsoas). Hij ligt tegen de achterkant van de buikholte aan en loopt naar het bot van je bovenbeen. Eigenlijk bestaat de heup-lendenspier uit twee spieren, namelijk de:",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 381,
+        "text": "grote lendenspier (musculus psoas major). Deze zit met de ene kant vast aan de onderste wervels. Het andere eind van de spier zit vast aan het dijbeen;",
+        "x": 217.000000025961,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.51.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De radiale handstrekker.",
+        "bounds": null,
+        "label": "Afbeelding 4.51:",
+        "raw": "Afbeelding 4.51 De radiale handstrekker.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.51.png",
+        "bounds": [
+          16.5282205642853,
+          15,
+          107.84166666667,
+          93.3134461023832
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.51.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.51.TIF"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "127"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "darmbeenspier (musculus iliacus). Deze zit met de ene kant vast aan het darmbeen. Het andere eind van de spier zit vast aan het dijbeen.",
+        "beforeText": "Eén van de sterkste spieren in je lichaam is de heup-lendenspier (musculus iliopsoas). Hij ligt tegen de achterkant van de buikholte aan en loopt naar het bot van je bovenbeen. Eigenlijk bestaat de heup-lendenspier uit twee spieren, namelijk de:",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 381,
+        "text": "grote lendenspier (musculus psoas major). Deze zit met de ene kant vast aan de onderste wervels. Het andere eind van de spier zit vast aan het dijbeen;",
+        "x": 217.000000025961,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.52.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De handspieren.",
+        "bounds": null,
+        "label": "Afbeelding 4.52:",
+        "raw": "Afbeelding 4.52 De handspieren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.52.png",
+        "bounds": [
+          16.5282205642853,
+          15,
+          107.84166666667,
+          93.3134461023832
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.51.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.51.TIF"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "127"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zorgt de spier dat je de heup niet te veel strekt.",
+        "beforeText": "buigt je romp voorover als het been vast staat;",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 386,
+        "text": "staat je rug in de normale stand;",
+        "x": 217.000000025961,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.53.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote bilspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.53:",
+        "raw": "Afbeelding 4.53 De grote bilspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.53.png",
+        "bounds": [
+          117.681201368876,
+          15,
+          237.992758352896,
+          95.6666666666667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.53.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.53.png"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "127"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zorgt de spier dat je de heup niet te veel strekt.",
+        "beforeText": "buigt je romp voorover als het been vast staat;",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 386,
+        "text": "staat je rug in de normale stand;",
+        "x": 217.000000025961,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.54.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De middelste bilspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.54:",
+        "raw": "Afbeelding 4.54 De middelste bilspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.54.png",
+        "bounds": [
+          117.681201368876,
+          102,
+          237.993201368873,
+          180.401183372457
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.54.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.54.png"
+      },
+      "page": {
+        "documentOffset": 145,
+        "name": "127"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "darmbeenspier (musculus iliacus). Deze zit met de ene kant vast aan het darmbeen. Het andere eind van de spier zit vast aan het dijbeen.",
+        "beforeText": "Eén van de sterkste spieren in je lichaam is de heup-lendenspier (musculus iliopsoas). Hij ligt tegen de achterkant van de buikholte aan en loopt naar het bot van je bovenbeen. Eigenlijk bestaat de heup-lendenspier uit twee spieren, namelijk de:",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 381,
+        "text": "grote lendenspier (musculus psoas major). Deze zit met de ene kant vast aan de onderste wervels. Het andere eind van de spier zit vast aan het dijbeen;",
+        "x": 217.000000025961,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.55.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kleine bilspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.55:",
+        "raw": "Afbeelding 4.55 De kleine bilspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.55.png",
+        "bounds": [
+          15.9749915820659,
+          297,
+          144.177777777776,
+          402.018378413016
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.55.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.55.TIF"
+      },
+      "page": {
+        "documentOffset": 146,
+        "name": "128"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "grote dij-adductor (musculus adductor magnus);",
+        "beforeText": "4.12.3  De adductorengroep",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 389,
+        "text": "Aan de binnenkant van je bovenbeen ligt een groep spieren die we de adductorengroep noemen. Deze spieren zitten vast aan de onderkant van het bekken. Aan het andere eind zitten ze vast aan het dijbeen. Als je deze groep spieren samentrekt, beweegt je been opzij naar het lichaam toe in het heupgewricht. Je maakt deze beweging bijvoorbeeld als je een voetbal met de binnenkant van je voet wegtrapt. Je hebt vijf spieren in deze groep, namelijk de:",
+        "x": 209.99999999947,
+        "y": 149.82222222222
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.56.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote lendenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.56:",
+        "raw": "Afbeelding 4.56 De grote lendenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.56.png",
+        "bounds": [
+          155.466666666665,
+          296.777777777778,
+          234.488888888887,
+          396.705555555556
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.56.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.56.TIF"
+      },
+      "page": {
+        "documentOffset": 146,
+        "name": "128"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "darmbeenspier (musculus iliacus). Deze zit met de ene kant vast aan het darmbeen. Het andere eind van de spier zit vast aan het dijbeen.",
+        "beforeText": "Eén van de sterkste spieren in je lichaam is de heup-lendenspier (musculus iliopsoas). Hij ligt tegen de achterkant van de buikholte aan en loopt naar het bot van je bovenbeen. Eigenlijk bestaat de heup-lendenspier uit twee spieren, namelijk de:",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 381,
+        "text": "grote lendenspier (musculus psoas major). Deze zit met de ene kant vast aan de onderste wervels. Het andere eind van de spier zit vast aan het dijbeen;",
+        "x": 217.000000025961,
+        "y": 42.5777777777758
+      },
+      "asset": null,
+      "caption": {
+        "body": "De darmbeenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.57:",
+        "raw": "Afbeelding 4.57 De darmbeenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          5.05519635748686,
+          12,
+          107.166666666669,
+          94.6666666666666
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.57.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.57.TIF"
+      },
+      "page": {
+        "documentOffset": 147,
+        "name": "129"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "darmbeenspier (musculus iliacus). Deze zit met de ene kant vast aan het darmbeen. Het andere eind van de spier zit vast aan het dijbeen.",
+        "beforeText": "Eén van de sterkste spieren in je lichaam is de heup-lendenspier (musculus iliopsoas). Hij ligt tegen de achterkant van de buikholte aan en loopt naar het bot van je bovenbeen. Eigenlijk bestaat de heup-lendenspier uit twee spieren, namelijk de:",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 381,
+        "text": "grote lendenspier (musculus psoas major). Deze zit met de ene kant vast aan de onderste wervels. Het andere eind van de spier zit vast aan het dijbeen;",
+        "x": 217.000000025961,
+        "y": 42.5777777777758
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.58.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De grote dij-adductor.",
+        "bounds": null,
+        "label": "Afbeelding 4.58:",
+        "raw": "Afbeelding 4.58 De grote dij-adductor.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.58.png",
+        "bounds": [
+          1.06822317252421,
+          100,
+          110.311111111109,
+          184
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.58.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.58.TIF"
+      },
+      "page": {
+        "documentOffset": 147,
+        "name": "129"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zorgt de spier dat je de heup niet te veel strekt.",
+        "beforeText": "buigt je romp voorover als het been vast staat;",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 386,
+        "text": "staat je rug in de normale stand;",
+        "x": 217.000000025961,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.59.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De korte dij-adductor.",
+        "bounds": null,
+        "label": "Afbeelding 4.59:",
+        "raw": "Afbeelding 4.59 De korte dij-adductor.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.59.png",
+        "bounds": [
+          123.16666666667,
+          10.6666666666666,
+          228.847222222236,
+          94.6666666666666
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.59.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.59.TIF"
+      },
+      "page": {
+        "documentOffset": 147,
+        "name": "129"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De motorische zenuw vertakt zich in verschillende kleine armpjes. Elk armpje gaat naar een deel van de spier. Hierdoor krijgt de spier op verschillende plekken het seintje door. We noemen die plekken motorische eindplaten. Hier gaat het seintje van de zenuw over op de spier. In de motorische eindplaten zitten blaasjes gevuld met signaalstoffen (neurotransmitters). Deze signaalstoffen zorgen voor een reactie in de spiercel. Tussen de zenuw en de spier zit namelijk een kleine ruimte, de synapsspleet. De blaasjes laten de signaalstoffen vrij in de synapsspleet. De signaalstoffen zorgen dat de sarcomeren een signaaltje krijgen waardoor ze samentrekken. Dit signaaltje noemen we een actiepotentiaal.",
+        "beforeText": "sensorische zenuwen. Dit zijn de zenuwen die seintjes van het lichaam naar je hersenen sturen. Als je bijvoorbeeld een kus op je wang krijgt, dan sturen de sensorische zenuwen dat seintje door naar de hersenen. Hierdoor voel je dat je die kus krijgt;",
+        "pageDocumentOffset": 115,
+        "paragraphIndexInBodyStory": 45,
+        "text": "motorische zenuwen. Deze zenuwen zijn verbonden met de spieren. Ze geven vanuit de hersenen een seintje door dat de spieren moeten bewegen, bijvoorbeeld wanneer je een kopje thee van de tafel wilt pakken.",
+        "x": 109.000000026428,
+        "y": 144.177777777778
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van een sarcomeer.",
+        "bounds": null,
+        "label": "Afbeelding 4.5:",
+        "raw": "Afbeelding 4.5 Overzicht van een sarcomeer.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.5.png",
+        "bounds": [
+          8.97758705250568,
+          8.19096340040933,
+          105.724999999995,
+          194.147925488479
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img5.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img5.TIF"
+      },
+      "page": {
+        "documentOffset": 115,
+        "name": "97"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "zorgt de spier dat je de heup niet te veel strekt.",
+        "beforeText": "buigt je romp voorover als het been vast staat;",
+        "pageDocumentOffset": 146,
+        "paragraphIndexInBodyStory": 386,
+        "text": "staat je rug in de normale stand;",
+        "x": 217.000000025961,
+        "y": 121.599999999998
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.60.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De lange dij-adductor.",
+        "bounds": null,
+        "label": "Afbeelding 4.60:",
+        "raw": "Afbeelding 4.60 De lange dij-adductor.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.60.png",
+        "bounds": [
+          121.599999999998,
+          93.0000000000001,
+          228.844444444442,
+          185.333333333333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.60.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.60.TIF"
+      },
+      "page": {
+        "documentOffset": 147,
+        "name": "129"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "slanke spier (musculus gracilis).",
+        "beforeText": "lange dij-adductor (musculus adductor longus);",
+        "pageDocumentOffset": 148,
+        "paragraphIndexInBodyStory": 393,
+        "text": "schaambeenkampspier (musculus pectineus);",
+        "x": 217.000000026491,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.61.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De schaambeenkamspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.61:",
+        "raw": "Afbeelding 4.61 De schaambeenkamspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.61.png",
+        "bounds": [
+          2.76825892630247,
+          210.352777777778,
+          110.311111111109,
+          288.352777777778
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.61.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.61.TIF"
+      },
+      "page": {
+        "documentOffset": 148,
+        "name": "130"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "buigt je onderbeen in de knie;",
+        "beforeText": "halfpeesachtige spier (musculus semitendinosus).",
+        "pageDocumentOffset": 148,
+        "paragraphIndexInBodyStory": 401,
+        "text": "De hamstrings zitten aan de ene kant vast aan het bekken. Aan het andere eind zitten ze vast aan het onderbeen. Als je deze spieren samentrekt:",
+        "x": 296.999999999937,
+        "y": 127.244444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.62.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De slanke spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.62:",
+        "raw": "Afbeelding 4.62 De slanke spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.62.png",
+        "bounds": [
+          3.45536850703316,
+          294,
+          106.500000000006,
+          374.999999999937
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.62.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.62.TIF"
+      },
+      "page": {
+        "documentOffset": 148,
+        "name": "130"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je je knie wilt buigen, gebruik je de kleermakersspier (musculus sartorius). Dit is geen sterke spier, maar wel een erg lange. Als je in kleermakerszit zit, is de spier maximaal samengetrokken. Vandaar de naam van deze spier.",
+        "beforeText": "Het is niet mogelijk om met je hamstrings je onderbeen en dijbeen tegelijk te bewegen. De spieren moeten te hard samentrekken om het dijbeen te strekken. Ze kunnen het onderbeen dan niet ook nog buigen.",
+        "pageDocumentOffset": 150,
+        "paragraphIndexInBodyStory": 409,
+        "text": "4.13.2  De kleermakersspier",
+        "x": 297,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.63.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De hamstrings.",
+        "bounds": null,
+        "label": "Afbeelding 4.63:",
+        "raw": "Afbeelding 4.63 De hamstrings.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.63.png",
+        "bounds": [
+          11.9999999999998,
+          15,
+          121.600000000003,
+          180
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.63.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.63.TIF"
+      },
+      "page": {
+        "documentOffset": 149,
+        "name": "131"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "slanke spier (musculus gracilis).",
+        "beforeText": "lange dij-adductor (musculus adductor longus);",
+        "pageDocumentOffset": 148,
+        "paragraphIndexInBodyStory": 393,
+        "text": "schaambeenkampspier (musculus pectineus);",
+        "x": 217.000000026491,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.64.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De kleermakersspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.64:",
+        "raw": "Afbeelding 4.64 De kleermakersspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.64.png",
+        "bounds": [
+          138.533333333331,
+          15,
+          234.488888888887,
+          92.6472222222223
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.64.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.64.TIF"
+      },
+      "page": {
+        "documentOffset": 149,
+        "name": "131"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "slanke spier (musculus gracilis).",
+        "beforeText": "lange dij-adductor (musculus adductor longus);",
+        "pageDocumentOffset": 148,
+        "paragraphIndexInBodyStory": 393,
+        "text": "schaambeenkampspier (musculus pectineus);",
+        "x": 217.000000026491,
+        "y": 132.888888888887
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.65.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De rechte dijbeenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.65:",
+        "raw": "Afbeelding 4.65 De rechte dijbeenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.65.png",
+        "bounds": [
+          132.499999999999,
+          99.3333333333333,
+          237.480444444446,
+          184.333333333333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.65.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.65.TIF"
+      },
+      "page": {
+        "documentOffset": 149,
+        "name": "131"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als je je knie wilt buigen, gebruik je de kleermakersspier (musculus sartorius). Dit is geen sterke spier, maar wel een erg lange. Als je in kleermakerszit zit, is de spier maximaal samengetrokken. Vandaar de naam van deze spier.",
+        "beforeText": "Het is niet mogelijk om met je hamstrings je onderbeen en dijbeen tegelijk te bewegen. De spieren moeten te hard samentrekken om het dijbeen te strekken. Ze kunnen het onderbeen dan niet ook nog buigen.",
+        "pageDocumentOffset": 150,
+        "paragraphIndexInBodyStory": 409,
+        "text": "4.13.2  De kleermakersspier",
+        "x": 297,
+        "y": 25.6444444444425
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.66.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De brede zijspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.66:",
+        "raw": "Afbeelding 4.66 De brede zijspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.66.png",
+        "bounds": [
+          13.3333333333354,
+          207,
+          120.333333333337,
+          292.5
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.66.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.66.TIF"
+      },
+      "page": {
+        "documentOffset": 150,
+        "name": "132"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je hebt voor deze bewegingen ook nog andere spieren nodig, omdat de kleermakersspier in zijn eentje niet sterk genoeg is.",
+        "beforeText": "draait je bovenbeen in de heup;",
+        "pageDocumentOffset": 150,
+        "paragraphIndexInBodyStory": 415,
+        "text": "beweegt je bovenbeen omhoog en naar voren in de heup.",
+        "x": 304.000000026491,
+        "y": 115.955555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.67.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De brede middenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.67:",
+        "raw": "Afbeelding 4.67 De brede middenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.67.png",
+        "bounds": [
+          138.533333333331,
+          205.333333333333,
+          234.488888888887,
+          287.801222222222
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.67.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.67.TIF"
+      },
+      "page": {
+        "documentOffset": 150,
+        "name": "132"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je hebt voor deze bewegingen ook nog andere spieren nodig, omdat de kleermakersspier in zijn eentje niet sterk genoeg is.",
+        "beforeText": "draait je bovenbeen in de heup;",
+        "pageDocumentOffset": 150,
+        "paragraphIndexInBodyStory": 415,
+        "text": "beweegt je bovenbeen omhoog en naar voren in de heup.",
+        "x": 304.000000026491,
+        "y": 115.955555555554
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.68.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De middelste brede spier.",
+        "bounds": null,
+        "label": "Afbeelding 4.68:",
+        "raw": "Afbeelding 4.68 De middelste brede spier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.68.png",
+        "bounds": [
+          127.624999999997,
+          293.666666666667,
+          236.000000000005,
+          381
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.68.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.68.TIF"
+      },
+      "page": {
+        "documentOffset": 150,
+        "name": "132"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.13.3  De vierhoofdige dijspier",
+        "beforeText": "beweegt je bovenbeen omhoog en naar voren in de heup.",
+        "pageDocumentOffset": 151,
+        "paragraphIndexInBodyStory": 416,
+        "text": "Je hebt voor deze bewegingen ook nog andere spieren nodig, omdat de kleermakersspier in zijn eentje niet sterk genoeg is.",
+        "x": 15,
+        "y": 178.044444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.69.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tweehoofdige kuitspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.69:",
+        "raw": "Afbeelding 4.69 De tweehoofdige kuitspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.69.png",
+        "bounds": [
+          16.9094544120754,
+          12.5394990456044,
+          165.55596806849,
+          95.7878309829579
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.69.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.69.TIF"
+      },
+      "page": {
+        "documentOffset": 151,
+        "name": "133"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.2.4  Typen spiervezels",
+        "beforeText": "De motorische zenuw vertakt zich in verschillende kleine armpjes. Elk armpje gaat naar een deel van de spier. Hierdoor krijgt de spier op verschillende plekken het seintje door. We noemen die plekken motorische eindplaten. Hier gaat het seintje van de zenuw over op de spier. In de motorische eindplaten zitten blaasjes gevuld met signaalstoffen (neurotransmitters). Deze signaalstoffen zorgen voor een reactie in de spiercel. Tussen de zenuw en de spier zit namelijk een kleine ruimte, de synapsspleet. De blaasjes laten de signaalstoffen vrij in de synapsspleet. De signaalstoffen zorgen dat de sarcomeren een signaaltje krijgen waardoor ze samentrekken. Dit signaaltje noemen we een actiepotentiaal.",
+        "pageDocumentOffset": 116,
+        "paragraphIndexInBodyStory": 47,
+        "text": "Eén motorneuron stuurt meerdere spieren aan. Die spieren vormen een spiergroep. Het motorneuron zorgt dat de hele spiergroep tegelijk samentrekt. We noemen de spiergroep en het motorneuron samen een motorische eenheid. Je hoeft dus in verhouding maar weinig motorneuronen te gebruiken om te bewegen met meerdere spiergroepen.",
+        "x": 210,
+        "y": 53.8666666666647
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Overzicht van een motorneuron.",
+        "bounds": null,
+        "label": "Afbeelding 4.6:",
+        "raw": "Afbeelding 4.6 Overzicht van een motorneuron.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.6.png",
+        "bounds": [
+          88.0535079006082,
+          224.045052468885,
+          249.954666666661,
+          354.61050308667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img6.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img6.TIF"
+      },
+      "page": {
+        "documentOffset": 116,
+        "name": "98"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.13.3  De vierhoofdige dijspier",
+        "beforeText": "beweegt je bovenbeen omhoog en naar voren in de heup.",
+        "pageDocumentOffset": 151,
+        "paragraphIndexInBodyStory": 416,
+        "text": "Je hebt voor deze bewegingen ook nog andere spieren nodig, omdat de kleermakersspier in zijn eentje niet sterk genoeg is.",
+        "x": 15,
+        "y": 178.044444444442
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.70.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De scholspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.70:",
+        "raw": "Afbeelding 4.70 De scholspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.70.png",
+        "bounds": [
+          18.7435712667669,
+          96.1796326007125,
+          162.207029195954,
+          182.96758962151
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.70.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.70.TIF"
+      },
+      "page": {
+        "documentOffset": 151,
+        "name": "133"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De grootste spiergroep van je kuit is de driehoofdige kuitspier (musculus triceps surae). Deze heeft twee spieren, namelijk de:",
+        "beforeText": "4.14  De spieren die de voet bewegen",
+        "pageDocumentOffset": 152,
+        "paragraphIndexInBodyStory": 424,
+        "text": "4.14.1  De driehoofdige kuitspier",
+        "x": 210,
+        "y": 42.5777777777758
+      },
+      "asset": null,
+      "caption": {
+        "body": "De voorste scheenbeenspier.",
+        "bounds": null,
+        "label": "Afbeelding 4.71:",
+        "raw": "Afbeelding 4.71 De voorste scheenbeenspier.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          38.0651038822108,
+          277.353657533826,
+          236.877583435707,
+          394.646342466704
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.71.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.71.TIF"
+      },
+      "page": {
+        "documentOffset": 152,
+        "name": "134"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als cellen groter worden, noemen we dat hypertrofie. Als je je spieren veel gebruikt, krijg je hypertrofie van de spiercellen. Dit zie je bijvoorbeeld duidelijk bij bodybuilders.",
+        "beforeText": "type 2B. We noemen dit ook de snelle spiervezels. Ze zijn lichtroze van kleur. Deze vezels zijn de grootste van de drie soorten spiervezels. Spieren met veel van deze spiervezels leveren in korte tijd een heleboel kracht. Het nadeel is dat ze dit maar kort volhouden. Je gebruikt deze spieren bij kleine en precieze bewegingen. Sporters die veel van deze spiervezels hebben, zijn bijvoorbeeld gewichtheffers of sprinters die heel korte afstanden rennen.",
+        "pageDocumentOffset": 117,
+        "paragraphIndexInBodyStory": 53,
+        "text": "4.2.5  Hypertrofie en atrofie van spierweefsel",
+        "x": 101.999999999937,
+        "y": 144.177777777778
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch4/Afbeelding_4.7.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Spiervezel met motorische eindplaat.",
+        "bounds": null,
+        "label": "Afbeelding 4.7:",
+        "raw": "Afbeelding 4.7 Spiervezel met motorische eindplaat.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch4/Afbeelding_4.7.png",
+        "bounds": [
+          7.89516525216855,
+          37.5887654132117,
+          125.331414774006,
+          153.857936122816
+        ],
+        "kind": "link",
+        "linkName": "MAF_CH4_Img_4.07.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_CH4_Img_4.07.TIF"
+      },
+      "page": {
+        "documentOffset": 117,
+        "name": "99"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als de hersenen stoppen met het geven van een seintje aan de spieren, zijn de myosinebindingsplaatsen niet meer vrij. Dat betekent dat de myosinekopjes niet meer aan het actinefilament binden. Op die manier schuiven de actine- en myosinefilamenten weer terug. Hierdoor ontspant de spier.",
+        "beforeText": "4 Een nieuw ATP-stofje gaat aan de myosinekop vastzitten. Hierdoor laten de myosinekopjes de myosinebindingsplaats los. Hierna begint de cyclus weer bij stap 1.",
+        "pageDocumentOffset": 118,
+        "paragraphIndexInBodyStory": 67,
+        "text": "Door alle power-strokes samen komen de myosinefilamenten steeds verder langs de actinefilamenten te liggen. Ze overlappen elkaar steeds meer, waardoor het sarcomeer korter wordt. Dit gebeurt niet in één sarcomeer, maar in meerdere sarcomeren in de spier. De spier wordt dus in zijn geheel korter en trekt samen.",
+        "x": 296.999999999937,
+        "y": 104.666666666665
+      },
+      "asset": null,
+      "caption": {
+        "body": "Spieren van de nek en het gezicht (zijaanzicht).",
+        "bounds": null,
+        "label": "Afbeelding 4.8:",
+        "raw": "Afbeelding 4.8 Spieren van de nek en het gezicht (zijaanzicht).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          124.069444444442,
+          293,
+          231.313888888887,
+          375
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img_4.08.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img_4.08.TIF"
+      },
+      "page": {
+        "documentOffset": 118,
+        "name": "100"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4.3.1  De mimische spieren",
+        "beforeText": "Als de hersenen stoppen met het geven van een seintje aan de spieren, zijn de myosinebindingsplaatsen niet meer vrij. Dat betekent dat de myosinekopjes niet meer aan het actinefilament binden. Op die manier schuiven de actine- en myosinefilamenten weer terug. Hierdoor ontspant de spier.",
+        "pageDocumentOffset": 119,
+        "paragraphIndexInBodyStory": 69,
+        "text": "4.3  De spieren van hoofd en hals",
+        "x": 102,
+        "y": 161.111111111109
+      },
+      "asset": null,
+      "caption": {
+        "body": "Spieren van de nek en het gezicht (vooraanzicht).",
+        "bounds": null,
+        "label": "Afbeelding 4.9:",
+        "raw": "Afbeelding 4.9 Spieren van de nek en het gezicht (vooraanzicht).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          7.00000000000675,
+          28.0323709233546,
+          144.177777777776,
+          164.605512578346
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch4_Img9.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch4_Img9.TIF"
+      },
+      "page": {
+        "documentOffset": 119,
+        "name": "101"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

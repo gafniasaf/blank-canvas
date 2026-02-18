@@ -1,0 +1,240 @@
+{
+  "947cd572-d65e-4f6b-8e86-845a74375c58": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.10.png",
+      "alt": "Afbeelding 6.10: Het J-punt en het ST-segment op het ECG.",
+      "figureNumber": "Afbeelding 6.10:",
+      "caption": "Het J-punt en het ST-segment op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.9.png",
+      "alt": "Afbeelding 6.9: De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+      "figureNumber": "Afbeelding 6.9:",
+      "caption": "De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "70ba657e-0eb7-4e55-966d-753e100851e7": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.11.png",
+      "alt": "Afbeelding 6.11: De T-top op het ECG.",
+      "figureNumber": "Afbeelding 6.11:",
+      "caption": "De T-top op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "da16d1cd-0622-4731-a585-faa945525d6d": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.12.png",
+      "alt": "Afbeelding 6.12: De berekening van het hartminuutvolume.",
+      "figureNumber": "Afbeelding 6.12:",
+      "caption": "De berekening van het hartminuutvolume.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "696e8cd9-2c4e-4eb6-9d71-5f34285ad163": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.13.png",
+      "alt": "Afbeelding 6.13: De verschillende soorten weefsel in een slagader en ader.",
+      "figureNumber": "Afbeelding 6.13:",
+      "caption": "De verschillende soorten weefsel in een slagader en ader.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "551d4d45-c282-406b-96a4-9f31c3ffd291": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.14.png",
+      "alt": "Afbeelding 6.14: Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+      "figureNumber": "Afbeelding 6.14:",
+      "caption": "Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d484597f-94db-4752-a3dc-d20cb574f5f1": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.15.png",
+      "alt": "Afbeelding 6.15: Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+      "figureNumber": "Afbeelding 6.15:",
+      "caption": "Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "4d203091-8b3f-43ac-9b9b-3ea15b90dc2b": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.16.png",
+      "alt": "Afbeelding 6.16: Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+      "figureNumber": "Afbeelding 6.16:",
+      "caption": "Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9e498b99-ea14-4cbb-bd17-064a38c7f28c": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.17.png",
+      "alt": "Afbeelding 6.17: De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+      "figureNumber": "Afbeelding 6.17:",
+      "caption": "De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e20c73b0-16cf-4ddf-8295-709d1274beb3": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.18.png",
+      "alt": "Afbeelding 6.18: De grote slagaders in het lichaam.",
+      "figureNumber": "Afbeelding 6.18:",
+      "caption": "De grote slagaders in het lichaam.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1ed6d7cb-288f-4b82-94bf-039f6bada6bf": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.19.png",
+      "alt": "Afbeelding 6.19: Voorbeeld van een verbindende circulatie.",
+      "figureNumber": "Afbeelding 6.19:",
+      "caption": "Voorbeeld van een verbindende circulatie.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "b0b80840-df71-48a7-8e01-83fe3336946a": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.20.png",
+      "alt": "Afbeelding 6.20: Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+      "figureNumber": "Afbeelding 6.20:",
+      "caption": "Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "05c10ca3-7e3c-403a-b526-e03dd93efcfd": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.21.png",
+      "alt": "Afbeelding 6.21: De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+      "figureNumber": "Afbeelding 6.21:",
+      "caption": "De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "08859971-3baf-4cd0-b9d4-7124b44fe190": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.22.png",
+      "alt": "Afbeelding 6.22: Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+      "figureNumber": "Afbeelding 6.22:",
+      "caption": "Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "35753fb6-bafa-4f4a-985e-06e2855f16bb": [
+    {
+      "src": "new_pipeline/assets/images/ch6/MAF Ch6_Img6.25-EDIT.png",
+      "alt": "Afbeelding 6.23: Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+      "figureNumber": "Afbeelding 6.23:",
+      "caption": "Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "3ba46835-6ba1-430d-a9c3-445111615795": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.24.png",
+      "alt": "Afbeelding 6.24: Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+      "figureNumber": "Afbeelding 6.24:",
+      "caption": "Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "c3e3c376-90ab-4b36-9b86-c11d9ae8e728": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.25.png",
+      "alt": "Afbeelding 6.25: De twee afvoerwegen van lymfe in het lichaam.",
+      "figureNumber": "Afbeelding 6.25:",
+      "caption": "De twee afvoerwegen van lymfe in het lichaam.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1ab9cc32-b687-4181-a7bc-0d99feef5f95": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.2.png",
+      "alt": "Afbeelding 6.2: In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+      "figureNumber": "Afbeelding 6.2:",
+      "caption": "In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "2d8a21b7-4c55-4da2-9c02-6e20dd0fec74": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.3.png",
+      "alt": "Afbeelding 6.3: Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+      "figureNumber": "Afbeelding 6.3:",
+      "caption": "Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6ade1b3b-0877-4076-9b7d-49de85128148": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.4.png",
+      "alt": "Afbeelding 6.4: Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+      "figureNumber": "Afbeelding 6.4:",
+      "caption": "Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "323bca32-2c0a-4c01-84fd-723e0c73c077": [
+    {
+      "src": "new_pipeline/assets/images/ch6/MAF_Ch6_Img5.png",
+      "alt": "Afbeelding 6.5: De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+      "figureNumber": "Afbeelding 6.5:",
+      "caption": "De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1027d9fe-eaf6-49b2-9a35-8c90f68c75d3": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.6.png",
+      "alt": "Afbeelding 6.6: De P-top op het ECG.",
+      "figureNumber": "Afbeelding 6.6:",
+      "caption": "De P-top op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "2656d759-ea12-42b2-a164-c65bf698ad09": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.7.png",
+      "alt": "Afbeelding 6.7: Het PR-interval op het ECG.",
+      "figureNumber": "Afbeelding 6.7:",
+      "caption": "Het PR-interval op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "e9e31830-39f3-4851-b03f-bebd76011fad": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.8.png",
+      "alt": "Afbeelding 6.8: Het QRS-complex op het ECG.",
+      "figureNumber": "Afbeelding 6.8:",
+      "caption": "Het QRS-complex op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

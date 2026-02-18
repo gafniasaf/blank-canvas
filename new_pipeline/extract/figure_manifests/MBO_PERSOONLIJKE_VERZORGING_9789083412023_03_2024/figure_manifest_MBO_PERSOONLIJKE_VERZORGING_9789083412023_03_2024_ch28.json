@@ -1,0 +1,186 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 1808
+  },
+  "chapter": "28",
+  "chapterRange": {
+    "endOff": 302,
+    "ok": true,
+    "startOff": 298
+  },
+  "exportedAt": "Sat Jan 03 2026 22:55:58 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼  Vul de kruik met heet water uit de kraan of met gekookt water dat is afgekoeld tot onder de 80°C.",
+        "beforeText": "￼  Controleer het rubber van de dop van de kruik. Een kapotte of uitgedroogde rubberen ring moet direct vervangen worden. Kijk ook naar eventuele zwakke plekken in de kruik.",
+        "pageDocumentOffset": 299,
+        "paragraphIndexInBodyStory": 5462,
+        "text": "￼  Plaats de kruik voor het vullen in de gootsteen of vlakke wasbak en gebruik eventueel een kruikvulstandaard om het verbranden van je vingers te voorkomen.",
+        "x": 102,
+        "y": 131.059665849475
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een warmwaterkruik is gemaakt van (hard) kunststof of metaal.",
+        "bounds": null,
+        "label": "Afbeelding 28.1:",
+        "raw": "Afbeelding 28.1 Een warmwaterkruik is gemaakt van (hard) kunststof of metaal.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          133.195210336771,
+          18.8999999152289,
+          230.665504134369,
+          89.0999999152289
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 28_28.1_Een warmwaterkruik is gemaakt van (hard) kunststof of metaal.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2028_28.1_Een%20warmwaterkruik%20is%20gemaakt%20van%20%28hard%29%20kunststof%20of%20metaal.tif"
+      },
+      "page": {
+        "documentOffset": 299,
+        "name": "286"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿28.2.2  Hoe gebruik je een warmwaterzak?",
+        "pageDocumentOffset": 300,
+        "paragraphIndexInBodyStory": 5472,
+        "text": "Een warmwaterzak is gemaakt van rubber. Deze zak vul je met heet water en sluit je af met een schroefdop. Wanneer je de warmwaterzak afsluit, krijgt deze een wat bolle vorm door het water.",
+        "x": 210,
+        "y": 72.7472222222303
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een warmwaterzak is gemaakt van rubber.",
+        "bounds": null,
+        "label": "Afbeelding 28.2:",
+        "raw": "Afbeelding 28.2 Een warmwaterzak is gemaakt van rubber.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          91.8431712963077,
+          223.921298217773,
+          128.361697296296,
+          274.078699797773
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 28_28.2_Een warmwaterzak is gemaakt van rubber.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2028_28.2_Een%20warmwaterzak%20is%20gemaakt%20van%20rubber.tif"
+      },
+      "page": {
+        "documentOffset": 300,
+        "name": "287"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een kruikenmoeder is een warmtekast gevuld met metalen kruiken die meteen klaar zijn voor gebruik. We gebruiken dit type kruik nog in intramurale zorginstellingen;",
+        "pageDocumentOffset": 300,
+        "paragraphIndexInBodyStory": 5492,
+        "text": "een elektrische kruik is oplaadbaar. De kruik wordt verwarmd zodra je de stekker in het stopcontact doet.",
+        "x": 302.999999830458,
+        "y": 182.78259459602
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een elektrische kruik is oplaadbaar en wordt verwarmd door middel van een stekker.",
+        "bounds": null,
+        "label": "Afbeelding 28.3:",
+        "raw": "Afbeelding 28.3 Een elektrische kruik is oplaadbaar en wordt verwarmd door middel van een stekker.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          196.939654781208,
+          306.487398423089,
+          235.00123126923,
+          365.512599212064
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 28_28.3_Een elektrische kruik is oplaadbaar en wordt verwarmd door middel van een stekker.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2028_28.3_Een%20elektrische%20kruik%20is%20oplaadbaar%20en%20wordt%20verwarmd%20door%20middel%20van%20een%20stekker.tif"
+      },
+      "page": {
+        "documentOffset": 300,
+        "name": "287"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "zorgvragers die niet goed temperatuur kunnen waarnemen;",
+        "pageDocumentOffset": 301,
+        "paragraphIndexInBodyStory": 5499,
+        "text": "zorgvragers die niet goed kunnen reageren wanneer de pittenzak te heet is.",
+        "x": 20.9999998304579,
+        "y": 86.3652214050375
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een kersenpittenzak wordt in de oven of magnetron verwarmd.",
+        "bounds": null,
+        "label": "Afbeelding 28.4:",
+        "raw": "Afbeelding 28.4 Een kersenpittenzak wordt in de oven of magnetron verwarmd.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          95.5833927013269,
+          15.0000011020236,
+          145.58339270134,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Cherry Heat Pads.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Cherry%20Heat%20Pads.png"
+      },
+      "page": {
+        "documentOffset": 301,
+        "name": "288"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je kan de volgende hulpmiddelen gebruiken voor warmte- of koudebehandelingen:",
+        "beforeText": "￼  Controleer de temperatuur van het hot-and-coldpack om de twee uur en verwissel het zo nodig. Indien het hot-and-coldpack koud is gemaakt, laat deze dan maximaal 20 minuten zitten.",
+        "pageDocumentOffset": 302,
+        "paragraphIndexInBodyStory": 5535,
+        "text": "Samenvatting",
+        "x": 297,
+        "y": 22.6387493557432
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wikkel altijd een doek om een hot-and-coldpack.",
+        "bounds": null,
+        "label": "Afbeelding 28.5:",
+        "raw": "Afbeelding 28.5 Wikkel altijd een doek om een hot-and-coldpack.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.0000000000032,
+          210.000001102024,
+          64.9159420289809,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 28_28.5_Gebruik een hot-and-coldpack altijd met een doek er omheen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2028_28.5_Gebruik%20een%20hot-and-coldpack%20altijd%20met%20een%20doek%20er%20omheen.tif"
+      },
+      "page": {
+        "documentOffset": 302,
+        "name": "289"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

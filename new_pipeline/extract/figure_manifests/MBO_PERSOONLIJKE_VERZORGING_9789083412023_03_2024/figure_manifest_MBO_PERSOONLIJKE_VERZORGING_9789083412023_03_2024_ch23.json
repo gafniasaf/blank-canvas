@@ -1,0 +1,390 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 5397
+  },
+  "chapter": "23",
+  "chapterRange": {
+    "endOff": 258,
+    "ok": true,
+    "startOff": 246
+  },
+  "exportedAt": "Sat Jan 03 2026 22:52:27 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Haal de banden van het tildoek van de stang van de tillift.",
+        "pageDocumentOffset": 253,
+        "paragraphIndexInBodyStory": 4572,
+        "text": "￼  Verwijder de tildoek door de zorgvrager wat voorover te laten zitten.",
+        "x": 15,
+        "y": 175.480555555551
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vergeet niet de zorgvrager schoenen aan te trekken bij een transfer van bed naar stoel.",
+        "bounds": null,
+        "label": "Afbeelding 23.10:",
+        "raw": "Afbeelding 23.10 Vergeet niet de zorgvrager schoenen aan te trekken bij een transfer van bed naar stoel.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          189.63761574074,
+          15.0000011020237,
+          228.173754807529,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.10_Vergeet niet de schoenen aan te trekken bij een transfer van bed naar stoel.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.10_Vergeet%20niet%20de%20schoenen%20aan%20te%20trekken%20bij%20een%20transfer%20van%20bed%20naar%20stoel.tif"
+      },
+      "page": {
+        "documentOffset": 253,
+        "name": "240"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "gaan zitten.",
+        "beforeText": "opstaan;",
+        "pageDocumentOffset": 255,
+        "paragraphIndexInBodyStory": 4629,
+        "text": "lopen;",
+        "x": 20.9999998304579,
+        "y": 158.830555555553
+      },
+      "asset": null,
+      "caption": {
+        "body": "Soms heeft een zorgvrager hulpmiddelen nodig om te lopen, zoals krukken.",
+        "bounds": null,
+        "label": "Afbeelding 23.11:",
+        "raw": "Afbeelding 23.11 Soms heeft een zorgvrager hulpmiddelen nodig om te lopen, zoals krukken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          159.51247620759,
+          102.500000190735,
+          235.331609422061,
+          179.500000190735
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.11_Soms heeft een zorgvrager hulpmiddelen nodig om te lopen, zoals krukken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.11_Soms%20heeft%20een%20zorgvrager%20hulpmiddelen%20nodig%20om%20te%20lopen%2C%20zoals%20krukken.tif"
+      },
+      "page": {
+        "documentOffset": 255,
+        "name": "242"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Breng je gewicht over naar de zorgvrager op het moment dat hij of zij zichzelf met de voeten op het matras afzet. Laat de zorgvrager zichzelf optrekken aan de papegaai als afzetten niet lukt.",
+        "pageDocumentOffset": 248,
+        "paragraphIndexInBodyStory": 4445,
+        "text": "￼  Leg de zorgvrager in een comfortabele houding.",
+        "x": 210,
+        "y": 161.294304911293
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zet het bed op een prettige werkhoogte.",
+        "bounds": null,
+        "label": "Afbeelding 23.1:",
+        "raw": "Afbeelding 23.1 Zet het bed op een prettige werkhoogte.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          176.451365096473,
+          210.000001102024,
+          217.446074091186,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.1_Zet het bed op een prettige werkhoogte.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.1_Zet%20het%20bed%20op%20een%20prettige%20werkhoogte.tif"
+      },
+      "page": {
+        "documentOffset": 248,
+        "name": "235"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Zorgvragers die niet mobiel zijn, bijvoorbeeld zorgvragers in mobiliteitsklasse D of E, kunnen hulp nodig hebben bij het draaien in bed. Door regelmatig in bed te draaien, heeft de zorgvrager minder kans op doorligplekken.",
+        "pageDocumentOffset": 248,
+        "paragraphIndexInBodyStory": 4452,
+        "text": "Volg de stappenplannen hieronder om de zorgvrager te ondersteunen bij het draaien naar de zij of de buik.",
+        "x": 297,
+        "y": 56.5263325161392
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een glijzeil of steeklaken beschermt het matras tegen vocht.",
+        "bounds": null,
+        "label": "Afbeelding 23.2:",
+        "raw": "Afbeelding 23.2 Een glijzeil of steeklaken beschermt het matras tegen vocht.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          65.7445038124338,
+          297.000001102024,
+          127.991228703265,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.2_Een glijzeil of steeklaken bescherm het matras tegen vocht.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.2_Een%20glijzeil%20of%20steeklaken%20bescherm%20het%20matras%20tegen%20vocht.tif"
+      },
+      "page": {
+        "documentOffset": 248,
+        "name": "235"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Zorg dat de zorgvrager comfortabel ligt. Plaats eventueel een kussen tussen zijn of haar armen en benen.",
+        "pageDocumentOffset": 249,
+        "paragraphIndexInBodyStory": 4468,
+        "text": "￼  Bevestig voor jezelf dat de armen van de zorgvrager niet onder zijn of haar lichaam liggen.",
+        "x": 15,
+        "y": 139.504816818233
+      },
+      "asset": null,
+      "caption": {
+        "body": "Buig de knieën van de zorgvrager en leg een hand op de heup en de schouder.",
+        "bounds": null,
+        "label": "Afbeelding 23.3:",
+        "raw": "Afbeelding 23.3 Buig de knieën van de zorgvrager en leg een hand op de heup en de schouder.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          158.600765892311,
+          15.0000011020236,
+          199.425722564758,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.3_Buig de knieën van de zorgvrager en leg een hand op de heup en de schouder.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.3_Buig%20de%20knie%C3%ABn%20van%20de%20zorgvrager%20en%20leg%20een%20hand%20op%20de%20heup%20en%20de%20schouder.tif"
+      },
+      "page": {
+        "documentOffset": 249,
+        "name": "236"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Zorg dat de zorgvrager comfortabel en stabiel ligt, met behulp van kussens. Plaats eventueel een kussen onder het hoofd, de buik en de voeten.",
+        "pageDocumentOffset": 249,
+        "paragraphIndexInBodyStory": 4480,
+        "text": "￼  Bevestig voor jezelf dat de armen van de zorgvrager niet onder het lichaam liggen.",
+        "x": 102,
+        "y": 166.233193800182
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zorg dat de armen bij een buikligging niet onder de zorgvrager liggen.",
+        "bounds": null,
+        "label": "Afbeelding 23.4:",
+        "raw": "Afbeelding 23.4 Zorg dat de armen bij een buikligging niet onder de zorgvrager liggen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          179.68469842981,
+          102.000001102024,
+          219.406920652036,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.4_Verzeker je dat de armen bij buikligging niet onder de zorgvrager liggen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.4_Verzeker%20je%20dat%20de%20armen%20bij%20buikligging%20niet%20onder%20de%20zorgvrager%20liggen.tif"
+      },
+      "page": {
+        "documentOffset": 249,
+        "name": "236"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Laat de zorgvrager nu zelf de afstandsbediening gebruiken.",
+        "pageDocumentOffset": 250,
+        "paragraphIndexInBodyStory": 4498,
+        "text": "￼  Geef de zorgvrager de aanwijzing om, wanneer hij of zij dat wil, de rugleuning omhoog te plaatsen.",
+        "x": 210,
+        "y": 172.92633251614
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een zorgvrager kun je met behulp van het bed tot zit laten komen.",
+        "bounds": null,
+        "label": "Afbeelding 23.5:",
+        "raw": "Afbeelding 23.5 Een zorgvrager kun je met behulp van het bed tot zit laten komen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          192.022281590212,
+          210.000001102024,
+          229.522281589993,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.5_Een zorgvrager kun je met behulp van het bed tot zitten laten komen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.5_Een%20zorgvrager%20kun%20je%20met%20behulp%20van%20het%20bed%20tot%20zitten%20laten%20komen.tif"
+      },
+      "page": {
+        "documentOffset": 250,
+        "name": "237"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Een touwladder als hulpmiddel",
+        "pageDocumentOffset": 250,
+        "paragraphIndexInBodyStory": 4503,
+        "text": "Een touwladder kan je gebruiken als de zorgvrager genoeg kracht in de armen heeft om zich hieraan op te trekken.",
+        "x": 297,
+        "y": 27.5776382446269
+      },
+      "asset": null,
+      "caption": {
+        "body": "Met behulp van een touwladder kan een immobiele zorgvrager tot zit komen in het bed zonder dat de zorgprofessional hem fysiek hoeft te ondersteunen.",
+        "bounds": null,
+        "label": "Afbeelding 23.6:",
+        "raw": "Afbeelding 23.6 Met behulp van een touwladder kan een immobiele zorgvrager tot zit komen in het bed zonder dat de zorgprofessional hem fysiek hoeft te ondersteunen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          41.7346984298103,
+          297.000001102024,
+          96.11378339713,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.6_Met behulp van een touwladder kan een immobiele zorgvrager tot zit komen in het bed zonder dat de zo.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.6_Met%20behulp%20van%20een%20touwladder%20kan%20een%20immobiele%20zorgvrager%20tot%20zit%20komen%20in%20het%20bed%20zonder%20dat%20de%20zo.tif"
+      },
+      "page": {
+        "documentOffset": 250,
+        "name": "237"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Laat de zorgvrager zichzelf aan de papegaai optrekken.",
+        "pageDocumentOffset": 251,
+        "paragraphIndexInBodyStory": 4519,
+        "text": "￼  Plaats de rugleuning van het bed omhoog wanneer de zorgvrager rechtop zit.",
+        "x": 15,
+        "y": 74.2109715779583
+      },
+      "asset": null,
+      "caption": {
+        "body": "Omhoogkomen met behulp van de papegaai.",
+        "bounds": null,
+        "label": "Afbeelding 23.7:",
+        "raw": "Afbeelding 23.7 Omhoogkomen met behulp van de papegaai.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          88.3680317631469,
+          15.0000011020236,
+          160.875074016668,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.7_Omhoogkomen met behulp van een papegaai.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.7_Omhoogkomen%20met%20behulp%20van%20een%20papegaai.tif"
+      },
+      "page": {
+        "documentOffset": 251,
+        "name": "238"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "We gebruiken een tillift bij de passieve verplaatsing van een zorgvrager in mobiliteitsklasse C of D van bed naar stoel. Hiervoor hebben we een tillift, rugbanden en een tildoek nodig.",
+        "beforeText": "Afbeelding 23.9 Gebruik van een hydraulische lift.",
+        "pageDocumentOffset": 252,
+        "paragraphIndexInBodyStory": 4550,
+        "text": "﻿23.2.1  Passieve transfer",
+        "x": 297,
+        "y": 100.771190162491
+      },
+      "asset": null,
+      "caption": {
+        "body": "Om een immobiele zorgvrager vanuit liggende positie op de rand van het bed te helpen, leg je een arm onder de schouder van de zorgvrager en een arm onder de dijen.",
+        "bounds": null,
+        "label": "Afbeelding 23.8:",
+        "raw": "Afbeelding 23.8 Om een immobiele zorgvrager vanuit liggende positie op de rand van het bed te helpen, leg je een arm onder de schouder van de zorgvrager en een arm onder de dijen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          98.4320601851845,
+          210.000001102024,
+          140.046001203953,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.8_Om een immobiele zorgvrager vanuit liggende positie op de rand van het bed te helpen, leg je een arm.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.8_Om%20een%20immobiele%20zorgvrager%20vanuit%20liggende%20positie%20op%20de%20rand%20van%20het%20bed%20te%20helpen%2C%20leg%20je%20een%20arm.tif"
+      },
+      "page": {
+        "documentOffset": 252,
+        "name": "239"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Neem een stevige houding aan. Leg één arm onder de schouders van de zorgvrager en één arm onder de dijen.",
+        "beforeText": "￼  Draai de zorgvrager op de zij, met zijn of haar hoofd naar de rand van het bed.",
+        "pageDocumentOffset": 252,
+        "paragraphIndexInBodyStory": 4538,
+        "text": "￼  Ga ter hoogte van de heup van de zorgvrager staan.",
+        "x": 210,
+        "y": 22.8249999999979
+      },
+      "asset": null,
+      "caption": {
+        "body": "Gebruik van een hydraulische lift.",
+        "bounds": null,
+        "label": "Afbeelding 23.9:",
+        "raw": "Afbeelding 23.9 Gebruik van een hydraulische lift.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          297.000001102024,
+          81.6600790513813,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 23_23.9_Gebruik van een hydraulische lift.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2023_23.9_Gebruik%20van%20een%20hydraulische%20lift.tif"
+      },
+      "page": {
+        "documentOffset": 252,
+        "name": "239"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

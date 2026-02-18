@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 46,
+    "words": 1701
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 73,
+    "ok": true,
+    "startOff": 66
+  },
+  "exportedAt": "Sat Jan 03 2026 00:39:32 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.1 Cyclus van klinisch redeneren.",
+        "beforeText": "In deze tabel staat het proces van klinisch redeneren uitgelegd per onderdeel:",
+        "pageDocumentOffset": 67,
+        "paragraphIndexInBodyStory": 14,
+        "text": "￼",
+        "x": 49.6062992125984,
+        "y": 502.589735968377
+      },
+      "asset": null,
+      "caption": {
+        "body": "Cyclus van klinisch redeneren.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 Cyclus van klinisch redeneren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          280.200278070406,
+          49.6062992125984,
+          502.589735968377,
+          424.090960164708
+        ],
+        "kind": "link",
+        "linkName": "Image 2.2 Cyclus van klinisch redeneren.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.2%20Cyclus%20van%20klinisch%20redeneren.tif"
+      },
+      "page": {
+        "documentOffset": 67,
+        "name": "54"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.2 SBAR.",
+        "beforeText": "Het ligt aan de situatie van de zorgvrager welk hulpmiddel je kan gebruiken. Probeer steeds te bedenken voor welke situatie je het hulpmiddel nodig hebt en welk hulpmiddel je daarbij kan gebruiken. Als je niet goed kan uitleggen waarom je een bepaald hulpmiddel nodig hebt, mag je deze niet gebruiken. In de tabel staan een aantal redeneerhulpmiddelen uitgelegd.",
+        "pageDocumentOffset": 69,
+        "paragraphIndexInBodyStory": 28,
+        "text": "￼",
+        "x": 21.1841397022638,
+        "y": 245.446886435493
+      },
+      "asset": null,
+      "caption": {
+        "body": "SBAR.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 SBAR.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          36,
+          21.1841397022638,
+          245.446886435493,
+          460.705611639472
+        ],
+        "kind": "link",
+        "linkName": "Image 2.3 SBAR.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Methodisch%20werken_9789083251394_03/Links/Image%202.3%20SBAR.tif"
+      },
+      "page": {
+        "documentOffset": 69,
+        "name": "56"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Methodisch werken_9789083251394_03/MBO Methodisch werken_9789083251394_03.2024.indd"
+}

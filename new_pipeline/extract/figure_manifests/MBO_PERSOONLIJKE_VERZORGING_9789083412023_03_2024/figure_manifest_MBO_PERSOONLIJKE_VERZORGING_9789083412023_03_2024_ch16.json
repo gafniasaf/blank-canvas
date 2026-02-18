@@ -1,0 +1,254 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 3536
+  },
+  "chapter": "16",
+  "chapterRange": {
+    "endOff": 200,
+    "ok": true,
+    "startOff": 190
+  },
+  "exportedAt": "Sat Jan 03 2026 22:48:56 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿16.1  Voedingsmiddelen",
+        "beforeText": "Je kent de hulpmiddelen waarmee zorgvragers zelfstandig kunnen blijven eten.",
+        "pageDocumentOffset": 190,
+        "paragraphIndexInBodyStory": 3309,
+        "text": "Je kent de verschillende zorgprofessionals die voor een gezonde voedingstoestand bij de zorgvrager kunnen zorgen door hem of haar persoonlijk te ondersteunen.",
+        "x": 224.000000111262,
+        "y": 107.102199366577
+      },
+      "asset": null,
+      "caption": {
+        "body": "Hoeveel categorieën van de Schijf van Vijf zijn vertegenwoordigd in deze afbeelding?",
+        "bounds": null,
+        "label": "Afbeelding 16.1:",
+        "raw": "Afbeelding 16.1 Hoeveel categorieën van de Schijf van Vijf zijn vertegenwoordigd in deze afbeelding?",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          120.320370662878,
+          292.891121843126,
+          206.6069925042,
+          379.108879660632
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.1_Hoeveel categorieen van de schijf van vijf zijn vertegenwoordigd in deze afbeelding.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.1_Hoeveel%20categorieen%20van%20de%20schijf%20van%20vijf%20zijn%20vertegenwoordigd%20in%20deze%20afbeelding.tif"
+      },
+      "page": {
+        "documentOffset": 190,
+        "name": "177"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "hartige snacks (zoals nootjes met zout en chips);",
+        "pageDocumentOffset": 192,
+        "paragraphIndexInBodyStory": 3360,
+        "text": "kant-en-klare kruidenmixen.",
+        "x": 221.999999830458,
+        "y": 137.821483484903
+      },
+      "asset": null,
+      "caption": {
+        "body": "Informeer zorgvragers over de relatie tussen een hoge bloeddruk en de inname van zout.",
+        "bounds": null,
+        "label": "Afbeelding 16.2:",
+        "raw": "Afbeelding 16.2  Informeer zorgvragers over de relatie tussen een hoge bloeddruk en de inname van zout.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          142.100765892308,
+          213.899999915229,
+          207.411111106173,
+          284.099999915229
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.2_Informeer zorgvragers over de relatie tussen een hoge bloedruk en de inname van keukenzout.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.2_Informeer%20zorgvragers%20over%20de%20relatie%20tussen%20een%20hoge%20bloedruk%20en%20de%20inname%20van%20keukenzout.tif"
+      },
+      "page": {
+        "documentOffset": 192,
+        "name": "179"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "vlees;",
+        "beforeText": "We schrijven een eiwitrijk dieet vaak voor in combinatie met een energierijk dieet. Zorgvragers die een eiwitrijk dieet volgen, moeten namelijk ook voldoende energie binnenkrijgen in de vorm van koolhydraten en vetten. Dit is nodig omdat de eiwitten uit het dieet anders worden gebruikt als brandstof terwijl ze bedoeld zijn voor de spieropbouw.",
+        "pageDocumentOffset": 194,
+        "paragraphIndexInBodyStory": 3432,
+        "text": "Een eiwitarm dieet is bedoeld voor sommige zorgvragers met nierziekten. Een volledig eiwitvrij dieet wordt nooit voorgeschreven, omdat het lichaam eiwitten nodig heeft om goed te kunnen functioneren. Bij het volgen van een eiwitarm dieet, mijden zorgvragers voedingsmiddelen als:",
+        "x": 297,
+        "y": 133.649261262679
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het meten van de bloedglucosewaarde bij een zorgvrager met diabetes kan gedaan worden door middel van een vingerprik.",
+        "bounds": null,
+        "label": "Afbeelding 16.3:",
+        "raw": "Afbeelding 16.3 Het meten van de bloedglucosewaarde bij een zorgvrager met diabetes kan gedaan worden door middel van een vingerprik.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          134.388948256877,
+          210.000001102024,
+          196.481053520038,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.3_Het meten van de bloedglucosewaarde bij een zorgvrager met diabetes kan gedaan worden door.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.3_Het%20meten%20van%20de%20bloedglucosewaarde%20bij%20een%20zorgvrager%20met%20diabetes%20kan%20gedaan%20worden%20door.tif"
+      },
+      "page": {
+        "documentOffset": 194,
+        "name": "181"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "dik vloeibaar. Deze voedingsmiddelen zijn nog dikker dan dun vloeibare middelen. Voorbeelden zijn volle yoghurt, vla en kwark. Deze middelen hebben ongeveer de dikte van honing.",
+        "pageDocumentOffset": 195,
+        "paragraphIndexInBodyStory": 3459,
+        "text": "Je kan alle voedingsmiddelen uit deze groepen innemen door ze te drinken. Dik vloeibare voedingsmiddelen kan je ook met een lepel eten.",
+        "x": 102,
+        "y": 163.988150151568
+      },
+      "asset": null,
+      "caption": {
+        "body": "Water is helder vloeibaar.",
+        "bounds": null,
+        "label": "Afbeelding 16.4:",
+        "raw": "Afbeelding 16.4 Water is helder vloeibaar.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          178.145210336756,
+          114.784747759501,
+          236.389991547279,
+          167.215251336049
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.4_Water is helder vloeibaar.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.4_Water%20is%20helder%20vloeibaar.tif"
+      },
+      "page": {
+        "documentOffset": 195,
+        "name": "182"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Als zorgprofessional moet je weten welke mogelijkheden bestaan om zorgvragers te helpen bij het eten. Hulpmiddelen die je bij het eten kan inzetten, vind je hieronder in tabel 16.1. In de kolom ‘indicatie’ staat welke kenmerken passen bij de zorgvrager die het hulpmiddel nodig heeft.",
+        "pageDocumentOffset": 197,
+        "paragraphIndexInBodyStory": 3473,
+        "text": "Voor bepaalde ziekten bestaan nog veel meer mogelijkheden voor aangepast servies en bestek. Denk aan het ‘liftware’-bestek voor zorgvragers met de ziekte van Parkinson. Dit bestek stabiliseert de trillingen van deze zorgvragers via elektronica in het handvat. Daarnaast bestaan speciale drinkbekers en vorken die gekoppeld zijn aan apps voor tablets of mobiele telefoons. Deze apps meten via slimme elektronica in de voorwerpen hoeveel voedingsstoffen de zorgvrager binnenkrijgt.-",
+        "x": 15,
+        "y": 22.6659279293464
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een aangepaste lepel.",
+        "bounds": null,
+        "label": "Afbeelding 16.5:",
+        "raw": "Afbeelding 16.5 Een aangepaste lepel.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          71.3952103367521,
+          19.3480211257935,
+          135.329545329665,
+          88.6519811187117
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.5_Een aangepaste lepel.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.5_Een%20aangepaste%20lepel.jpg"
+      },
+      "page": {
+        "documentOffset": 197,
+        "name": "184"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿16.3.2  Drinken",
+        "pageDocumentOffset": 197,
+        "paragraphIndexInBodyStory": 3477,
+        "text": "Voor zorgvragers bij wie drinken niet vanzelf gaat, bestaan ook voldoende hulpmiddelen om dit makkelijker te maken. Je vindt een aantal voorbeelden van deze hulpmiddelen in tabel 16.2.",
+        "x": 102,
+        "y": 29.3318880716957
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een beker met een neusuitsparing.",
+        "bounds": null,
+        "label": "Afbeelding 16.6:",
+        "raw": "Afbeelding 16.6 Een beker met een neusuitsparing.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          48.427837145768,
+          115.050221972995,
+          102.885347013102,
+          166.94977711232
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.6_Beker met een neusuitspraing.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.6_Beker%20met%20een%20neusuitspraing.tif"
+      },
+      "page": {
+        "documentOffset": 197,
+        "name": "184"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als zorgprofessional heb je wel wat kennis over goede voeding, maar de diëtist is een expert op dit gebied. Een diëtist weet bijvoorbeeld wanneer hulp van een arts nodig is en welke voeding of welk dieet het beste past bij een zorgvrager. Je kan via de huisarts een diëtist inschakelen als:",
+        "beforeText": "ergotherapeut.",
+        "pageDocumentOffset": 198,
+        "paragraphIndexInBodyStory": 3494,
+        "text": "﻿16.4.1  Diëtist",
+        "x": 297,
+        "y": 23.3929991828051
+      },
+      "asset": null,
+      "caption": {
+        "body": "Met behulp van een beker met een slokregulator kan een zorgvrager gedoseerd drinken.",
+        "bounds": null,
+        "label": "Afbeelding 16.7:",
+        "raw": "Afbeelding 16.7 Met behulp van een beker met een slokregulator kan een zorgvrager gedoseerd drinken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          210.000001102024,
+          83.8413736712984,
+          288.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk16_16.7_Met behulp van een beker met een slokregulator kan een zorgvrager gedoseerd drinken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk16_16.7_Met%20behulp%20van%20een%20beker%20met%20een%20slokregulator%20kan%20een%20zorgvrager%20gedoseerd%20drinken.tif"
+      },
+      "page": {
+        "documentOffset": 198,
+        "name": "185"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

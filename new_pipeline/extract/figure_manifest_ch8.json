@@ -1,0 +1,1127 @@
+{
+  "bodyStory": {
+    "index": 317,
+    "words": 13160
+  },
+  "chapter": "8",
+  "chapterRange": {
+    "endOff": 322,
+    "ok": true,
+    "startOff": 274
+  },
+  "exportedAt": "Thu Dec 25 2025 17:26:00 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "ondertongspeekselklier. We noemen deze ook wel de glandula sublingualis. Deze klier zit net iets hoger dan de onderkaakspeekselklieren. Hij zit ook net achter de derde kies. Uit deze speekselklier komen ongeveer twintig buisjes. Via deze buisjes komt het speeksel in de mond op verschillende plekken naast de tong en op de mondbodem.",
+        "beforeText": "oorspeekselklier. We noemen deze ook wel de glandula parotis. Deze klier zit aan de buitenkant van de onderkaak. De buisjes van de speekselklier lopen door de wang en het speeksel komt in de mond bij de tweede kies van de bovenkaak;",
+        "pageDocumentOffset": 286,
+        "paragraphIndexInBodyStory": 192,
+        "text": "onderkaakspeekselklier. Deze noemen we ook wel de glandula submandibularis. Deze klier zit aan de binnenkant van de onderkaak achter de derde kies. Het speeksel komt in de mond via de mondbodem;",
+        "x": 308.641666666603,
+        "y": 87.7333333333365
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ligging van de speekselklieren in de mondholte.",
+        "bounds": null,
+        "label": "Afbeelding 8.10:",
+        "raw": "Afbeelding 8.10 De ligging van de speekselklieren in de mondholte.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.10.png",
+        "bounds": [
+          105.055418636963,
+          207.997222222222,
+          238.537956834225,
+          320.440295541778
+        ],
+        "kind": "link",
+        "linkName": "MAF_Chp8_Img10.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Chp8_Img10.png"
+      },
+      "page": {
+        "documentOffset": 286,
+        "name": "268"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4 De slokdarmfase. Als het eten voorbij de bovenste kringspier is, gaat de slokdarm weer dicht. Het strotklepje gaat weer van de luchtpijp af, waardoor deze weer open is. Spieren in de slokdarm trekken in deze fase samen, waardoor het eten naar beneden beweegt. Dit proces noemen we peristaltiek. Het eten gaat door middel van de peristaltiek langzaam naar de maag toe. Aan de onderkant van de slokdarm zit nog een spier die we de onderste kringspier noemen. Als het voedsel aan de onderkant van de slokdarm is, ontspant de spier. Op deze manier kan het eten de maag ingaan. Als het eten voorbij de kringspier is, spant hij weer aan, waardoor de slokdarm dan weer dicht is. Dit is het einde van het slikproces.",
+        "beforeText": "2 De mondfase, ook wel de transportfase genoemd. Dit is tweede fase en hierin verplaats je het eten naar de achterkant van je tong. Als je daarna slikt, duw je het eten tegen het gehemelte. Het voedsel raakt dan de achterkant van de tong en de keelholte aan, waardoor de huig de neusholte af gaat sluiten. Deze fase is onwillekeurig. Dat betekent dat je hier geen invloed op hebt. Het gebeurt automatisch, daarom noemen we dit ook wel een reflex;",
+        "pageDocumentOffset": 289,
+        "paragraphIndexInBodyStory": 237,
+        "text": "3 De keelholtefase. Dit is de derde fase. In deze fase sluit de huig de neusholte af en sluit het strotklepje de luchtpijp af. Daarna trek je je tong naar achteren, zodat je het eten naar de slokdarm duwt. Aan de bovenkant van de slokdarm heb je een spier die we de bovenste kringspier noemen. Normaal houdt deze spier de slokdarm dicht, maar als het eten komt, zorgt de bovenste kringspier dat de slokdarm opengaat. Het eten gaat dan de slokdarm in. Deze fase is ook onwillekeurig en gaat dus via automatische reflexen;",
+        "x": 101.999999999937,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.11.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De eerste fase van slikken: de kauwfase.",
+        "bounds": null,
+        "label": "Afbeelding 8.11:",
+        "raw": "Afbeelding 8.11 De eerste fase van slikken: de kauwfase.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.11.png",
+        "bounds": [
+          13.3806375529171,
+          15.0000000000001,
+          126.472222222227,
+          93.0000000000001
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img11.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img11.png"
+      },
+      "page": {
+        "documentOffset": 289,
+        "name": "271"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "4 De slokdarmfase. Als het eten voorbij de bovenste kringspier is, gaat de slokdarm weer dicht. Het strotklepje gaat weer van de luchtpijp af, waardoor deze weer open is. Spieren in de slokdarm trekken in deze fase samen, waardoor het eten naar beneden beweegt. Dit proces noemen we peristaltiek. Het eten gaat door middel van de peristaltiek langzaam naar de maag toe. Aan de onderkant van de slokdarm zit nog een spier die we de onderste kringspier noemen. Als het voedsel aan de onderkant van de slokdarm is, ontspant de spier. Op deze manier kan het eten de maag ingaan. Als het eten voorbij de kringspier is, spant hij weer aan, waardoor de slokdarm dan weer dicht is. Dit is het einde van het slikproces.",
+        "beforeText": "2 De mondfase, ook wel de transportfase genoemd. Dit is tweede fase en hierin verplaats je het eten naar de achterkant van je tong. Als je daarna slikt, duw je het eten tegen het gehemelte. Het voedsel raakt dan de achterkant van de tong en de keelholte aan, waardoor de huig de neusholte af gaat sluiten. Deze fase is onwillekeurig. Dat betekent dat je hier geen invloed op hebt. Het gebeurt automatisch, daarom noemen we dit ook wel een reflex;",
+        "pageDocumentOffset": 289,
+        "paragraphIndexInBodyStory": 237,
+        "text": "3 De keelholtefase. Dit is de derde fase. In deze fase sluit de huig de neusholte af en sluit het strotklepje de luchtpijp af. Daarna trek je je tong naar achteren, zodat je het eten naar de slokdarm duwt. Aan de bovenkant van de slokdarm heb je een spier die we de bovenste kringspier noemen. Normaal houdt deze spier de slokdarm dicht, maar als het eten komt, zorgt de bovenste kringspier dat de slokdarm opengaat. Het eten gaat dan de slokdarm in. Deze fase is ook onwillekeurig en gaat dus via automatische reflexen;",
+        "x": 101.999999999937,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.12.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De tweede fase van slikken: de mondfase.",
+        "bounds": null,
+        "label": "Afbeelding 8.12:",
+        "raw": "Afbeelding 8.12 De tweede fase van slikken: de mondfase.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.12.png",
+        "bounds": [
+          13.7334153306949,
+          102,
+          125.472222221938,
+          179.999999999937
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img12.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img12.png"
+      },
+      "page": {
+        "documentOffset": 289,
+        "name": "271"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "8.2.8  De keelholte",
+        "beforeText": "3 De keelholtefase. Dit is de derde fase. In deze fase sluit de huig de neusholte af en sluit het strotklepje de luchtpijp af. Daarna trek je je tong naar achteren, zodat je het eten naar de slokdarm duwt. Aan de bovenkant van de slokdarm heb je een spier die we de bovenste kringspier noemen. Normaal houdt deze spier de slokdarm dicht, maar als het eten komt, zorgt de bovenste kringspier dat de slokdarm opengaat. Het eten gaat dan de slokdarm in. Deze fase is ook onwillekeurig en gaat dus via automatische reflexen;",
+        "pageDocumentOffset": 290,
+        "paragraphIndexInBodyStory": 238,
+        "text": "4 De slokdarmfase. Als het eten voorbij de bovenste kringspier is, gaat de slokdarm weer dicht. Het strotklepje gaat weer van de luchtpijp af, waardoor deze weer open is. Spieren in de slokdarm trekken in deze fase samen, waardoor het eten naar beneden beweegt. Dit proces noemen we peristaltiek. Het eten gaat door middel van de peristaltiek langzaam naar de maag toe. Aan de onderkant van de slokdarm zit nog een spier die we de onderste kringspier noemen. Als het voedsel aan de onderkant van de slokdarm is, ontspant de spier. Op deze manier kan het eten de maag ingaan. Als het eten voorbij de kringspier is, spant hij weer aan, waardoor de slokdarm dan weer dicht is. Dit is het einde van het slikproces.",
+        "x": 210,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.13.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De derde fase van slikken: de keelholtefase.",
+        "bounds": null,
+        "label": "Afbeelding 8.13:",
+        "raw": "Afbeelding 8.13 De derde fase van slikken: de keelholtefase.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.13.png",
+        "bounds": [
+          15.3695264415119,
+          209.99999999947,
+          125.472222221938,
+          287.99999999947
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img13.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img13.png"
+      },
+      "page": {
+        "documentOffset": 290,
+        "name": "272"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "We noemen de keelholte ook wel de farynx. Deze heeft drie delen, namelijk de:",
+        "beforeText": "4 De slokdarmfase. Als het eten voorbij de bovenste kringspier is, gaat de slokdarm weer dicht. Het strotklepje gaat weer van de luchtpijp af, waardoor deze weer open is. Spieren in de slokdarm trekken in deze fase samen, waardoor het eten naar beneden beweegt. Dit proces noemen we peristaltiek. Het eten gaat door middel van de peristaltiek langzaam naar de maag toe. Aan de onderkant van de slokdarm zit nog een spier die we de onderste kringspier noemen. Als het voedsel aan de onderkant van de slokdarm is, ontspant de spier. Op deze manier kan het eten de maag ingaan. Als het eten voorbij de kringspier is, spant hij weer aan, waardoor de slokdarm dan weer dicht is. Dit is het einde van het slikproces.",
+        "pageDocumentOffset": 290,
+        "paragraphIndexInBodyStory": 239,
+        "text": "8.2.8  De keelholte",
+        "x": 296.999999999937,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.14.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De vierde fase van slikken: de slokdarmfase.",
+        "bounds": null,
+        "label": "Afbeelding 8.14:",
+        "raw": "Afbeelding 8.14 De vierde fase van slikken: de slokdarmfase.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.14.png",
+        "bounds": [
+          13.8100661213185,
+          296.99999999947,
+          128.603219612828,
+          374.999999999407
+        ],
+        "kind": "link",
+        "linkName": "fourth phase.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/fourth%20phase.png"
+      },
+      "page": {
+        "documentOffset": 290,
+        "name": "272"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "strottenhoofd-keelholte. We noemen dit ook wel de laryngofarynx en deze holte ligt achter het bovenste deel van het strottenhoofd.",
+        "beforeText": "neuskeelholte. We noemen deze ook wel de nasofarynx. Deze holte ligt achter de neusholte. Als je ademhaalt, gaat lucht door de neusgaten naar de neusholte. De lucht komt daarna in de neuskeelholte, waar de neusamandel ligt. De neusamandel is een soort bobbeltje die het lichaam helpt om te vechten tegen bijvoorbeeld virussen of bacteriën. Meestal komt de neusamandel alleen voor bij kinderen;",
+        "pageDocumentOffset": 291,
+        "paragraphIndexInBodyStory": 242,
+        "text": "mondkeelholte. Deze noemen we ook wel de orofarynx en ligt achter de mondholte;",
+        "x": 22.0000000259609,
+        "y": 144.177777777781
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.15.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+        "bounds": null,
+        "label": "Afbeelding 8.15:",
+        "raw": "Afbeelding 8.15 De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.15.png",
+        "bounds": [
+          2.3645505657886,
+          39.9075651293209,
+          127.561111110848,
+          151.929377282228
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img7&15.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img7%2615.png"
+      },
+      "page": {
+        "documentOffset": 291,
+        "name": "273"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Als een zorgvrager een neusmaagsonde heeft, werkt bij hem of haar de onderste slokdarmkringspier niet meer goed. Dat komt doordat de slang zorgt dat de slokdarm niet meer helemaal dicht kan. Zorgvragers met een neusmaagsonde hebben daarom vaak last van reflux. Verder hebben zij ook een grotere kans om zich te verslikken, wat betekent dat het eten vanuit de maag in de longen terecht komt.",
+        "beforeText": "De onderste slokdarmkringspier knijpt de slokdarm dicht aan de onderkant, net boven de maag. Als het eten in je maag zit, wil je niet dat dit weer omhoog komt in de slokdarm. Doordat de onderste slokdarmkringspier samenknijpt, wordt de slokdarm afgesloten waardoor het eten niet omhoog kan gaan. Als het eten in de maag toch in de slokdarm komt, noemen we dit reflux.",
+        "pageDocumentOffset": 292,
+        "paragraphIndexInBodyStory": 254,
+        "text": "Een neusmaagsonde is een slangetje dat van de neus door de slokdarm naar de maag loopt. Deze sonde wordt vaak gegeven aan een zorgvrager die bijvoorbeeld kanker heeft gehad in zijn of haar slokdarm. Als gevolg van deze ziekte kan niet meer veel eten door de slokdarm heen, waardoor eten lastig wordt. Om dit op te lossen, wordt het slangetje in de slokdarm gezet zodat de zorgvrager op deze manier nog wel vloeibaar eten binnen kan krijgen.",
+        "x": 296.999999999937,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.16.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De slokdarm eindigt bij de onderste slokdarmkringspier waar de slokdarm overgaat in de maag.",
+        "bounds": null,
+        "label": "Afbeelding 8.16:",
+        "raw": "Afbeelding 8.16 De slokdarm eindigt bij de onderste slokdarmkringspier waar de slokdarm overgaat in de maag.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.16.png",
+        "bounds": [
+          4.52499999967323,
+          194.119444444444,
+          106.219200454719,
+          288.619444444444
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img16.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img16.png"
+      },
+      "page": {
+        "documentOffset": 292,
+        "name": "274"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "8.3.2  De maagwand",
+        "beforeText": "het maaglichaam. Dit deel noemen we ook wel het corpus. Het maaglichaam is het grootste deel van de maag en het loopt van boven naar beneden;",
+        "pageDocumentOffset": 293,
+        "paragraphIndexInBodyStory": 265,
+        "text": "de maagholte. Dit is het laatste deel van de maag en we noemen het ook wel het antrum. Aan het einde van de maagholte zit het maagportier vast. We noemen dit ook wel de pylorus. Dit is een spier tussen de maag en twaalfvingerige darm. Als deze spier opengaat, gaat het eten naar de dunne darm toe.",
+        "x": 109.000000026428,
+        "y": 127.244444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.17.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De anatomie van de maag.",
+        "bounds": null,
+        "label": "Afbeelding 8.17:",
+        "raw": "Afbeelding 8.17 De anatomie van de maag.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.17.png",
+        "bounds": [
+          11.350833333195,
+          64.8813937956465,
+          113.850833333508,
+          163.881393795646
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img17.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img17.png"
+      },
+      "page": {
+        "documentOffset": 293,
+        "name": "275"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De alvleesklier maakt ook sap, we noemen dit alvleeskliersap. Hierin zit een stof die het zure eten minder zuur maakt. Deze stof heet bicarbonaat. Het sap van de alvleesklier komt via een buisje in de twaalfvingerige darm terecht, waar bicarbonaat het eten minder zuur maakt. De twaalfvingerige darm is daardoor ook niet meer zuur, waardoor het maagportier weer opengaat en eten weer naar binnen mag. Dit proces gebeurt steeds opnieuw.",
+        "beforeText": "Het maagportier is een spier die we ook wel de pylorus noemen. Deze spier verbindt de maag met de twaalfvingerige darm en bepaalt hoeveel eten naar de twaalfvingerige darm mag. Het grootste deel van de dag zit het maagportier dicht. Als de spier opent, gaat het eten vanuit de maag naar de twaalfvingerige darm toe.",
+        "pageDocumentOffset": 296,
+        "paragraphIndexInBodyStory": 310,
+        "text": "Het eten in de maag is zuur door het zoutzuur dat in het maagsap zit. De twaalfvingerige darm is niet zuur. Als het eten van de maag hierin komt, wordt de twaalfvingerige darm ook zuur. Het maagportier sluit hierdoor weer.",
+        "x": 210,
+        "y": 144.177777777781
+      },
+      "asset": null,
+      "caption": {
+        "body": "De positie van de darmen in de buikholte.",
+        "bounds": null,
+        "label": "Afbeelding 8.18:",
+        "raw": "Afbeelding 8.18 De positie van de darmen in de buikholte.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          0,
+          200.5,
+          121.600000000003,
+          373
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img18 & 20 (1).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img18%20%26%2020%20%281%29.png"
+      },
+      "page": {
+        "documentOffset": 296,
+        "name": "278"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "nuchtere darm. Dit is het middelste deel van de dunne darm. We noemen dit ook wel het jejunum. De nuchtere darm is 2,5 m lang en verplaatst de meeste voedingsstoffen naar het bloed;",
+        "beforeText": "De dunne darm heeft drie delen, namelijk de:",
+        "pageDocumentOffset": 297,
+        "paragraphIndexInBodyStory": 319,
+        "text": "twaalfvingerige darm. Dit deel noemen we ook wel het duodenum. Dit is het eerste deel van de dunne darm dat vastzit aan de maag. Vanuit de maag verplaatst het eten zich naar de twaalfvingerige darm, een kort stuk dunne darm van 25 cm;",
+        "x": 22.0000000259609,
+        "y": 144.177777777791
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.19.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De dunne darm bestaat uit uitsteeksels die we villi noemen. Hier zitten ook weer kleine uitsteeksels op, die we microvilli noemen. Deze villi en microvilli maken de oppervlakte van de darm groter. Hierdoor kan voedsel makkelijker worden verteerd.",
+        "bounds": null,
+        "label": "Afbeelding 8.19:",
+        "raw": "Afbeelding 8.19 De dunne darm bestaat uit uitsteeksels die we villi noemen. Hier zitten ook weer kleine uitsteeksels op, die we microvilli noemen. Deze villi en microvilli maken de oppervlakte van de darm groter. Hierdoor kan voedsel makkelijker worden verteerd.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.19.png",
+        "bounds": [
+          16.4414150308093,
+          15.5347482000552,
+          102.419731196507,
+          94.3010727600552
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img19_a.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img19_a.png"
+      },
+      "page": {
+        "documentOffset": 297,
+        "name": "279"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Voedingsstoffen zijn alle:",
+        "beforeText": "afvalstoffen, stoffen die je lichaam niet gebruikt, uit je lichaam halen. Je verliest deze stoffen via de urine of ontlasting.",
+        "pageDocumentOffset": 275,
+        "paragraphIndexInBodyStory": 26,
+        "text": "8.1.2  De spijsvertering",
+        "x": 14.9999999994699,
+        "y": 206.266666666665
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Opbouw van het spijsverteringsstelsel.",
+        "bounds": null,
+        "label": "Afbeelding 8.1:",
+        "raw": "Afbeelding 8.1 Opbouw van het spijsverteringsstelsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.1.png",
+        "bounds": [
+          4.50737384963864,
+          23.4975613311047,
+          199.563888888897,
+          168.570844391554
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img1.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img1.png"
+      },
+      "page": {
+        "documentOffset": 275,
+        "name": "257"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "gal. Dit wordt gemaakt door de lever. Gal verteert vetten. Dit sap loopt via de galbuis naar de twaalfvingerige darm.",
+        "beforeText": "verteringsenzymen;",
+        "pageDocumentOffset": 299,
+        "paragraphIndexInBodyStory": 348,
+        "text": "natriumcarbonaat. Dit is een stofje dat het zure eten uit de maag minder zuur maakt.",
+        "x": 26.6416666661366,
+        "y": 104.66666666667
+      },
+      "asset": null,
+      "caption": {
+        "body": "De anatomie van de dikke darm.",
+        "bounds": null,
+        "label": "Afbeelding 8.20:",
+        "raw": "Afbeelding 8.20 De anatomie van de dikke darm.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          128.836888888898,
+          13.1504566666667,
+          248,
+          171.081306666667
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img18 & 20 (1).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img18%20%26%2020%20%281%29.png"
+      },
+      "page": {
+        "documentOffset": 299,
+        "name": "281"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "mineralen;",
+        "beforeText": "eiwitten;",
+        "pageDocumentOffset": 300,
+        "paragraphIndexInBodyStory": 357,
+        "text": "vetten;",
+        "x": 217.000000026491,
+        "y": 93.3777777777809
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.21.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "In de dikke darm zijn darmplooien (haustraties) te zien. Deze darmplooien ontstaan door banden van glad spierweefsel (teniae coli).",
+        "bounds": null,
+        "label": "Afbeelding 8.21:",
+        "raw": "Afbeelding 8.21 In de dikke darm zijn darmplooien (haustraties) te zien. Deze darmplooien ontstaan door banden van glad spierweefsel (teniae coli).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.21.png",
+        "bounds": [
+          94.086147743741,
+          297.009040782456,
+          230.499999999709,
+          383.00429911719
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img21.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img21.png"
+      },
+      "page": {
+        "documentOffset": 300,
+        "name": "282"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "bindweefsel. We noemen dit ook wel de lamina propria. Bindweefsel geeft steun aan de wand en bevat veel bloedvaten;",
+        "beforeText": "slijmvlieslaag. Dit is de binnenste laag. We noemen deze ook wel de mucosa. Een weefsel is een groep van dezelfde cellen die bij elkaar liggen. In de slijmvlieslaag zitten drie soorten weefsels:",
+        "pageDocumentOffset": 301,
+        "paragraphIndexInBodyStory": 373,
+        "text": "dekweefsel, Dit ook wel epitheel genoemd. Dit weefsel bedekt de open ruimte van de darm. Het bestaat uit speciale cellen die heel dicht bij elkaar liggen. In de darm laten deze cellen hele kleine deeltjes door. Op deze manier neemt de darmwand voedingsstoffen op die vervolgens in het bloed komen;",
+        "x": 26.6416666661366,
+        "y": 132.888888888892
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.22.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomie van de endeldarm. De anus heeft een inwendige en uitwendige kringspier. De uitwendige kringspier kun je bewust aanspannen en ontspannen. Op de inwendige kringspier heb je zelf geen invloed.",
+        "bounds": null,
+        "label": "Afbeelding 8.22:",
+        "raw": "Afbeelding 8.22 Anatomie van de endeldarm. De anus heeft een inwendige en uitwendige kringspier. De uitwendige kringspier kun je bewust aanspannen en ontspannen. Op de inwendige kringspier heb je zelf geen invloed.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.22.png",
+        "bounds": [
+          139.59166666667,
+          9.62895833333324,
+          313.511111111114,
+          169.599914583333
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img22.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img22.png"
+      },
+      "page": {
+        "documentOffset": 301,
+        "name": "283"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "De lever bestaat uit leverlobjes, kleine blokjes met zes hoeken. Deze lobjes bestaan weer uit levercellen, die we ook wel hepatocyten noemen. De levercellen zijn heel klein. Op elk hoekje van het leverlobje zit een lege ruimte in de vorm van een driehoek. Dit zijn de driehoekjes van Kiernan. In deze driehoekjes zitten:",
+        "beforeText": "galwegen. Dit zijn buizen waar gal doorheen loopt.",
+        "pageDocumentOffset": 304,
+        "paragraphIndexInBodyStory": 418,
+        "text": "8.5.2  Opbouw",
+        "x": 210,
+        "y": 138.533333333336
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.23.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ligging van de lever, alvleesklier en de galblaas ten opzichte van de twaalfvingerige darm. Gal wordt via de papil van Vater aan de twaalfvingerige darm afgegeven.",
+        "bounds": null,
+        "label": "Afbeelding 8.23:",
+        "raw": "Afbeelding 8.23 De ligging van de lever, alvleesklier en de galblaas ten opzichte van de twaalfvingerige darm. Gal wordt via de papil van Vater aan de twaalfvingerige darm afgegeven.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.23.png",
+        "bounds": [
+          14.7277511101441,
+          221.751534436932,
+          126.763888888588,
+          364.037429415905
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img23.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img23.png"
+      },
+      "page": {
+        "documentOffset": 304,
+        "name": "286"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "vitaminen;",
+        "beforeText": "suikers;",
+        "pageDocumentOffset": 305,
+        "paragraphIndexInBodyStory": 435,
+        "text": "mineralen;",
+        "x": 113.641666666603,
+        "y": 65.1555555555587
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.24.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bloedvoorziening van de lever.",
+        "bounds": null,
+        "label": "Afbeelding 8.24:",
+        "raw": "Afbeelding 8.24 De bloedvoorziening van de lever.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.24.png",
+        "bounds": [
+          64.9166666670772,
+          1.99999999999999,
+          168.916666666751,
+          86.7777777777777
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img24_Book.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img24_Book.png"
+      },
+      "page": {
+        "documentOffset": 305,
+        "name": "287"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "8.5.5  Suikerstofwisseling",
+        "beforeText": "Bijna alle voedingsstoffen uit je eten gaan naar de lever, behalve de grote vetten. De voedingsstoffen gaan via de poortader naar de lever. Je kunt de lever zien als een soort fabriek. Stel dat je allerlei onderdelen hebt om een telefoon te maken, dan zijn deze onderdelen de voedingsstoffen. De fabriek maakt daar vervolgens een telefoon van. In dit geval is de telefoon het eindproduct. De voedingsstoffen uit het eten veranderen dus in iets anders. De lever verplaatst het eindproduct van de voedingsstoffen weer naar het bloed. Dit proces noemen we de intermediaire stofwisseling.",
+        "pageDocumentOffset": 306,
+        "paragraphIndexInBodyStory": 448,
+        "text": "Om de voedingsstoffen te veranderen, gebruikt de lever enzymen. Alleen de lever heeft deze enzymen, wat betekent dat andere organen de voedingsstoffen dus niet kunnen veranderen. Daarom is het belangrijk dat de voedingsstoffen eerst naar de lever gaan, zodat hier een nieuw product uit wordt gemaakt.",
+        "x": 296.999999999937,
+        "y": 200.622222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.25.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het regelmechanisme voor bloedsuiker van het lichaam. Belangrijke hormonen hierbij zijn glucagon en insuline.",
+        "bounds": null,
+        "label": "Afbeelding 8.25:",
+        "raw": "Afbeelding 8.25 Het regelmechanisme voor bloedsuiker van het lichaam. Belangrijke hormonen hierbij zijn glucagon en insuline.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.25.png",
+        "bounds": [
+          153.859266587991,
+          256.120065639767,
+          175.48745067279,
+          317.643358388974
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch12_Img11.TIF",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch12_Img11.TIF"
+      },
+      "page": {
+        "documentOffset": 306,
+        "name": "288"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "vet;",
+        "beforeText": "De lever slaat een aantal stoffen op in de levercellen, zoals:",
+        "pageDocumentOffset": 310,
+        "paragraphIndexInBodyStory": 519,
+        "text": "glycogeen;",
+        "x": 304.000000026428,
+        "y": 149.822222222225
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.26.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De alvleesklier bestaat uit endocriene en exocriene cellen. De exocriene cellen scheiden verteringsenzymen uit. De endocriene cellen scheiden hormonen uit.",
+        "bounds": null,
+        "label": "Afbeelding 8.26:",
+        "raw": "Afbeelding 8.26 De alvleesklier bestaat uit endocriene en exocriene cellen. De exocriene cellen scheiden verteringsenzymen uit. De endocriene cellen scheiden hormonen uit.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.26.png",
+        "bounds": [
+          -10.9362319200623,
+          199,
+          129.884508070007,
+          365
+        ],
+        "kind": "link",
+        "linkName": "MAF_CH8_Img26.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_CH8_Img26.png"
+      },
+      "page": {
+        "documentOffset": 310,
+        "name": "292"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "8.6.2  Soorten klierweefsel",
+        "beforeText": "de staart. Deze komt tot aan de milt en ligt helemaal links in de buik.",
+        "pageDocumentOffset": 311,
+        "paragraphIndexInBodyStory": 531,
+        "text": "Aan de achterkant van de alvleesklier zit een buis die helemaal van de staart naar de kop loopt. We noemen deze buis de alvleesklierbuis. In deze buis zit verteringssap dat door de alvleesklier is gemaakt. Het verteringssap helpt om stukjes van het eten te verteren. De alvleesklierbuis gaat naar de papil van Vater, de opening naar de twaalfvingerige darm. Het verteringssap loopt via de papil van Vater de darm in.",
+        "x": 15,
+        "y": 70.8000000000032
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.27.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De opbouw van de galblaas. De galbuis en de alvleesklierbuis komen voor de papil van Vater samen.",
+        "bounds": null,
+        "label": "Afbeelding 8.27:",
+        "raw": "Afbeelding 8.27 De opbouw van de galblaas. De galbuis en de alvleesklierbuis komen voor de papil van Vater samen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.27.png",
+        "bounds": [
+          96.3471461246926,
+          -37.4184443012961,
+          240.896454244616,
+          176.426153600117
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img27.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img27.png"
+      },
+      "page": {
+        "documentOffset": 311,
+        "name": "293"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "8.7.1  Inleiding",
+        "beforeText": "Gal gaat de hele dag door van de lever naar de galblaas. Als je niet eet, bewaart de galblaas de gal. Als je wel eet, loopt de gal uit de lever en galblaas naar de galbuis toe.",
+        "pageDocumentOffset": 314,
+        "paragraphIndexInBodyStory": 568,
+        "text": "8.7  De voedingsstoffen",
+        "x": 209.99999999947,
+        "y": 127.244444444458
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.28.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Suikers kunnen zowel in ketens (disachariden en polysachariden) als enkelvoudig voorkomen (monosacharide).",
+        "bounds": null,
+        "label": "Afbeelding 8.28:",
+        "raw": "Afbeelding 8.28 Suikers kunnen zowel in ketens (disachariden en polysachariden) als enkelvoudig voorkomen (monosacharide).",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.28.png",
+        "bounds": [
+          60.3394116676768,
+          226.657235656728,
+          78.7397199800282,
+          247.270788600989
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img28_A_Mono-Saccharide.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img28_A_Mono-Saccharide.png"
+      },
+      "page": {
+        "documentOffset": 314,
+        "name": "296"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "glucose;",
+        "beforeText": "galactose.",
+        "pageDocumentOffset": 316,
+        "paragraphIndexInBodyStory": 619,
+        "text": "disachariden. Dit zijn twee monosachariden die aan elkaar vastzitten. Disachariden verplaatsen zich niet naar het bloed. Een voorbeeld van een disacharide is lactose, een combinatie van:",
+        "x": 217.000000025961,
+        "y": 138.533333333347
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.29.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Verzadigde en onverzadigde vetzuren.",
+        "bounds": null,
+        "label": "Afbeelding 8.29:",
+        "raw": "Afbeelding 8.29 Verzadigde en onverzadigde vetzuren.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.29.png",
+        "bounds": [
+          58.3033166253439,
+          300.596911718342,
+          122.421292276943,
+          349.382327974995
+        ],
+        "kind": "link",
+        "linkName": "MAF_Img29_Olive_Oil.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Img29_Olive_Oil.png"
+      },
+      "page": {
+        "documentOffset": 316,
+        "name": "298"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "spierweefsel. Dit noemen we ook wel de muscularis mucosa. De wand in de darm en maag loopt niet recht, maar zit als het ware in de kreukels. Dit komt door het spierweefsel;",
+        "beforeText": "dekweefsel, ook wel epitheel genoemd. Dit weefsel bedekt de open ruimte van de maag en de darm. Dekweefselcellen zijn speciale cellen die heel dicht bij elkaar liggen. In de maag liggen ze zo dicht op elkaar, dat zelfs hele kleine deeltjes niet door de laag heen kunnen bewegen. In de darm kunnen de dekweefselcellen echter wel hele kleine deeltjes doorlaten. Op deze manier kunnen voedingsstoffen en water wel via de darmwand in het bloed komen, maar niet via de maagwand;",
+        "pageDocumentOffset": 277,
+        "paragraphIndexInBodyStory": 46,
+        "text": "bindweefsel. We noemen dit ook wel de lamina propria. Dit weefsel geeft steun aan de wand en bevat veel bloedvaten;",
+        "x": 26.6416666661366,
+        "y": 138.533333333331
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De opbouw van de wand van de maag.",
+        "bounds": null,
+        "label": "Afbeelding 8.2:",
+        "raw": "Afbeelding 8.2 De opbouw van de wand van de maag.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.2.png",
+        "bounds": [
+          7.10111111086953,
+          26.2915687236997,
+          124.422222222215,
+          177.4215687237
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img2.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img2.png"
+      },
+      "page": {
+        "documentOffset": 277,
+        "name": "259"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "maagslagader. Deze noemen we ook wel de arteria gastrica;",
+        "beforeText": "Midden in het lichaam zit de grote lichaamsslagader waar arterieel bloed in zit, we noemen dit ook wel de aorta. Het deel van de grote lichaamsslagader dat door de buik loopt, noemen we de abdominale lichaamsslagader. Deze slagader brengt zuurstof naar het spijsverteringsstelsel door middel van aftakkingen van bloedvaten die vanuit de lichaamsslagader naar een ander deel van het lichaam lopen. Drie aftakkingen van de abdominale lichaamsslagader zijn de:",
+        "pageDocumentOffset": 278,
+        "paragraphIndexInBodyStory": 61,
+        "text": "ingewandslagader. Dit is de eerste aftakking en we noemen deze ook wel de truncus coeliacus. Het is een korte slagader die splitst in de:",
+        "x": 304.000000026428,
+        "y": 53.8666666666698
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De bloedvoorziening van de dikke darm.",
+        "bounds": null,
+        "label": "Afbeelding 8.3:",
+        "raw": "Afbeelding 8.3 De bloedvoorziening van de dikke darm.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.3.png",
+        "bounds": [
+          7.89383505027605,
+          195.944444444444,
+          167.826668582967,
+          283.838979359444
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img03.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img03.png"
+      },
+      "page": {
+        "documentOffset": 278,
+        "name": "260"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "nuchtere darm. Dit is het eerste deel van de dunne darm. We noemen dit deel ook wel het jejunum;",
+        "beforeText": "in de buikvliesholte liggen. Deze noemen we de intraperitoneale organen, wat betekent dat het buikvlies hier helemaal of voor een deel omheen zit. Deze organen zijn de:",
+        "pageDocumentOffset": 280,
+        "paragraphIndexInBodyStory": 98,
+        "text": "maag;",
+        "x": 221.641666666667,
+        "y": 149.822222222225
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vooraanzicht van de organen van het spijsverteringsstelsel.",
+        "bounds": null,
+        "label": "Afbeelding 8.4:",
+        "raw": "Afbeelding 8.4 Vooraanzicht van de organen van het spijsverteringsstelsel.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          4.93888888888889,
+          219.5,
+          120.894444444448,
+          360
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img18 & 20 (1).png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img18%20%26%2020%20%281%29.png"
+      },
+      "page": {
+        "documentOffset": 280,
+        "name": "262"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "alvleesklier;",
+        "beforeText": "afdalende darm. Dit is het deel van de dikke darm dat in de buikvliesholte van boven naar beneden loopt. We noemen het daarom ook wel het colon descendens;",
+        "pageDocumentOffset": 281,
+        "paragraphIndexInBodyStory": 115,
+        "text": "twaalfvingerige darm. We noemen dit ook wel het duodenum;",
+        "x": 26.6416667065088,
+        "y": 121.600000000013
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.5.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Ligging van de organen en structuren ten opzichte van het buikvlies.",
+        "bounds": null,
+        "label": "Afbeelding 8.5:",
+        "raw": "Afbeelding 8.5 Ligging van de organen en structuren ten opzichte van het buikvlies.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.5.png",
+        "bounds": [
+          -6.80819038741522,
+          11.5175453122373,
+          98.6694444444579,
+          190.015004687763
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img05.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img05.png"
+      },
+      "page": {
+        "documentOffset": 281,
+        "name": "263"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "maag;",
+        "beforeText": "groot vetschort. Een andere naam hiervoor is het omentum majus. Aan de ene kant zit het vast aan de maag en vanaf hier hangt het naar beneden. Vervolgens klapt het grote vetschort dubbel en gaat het terug omhoog. Hier zit het vast aan het dwarse deel van de dikke darm, het colon transversum. Het grote vetschort ligt aan de voorkant van de buik, tussen de organen en de buikwand, om de buik te beschermen. Als een zorgvrager bijvoorbeeld een ontsteking van zijn of haar dikke darm heeft, gaat het grote vetschort voor het ontstoken deel liggen. Op die manier beschermt het de rest van de buik tegen de ontsteking;",
+        "pageDocumentOffset": 282,
+        "paragraphIndexInBodyStory": 127,
+        "text": "klein vetschort. Een andere naam hiervoor is het omentum minus. Door dit vlies lopen veel bloedvaten en het zit vast aan drie organen, namelijk de:",
+        "x": 217.000000026491,
+        "y": 110.311111111114
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.6.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Anatomische ligging van de ruimte van Douglas.",
+        "bounds": null,
+        "label": "Afbeelding 8.6:",
+        "raw": "Afbeelding 8.6 Anatomische ligging van de ruimte van Douglas.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.6.png",
+        "bounds": [
+          18.7708333333261,
+          220.676602271478,
+          97.0152777777829,
+          371.806602271478
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img6.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img6.png"
+      },
+      "page": {
+        "documentOffset": 282,
+        "name": "264"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "achterste gehemeltebogen. Een andere naam hiervoor is de achterste farynxbogen. Deze bogen horen niet meer bij de mondholte, maar bij de keelholte.",
+        "beforeText": "Aan het einde van het zachte gehemelte zit in het midden de huig, we noemen dit ook wel de uvula. Bij sommige zorgvragers zie je de huig achterin hangen als een soort kleine boksbal als hij of zij de mond opendoet. Aan het eind van het zachte gehemelte lopen de zijkanten naar de bodem van de mond. Ze vormen twee bogen aan beide kanten, namelijk de:",
+        "pageDocumentOffset": 283,
+        "paragraphIndexInBodyStory": 144,
+        "text": "voorste gehemeltebogen. Deze bogen vormen de achterkant van de mondholte en we noemen ze ook wel de voorste farynxbogen;",
+        "x": 109.000000026428,
+        "y": 121.600000000003
+      },
+      "asset": null,
+      "caption": {
+        "body": "De anatomie van de mondholte.",
+        "bounds": null,
+        "label": "Afbeelding 8.7:",
+        "raw": "Afbeelding 8.7 De anatomie van de mondholte.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "bounds": [
+          -11.9999999999896,
+          46.099834065126,
+          111.388,
+          155.669084065126
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img7&15.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img7%2615.png"
+      },
+      "page": {
+        "documentOffset": 283,
+        "name": "265"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Je gebruikt de kaken om eten te kauwen en het voedsel af te breken in kleinere stukjes. We noemen dit mechanische afbraak van het voedsel.",
+        "beforeText": "bovenkaak. Dit is een bot in de vorm van een hoefijzer waaraan de boventanden vastzitten;",
+        "pageDocumentOffset": 284,
+        "paragraphIndexInBodyStory": 158,
+        "text": "onderkaak. Dit is ook een bot in de vorm van een hoefijzer waaraan de ondertanden vastzitten.",
+        "x": 304.000000026428,
+        "y": 25.6444444444476
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.8.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De ligging en anatomie van een tand. De kroon bevindt zich boven het tandvlees. De hals en wortel bevinden zich in het tandvlees en het kaakbot.",
+        "bounds": null,
+        "label": "Afbeelding 8.8:",
+        "raw": "Afbeelding 8.8 De ligging en anatomie van een tand. De kroon bevindt zich boven het tandvlees. De hals en wortel bevinden zich in het tandvlees en het kaakbot.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.8.png",
+        "bounds": [
+          23.1015337591517,
+          219.394641544034,
+          113.738944629307,
+          267.184615599469
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img8.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img8.png"
+      },
+      "page": {
+        "documentOffset": 284,
+        "name": "266"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "hals. Dit deel zie je niet. Het is bedekt met tandvlees;",
+        "beforeText": "Tanden en kiezen noemen we ook wel gebitselementen. Ze hebben allemaal een:",
+        "pageDocumentOffset": 285,
+        "paragraphIndexInBodyStory": 170,
+        "text": "kroon. Dit is het deel van de tand en de kies dat je ziet;",
+        "x": 22.0000000259609,
+        "y": 127.244444444448
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures/ch8/Afbeelding_8.9.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De namen van tanden en kiezen.",
+        "bounds": null,
+        "label": "Afbeelding 8.9:",
+        "raw": "Afbeelding 8.9 De namen van tanden en kiezen.",
+        "styleName": "_Annotation"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures/ch8/Afbeelding_8.9.png",
+        "bounds": [
+          -44.2055555555524,
+          21.9349999999999,
+          110.311111111114,
+          173.065
+        ],
+        "kind": "link",
+        "linkName": "MAF_Ch8_Img9.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20A%26F%204_9789083251370_03/Links/MAF_Ch8_Img9.png"
+      },
+      "page": {
+        "documentOffset": 285,
+        "name": "267"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO A&F 4_9789083251370_03/MBO A&F 4_9789083251370_03.2024.indd"
+}

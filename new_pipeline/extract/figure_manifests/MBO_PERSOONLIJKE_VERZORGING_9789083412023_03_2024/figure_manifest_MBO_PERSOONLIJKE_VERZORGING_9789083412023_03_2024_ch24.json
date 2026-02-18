@@ -1,0 +1,123 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 2221
+  },
+  "chapter": "24",
+  "chapterRange": {
+    "endOff": 266,
+    "ok": true,
+    "startOff": 260
+  },
+  "exportedAt": "Sat Jan 03 2026 22:53:10 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "Wanneer de zorgvrager merkt dat hij of zij meer zelf kan doen dan gedacht, kan dat heel goed zijn voor zijn of haar zelfvertrouwen.",
+        "beforeText": "geef de zorgvrager de gelegenheid iets eerst zelf te proberen. Neem het niet meteen over;",
+        "pageDocumentOffset": 261,
+        "paragraphIndexInBodyStory": 4745,
+        "text": "bepaal samen met de zorgvrager en mantelzorgers wat de zorgvrager en zijn of haar naasten zelf kunnen en waarbij hulp nodig is.",
+        "x": 20.9999998304579,
+        "y": 127.415927929347
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch24/Afbeelding_24.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Een ecogram is een schema van het sociale netwerk van de zorgvrager.",
+        "bounds": null,
+        "label": "Afbeelding 24.1:",
+        "raw": "Afbeelding 24.1 Een ecogram is een schema van het sociale netwerk van de zorgvrager.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch24/Afbeelding_24.1.png",
+        "bounds": [
+          137.399999994892,
+          15.2111559222013,
+          232.33358433019,
+          179.788844077799
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 24_24.1_Een ecogram is een schema van het sociale netwerk van de zorgvrager.png",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2024_24.1_Een%20ecogram%20is%20een%20schema%20van%20het%20sociale%20netwerk%20van%20de%20zorgvrager.png"
+      },
+      "page": {
+        "documentOffset": 261,
+        "name": "248"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "zich in bed willen verplaatsen, bijvoorbeeld hoger in het bed willen komen;",
+        "pageDocumentOffset": 263,
+        "paragraphIndexInBodyStory": 4779,
+        "text": "vanuit bed op de rand van het bed willen gaan zitten. Gebruik hiervoor liefst een papegaai die kan draaien.",
+        "x": 20.9999998304579,
+        "y": 138.588150151568
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een ziekenhuisbed met een papegaai.",
+        "bounds": null,
+        "label": "Afbeelding 24.2:",
+        "raw": "Afbeelding 24.2 Een ziekenhuisbed met een papegaai.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          152.745210336751,
+          15.0000011020237,
+          209.963203416337,
+          93.0000011020236
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 24_24.2_Een ziekenhuisbed met een papegaai.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2024_24.2_Een%20ziekenhuisbed%20met%20een%20papegaai.tif"
+      },
+      "page": {
+        "documentOffset": 263,
+        "name": "250"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij het douchen moet je opletten dat het opstalooprek door water en zeep erg glad kan worden. Dit kan gevaarlijk zijn. Sommige opstalooprekken kan je helemaal niet onder de douche gebruiken.",
+        "pageDocumentOffset": 264,
+        "paragraphIndexInBodyStory": 4819,
+        "text": "Voor mobiliteitsklasse C.",
+        "x": 297,
+        "y": 117.627039040456
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het gebruik van een opstalooprek.",
+        "bounds": null,
+        "label": "Afbeelding 24.3:",
+        "raw": "Afbeelding 24.3 Het gebruik van een opstalooprek.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          121.906321447866,
+          297.000001102024,
+          177.686463291841,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 24_24.3_Het gebruik van een opstalooprek.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2024_24.3_Het%20gebruik%20van%20een%20opstalooprek.tif"
+      },
+      "page": {
+        "documentOffset": 264,
+        "name": "251"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

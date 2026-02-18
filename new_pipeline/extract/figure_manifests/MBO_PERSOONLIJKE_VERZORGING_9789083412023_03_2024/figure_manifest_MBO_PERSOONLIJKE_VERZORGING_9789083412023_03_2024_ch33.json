@@ -1,0 +1,400 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 5204
+  },
+  "chapter": "33",
+  "chapterRange": {
+    "endOff": 352,
+    "ok": true,
+    "startOff": 340
+  },
+  "exportedAt": "Sat Jan 03 2026 22:59:32 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿33.4  Vouwen en opruimen van de was",
+        "beforeText": "vul de droger met maximaal één lading uit de wasmachine. Als je de droger te vol doet, wordt het wasgoed niet droog genoeg en kreukt het te veel;",
+        "pageDocumentOffset": 348,
+        "paragraphIndexInBodyStory": 6453,
+        "text": "lees van tevoren de handleiding voor meer informatie over de verschillende programma’s en hoe de bediening werkt.",
+        "x": 215.999999830458,
+        "y": 145.882594596015
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch33/Afbeelding_33.10.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het opvouwen van een overhemd.",
+        "bounds": null,
+        "label": "Afbeelding 33.10:",
+        "raw": "Afbeelding 33.10 Het opvouwen van een overhemd.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch33/Afbeelding_33.10.png",
+        "bounds": [
+          175.057108483215,
+          236.063444444444,
+          245.161108483215,
+          364.502777777778
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.10_Het opvouwen van een overhemd.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.10_Het%20opvouwen%20van%20een%20overhemd.tif"
+      },
+      "page": {
+        "documentOffset": 348,
+        "name": "335"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Vouw de mouw van deze kant naar beneden.",
+        "beforeText": "￼  Knoop het overhemd helemaal dicht. Hierdoor wordt het vouwen makkelijker. Leg het overhemd met de voorkant op de harde ondergrond.",
+        "pageDocumentOffset": 349,
+        "paragraphIndexInBodyStory": 6462,
+        "text": "￼  Vouw één kant (links of rechts) van het overhemd naar het midden. Doe dit in de lengterichting van het overhemd.",
+        "x": 15,
+        "y": 47.2861111111107
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wel of niet strijken?",
+        "bounds": null,
+        "label": "Afbeelding 33.11:",
+        "raw": "Afbeelding 33.11 Wel of niet strijken?",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          53.3667260346569,
+          102.000001102024,
+          69.2938783525374,
+          180.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.11_Wel of niet strijken.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.11_Wel%20of%20niet%20strijken.tif"
+      },
+      "page": {
+        "documentOffset": 349,
+        "name": "336"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Drogen (vierkant).",
+        "pageDocumentOffset": 340,
+        "paragraphIndexInBodyStory": 6248,
+        "text": "Strijken (strijkijzer).",
+        "x": 302.999999830458,
+        "y": 147.238888888895
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een waslabel in het wasgoed kan je helpen bij het sorteren van het wasgoed.",
+        "bounds": null,
+        "label": "Afbeelding 33.1:",
+        "raw": "Afbeelding 33.1 Een waslabel in het wasgoed kan je helpen bij het sorteren van het wasgoed.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          149.518171296303,
+          297.000001102024,
+          166.861700708059,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.1_Een waslabel in het wasgoed kan je helpen bij het sorteren van het wasgoed.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.1_Een%20waslabel%20in%20het%20wasgoed%20kan%20je%20helpen%20bij%20het%20sorteren%20van%20het%20wasgoed.tif"
+      },
+      "page": {
+        "documentOffset": 340,
+        "name": "327"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿33.1.2  Op kleur sorteren",
+        "beforeText": "Materialen voor de fijnwas, sommige synthetische stoffen en wol zijn gevoeliger dan katoen, en gaan daardoor sneller stuk. Katoen is juist vrij stevig. Daarom scheiden we het wasgoed in elk geval in katoen en niet-katoenen stoffen.",
+        "pageDocumentOffset": 341,
+        "paragraphIndexInBodyStory": 6259,
+        "text": "Je kan in het kledingetiket kijken om te weten te komen van welke stof een bepaald kledingstuk gemaakt is. Op het kledingetiket staat precies uit welke stoffen het kledingstuk is samengesteld.",
+        "x": 15,
+        "y": 39.9825945960173
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wel of niet wassen?",
+        "bounds": null,
+        "label": "Afbeelding 33.2:",
+        "raw": "Afbeelding 33.2 Wel of niet wassen?",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          31.8840992256512,
+          106.367101033529,
+          90.2532992256532,
+          175.632901033529
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.2_Wel of niet wassen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.2_Wel%20of%20niet%20wassen.tif"
+      },
+      "page": {
+        "documentOffset": 341,
+        "name": "328"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Kleurwasmiddel:￼",
+        "beforeText": "temperatuur: volg de waslabels van de kledingstukken en het programma op de wasmachine;",
+        "pageDocumentOffset": 342,
+        "paragraphIndexInBodyStory": 6284,
+        "text": "eigenschappen: zachter voor het wasgoed dan kleurwasmiddel en totaalwasmiddel;",
+        "x": 221.999999830458,
+        "y": 101.68936034513
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch33/Afbeelding_33.3.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Voorbeeld van een doseringstabel op een wasmiddelverpakking.",
+        "bounds": null,
+        "label": "Afbeelding 33.3:",
+        "raw": "Afbeelding 33.3 Voorbeeld van een doseringstabel op een wasmiddelverpakking.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_PERSOONLIJKE_VERZORGING_9789083412023_03_2024/ch33/Afbeelding_33.3.png",
+        "bounds": [
+          14.0845435269002,
+          216.5000331,
+          83.1391353005329,
+          368.4999669
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.3_Voorbeeld doseringstabel op een wasmiddelverpakking.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.3_Voorbeeld%20doseringstabel%20op%20een%20wasmiddelverpakking.tif"
+      },
+      "page": {
+        "documentOffset": 342,
+        "name": "329"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "een handdoek;",
+        "pageDocumentOffset": 343,
+        "paragraphIndexInBodyStory": 6318,
+        "text": "een wasrek of hangers om kleding op te hangen.",
+        "x": 20.9999998304579,
+        "y": 145.965927929357
+      },
+      "asset": null,
+      "caption": {
+        "body": "Alleen met de hand wassen.",
+        "bounds": null,
+        "label": "Afbeelding 33.4:",
+        "raw": "Afbeelding 33.4 Alleen met de hand wassen.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          150.245210336757,
+          27.9108328713311,
+          201.840083092279,
+          80.0891694544625
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.4_Alleen met de hand wassen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.4_Alleen%20met%20de%20hand%20wassen.tif"
+      },
+      "page": {
+        "documentOffset": 343,
+        "name": "330"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼  Voeg eventueel wasverzachter toe in het speciale wasverzachterbakje (zie hiervoor de handleiding van de wasmachine).",
+        "pageDocumentOffset": 345,
+        "paragraphIndexInBodyStory": 6371,
+        "text": "￼  Sluit de deur van de wasmachine en druk op start.",
+        "x": 15,
+        "y": 56.2250000000064
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wastobbesymbolen.",
+        "bounds": null,
+        "label": "Afbeelding 33.5:",
+        "raw": "Afbeelding 33.5 Wastobbesymbolen.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          70.3820601851847,
+          15.0000011020237,
+          89.9881537651625,
+          93.0000011020237
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.5_Wastobbesymbolen.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.5_Wastobbesymbolen.tif"
+      },
+      "page": {
+        "documentOffset": 345,
+        "name": "332"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼  Sluit de deur van de wasmachine en druk op start.",
+        "beforeText": "￼  Doseer het wasmiddel volgens het etiket op de verpakking van het wasmiddel.",
+        "pageDocumentOffset": 345,
+        "paragraphIndexInBodyStory": 6370,
+        "text": "￼  Voeg eventueel wasverzachter toe in het speciale wasverzachterbakje (zie hiervoor de handleiding van de wasmachine).",
+        "x": 15,
+        "y": 37.4083333333329
+      },
+      "asset": null,
+      "caption": {
+        "body": "Kleding met dit label moet professioneel gereinigd worden.",
+        "bounds": null,
+        "label": "Afbeelding 33.6:",
+        "raw": "Afbeelding 33.6 Kleding met dit label moet professioneel gereinigd worden.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          41.761877003429,
+          130.035666693582,
+          63.3518770034229,
+          151.964333360248
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.6_Kleding met dit label dient professioneel gereinigd te worden.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.6_Kleding%20met%20dit%20label%20dient%20professioneel%20gereinigd%20te%20worden.tif"
+      },
+      "page": {
+        "documentOffset": 345,
+        "name": "332"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "stop niet te weinig was in de wasmachine, want daardoor verspil je water en elektriciteit. Het kan ook zorgen dat de was niet schoon genoeg wordt;",
+        "beforeText": "gebruik niet te veel wasmiddel. Dit is verspilling en dus slecht voor het milieu. De was kan ook minder schoon worden dan je had verwacht;",
+        "pageDocumentOffset": 345,
+        "paragraphIndexInBodyStory": 6379,
+        "text": "meng grote en kleine kledingstukken met elkaar. Het wasgoed zal schoner worden, omdat het hierdoor beter kan bewegen;",
+        "x": 20.9999998304579,
+        "y": 152.490931542949
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wasgoed met dit label mag wel in de droger.",
+        "bounds": null,
+        "label": "Afbeelding 33.7:",
+        "raw": "Afbeelding 33.7 Wasgoed met dit label mag wel in de droger.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          155.595048299709,
+          128.499999904633,
+          178.885646590309,
+          153.499999904633
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.7_Wasgoed met dit label mag wel in de droger.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.7_Wasgoed%20met%20dit%20label%20mag%20wel%20in%20de%20droger.tif"
+      },
+      "page": {
+        "documentOffset": 345,
+        "name": "332"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "hang broeken aan de bovenkant op om afdrukken bij de uiteindes van de pijpen te voorkomen;",
+        "beforeText": "laat wat ruimte tussen het wasgoed. Als je dit niet doet, droogt het wasgoed minder snel;",
+        "pageDocumentOffset": 346,
+        "paragraphIndexInBodyStory": 6416,
+        "text": "hang T-shirts ondersteboven op, zodat je tijdens het dragen geen afdrukken bij de schouders ziet van de wasknijpers;",
+        "x": 302.999999830458,
+        "y": 90.7972222222286
+      },
+      "asset": null,
+      "caption": {
+        "body": "Wasgoed met dit label mag niet in de droger.",
+        "bounds": null,
+        "label": "Afbeelding 33.8:",
+        "raw": "Afbeelding 33.8 Wasgoed met dit label mag niet in de droger.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          99.3563214478708,
+          234.141000376807,
+          127.042321447864,
+          263.859000376807
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.8_Wasgoed met dit label mag niet in de droger.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.8_Wasgoed%20met%20dit%20label%20mag%20niet%20in%20de%20droger.tif"
+      },
+      "page": {
+        "documentOffset": 346,
+        "name": "333"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿33.3.2  In de droger drogen",
+        "pageDocumentOffset": 347,
+        "paragraphIndexInBodyStory": 6423,
+        "text": "Let bij het drogen in de droger weer goed op de symbolen van het waslabel.",
+        "x": 15,
+        "y": 29.3318880717008
+      },
+      "asset": null,
+      "caption": {
+        "body": "Op een lage of hoge temperatuur in de droger.",
+        "bounds": null,
+        "label": "Afbeelding 33.9:",
+        "raw": "Afbeelding 33.9 Op een lage of hoge temperatuur in de droger.",
+        "styleName": "•Fotobijschrift_2"
+      },
+      "image": {
+        "bounds": [
+          38.5500593679902,
+          25.086333656311,
+          66.3207260346573,
+          82.9136669896443
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 33_33.9_Op een lage of hoge temperatuur in de droger.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2033_33.9_Op%20een%20lage%20of%20hoge%20temperatuur%20in%20de%20droger.tif"
+      },
+      "page": {
+        "documentOffset": 347,
+        "name": "334"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

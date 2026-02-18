@@ -1,0 +1,5665 @@
+{
+  "version": 1,
+  "book_id": "MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024",
+  "generated_at": "2025-12-26T20:24:00",
+  "source": {
+    "idml_path": "/Users/asafgafni/Desktop/InDesign/TestRun/_source_exports/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024__FROM_DOWNLOADS.idml",
+    "note": "Skeleton generated from numbered headings in canonical IDML snapshot."
+  },
+  "entries": [
+    {
+      "key": "1.1",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "De methode ‘Praktijkgestuurd klinisch redeneren voor het mbo’",
+      "source_heading_text": "1.1 De methode ‘Praktijkgestuurd klinisch redeneren voor het mbo’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "1.2",
+      "kind": "paragraph",
+      "chapter": 1,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Waarom deze methode?",
+      "source_heading_text": "1.2 Waarom deze methode?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.1",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Wat is klinisch redeneren?",
+      "source_heading_text": "2.1 Wat is klinisch redeneren?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.2",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Klinisch redeneren en risico-inschatting",
+      "source_heading_text": "2.2 Klinisch redeneren en risico-inschatting",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Klinisch redeneren en interventies",
+      "source_heading_text": "2.3 Klinisch redeneren en interventies",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.3.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Ongewenste effecten van interventies",
+      "source_heading_text": "2.3.1 Ongewenste effecten van interventies",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.4",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Klinisch redeneren met kennis én ervaring",
+      "source_heading_text": "2.4 Klinisch redeneren met kennis én ervaring",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.4.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Welke kennis heb je nodig om klinisch te kunnen redeneren?",
+      "source_heading_text": "2.4.1 Welke kennis heb je nodig om klinisch te kunnen redeneren?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.5",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Waarom is klinisch redeneren belangrijk?",
+      "source_heading_text": "2.5 Waarom is klinisch redeneren belangrijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.6",
+      "kind": "paragraph",
+      "chapter": 2,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Hoe kom je erachter of wat je denkt ook waar is?",
+      "source_heading_text": "2.6 Hoe kom je erachter of wat je denkt ook waar is?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "2.6.1",
+      "kind": "subparagraph",
+      "chapter": 2,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Fouten in klinisch redeneren",
+      "source_heading_text": "2.6.1 Fouten in klinisch redeneren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.1",
+      "kind": "paragraph",
+      "chapter": 3,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Type I- en type II-denken",
+      "source_heading_text": "3.1 Type I- en type II-denken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2",
+      "kind": "paragraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Kritisch denken",
+      "source_heading_text": "3.2 Kritisch denken",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "3.2.1",
+      "kind": "subparagraph",
+      "chapter": 3,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Reflectievaardigheden bij het klinisch redeneren",
+      "source_heading_text": "3.2.1 Reflectievaardigheden bij het klinisch redeneren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "NANDA",
+      "source_heading_text": "4.1 NANDA",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Wanneer gebruik je het NANDA-systeem?",
+      "source_heading_text": "4.1.1 Wanneer gebruik je het NANDA-systeem?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.1.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "De opbouw van de NANDA-classificatie",
+      "source_heading_text": "4.1.2 De opbouw van de NANDA-classificatie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "NIC en NOC",
+      "source_heading_text": "4.2 NIC en NOC",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "NIC – Nursing Interventions Classification",
+      "source_heading_text": "4.2.1 NIC – Nursing Interventions Classification",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2.2",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "NOC – Nursing Outcome Classification",
+      "source_heading_text": "4.2.2 NOC – Nursing Outcome Classification",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.2.3",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "NIC en NOC in de praktijk",
+      "source_heading_text": "4.2.3 NIC en NOC in de praktijk",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.3",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "De PES-structuur",
+      "source_heading_text": "4.3 De PES-structuur",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Het Omaha System (OMAHA)",
+      "source_heading_text": "4.4 Het Omaha System (OMAHA)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.4.1",
+      "kind": "subparagraph",
+      "chapter": 4,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Toepassing van het Omaha System binnen klinisch redeneren",
+      "source_heading_text": "4.4.1 Toepassing van het Omaha System binnen klinisch redeneren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "4.5",
+      "kind": "paragraph",
+      "chapter": 4,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Klinisch redeneren en het gebruik van classificatiesystemen",
+      "source_heading_text": "4.5 Klinisch redeneren en het gebruik van classificatiesystemen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.1",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Wat zijn redeneerhulpen?",
+      "source_heading_text": "5.1 Wat zijn redeneerhulpen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2",
+      "kind": "paragraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Welke redeneerhulpen kun je gebruiken?",
+      "source_heading_text": "5.2 Welke redeneerhulpen kun je gebruiken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.1",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Het SBAR-overdrachtsprotocol als redeneerhulp",
+      "source_heading_text": "5.2.1 Het SBAR-overdrachtsprotocol als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.2",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "De SIRS-criteria als redeneerhulp",
+      "source_heading_text": "5.2.2 De SIRS-criteria als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.3",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "De Glasgow Coma Scale (GCS) en EMV-score als redeneerhulp",
+      "source_heading_text": "5.2.3 De Glasgow Coma Scale (GCS) en EMV-score als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.4",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "De AVPU-score als redeneerhulp",
+      "source_heading_text": "5.2.4 De AVPU-score als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.5",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "De ABCDE-methode als redeneerhulp",
+      "source_heading_text": "5.2.5 De ABCDE-methode als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "5.2.6",
+      "kind": "subparagraph",
+      "chapter": 5,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "De Early Warning Signs (EWS) als redeneerhulp",
+      "source_heading_text": "5.2.6 De Early Warning Signs (EWS) als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.1",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Wat zijn aandachtsgebieden?",
+      "source_heading_text": "6.1 Wat zijn aandachtsgebieden?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘psychosociaal functioneren’",
+      "source_heading_text": "6.2 Aandachtsgebied ‘psychosociaal functioneren’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.2.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "De ICF als redeneerhulp bij psychosociaal functioneren",
+      "source_heading_text": "6.2.1 De ICF als redeneerhulp bij psychosociaal functioneren",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’",
+      "source_heading_text": "6.3 Aandachtsgebied ‘alarmsymptomen en urgentie’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Triage, urgentie en alarmsymptomen",
+      "source_heading_text": "6.3.1 Triage, urgentie en alarmsymptomen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Triageprotocollen",
+      "source_heading_text": "6.3.2 Triageprotocollen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Gebruik van ingangsklachten en bevindingen bij het bepalen van de urgentie",
+      "source_heading_text": "6.3.3 Gebruik van ingangsklachten en bevindingen bij het bepalen van de urgentie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.3.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Triageprotocollen als redeneerhulp",
+      "source_heading_text": "6.3.4 Triageprotocollen als redeneerhulp",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘gegevens overdragen’",
+      "source_heading_text": "6.4 Aandachtsgebied ‘gegevens overdragen’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.4.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Handige toepassing: de Early Warning Signs (EWS) gebruiken in de SBAR",
+      "source_heading_text": "6.4.1 Handige toepassing: de Early Warning Signs (EWS) gebruiken in de SBAR",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘hypothesevorming’",
+      "source_heading_text": "6.5 Aandachtsgebied ‘hypothesevorming’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Welke vragen stel je tijdens de anamnese?",
+      "source_heading_text": "6.5.1 Welke vragen stel je tijdens de anamnese?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Klinisch redeneren met meerdere hypothesen",
+      "source_heading_text": "6.5.2 Klinisch redeneren met meerdere hypothesen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 3,
+      "title": "De waarschijnlijkheidshypothese",
+      "source_heading_text": "6.5.3 De waarschijnlijkheidshypothese",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.5.4",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 5,
+      "subparagraph": 4,
+      "title": "Klinisch redeneren met ingangsklachten",
+      "source_heading_text": "6.5.4 Klinisch redeneren met ingangsklachten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘orgaansystemen’",
+      "source_heading_text": "6.6 Aandachtsgebied ‘orgaansystemen’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.6.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "De Early Warning Signs als redeneerhulp bij de orgaansystemen",
+      "source_heading_text": "6.6.1 De Early Warning Signs als redeneerhulp bij de orgaansystemen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.7",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 7,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘beleid’",
+      "source_heading_text": "6.7 Aandachtsgebied ‘beleid’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.7.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 7,
+      "subparagraph": 1,
+      "title": "Aanvullend onderzoek als beleid",
+      "source_heading_text": "6.7.1 Aanvullend onderzoek als beleid",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.7.2",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 7,
+      "subparagraph": 2,
+      "title": "Beleid en veiligheid",
+      "source_heading_text": "6.7.2 Beleid en veiligheid",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.7.3",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 7,
+      "subparagraph": 3,
+      "title": "Redeneerhulpen bij het klinisch beleid",
+      "source_heading_text": "6.7.3 Redeneerhulpen bij het klinisch beleid",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "verdieping",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.8",
+      "kind": "paragraph",
+      "chapter": 6,
+      "paragraph": 8,
+      "subparagraph": null,
+      "title": "Aandachtsgebied ‘ethiek’",
+      "source_heading_text": "6.8 Aandachtsgebied ‘ethiek’",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "6.8.1",
+      "kind": "subparagraph",
+      "chapter": 6,
+      "paragraph": 8,
+      "subparagraph": 1,
+      "title": "Redeneerhulpen bij ethiek",
+      "source_heading_text": "6.8.1 Redeneerhulpen bij ethiek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: zwangerschapshypertensie",
+      "source_heading_text": "7.1 Casus: zwangerschapshypertensie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, bloed en stolling, vocht en elektrolyten",
+      "source_heading_text": "7.1.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, bloed en stolling, vocht en elektrolyten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: waar passen de klachten bij?",
+      "source_heading_text": "7.1.2 Aandachtsgebied ‘hypothesevorming’: waar passen de klachten bij?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek moeten we doen bij mevrouw Maas? eiwitten",
+      "source_heading_text": "7.1.3 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek moeten we doen bij mevrouw Maas? eiwitten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.4",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘orgaansystemen’: welke gevolgen kan pre-eclampsie hebben voor de organen van moeder en kind?placenta (moederkoek) verminderde voedingsstoffen nieren en de leverbloedvaten",
+      "source_heading_text": "7.1.4 Aandachtsgebied ‘orgaansystemen’: welke gevolgen kan pre-eclampsie hebben voor de organen van moeder en kind?placenta (moederkoek) verminderde voedingsstoffen nieren en de leverbloedvaten",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.5",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: waar passen de onderstaande bevindingen bij?",
+      "source_heading_text": "7.1.5 Aandachtsgebied ‘hypothesevorming’: waar passen de onderstaande bevindingen bij?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.6",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wanneer kan mevrouw Maas last krijgen van het HELLP-syndroom?",
+      "source_heading_text": "7.1.6 Aandachtsgebied ‘hypothesevorming’: wanneer kan mevrouw Maas last krijgen van het HELLP-syndroom?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.7",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om te voorkomen dat het HELLP-syndroom optreedt?",
+      "source_heading_text": "7.1.7 Aandachtsgebied ‘beleid’: wat moeten we doen om te voorkomen dat het HELLP-syndroom optreedt?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.8",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 8,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden van een HELLP-syndroom versterken?",
+      "source_heading_text": "7.1.8 Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden van een HELLP-syndroom versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.9",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 9,
+      "title": "Aandachtsgebied ‘hypothesevorming’: hoe beginnen de klachten bij het HELLP-syndroom?",
+      "source_heading_text": "7.1.9 Aandachtsgebied ‘hypothesevorming’: hoe beginnen de klachten bij het HELLP-syndroom?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.10",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 10,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek is nodig om het vermoeden op het HELLP-syndroom te bevestigen?",
+      "source_heading_text": "7.1.10 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek is nodig om het vermoeden op het HELLP-syndroom te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.11",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 11,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt het HELLP-syndroom behandeld?",
+      "source_heading_text": "7.1.11 Aandachtsgebied ‘beleid’: hoe wordt het HELLP-syndroom behandeld?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.12",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 12,
+      "title": "Aandachtsgebied ‘ethiek’: wanneer kiezen we ervoor om het kindje geboren te laten worden?",
+      "source_heading_text": "7.1.12 Aandachtsgebied ‘ethiek’: wanneer kiezen we ervoor om het kindje geboren te laten worden?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.1.13",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 1,
+      "subparagraph": 13,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt het kindje geboren? Met welke complicaties moeten we rekening houden?",
+      "source_heading_text": "7.1.13 Aandachtsgebied ‘beleid’: hoe wordt het kindje geboren? Met welke complicaties moeten we rekening houden?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: stuipen tijdens zwangerschap",
+      "source_heading_text": "7.2 Casus: stuipen tijdens zwangerschap",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘hypothesevorming’: waar passen de stuipen bij?",
+      "source_heading_text": "7.2.1 Aandachtsgebied ‘hypothesevorming’: waar passen de stuipen bij?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2.2",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wat is de kans dat eclampsie optreedt? Welke alarmsymptomen gaan hieraan vooraf? Hoe snel moeten we ingrijpen?",
+      "source_heading_text": "7.2.2 Aandachtsgebied ‘alarmsymptomen en urgentie’: wat is de kans dat eclampsie optreedt? Welke alarmsymptomen gaan hieraan vooraf? Hoe snel moeten we ingrijpen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.2.3",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: hoe behandelen we eclampsie? Welke complicaties kunnen we verwachten?",
+      "source_heading_text": "7.2.3 Aandachtsgebied ‘beleid’: hoe behandelen we eclampsie? Welke complicaties kunnen we verwachten?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.3",
+      "kind": "paragraph",
+      "chapter": 7,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: nieuwe zwangerschap na HELLP-syndroom",
+      "source_heading_text": "7.3 Casus: nieuwe zwangerschap na HELLP-syndroom",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "7.3.1",
+      "kind": "subparagraph",
+      "chapter": 7,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is behandeling van zwangerschapshypertensie niet direct noodzakelijk?",
+      "source_heading_text": "7.3.1 Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is behandeling van zwangerschapshypertensie niet direct noodzakelijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: hyperthyreoïdie (te snel werkende schildklier)",
+      "source_heading_text": "8.1 Casus: hyperthyreoïdie (te snel werkende schildklier)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: endocrien systeem (hormoonstelsel)",
+      "source_heading_text": "8.1.1 Aandachtsgebied ‘orgaansystemen’: endocrien systeem (hormoonstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘orgaansystemen’: afweerstelsel, endocrien systeem (hormoonstelsel)",
+      "source_heading_text": "8.1.2 Aandachtsgebied ‘orgaansystemen’: afweerstelsel, endocrien systeem (hormoonstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.3",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hyperthyreoïdie?",
+      "source_heading_text": "8.1.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hyperthyreoïdie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.4",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt hyperthyreoïdie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hyperthyreoïdie te bevestigen?",
+      "source_heading_text": "8.1.4 Aandachtsgebied ‘beleid’: hoe wordt hyperthyreoïdie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hyperthyreoïdie te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.1.5",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om hyperthyreoïdie te behandelen?",
+      "source_heading_text": "8.1.5 Aandachtsgebied ‘beleid’: wat moeten we doen om hyperthyreoïdie te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: hypothyreoïdie",
+      "source_heading_text": "8.2 Casus: hypothyreoïdie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: endocrien systeem (hormoonstelsel)",
+      "source_heading_text": "8.2.1 Aandachtsgebied ‘orgaansystemen’: endocrien systeem (hormoonstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "source_heading_text": "8.2.2 Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.3",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hypothyreoïdie?",
+      "source_heading_text": "8.2.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hypothyreoïdie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.4",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt hypothyreoïdie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hypothyreoïdie te bevestigen?",
+      "source_heading_text": "8.2.4 Aandachtsgebied ‘beleid’: hoe wordt hypothyreoïdie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hypothyreoïdie te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.2.5",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om hypothyreoïdie te behandelen?",
+      "source_heading_text": "8.2.5 Aandachtsgebied ‘beleid’: wat moeten we doen om hypothyreoïdie te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3",
+      "kind": "paragraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: suikerziekte (diabetes)",
+      "source_heading_text": "8.3 Casus: suikerziekte (diabetes)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.1",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: endocrien stelsel (hormoonstelsel)",
+      "source_heading_text": "8.3.1 Aandachtsgebied ‘orgaansystemen’: endocrien stelsel (hormoonstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.2",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij diabetes?",
+      "source_heading_text": "8.3.2 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij diabetes?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.3",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt diabetes gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op diabetes te bevestigen?",
+      "source_heading_text": "8.3.3 Aandachtsgebied ‘beleid’: hoe wordt diabetes gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op diabetes te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "8.3.4",
+      "kind": "subparagraph",
+      "chapter": 8,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om diabetes te behandelen?",
+      "source_heading_text": "8.3.4 Aandachtsgebied ‘beleid’: wat moeten we doen om diabetes te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1",
+      "kind": "paragraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: maagzweer",
+      "source_heading_text": "9.1 Casus: maagzweer",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.1",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "source_heading_text": "9.1.1 Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.2",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "source_heading_text": "9.1.2 Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.3",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat zijn de oorzaken van een maagzweer?",
+      "source_heading_text": "9.1.3 Aandachtsgebied ‘hypothesevorming’: wat zijn de oorzaken van een maagzweer?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.4",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij een maagzweer?",
+      "source_heading_text": "9.1.4 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij een maagzweer?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.5",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": ". Aandachtsgebied ‘beleid’: hoe wordt een maagzweer gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op een maagzweer te bevestigen?",
+      "source_heading_text": "9.1.5. Aandachtsgebied ‘beleid’: hoe wordt een maagzweer gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op een maagzweer te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.6",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een maagzweer te behandelen?",
+      "source_heading_text": "9.1.6 Aandachtsgebied ‘beleid’: wat moeten we doen om een maagzweer te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.1.7",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 1,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een maagzweer en wanneer is direct medisch handelen noodzakelijk?",
+      "source_heading_text": "9.1.7 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een maagzweer en wanneer is direct medisch handelen noodzakelijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2",
+      "kind": "paragraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: diarree",
+      "source_heading_text": "9.2 Casus: diarree",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.1",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "source_heading_text": "9.2.1 Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.2",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat zijn de oorzaken van acute diarree?",
+      "source_heading_text": "9.2.2 Aandachtsgebied ‘hypothesevorming’: wat zijn de oorzaken van acute diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.3",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke aandoeningen van het maag-darmkanaal kunnen chronische diarree veroorzaken?",
+      "source_heading_text": "9.2.3 Aandachtsgebied ‘hypothesevorming’: welke aandoeningen van het maag-darmkanaal kunnen chronische diarree veroorzaken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.4",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van chronische diarree?",
+      "source_heading_text": "9.2.4 Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van chronische diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.5",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van chronische diarree?",
+      "source_heading_text": "9.2.5 Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van chronische diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.6",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van diarree?",
+      "source_heading_text": "9.2.6 Aandachtsgebied ‘hypothesevorming’: wat zijn andere oorzaken van diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.7",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij diarree?",
+      "source_heading_text": "9.2.7 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.8",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 8,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan worden ingezet om de oorzaak van diarree te achterhalen?",
+      "source_heading_text": "9.2.8 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan worden ingezet om de oorzaak van diarree te achterhalen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.9",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 9,
+      "title": "Aandachtsgebied ‘beleid’: wat kunnen we doen om diarree te behandelen?",
+      "source_heading_text": "9.2.9 Aandachtsgebied ‘beleid’: wat kunnen we doen om diarree te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.10",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 10,
+      "title": "Aandachtsgebied ‘beleid’: welke adviezen worden gegeven om uitdroging te voorkomen?",
+      "source_heading_text": "9.2.10 Aandachtsgebied ‘beleid’: welke adviezen worden gegeven om uitdroging te voorkomen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.2.11",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 2,
+      "subparagraph": 11,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij diarree?",
+      "source_heading_text": "9.2.11 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij diarree?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.3",
+      "kind": "paragraph",
+      "chapter": 9,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: blindedarmontsteking (appendicitis)",
+      "source_heading_text": "9.3 Casus: blindedarmontsteking (appendicitis)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.3.1",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "source_heading_text": "9.3.1 Aandachtsgebied ‘orgaansystemen’: spijsverteringsstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.3.2",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij blindedarmontsteking?",
+      "source_heading_text": "9.3.2 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij blindedarmontsteking?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.3.3",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om blindedarmontsteking te behandelen?",
+      "source_heading_text": "9.3.3 Aandachtsgebied ‘beleid’: wat moeten we doen om blindedarmontsteking te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "9.3.4",
+      "kind": "subparagraph",
+      "chapter": 9,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hoe snel moeten we ingrijpen bij een blindedarmontsteking?",
+      "source_heading_text": "9.3.4 Aandachtsgebied ‘alarmsymptomen en urgentie’: hoe snel moeten we ingrijpen bij een blindedarmontsteking?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.1",
+      "kind": "paragraph",
+      "chapter": 10,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: COPD",
+      "source_heading_text": "10.1 Casus: COPD",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.1.1",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: respiratoir systeem (ademhalingsstelsel)",
+      "source_heading_text": "10.1.1 Aandachtsgebied ‘orgaansystemen’: respiratoir systeem (ademhalingsstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.1.2",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij COPD?",
+      "source_heading_text": "10.1.2 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij COPD?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.1.3",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op COPD te bevestigen?",
+      "source_heading_text": "10.1.3 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op COPD te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.1.4",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om COPD te behandelen?",
+      "source_heading_text": "10.1.4 Aandachtsgebied ‘beleid’: wat moeten we doen om COPD te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.2",
+      "kind": "paragraph",
+      "chapter": 10,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: astma",
+      "source_heading_text": "10.2 Casus: astma",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.2.1",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: respiratoir systeem (ademhalingsstelsel)",
+      "source_heading_text": "10.2.1 Aandachtsgebied ‘orgaansystemen’: respiratoir systeem (ademhalingsstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.2.2",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij astma?",
+      "source_heading_text": "10.2.2 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij astma?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.2.3",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op astma te bevestigen?",
+      "source_heading_text": "10.2.3 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op astma te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "10.2.4",
+      "kind": "subparagraph",
+      "chapter": 10,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: Wat moeten we doen om astma te behandelen?",
+      "source_heading_text": "10.2.4 Aandachtsgebied ‘beleid’: Wat moeten we doen om astma te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1",
+      "kind": "paragraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: urineretentie",
+      "source_heading_text": "11.1 Casus: urineretentie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1.1",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: urinewegstelsel",
+      "source_heading_text": "11.1.1 Aandachtsgebied ‘orgaansystemen’: urinewegstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1.2",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij urineretentie?",
+      "source_heading_text": "11.1.2 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij urineretentie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1.3",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "source_heading_text": "11.1.3 Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1.4",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden van urineretentie versterken?",
+      "source_heading_text": "11.1.4 Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden van urineretentie versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.1.5",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om urineretentie te behandelen?",
+      "source_heading_text": "11.1.5 Aandachtsgebied ‘beleid’: wat moeten we doen om urineretentie te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2",
+      "kind": "paragraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: hematurie",
+      "source_heading_text": "11.2 Casus: hematurie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2.1",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: urinewegstelsel",
+      "source_heading_text": "11.2.1 Aandachtsgebied ‘orgaansystemen’: urinewegstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2.2",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "source_heading_text": "11.2.2 Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2.3",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: met welke klachten kan hematurie gepaard gaan?",
+      "source_heading_text": "11.2.3 Aandachtsgebied ‘hypothesevorming’: met welke klachten kan hematurie gepaard gaan?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2.4",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt hematurie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hematurie te bevestigen?",
+      "source_heading_text": "11.2.4 Aandachtsgebied ‘beleid’: hoe wordt hematurie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op hematurie te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.2.5",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om hematurie te behandelen?",
+      "source_heading_text": "11.2.5 Aandachtsgebied ‘beleid’: wat moeten we doen om hematurie te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.3",
+      "kind": "paragraph",
+      "chapter": 11,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: nierstenen",
+      "source_heading_text": "11.3 Casus: nierstenen",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.3.1",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "source_heading_text": "11.3.1 Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.3.2",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij nierstenen?",
+      "source_heading_text": "11.3.2 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij nierstenen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.3.3",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om nierstenen te behandelen?",
+      "source_heading_text": "11.3.3 Aandachtsgebied ‘beleid’: wat moeten we doen om nierstenen te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "11.3.4",
+      "kind": "subparagraph",
+      "chapter": 11,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: welke adviezen worden gegeven om herhaling van een niersteenaanval te voorkomen?",
+      "source_heading_text": "11.3.4 Aandachtsgebied ‘beleid’: welke adviezen worden gegeven om herhaling van een niersteenaanval te voorkomen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1",
+      "kind": "paragraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: beroerte (CVA)",
+      "source_heading_text": "12.1 Casus: beroerte (CVA)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.1",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel)",
+      "source_heading_text": "12.1.1 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.2",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wat is de meest waarschijnlijke oorzaak voor de beroerte? Welke andere oorzaken overweeg je?",
+      "source_heading_text": "12.1.2 Aandachtsgebied ‘hypothesevorming’: wat is de meest waarschijnlijke oorzaak voor de beroerte? Welke andere oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.3",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij een beroerte? In welke hersenhelft bevindt de beroerte zich waarschijnlijk en waarom?",
+      "source_heading_text": "12.1.3 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij een beroerte? In welke hersenhelft bevindt de beroerte zich waarschijnlijk en waarom?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.4",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hoe snel moeten we ingrijpen bij tekenen van een beroerte?",
+      "source_heading_text": "12.1.4 Aandachtsgebied ‘alarmsymptomen en urgentie’: hoe snel moeten we ingrijpen bij tekenen van een beroerte?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.5",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden op een beroerte versterken?",
+      "source_heading_text": "12.1.5 Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden op een beroerte versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.6",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een beroerte te behandelen?",
+      "source_heading_text": "12.1.6 Aandachtsgebied ‘beleid’: wat moeten we doen om een beroerte te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.1.7",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 1,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘psychosociaal’: wat kunnen we verwachten van de kwaliteit van leven na het doormaken van een beroerte?",
+      "source_heading_text": "12.1.7 Aandachtsgebied ‘psychosociaal’: wat kunnen we verwachten van de kwaliteit van leven na het doormaken van een beroerte?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2",
+      "kind": "paragraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: epilepsie",
+      "source_heading_text": "12.2 Casus: epilepsie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.1",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel",
+      "source_heading_text": "12.2.1 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.2",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke vorm van epilepsie is het meest waarschijnlijk? Welke andere vormen kennen we?",
+      "source_heading_text": "12.2.2 Aandachtsgebied ‘hypothesevorming’: welke vorm van epilepsie is het meest waarschijnlijk? Welke andere vormen kennen we?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.3",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij epilepsie?",
+      "source_heading_text": "12.2.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij epilepsie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.4",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke typen aanvallen kunnen worden onderscheiden bij gegeneraliseerde epilepsie? Welk type is het meest waarschijnlijk?",
+      "source_heading_text": "12.2.4 Aandachtsgebied ‘hypothesevorming’: welke typen aanvallen kunnen worden onderscheiden bij gegeneraliseerde epilepsie? Welk type is het meest waarschijnlijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.5",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel). Erfelijkheid speelt bij epilepsie een belangrijke rol.",
+      "source_heading_text": "12.2.5 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel). Erfelijkheid speelt bij epilepsie een belangrijke rol.",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.6",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een epileptische aanval te behandelen?",
+      "source_heading_text": "12.2.6 Aandachtsgebied ‘beleid’: wat moeten we doen om een epileptische aanval te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.7",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is er sprake van een status epilepticus en is direct medisch handelen noodzakelijk?",
+      "source_heading_text": "12.2.7 Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is er sprake van een status epilepticus en is direct medisch handelen noodzakelijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.8",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 8,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een epileptische aanval te voorkomen?",
+      "source_heading_text": "12.2.8 Aandachtsgebied ‘beleid’: wat moeten we doen om een epileptische aanval te voorkomen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.2.9",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 2,
+      "subparagraph": 9,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt epilepsie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op epilepsie te bevestigen?",
+      "source_heading_text": "12.2.9 Aandachtsgebied ‘beleid’: hoe wordt epilepsie gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op epilepsie te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3",
+      "kind": "paragraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: clusterhoofdpijn",
+      "source_heading_text": "12.3 Casus: clusterhoofdpijn",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.1",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij clusterhoofdpijn?",
+      "source_heading_text": "12.3.1 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij clusterhoofdpijn?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.2",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke vormen van clusterhoofdpijn kennen we? Welke is het meest waarschijnlijk?",
+      "source_heading_text": "12.3.2 Aandachtsgebied ‘hypothesevorming’: welke vormen van clusterhoofdpijn kennen we? Welke is het meest waarschijnlijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.3",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘psychosociaal’: wat is de invloed van clusterhoofdpijn op het dagelijks functioneren?",
+      "source_heading_text": "12.3.3 Aandachtsgebied ‘psychosociaal’: wat is de invloed van clusterhoofdpijn op het dagelijks functioneren?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.4",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel)",
+      "source_heading_text": "12.3.4 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel (zenuwstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.5",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij clusterhoofdpijn?",
+      "source_heading_text": "12.3.5 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij clusterhoofdpijn?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.3.6",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 3,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om clusterhoofdpijn te behandelen?",
+      "source_heading_text": "12.3.6 Aandachtsgebied ‘beleid’: wat moeten we doen om clusterhoofdpijn te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4",
+      "kind": "paragraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Casus: koortsstuip",
+      "source_heading_text": "12.4 Casus: koortsstuip",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.1",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: zenuwstelsel, afweersysteem",
+      "source_heading_text": "12.4.1 Aandachtsgebied ‘orgaansystemen’: zenuwstelsel, afweersysteem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.2",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘orgaansystemen’: zenuwstelsel, afweersysteem",
+      "source_heading_text": "12.4.2 Aandachtsgebied ‘orgaansystemen’: zenuwstelsel, afweersysteem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.3",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij een koortsstuip?",
+      "source_heading_text": "12.4.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij een koortsstuip?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.4",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een koortsstuip te behandelen?",
+      "source_heading_text": "12.4.4 Aandachtsgebied ‘beleid’: wat moeten we doen om een koortsstuip te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.5",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wat is het risico op herhaaldelijk optreden van koortsstuipen? Wat kunnen we verwachten van het verdere beloop?",
+      "source_heading_text": "12.4.5 Aandachtsgebied ‘alarmsymptomen en urgentie’: wat is het risico op herhaaldelijk optreden van koortsstuipen? Wat kunnen we verwachten van het verdere beloop?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "12.4.6",
+      "kind": "subparagraph",
+      "chapter": 12,
+      "paragraph": 4,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer wordt geadviseerd contact op te nemen met een arts?",
+      "source_heading_text": "12.4.6 Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer wordt geadviseerd contact op te nemen met een arts?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1",
+      "kind": "paragraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: bloedvergiftiging (sepsis)",
+      "source_heading_text": "13.1 Casus: bloedvergiftiging (sepsis)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.1",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, afweersysteem",
+      "source_heading_text": "13.1.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, afweersysteem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.2",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij bloedvergiftiging?",
+      "source_heading_text": "13.1.2 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij bloedvergiftiging?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.3",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een septische shock?",
+      "source_heading_text": "13.1.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een septische shock?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.4",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is er sprake van een ernstige bloedvergiftiging en is direct medisch handelen noodzakelijk?",
+      "source_heading_text": "13.1.4 Aandachtsgebied ‘alarmsymptomen en urgentie’: wanneer is er sprake van een ernstige bloedvergiftiging en is direct medisch handelen noodzakelijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.5",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden op bloedvergiftiging versterken?",
+      "source_heading_text": "13.1.5 Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te maken met factoren die ons vermoeden op bloedvergiftiging versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.6",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om bloedvergiftiging te behandelen?",
+      "source_heading_text": "13.1.6 Aandachtsgebied ‘beleid’: wat moeten we doen om bloedvergiftiging te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.1.7",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 1,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘psychosociaal’: wat kunnen we verwachten van de kwaliteit van leven na het doormaken van bloedvergiftiging?",
+      "source_heading_text": "13.1.7 Aandachtsgebied ‘psychosociaal’: wat kunnen we verwachten van de kwaliteit van leven na het doormaken van bloedvergiftiging?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2",
+      "kind": "paragraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: hersenvliesontsteking (meningitis)",
+      "source_heading_text": "13.2 Casus: hersenvliesontsteking (meningitis)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.1",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel",
+      "source_heading_text": "13.2.1 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.2",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke vormen van meningitis kennen we?",
+      "source_heading_text": "13.2.2 Aandachtsgebied ‘hypothesevorming’: welke vormen van meningitis kennen we?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.3",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel, afweersysteem",
+      "source_heading_text": "13.2.3 Aandachtsgebied ‘orgaansystemen’: neurologisch stelsel, afweersysteem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.4",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij meningitis?",
+      "source_heading_text": "13.2.4 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij meningitis?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.5",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op meningitis te bevestigen?",
+      "source_heading_text": "13.2.5 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op meningitis te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "13.2.6",
+      "kind": "subparagraph",
+      "chapter": 13,
+      "paragraph": 2,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om meningitis te behandelen?",
+      "source_heading_text": "13.2.6 Aandachtsgebied ‘beleid’: wat moeten we doen om meningitis te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.1",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Casus: bloedarmoede (anemie)",
+      "source_heading_text": "14.1 Casus: bloedarmoede (anemie)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.1.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 1,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: bloed",
+      "source_heading_text": "14.1.1 Aandachtsgebied ‘orgaansystemen’: bloed",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.1.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 1,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "source_heading_text": "14.1.2 Aandachtsgebied ‘hypothesevorming’: welke oorzaken overweeg je?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.1.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 1,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij bloedarmoede?",
+      "source_heading_text": "14.1.3 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij bloedarmoede?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.1.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 1,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om bloedarmoede te behandelen?",
+      "source_heading_text": "14.1.4 Aandachtsgebied ‘beleid’: wat moeten we doen om bloedarmoede te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.2",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Casus: pijn op de borst",
+      "source_heading_text": "14.2 Casus: pijn op de borst",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.2.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 2,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: cardiovasculair systeem (hartvaatstelsel)",
+      "source_heading_text": "14.2.1 Aandachtsgebied ‘orgaansystemen’: cardiovasculair systeem (hartvaatstelsel)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.2.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 2,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij een hartinfarct?",
+      "source_heading_text": "14.2.2 Aandachtsgebied ‘hypothesevorming’: welke klachten passen bij een hartinfarct?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.2.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 2,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘beleid’: hoe wordt een hartinfarct gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op een hartinfarct te bevestigen?",
+      "source_heading_text": "14.2.3 Aandachtsgebied ‘beleid’: hoe wordt een hartinfarct gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op een hartinfarct te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.2.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 2,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een hartinfarct te behandelen?",
+      "source_heading_text": "14.2.4 Aandachtsgebied ‘beleid’: wat moeten we doen om een hartinfarct te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Casus: hypertensie (hoge bloeddruk)",
+      "source_heading_text": "14.3 Casus: hypertensie (hoge bloeddruk)",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, cardiovasculair systeem",
+      "source_heading_text": "14.3.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, cardiovasculair systeem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, cardiovasculair systeem",
+      "source_heading_text": "14.3.2 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, cardiovasculair systeem",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke factoren vergroten het risico op hypertensie?",
+      "source_heading_text": "14.3.3 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke factoren vergroten het risico op hypertensie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hypertensie?",
+      "source_heading_text": "14.3.4 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij hypertensie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.5",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: wanneer spreken we van een te hoge bloeddruk? Welke factoren hebben invloed op de bloeddruk?",
+      "source_heading_text": "14.3.5 Aandachtsgebied ‘hypothesevorming’: wanneer spreken we van een te hoge bloeddruk? Welke factoren hebben invloed op de bloeddruk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.6",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een te hoge bloeddruk?",
+      "source_heading_text": "14.3.6 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een te hoge bloeddruk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.3.7",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 3,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om hypertensie te behandelen?",
+      "source_heading_text": "14.3.7 Aandachtsgebied ‘beleid’: wat moeten we doen om hypertensie te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": null,
+      "title": "Casus: shock",
+      "source_heading_text": "14.4 Casus: shock",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "source_heading_text": "14.4.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke vormen van shock kennen we? Welke vorm is het meest waarschijnlijk?",
+      "source_heading_text": "14.4.2 Aandachtsgebied ‘hypothesevorming’: welke vormen van shock kennen we? Welke vorm is het meest waarschijnlijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "source_heading_text": "14.4.3 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "source_heading_text": "14.4.4 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.4.5",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 4,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij shock?",
+      "source_heading_text": "14.4.5 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen treden op bij shock?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": null,
+      "title": "Casus: trombosebeen en longembolie",
+      "source_heading_text": "14.5 Casus: trombosebeen en longembolie",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, ademhalingsstelsel",
+      "source_heading_text": "14.5.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel, ademhalingsstelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "PRAKTIJK_ACUTE_PROTOCOL_BLS",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "source_heading_text": "14.5.2 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te ­maken met factoren die ons vermoeden op trombose versterken?",
+      "source_heading_text": "14.5.3 Aandachtsgebied ‘alarmsymptomen en urgentie’: hebben we te ­maken met factoren die ons vermoeden op trombose versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij trombose en wanneer is direct medisch handelen noodzakelijk?",
+      "source_heading_text": "14.5.4 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij trombose en wanneer is direct medisch handelen noodzakelijk?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.5",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een trombosebeen?",
+      "source_heading_text": "14.5.5 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een trombosebeen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.6",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 6,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een longembolie?",
+      "source_heading_text": "14.5.6 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een longembolie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.7",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 7,
+      "title": "Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een longembolie?",
+      "source_heading_text": "14.5.7 Aandachtsgebied ‘alarmsymptomen en urgentie’: welke complicaties kunnen optreden bij een longembolie?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.8",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 8,
+      "title": "Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op trombose te bevestigen?",
+      "source_heading_text": "14.5.8 Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op trombose te bevestigen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.9",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 9,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om trombose te behandelen?",
+      "source_heading_text": "14.5.9 Aandachtsgebied ‘beleid’: wat moeten we doen om trombose te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.5.10",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 5,
+      "subparagraph": 10,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om herhaling van trombose te voorkomen?",
+      "source_heading_text": "14.5.10 Aandachtsgebied ‘beleid’: wat moeten we doen om herhaling van trombose te voorkomen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6",
+      "kind": "paragraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": null,
+      "title": "Casus: bedreigd been",
+      "source_heading_text": "14.6 Casus: bedreigd been",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6.1",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": 1,
+      "title": "Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "source_heading_text": "14.6.1 Aandachtsgebied ‘orgaansystemen’: circulatiestelsel",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6.2",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": 2,
+      "title": "Aandachtsgebied ‘hypothesevorming’: hebben we te maken met factoren die ons vermoeden op een bedreigd been versterken?",
+      "source_heading_text": "14.6.2 Aandachtsgebied ‘hypothesevorming’: hebben we te maken met factoren die ons vermoeden op een bedreigd been versterken?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6.3",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": 3,
+      "title": "Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een bedreigd been?",
+      "source_heading_text": "14.6.3 Aandachtsgebied ‘hypothesevorming’: welke verschijnselen duiden op een bedreigd been?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6.4",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": 4,
+      "title": "Aandachtsgebied ‘beleid’: met welk aanvullend onderzoek kan een afgesloten slagader in beeld worden gebracht?",
+      "source_heading_text": "14.6.4 Aandachtsgebied ‘beleid’: met welk aanvullend onderzoek kan een afgesloten slagader in beeld worden gebracht?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "14.6.5",
+      "kind": "subparagraph",
+      "chapter": 14,
+      "paragraph": 6,
+      "subparagraph": 5,
+      "title": "Aandachtsgebied ‘beleid’: wat moeten we doen om een bedreigd been te behandelen?",
+      "source_heading_text": "14.6.5 Aandachtsgebied ‘beleid’: wat moeten we doen om een bedreigd been te behandelen?",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "mixed",
+      "suggested_kd_workprocesses": [
+        "P2-K1-W1",
+        "P2-K1-W3",
+        "B1-K1-W2",
+        "B1-K3-W2"
+      ],
+      "suggested_modules": [
+        "PRAKTIJK_OBSERVE_SIGNAL_REPORT_SBAR",
+        "VERDIEPING_N4_KLINISCH_REDENEREN_DIAGNOSE",
+        "VERDIEPING_N4_COORDINATE_OPTIMIZE"
+      ],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "15.1",
+      "kind": "paragraph",
+      "chapter": 15,
+      "paragraph": 1,
+      "subparagraph": null,
+      "title": "Terugblik op dit boek",
+      "source_heading_text": "15.1 Terugblik op dit boek",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "15.2",
+      "kind": "paragraph",
+      "chapter": 15,
+      "paragraph": 2,
+      "subparagraph": null,
+      "title": "Over de methodiek ‘Praktijkgestuurd klinisch redeneren’ in combinatie met andere methoden",
+      "source_heading_text": "15.2 Over de methodiek ‘Praktijkgestuurd klinisch redeneren’ in combinatie met andere methoden",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    },
+    {
+      "key": "15.3",
+      "kind": "paragraph",
+      "chapter": 15,
+      "paragraph": 3,
+      "subparagraph": null,
+      "title": "Overige aandachtsgebieden",
+      "source_heading_text": "15.3 Overige aandachtsgebieden",
+      "difficulty": "unknown",
+      "kd_workprocesses": [],
+      "modules": [],
+      "notes": "",
+      "suggested_difficulty": "unknown",
+      "suggested_kd_workprocesses": [],
+      "suggested_modules": [],
+      "suggested_notes": "AUTO: first-pass heuristic suggestion; requires human review."
+    }
+  ],
+  "suggestions": {
+    "suggested_at": "2025-12-26T20:24:52",
+    "note": "AUTO heuristic suggestions in suggested_* fields only (final fields unchanged)."
+  }
+}

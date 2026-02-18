@@ -1,0 +1,2842 @@
+{
+  "meta": {
+    "exportedAt": "20251224_163129",
+    "source": "idml",
+    "idmlPath": "/Users/asafgafni/Desktop/InDesign/TestRun/_source_exports/MBO_A&F_4_9789083251370_03.2024__FROM_DOWNLOADS.idml",
+    "chapterNumber": 1,
+    "layoutMasterSelf": "u196",
+    "layoutMasterName": "C-BORDER"
+  },
+  "page": {
+    "widthPt": 552.755905511811,
+    "heightPt": 751.1811023622047,
+    "widthMm": 194.99999999999997,
+    "heightMm": 264.99999999999994,
+    "facingPages": true
+  },
+  "marginsAndColumns": {
+    "left": {
+      "topMm": 20,
+      "bottomMm": 20,
+      "leftMm": 15,
+      "rightMm": 15,
+      "columnCount": 2,
+      "columnGutterMm": 9
+    },
+    "right": {
+      "topMm": 20,
+      "bottomMm": 20,
+      "leftMm": 15,
+      "rightMm": 15,
+      "columnCount": 2,
+      "columnGutterMm": 9
+    }
+  },
+  "baselineGrid": {
+    "baselineStartMm": 0,
+    "baselineDivisionMm": 5.644444444444444
+  },
+  "textFrames": {
+    "representative": {
+      "textColumnCount": 1,
+      "textColumnGutterMm": 4.2333333333333325
+    }
+  },
+  "paragraphStyles": [
+    {
+      "name": "_Annotation",
+      "path": "_Annotation",
+      "basedOn": "•Basis",
+      "nextStyle": "_Annotation",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Semibold Italic"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "VP donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Bullets",
+      "path": "_Bullets",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Bullets",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.84251968503937,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "_Bullets lvl 2",
+      "path": "_Bullets lvl 2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Bullets lvl 2",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 33,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -15,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 598
+    },
+    {
+      "name": "_Bullets lvl3",
+      "path": "_Bullets lvl3",
+      "basedOn": "_Bullets lvl 2",
+      "nextStyle": "_Bullets lvl3",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 48.18897637795277,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -15,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Bullets space after",
+      "path": "_Bullets space after",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Bullets space after",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 15,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.84251968503937,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "_Bullets space before",
+      "path": "_Bullets space before",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Bullets space before",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.84251968503937,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "_Bullets text",
+      "path": "_Bullets text",
+      "basedOn": "_Bullets",
+      "nextStyle": "_Bullets text",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "_Bullets_End",
+      "path": "_Bullets_End",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Bullets_End",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.84251968503937,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "_Bulllets lvl 2 end",
+      "path": "_Bulllets lvl 2 end",
+      "basedOn": "_Bullets lvl 2",
+      "nextStyle": "_Bulllets lvl 2 end",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 33,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -15,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 598
+    },
+    {
+      "name": "_Chapter Header",
+      "path": "_Chapter Header",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Chapter Header",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Regular"
+      },
+      "pointSize": 18,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 11.338582677165356,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Image / Tables Anchor (Left)",
+      "path": "_Image / Tables Anchor (Left)",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": " Tables Anchor (Left)",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 9,
+      "leading": 9.712499999999999,
+      "fillColor": "HBO donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 20.49820170465535,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Index Head",
+      "path": "_Index Head",
+      "basedOn": "_Index Text",
+      "nextStyle": "_Index Head",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Bold"
+      },
+      "pointSize": 14,
+      "leading": 14.4,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 8.503937007874017,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 17.007874015748033,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -17.007874015748033,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Index Text",
+      "path": "_Index Text",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Index Text",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 10,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 17.007874015748033,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -17.007874015748033,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Inhoudsopgave",
+      "path": "_Inhoudsopgave",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Inhoudsopgave",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 30,
+      "leading": 14.4,
+      "fillColor": "Paper",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Numbered Paragraph",
+      "path": "_Numbered Paragraph",
+      "basedOn": "•Basis",
+      "nextStyle": "_Numbered Paragraph",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Numbered Paragraph space before",
+      "path": "_Numbered Paragraph space before",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Numbered Paragraph space before",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 19.842999999999996,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.842999999999996,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Subchapter Header",
+      "path": "_Subchapter Header",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Subchapter Header",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 14,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Subchapter Header/Chapter Header",
+      "path": "_Subchapter Header/Chapter Header",
+      "basedOn": "_Subchapter Header",
+      "nextStyle": "Chapter Header",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 14,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Subheader",
+      "path": "_Subheader",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "[No paragraph style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium Italic"
+      },
+      "pointSize": 12,
+      "leading": 13,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Subheader (Bold Italic)",
+      "path": "_Subheader (Bold Italic)",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Subheader (Bold Italic)",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium Italic"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "_Subheader (Bold)",
+      "path": "_Subheader (Bold)",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "_Subheader (Bold)",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 11.338582677165356,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "*",
+      "path": "*",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "*",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 14,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Basis",
+      "path": "•Basis",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Basis",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Hoofdstukkop",
+      "path": "•Hoofdstukkop",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Hoofdstukkop",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium"
+      },
+      "pointSize": 150,
+      "leading": 20.5,
+      "fillColor": "Paper",
+      "justification": "AwayFromBindingSide",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 42.51968503937009,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Hoofdstuktitel",
+      "path": "•Hoofdstuktitel",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Hoofdstuktitel",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 35,
+      "leading": 40,
+      "fillColor": "Paper",
+      "justification": "AwayFromBindingSide",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 45.36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Inhoud hoofdstuktitel",
+      "path": "•Inhoud hoofdstuktitel",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Inhoud hoofdstuktitel",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 12,
+      "leading": 10,
+      "fillColor": "HBO donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 11.338582677165356,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NumberedList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Inhoud Paragraaf 1",
+      "path": "•Inhoud Paragraaf 1",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Inhoud Paragraaf 1",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 13,
+      "leading": 14,
+      "fillColor": "HBO donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 8.503937007874017,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NumberedList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Inhoud Paragraaf 2",
+      "path": "•Inhoud Paragraaf 2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Inhoud Paragraaf 2",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Semibold"
+      },
+      "pointSize": 10,
+      "leading": 10,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Inhoud Paragraaf 3",
+      "path": "•Inhoud Paragraaf 3",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Inhoud Paragraaf 3",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 8,
+      "leading": 9,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Paginacijfer",
+      "path": "•Paginacijfer",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Paginacijfer",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "leading": 13,
+      "fillColor": "Paper",
+      "justification": "CenterAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Voetregel links",
+      "path": "•Voetregel links",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Voetregel links",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "leading": 13,
+      "fillColor": "HBO donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 8,
+      "leftIndentPt": 8.503937007874017,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "•Voetregel rechts",
+      "path": "•Voetregel rechts",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "•Voetregel rechts",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "leading": 13,
+      "fillColor": "HBO donkerblauw",
+      "justification": "RightAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 8.503937007874017,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "$ID/NormalParagraphStyle",
+      "path": "$ID/NormalParagraphStyle",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "NormalParagraphStyle",
+      "appliedFont": {
+        "family": "Minion Pro",
+        "style": "Regular"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "12pt - White FreightSans Pro",
+      "path": "12pt - White FreightSans Pro",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "12pt - White FreightSans Pro",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Paper",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "12pt FreightSans Pro - Left Align",
+      "path": "12pt FreightSans Pro - Left Align",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "12pt FreightSans Pro - Left Align",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "12pt FreightSans Pro - Right Align",
+      "path": "12pt FreightSans Pro - Right Align",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "12pt FreightSans Pro - Right Align",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "RightAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Alineastijl 1",
+      "path": "Alineastijl 1",
+      "basedOn": "•Inhoud Paragraaf 2",
+      "nextStyle": "Alineastijl 1",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Semibold"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Begrip kop",
+      "path": "Begrip kop",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Begrip kop",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 12,
+      "leading": 10,
+      "fillColor": "VP groen",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Begrippen",
+      "path": "Begrippen",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Begrippen",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 10,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 11.338582677165356,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Bullets space after",
+      "path": "Bullets space after",
+      "basedOn": "_Bullets",
+      "nextStyle": "Bullets space after",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 15,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 19.84251968503937,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -19.84251968503937,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "Centered space after",
+      "path": "Centered space after",
+      "basedOn": "Front Matter - Body",
+      "nextStyle": "Centered space after",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 10,
+      "leading": 13,
+      "fillColor": "None",
+      "justification": "CenterAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 2.834645669291339,
+      "spaceAfterPt": 8.503937007874017,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "EmptyLayoutCell",
+      "path": "EmptyLayoutCell",
+      "basedOn": "Normal",
+      "nextStyle": "EmptyLayoutCell",
+      "appliedFont": {
+        "family": "Times New Roman",
+        "style": "Regular"
+      },
+      "pointSize": 1,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter - Body",
+      "path": "Front Matter - Body",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter - Body",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 10,
+      "leading": 13,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter - Copyright",
+      "path": "Front Matter - Copyright",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter - Copyright",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter - Credits",
+      "path": "Front Matter - Credits",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter - Credits",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter - Header",
+      "path": "Front Matter - Header",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter - Header",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Bold"
+      },
+      "pointSize": 10,
+      "leading": 13,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter - Title",
+      "path": "Front Matter - Title",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter - Title",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 34.98950104996501,
+      "leading": 14.4,
+      "fillColor": "HBO donkerblauw",
+      "justification": "CenterAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 35.989201079964005,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter 2",
+      "path": "Front Matter 2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter 2",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Bold"
+      },
+      "pointSize": 10,
+      "leading": 13,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter Header 1",
+      "path": "Front Matter Header 1",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter Header 1",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 18,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 11.338582677165356,
+      "spaceAfterPt": 5.669291338582678,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Front Matter Header 2",
+      "path": "Front Matter Header 2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Front Matter Header 2",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Bold"
+      },
+      "pointSize": 14,
+      "leading": 16,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Inhoud nummer22",
+      "path": "Inhoud nummer22",
+      "basedOn": "•Inhoud Paragraaf 2",
+      "nextStyle": "Inhoud nummer22",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Semibold"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Introductie",
+      "path": "Introductie",
+      "basedOn": "•Hoofdstuktitel",
+      "nextStyle": "Introductie",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 35,
+      "leading": 40,
+      "fillColor": "Paper",
+      "justification": "AwayFromBindingSide",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 45.36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Labels",
+      "path": "Labels",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Labels",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": false,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "List Paragraph",
+      "path": "List Paragraph",
+      "basedOn": "Normal",
+      "nextStyle": "List Paragraph",
+      "appliedFont": {
+        "family": "Calibri",
+        "style": "Regular"
+      },
+      "pointSize": 11,
+      "leading": 11.870833333333332,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 8,
+      "leftIndentPt": 36,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "No Spacing",
+      "path": "No Spacing",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "No Spacing",
+      "appliedFont": {
+        "family": "Calibri",
+        "style": "Regular"
+      },
+      "pointSize": 11,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 8,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Normal",
+      "path": "Normal",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Normal",
+      "appliedFont": {
+        "family": "Times New Roman",
+        "style": "Regular"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Paragraph Style 1",
+      "path": "Paragraph Style 1",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Paragraph Style 1",
+      "appliedFont": {
+        "family": "Minion Pro",
+        "style": "Regular"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "ParaStyle05 Leading=Auto",
+      "path": "ParaStyle05 Leading=Auto",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "ParaStyle05 Leading=Auto",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "leading": 14.4,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Table annotation",
+      "path": "Table annotation",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Table annotation",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Bold"
+      },
+      "pointSize": 10,
+      "leading": 12,
+      "fillColor": "VP donkerblauw",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Table body1",
+      "path": "Table body1",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Table body1",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 10,
+      "leading": 11,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Table body2",
+      "path": "Table body2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Table body2",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Light"
+      },
+      "pointSize": 10,
+      "leading": 11,
+      "fillColor": "Black",
+      "justification": "LeftJustified",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 2.834645669291339,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "Table bullets",
+      "path": "Table bullets",
+      "basedOn": "_Bullets",
+      "nextStyle": "Table bullets",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Light"
+      },
+      "pointSize": 10,
+      "leading": 11,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 14.173228346456694,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": -14.173228346456694,
+      "hyphenationZonePt": 21,
+      "bulletsAndNumberingListType": "BulletList",
+      "bulletCharCode": 612
+    },
+    {
+      "name": "Table header",
+      "path": "Table header",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "Table header",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 10,
+      "leading": 14.4,
+      "fillColor": "Paper",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 2.834645669291339,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "TOC 1",
+      "path": "TOC 1",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "TOC 1",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 12,
+      "leading": 12,
+      "fillColor": "HBO donkerblauw",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 11.338582677165356,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NumberedList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "TOC 2",
+      "path": "TOC 2",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "TOC 2",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Semibold"
+      },
+      "pointSize": 10,
+      "leading": 14.4,
+      "fillColor": "VP groen",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 5.669291338582678,
+      "spaceAfterPt": 2.834645669291339,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    },
+    {
+      "name": "TOC 3",
+      "path": "TOC 3",
+      "basedOn": "$ID/[No paragraph style]",
+      "nextStyle": "TOC 3",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "leading": 9,
+      "fillColor": "Black",
+      "justification": "LeftAlign",
+      "hyphenation": true,
+      "spaceBeforePt": 0,
+      "spaceAfterPt": 0,
+      "leftIndentPt": 0,
+      "rightIndentPt": 0,
+      "firstLineIndentPt": 0,
+      "hyphenationZonePt": 36,
+      "bulletsAndNumberingListType": "NoList",
+      "bulletCharCode": 8226
+    }
+  ],
+  "characterStyles": [
+    {
+      "name": "•Fotobijschrift nummer",
+      "path": "•Fotobijschrift nummer",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": 9,
+      "fillColor": "HBO donkerblauw"
+    },
+    {
+      "name": "•Hoofdstukcijfer",
+      "path": "•Hoofdstukcijfer",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium"
+      },
+      "pointSize": 150,
+      "fillColor": "Paper"
+    },
+    {
+      "name": "•Inhoud Basis",
+      "path": "•Inhoud Basis",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Medium"
+      },
+      "pointSize": 8,
+      "fillColor": "Black"
+    },
+    {
+      "name": "•Inhoud Hoofdstuktitel",
+      "path": "•Inhoud Hoofdstuktitel",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 13,
+      "fillColor": null
+    },
+    {
+      "name": "•Inhoud pag cijfer",
+      "path": "•Inhoud pag cijfer",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 9,
+      "fillColor": "Black"
+    },
+    {
+      "name": "•Inhoud Paragraaftitel",
+      "path": "•Inhoud Paragraaftitel",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Semibold"
+      },
+      "pointSize": 9,
+      "fillColor": "VP groen"
+    },
+    {
+      "name": "Annotation reference",
+      "path": "Annotation reference",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": 8,
+      "fillColor": null
+    },
+    {
+      "name": "Annotation Style 1",
+      "path": "Annotation Style 1",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Semibold Italic"
+      },
+      "pointSize": 10,
+      "fillColor": "VP donkerblauw"
+    },
+    {
+      "name": "Annotation Style 2",
+      "path": "Annotation Style 2",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 10,
+      "fillColor": "VP donkerblauw"
+    },
+    {
+      "name": "Bold",
+      "path": "Bold",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Bold Italic",
+      "path": "Bold Italic",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Book 2",
+      "path": "Book 2",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Bullet Color",
+      "path": "Bullet Color",
+      "basedOn": "CharacterStyle/Bold",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": "VP groen"
+    },
+    {
+      "name": "Bullet Lvl 2",
+      "path": "Bullet Lvl 2",
+      "basedOn": "CharacterStyle/Bold",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": "VP groen"
+    },
+    {
+      "name": "Chapbold",
+      "path": "Chapbold",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "Facit",
+        "style": "Bold"
+      },
+      "pointSize": 18,
+      "fillColor": null
+    },
+    {
+      "name": "Character Style 1",
+      "path": "Character Style 1",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "CharStyle166 Font=TheSans-Italic, Size=5.8 pt, Baseline Shift=-3.3 pt",
+      "path": "CharStyle166 Font=TheSans-Italic, Size=5.8 pt, Baseline Shift=-3.3 pt",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 5.8,
+      "fillColor": "Black"
+    },
+    {
+      "name": "CharStyle176 Font=TheSans-Italic, Size=5.8 pt, Baseline Shift=3.3 pt",
+      "path": "CharStyle176 Font=TheSans-Italic, Size=5.8 pt, Baseline Shift=3.3 pt",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book Italic"
+      },
+      "pointSize": 5.8,
+      "fillColor": "Black"
+    },
+    {
+      "name": "Inhoudsopgave",
+      "path": "Inhoudsopgave",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Labels",
+      "path": "Labels",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": {
+        "family": "FreightSans Pro",
+        "style": "Book"
+      },
+      "pointSize": 12,
+      "fillColor": null
+    },
+    {
+      "name": "medium italic",
+      "path": "medium italic",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Numb Chapt Head",
+      "path": "Numb Chapt Head",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "numb subchapt",
+      "path": "numb subchapt",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Semibold Italic",
+      "path": "Semibold Italic",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Sub",
+      "path": "Sub",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Subchapbold",
+      "path": "Subchapbold",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "subsubheader",
+      "path": "subsubheader",
+      "basedOn": "CharacterStyle/Semibold Italic",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": "C=62 M=0 Y=60 K=2"
+    },
+    {
+      "name": "Sup",
+      "path": "Sup",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    },
+    {
+      "name": "Super",
+      "path": "Super",
+      "basedOn": "$ID/[No character style]",
+      "appliedFont": null,
+      "pointSize": null,
+      "fillColor": null
+    }
+  ],
+  "objectStyles": [
+    {
+      "name": "$ID/[Normal Graphics Frame]",
+      "path": "$ID/[Normal Graphics Frame]",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "Black",
+      "strokeWeight": 1
+    },
+    {
+      "name": "$ID/[Normal Grid]",
+      "path": "$ID/[Normal Grid]",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "$ID/[Normal Text Frame]",
+      "path": "$ID/[Normal Text Frame]",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "ALIGN - Upper L",
+      "path": "ALIGN - Upper L",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "ALIGN\\: Bottom L",
+      "path": "ALIGN\\: Bottom L",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "ALIGN\\: Bottom R",
+      "path": "ALIGN\\: Bottom R",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "ALIGN\\: Upper R",
+      "path": "ALIGN\\: Upper R",
+      "basedOn": "$ID/[None]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "Schijf MBO groen",
+      "path": "Schijf MBO groen",
+      "basedOn": "$ID/[None]",
+      "fillColor": "C=62 M=0 Y=60 K=2",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    },
+    {
+      "name": "Text Column 78mm",
+      "path": "Text Column 78mm",
+      "basedOn": "ObjectStyle/$ID/[Normal Text Frame]",
+      "fillColor": "None",
+      "strokeColor": "None",
+      "strokeWeight": 0
+    }
+  ],
+  "swatches": [
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0,
+        100
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        15,
+        173,
+        255
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        0,
+        255,
+        255
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        52,
+        0,
+        13,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        2,
+        0,
+        49,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        41,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        41,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        41,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        82.29999542236328,
+        38.74000012874603,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        255,
+        189.997100830078,
+        31.00341796875
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        255,
+        189.997100830078,
+        31.00341796875
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        43,
+        35,
+        35,
+        1
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        47,
+        40,
+        132
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        41,
+        89,
+        79,
+        64
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        41,
+        89,
+        79,
+        64
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        237,
+        77,
+        199
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        237,
+        77,
+        199
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        237,
+        77,
+        199
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        77,
+        253,
+        199
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        183,
+        253,
+        77
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        233,
+        202,
+        22
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        47,
+        40,
+        132
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        47,
+        40,
+        132
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        189,
+        48,
+        45
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        189,
+        48,
+        45
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        43,
+        36,
+        135
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        43,
+        36,
+        135
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        47,
+        40,
+        132
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "RGB",
+      "model": "Process",
+      "colorValue": [
+        2,
+        13,
+        41
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        81.00000023841858,
+        61.000001430511475,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        62.00000047683716,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        5.999999865889549,
+        3.999999910593033,
+        3.999999910593033,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        31.999999284744263,
+        25,
+        23.999999463558197,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        5.999999865889549,
+        3.999999910593033,
+        3.999999910593033,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        31.999999284744263,
+        25,
+        23.999999463558197,
+        0
+      ]
+    },
+    {
+      "name": "$ID/",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Black",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0,
+        100
+      ]
+    },
+    {
+      "name": "C=0 M=21 Y=100 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        21,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "C=0 M=67 Y=90 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        67.00000166893005,
+        89.99999761581421,
+        0
+      ]
+    },
+    {
+      "name": "C=0 M=67 Y=95 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        66.93999767303467,
+        95.33999562263489,
+        0
+      ]
+    },
+    {
+      "name": "C=0 M=70 Y=98 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        69.51000094413757,
+        97.84999489784241,
+        0
+      ]
+    },
+    {
+      "name": "C=0 M=75 Y=100 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        75,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "C=0 M=81 Y=99 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0.2199999988079071,
+        81.26999735832214,
+        98.60000014305115,
+        0.0699999975040555
+      ]
+    },
+    {
+      "name": "C=0 M=96 Y=84 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        95.96999883651733,
+        84.13999676704407,
+        0
+      ]
+    },
+    {
+      "name": "C=1 M=19 Y=99 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        1.4999999664723873,
+        19.449999928474426,
+        99.36999678611755,
+        0
+      ]
+    },
+    {
+      "name": "C=100 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "C=100 M=30 Y=0 K=4",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        100,
+        30,
+        0,
+        4
+      ]
+    },
+    {
+      "name": "C=100 M=50 Y=10 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        100,
+        49.99923704890517,
+        9.999237048905165,
+        0
+      ]
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        15,
+        100,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "C=15 M=100 Y=100 K=45",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        15,
+        100,
+        100,
+        45
+      ]
+    },
+    {
+      "name": "C=16 M=12 Y=13 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        16.290000081062317,
+        12.399999797344208,
+        12.809999287128448,
+        0
+      ]
+    },
+    {
+      "name": "C=17 M=12 Y=12 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        16.519999504089355,
+        12.379999458789825,
+        11.710000038146973,
+        0
+      ]
+    },
+    {
+      "name": "C=20 M=100 Y=40 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        20,
+        100,
+        40,
+        0
+      ]
+    },
+    {
+      "name": "C=28 M=0 Y=56 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        27.730000019073486,
+        0,
+        56.22999668121338,
+        0
+      ]
+    },
+    {
+      "name": "C=36 M=0 Y=90 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        36.000001430511475,
+        0,
+        89.99999761581421,
+        0
+      ]
+    },
+    {
+      "name": "C=4 M=9 Y=20 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        4.209999740123749,
+        9.4200000166893,
+        19.81000006198883,
+        0
+      ]
+    },
+    {
+      "name": "C=40 M=0 Y=90 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        39.809998869895935,
+        0,
+        90.3499960899353,
+        0
+      ]
+    },
+    {
+      "name": "C=41 M=0 Y=100 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        40.99999964237213,
+        0,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "C=45 M=0 Y=10 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        44.97999846935272,
+        0,
+        9.849999845027924,
+        0
+      ]
+    },
+    {
+      "name": "C=50 M=0 Y=5 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        49.8199999332428,
+        0,
+        5.119999870657921,
+        0
+      ]
+    },
+    {
+      "name": "C=56 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        56.00000023841858,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "C=57 M=0 Y=22 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        56.849998235702515,
+        0,
+        22.029998898506165,
+        0
+      ]
+    },
+    {
+      "name": "C=57 M=80 Y=0 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        56.70999884605408,
+        80.08999824523926,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "C=62 M=0 Y=60 K=2",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        62,
+        0,
+        60,
+        1.9999999552965164
+      ]
+    },
+    {
+      "name": "C=63 M=0 Y=0 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        62.99999952316284,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "C=65 M=58 Y=59 K=39",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        64.52999711036682,
+        58.0299973487854,
+        58.75999927520752,
+        38.78999948501587
+      ]
+    },
+    {
+      "name": "C=72 M=19 Y=91 K=4",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        72.45999574661255,
+        19.38999891281128,
+        90.70000052452087,
+        4.099999740719795
+      ]
+    },
+    {
+      "name": "C=73 M=5 Y=18 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        72.86999821662903,
+        5.43999969959259,
+        17.759999632835388,
+        0
+      ]
+    },
+    {
+      "name": "C=75 M=5 Y=100 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        75,
+        5,
+        100,
+        0
+      ]
+    },
+    {
+      "name": "C=8 M=58 Y=30 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        7.699999958276749,
+        58.27999711036682,
+        30.09999990463257,
+        0
+      ]
+    },
+    {
+      "name": "C=85 M=18 Y=79 K=4",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        84.99000072479248,
+        17.999999225139618,
+        78.77999544143677,
+        3.7799999117851257
+      ]
+    },
+    {
+      "name": "C=87 M=52 Y=10 K=0",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        86.91999912261963,
+        52.389997243881226,
+        9.619999676942825,
+        0.1999999862164259
+      ]
+    },
+    {
+      "name": "Cyan",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        100,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "HBO donkerblauw",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        93.00000071525574,
+        77.99999713897705,
+        40.00000059604645,
+        38.999998569488525
+      ]
+    },
+    {
+      "name": "HBO groen",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        80,
+        1.9999999552965164,
+        30,
+        0
+      ]
+    },
+    {
+      "name": "Magenta",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Paper",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Registration",
+      "space": "CMYK",
+      "model": "Registration",
+      "colorValue": [
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "VP donkerblauw",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        93.00000071525574,
+        77.99999713897705,
+        40.00000059604645,
+        38.999998569488525
+      ]
+    },
+    {
+      "name": "VP geel",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        21,
+        87,
+        0
+      ]
+    },
+    {
+      "name": "VP groen",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        76.99999809265137,
+        7.000000029802322,
+        56.00000023841858,
+        0
+      ]
+    },
+    {
+      "name": "Yellow",
+      "space": "CMYK",
+      "model": "Process",
+      "colorValue": [
+        0,
+        0,
+        100,
+        0
+      ]
+    }
+  ]
+}

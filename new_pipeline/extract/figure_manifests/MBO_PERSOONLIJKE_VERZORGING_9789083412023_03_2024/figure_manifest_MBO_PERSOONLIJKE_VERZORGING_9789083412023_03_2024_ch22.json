@@ -1,0 +1,50 @@
+{
+  "bodyStory": {
+    "index": 15,
+    "words": 1105
+  },
+  "chapter": "22",
+  "chapterRange": {
+    "endOff": 244,
+    "ok": true,
+    "startOff": 240
+  },
+  "exportedAt": "Sat Jan 03 2026 22:51:45 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "de douchestoel;",
+        "beforeText": "klasse C: de zorgvrager is compleet afhankelijk van hulp bij verplaatsen en ADL. Dit maakt de zorg voor zorgvragers in deze mobiliteitsklasse zwaarder dan in de voorgaande mobiliteitsklassen. Het is belangrijk dat je hulpmiddelen inzet om bijvoorbeeld het verplaatsen makkelijker te laten gaan, om zo fysieke overbelasting te voorkomen. Hulpmiddelen die handig zijn om zorgvragers uit deze klasse te ondersteunen, zijn bijvoorbeeld:",
+        "pageDocumentOffset": 242,
+        "paragraphIndexInBodyStory": 4377,
+        "text": "de actieve stalift;",
+        "x": 221.999999830458,
+        "y": 44.4214834849003
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een zorgvrager met een looprek valt in mobiliteitsklasse B.",
+        "bounds": null,
+        "label": "Afbeelding 22.1:",
+        "raw": "Afbeelding 22.1 Een zorgvrager met een looprek valt in mobiliteitsklasse B.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          19.999999999998,
+          297.000001102024,
+          134.248175182483,
+          375.000001102024
+        ],
+        "kind": "link",
+        "linkName": "Persoonlijke verzorging_Hoofdstuk 22_22.1_Een zorgvrager met een looprek valt in mobiliteitsklasse B.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Persoonlijke%20Verzorging_9789083412023_03/Links/Persoonlijke%20verzorging_Hoofdstuk%2022_22.1_Een%20zorgvrager%20met%20een%20looprek%20valt%20in%20mobiliteitsklasse%20B.tif"
+      },
+      "page": {
+        "documentOffset": 242,
+        "name": "229"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Persoonlijke Verzorging_9789083412023_03/MBO Persoonlijke Verzorging_9789083412023_03.2024.indd"
+}

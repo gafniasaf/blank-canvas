@@ -1,0 +1,92 @@
+{
+  "bodyStory": {
+    "index": 44,
+    "words": 4758
+  },
+  "chapter": "3",
+  "chapterRange": {
+    "endOff": 64,
+    "ok": true,
+    "startOff": 54
+  },
+  "exportedAt": "Sat Jan 03 2026 01:20:01 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "﻿3.2.1 Kleine machtsafstand versus grote machtsafstand",
+        "beforeText": "Cultuurverschillen kunnen er de oorzaak van zijn dat communicatie minder soepel verloopt. Om erachter te komen hoe cultuurverschillen de interactie tussen mensen precies beïnvloeden, hield de organisatiepsycholoog Geert Hofstede in 1966 een onderzoek bij een multinational met vestigingen in meer dan vijftig landen. Hij concludeerde dat de werknemers voor hun gemeenschappelijke problemen zoeken naar oplossingen die per land (cultuur) op zes punten van elkaar verschillen. Die zes punten noemde hij cultuurdimensies﻿; je vindt ze in afbeelding 3.1.",
+        "pageDocumentOffset": 57,
+        "paragraphIndexInBodyStory": 472,
+        "text": "Hoe moet je afbeelding 3.1 lezen? Elke tegenstelling die je daarin ziet, duidt op een verschil in hoe mensen in de onderzochte landen problemen oplossen. Bijvoorbeeld de cultuurdimensie individualisme ↔ collectivisme betekent dat de verhouding tussen een individu en een groep daar een rol bij speelt en hetzelfde geldt voor de cultuurdimensie masculiniteit ↔ feminiteit met de rolverdeling tussen mannen en vrouwen. De overige vier dimensies in afbeelding 3.1 zijn op een soortgelijke manier ontstaan, zoals je hierna zult zien. Maar wat heb je er in de zorgpraktijk nu aan om dit te weten? Omdat cultuurverschillen een effectieve communicatie kunnen belemmeren, is het handig om deze cultuurdimensies te kennen, omdat die je helpen effectiever te communiceren met zorgvragers uit verschillende culturen. In de volgende zes paragrafen komen de dimensies aan bod in de volgorde van afbeelding 3.1. De nadruk ligt steeds op de uitersten, maar in werkelijkheid is het verschil natuurlijk niet altijd zo uitgesproken, want dat kan ook subtieler zijn.",
+        "x": 17.5,
+        "y": 93.5346819559731
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.1.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "De zes cultuurdimensies van Hofstede.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 De zes cultuurdimensies van Hofstede.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.1.png",
+        "bounds": [
+          110.499999999483,
+          63.7361243828698,
+          212.976454347525,
+          152.75
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 57,
+        "name": "46"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Samenvatting van hoofdstuk 3",
+        "beforeText": "Deze vijf concepten zijn onderling van elkaar afhankelijk. Het proces van culturele competentie is hier de doorsnede van; dat zie je in afbeelding 3.2. Hoe groter je die doorsnede weet te maken, dus hoe groter je culturele competentie is, hoe beter de interculturele communicatie verloopt.",
+        "pageDocumentOffset": 63,
+        "paragraphIndexInBodyStory": 549,
+        "text": "Afbeelding 3.2 Het proces van culturele competentie.",
+        "x": 17.5,
+        "y": 111.406533398099
+      },
+      "asset": {
+        "kind": "png",
+        "path": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.2.png",
+        "source": "indesign"
+      },
+      "caption": {
+        "body": "Het proces van culturele competentie.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 Het proces van culturele competentie.",
+        "styleName": "_Image / Tables Anchor"
+      },
+      "image": {
+        "atomicPath": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.2.png",
+        "bounds": [
+          7.9445263379961,
+          31.8911680496019,
+          104.676501476573,
+          139.934776394842
+        ],
+        "itemType": "Group",
+        "kind": "pageItem"
+      },
+      "page": {
+        "documentOffset": 63,
+        "name": "52"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Communicatie_9789083251387_03/MBO Communicatie_9789083251387_03.2024.indd"
+}

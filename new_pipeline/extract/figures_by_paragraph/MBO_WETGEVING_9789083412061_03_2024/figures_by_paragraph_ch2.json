@@ -1,0 +1,42 @@
+{
+  "6622ea0d-1357-486f-9a6d-4cf7f7ab7445": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch2/linked/WBF_2.15_Een ergotherapeut adviseert over aanpassingen in huis, en ook voor de badkamer.jpg",
+      "alt": "Afbeelding 2.1: Een ergotherapeut adviseert over aanpassingen in huis, ook voor de badkamer.",
+      "figureNumber": "Afbeelding 2.1:",
+      "caption": "Een ergotherapeut adviseert over aanpassingen in huis, ook voor de badkamer.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "36b7e2cb-76c8-444a-b08c-5091c9fe442c": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch2/linked/WBF_3.5_Het aanhangen van sondevoeding is een risicovolle handeling.jpg",
+      "alt": "Afbeelding 2.2: Het aanhangen van sondevoeding is een risicovolle handeling.",
+      "figureNumber": "Afbeelding 2.2:",
+      "caption": "Het aanhangen van sondevoeding is een risicovolle handeling.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "265ea7b5-df2b-443c-bc72-3cc8333c923a": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch2/linked/WBF_4.4_Deskundigheid behoud je door vakliteratuur te lezen.jpeg",
+      "alt": "Afbeelding 2.3: Deskundigheid behoud je door vakliteratuur te lezen.",
+      "figureNumber": "Afbeelding 2.3:",
+      "caption": "Deskundigheid behoud je door vakliteratuur te lezen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "daaebccc-13e6-4135-afee-c901cd770a62": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch2/linked/WBF_1.7_Ook kinderen kunnen mantelzorger zijn.jpg",
+      "alt": "Afbeelding 2.4: Ook kinderen kunnen mantelzorger zijn.",
+      "figureNumber": "Afbeelding 2.4:",
+      "caption": "Ook kinderen kunnen mantelzorger zijn.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

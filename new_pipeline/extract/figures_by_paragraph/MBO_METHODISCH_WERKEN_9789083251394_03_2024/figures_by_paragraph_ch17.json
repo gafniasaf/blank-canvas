@@ -1,0 +1,42 @@
+{
+  "942f266c-8990-4c8e-a3fc-ec4b5c1bc73e": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch17/linked/Image 4.3 PREZO.png",
+      "alt": "Afbeelding 17.1: PREZO.",
+      "figureNumber": "Afbeelding 17.1:",
+      "caption": "PREZO.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "47c5d66b-0b58-4d00-8da9-88407a3189cd": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch17/linked/Image 4.2 Niveaus van kwaliteitsmanagement.png",
+      "alt": "Afbeelding 17.2: Niveaus van kwaliteitsmanagement.",
+      "figureNumber": "Afbeelding 17.2:",
+      "caption": "Niveaus van kwaliteitsmanagement.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "0d0ecbac-0104-4682-8d4a-e3d4896d54af": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch17/linked/Image 4.5 PDCA-cirkel.png",
+      "alt": "Afbeelding 17.3: PDCA-cirkel.",
+      "figureNumber": "Afbeelding 17.3:",
+      "caption": "PDCA-cirkel.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "b62fc26a-e1ef-4182-b766-99783da31412": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch17/linked/Image 4.4 Onderdelen van een visgraatdiagram.png",
+      "alt": "Afbeelding 17.4: Onderdelen van een visgraatdiagram.",
+      "figureNumber": "Afbeelding 17.4:",
+      "caption": "Onderdelen van een visgraatdiagram.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

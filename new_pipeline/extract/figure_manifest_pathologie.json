@@ -1,0 +1,1932 @@
+{
+  "book": "Pathologie MBO N4",
+  "exportedAt": "Mon Dec 29 2025 17:33:09 GMT+0800",
+  "failedChapters": [],
+  "figures": [
+    {
+      "caption": "Schimmelnagels.",
+      "captionFull": "Afbeelding 1.10 Schimmelnagels.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-23_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-23_1.png",
+        "pageName": "12"
+      },
+      "label": "Afbeelding 1.10:",
+      "pageIndex": 10,
+      "pageName": "12"
+    },
+    {
+      "caption": "Schurft.",
+      "captionFull": "Afbeelding 1.11 Schurft.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-23_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-23_2.png",
+        "pageName": "12"
+      },
+      "label": "Afbeelding 1.11:",
+      "pageIndex": 10,
+      "pageName": "12"
+    },
+    {
+      "caption": "Rosacea.",
+      "captionFull": "Afbeelding 1.12 Rosacea.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-25_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-25_1.png",
+        "pageName": "14"
+      },
+      "label": "Afbeelding 1.12:",
+      "pageIndex": 12,
+      "pageName": "14"
+    },
+    {
+      "caption": "Het ontstaan van acne vulgaris.",
+      "captionFull": "Afbeelding 1.13 Het ontstaan van acne vulgaris.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-26_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-26_1.png",
+        "pageName": "15"
+      },
+      "label": "Afbeelding 1.13:",
+      "pageIndex": 13,
+      "pageName": "15"
+    },
+    {
+      "caption": "Acne.",
+      "captionFull": "Afbeelding 1.14 Acne.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-26_16.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-26_16.png",
+        "pageName": "16"
+      },
+      "label": "Afbeelding 1.14:",
+      "pageIndex": 14,
+      "pageName": "16"
+    },
+    {
+      "caption": "Psoriasis.",
+      "captionFull": "Afbeelding 1.15 Psoriasis.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-27_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-27_1.png",
+        "pageName": "17"
+      },
+      "label": "Afbeelding 1.15:",
+      "pageIndex": 15,
+      "pageName": "17"
+    },
+    {
+      "caption": "Vitiligo.",
+      "captionFull": "Afbeelding 1.16 Vitiligo.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-28_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-28_1.png",
+        "pageName": "17"
+      },
+      "label": "Afbeelding 1.16:",
+      "pageIndex": 15,
+      "pageName": "17"
+    },
+    {
+      "caption": "Levervlek.",
+      "captionFull": "Afbeelding 1.17 Levervlek.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-28_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-28_2.png",
+        "pageName": "18"
+      },
+      "label": "Afbeelding 1.17:",
+      "pageIndex": 16,
+      "pageName": "18"
+    },
+    {
+      "caption": "Melasma.",
+      "captionFull": "Afbeelding 1.18 Melasma.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-29_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-29_1.png",
+        "pageName": "19"
+      },
+      "label": "Afbeelding 1.18:",
+      "pageIndex": 17,
+      "pageName": "19"
+    },
+    {
+      "caption": "Melanoom.",
+      "captionFull": "Afbeelding 1.19 Melanoom.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-29_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-29_2.png",
+        "pageName": "19"
+      },
+      "label": "Afbeelding 1.19:",
+      "pageIndex": 17,
+      "pageName": "19"
+    },
+    {
+      "caption": "Epidermale cyste op het voorhoofd.",
+      "captionFull": "Afbeelding 1.1 Epidermale cyste op het voorhoofd.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-16_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-16_1.png",
+        "pageName": "4"
+      },
+      "label": "Afbeelding 1.1:",
+      "pageIndex": 2,
+      "pageName": "4"
+    },
+    {
+      "caption": "Hemangioom op de arm van een baby.",
+      "captionFull": "Afbeelding 1.20 Hemangioom op de arm van een baby.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-30_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-30_1.png",
+        "pageName": "20"
+      },
+      "label": "Afbeelding 1.20:",
+      "pageIndex": 18,
+      "pageName": "20"
+    },
+    {
+      "caption": "Wijnvlek.",
+      "captionFull": "Afbeelding 1.21 Wijnvlek.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-30_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-30_2.png",
+        "pageName": "20"
+      },
+      "label": "Afbeelding 1.21:",
+      "pageIndex": 18,
+      "pageName": "20"
+    },
+    {
+      "caption": "Basaalcelcarcinoom.",
+      "captionFull": "Afbeelding 1.22 Basaalcelcarcinoom.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-31_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-31_1.png",
+        "pageName": "21"
+      },
+      "label": "Afbeelding 1.22:",
+      "pageIndex": 19,
+      "pageName": "21"
+    },
+    {
+      "caption": "Likdoorn.",
+      "captionFull": "Afbeelding 1.23 Likdoorn.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-32_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-32_1.png",
+        "pageName": "23"
+      },
+      "label": "Afbeelding 1.23:",
+      "pageIndex": 21,
+      "pageName": "23"
+    },
+    {
+      "caption": "Categorie II decubitus bij het stuitbeen.",
+      "captionFull": "Afbeelding 1.24 Categorie II decubitus bij het stuitbeen.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-33_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-33_1.png",
+        "pageName": "23"
+      },
+      "label": "Afbeelding 1.24:",
+      "pageIndex": 21,
+      "pageName": "23"
+    },
+    {
+      "caption": "Voorkeursplaatsen van decubitus op de rug en de zij.",
+      "captionFull": "Afbeelding 1.25 Voorkeursplaatsen van decubitus op de rug en de zij.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-35_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-35_1.png",
+        "pageName": "25"
+      },
+      "label": "Afbeelding 1.25:",
+      "pageIndex": 23,
+      "pageName": "25"
+    },
+    {
+      "caption": "Graad II frostbite.",
+      "captionFull": "Afbeelding 1.27 Graad II frostbite.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-39_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-39_1.png",
+        "pageName": "28"
+      },
+      "label": "Afbeelding 1.27:",
+      "pageIndex": 26,
+      "pageName": "28"
+    },
+    {
+      "caption": "Verschillende gradaties brandwonden.",
+      "captionFull": "Afbeelding 1.28 Verschillende gradaties brandwonden.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-40_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-40_1.png",
+        "pageName": "29"
+      },
+      "label": "Afbeelding 1.28:",
+      "pageIndex": 27,
+      "pageName": "29"
+    },
+    {
+      "caption": "Bij een derdegraads brandwond kunnen diepe structuren waaronder pezen en spieren verbrand zijn.",
+      "captionFull": "Afbeelding 1.29 Bij een derdegraads brandwond kunnen diepe structuren waaronder pezen en spieren verbrand zijn.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-41_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-41_1.png",
+        "pageName": "30"
+      },
+      "label": "Afbeelding 1.29:",
+      "pageIndex": 28,
+      "pageName": "30"
+    },
+    {
+      "caption": "Galbulten (urticaria).",
+      "captionFull": "Afbeelding 1.2 Galbulten (urticaria).",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-17_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-17_1.png",
+        "pageName": "5"
+      },
+      "label": "Afbeelding 1.2:",
+      "pageIndex": 3,
+      "pageName": "5"
+    },
+    {
+      "caption": "Impetigo.",
+      "captionFull": "Afbeelding 1.3 Impetigo.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-17_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-17_2.png",
+        "pageName": "6"
+      },
+      "label": "Afbeelding 1.3:",
+      "pageIndex": 4,
+      "pageName": "6"
+    },
+    {
+      "caption": "Erysipelas.",
+      "captionFull": "Afbeelding 1.4 Erysipelas.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-18_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-18_1.png",
+        "pageName": "7"
+      },
+      "label": "Afbeelding 1.4:",
+      "pageIndex": 5,
+      "pageName": "7"
+    },
+    {
+      "caption": "Furunkel.",
+      "captionFull": "Afbeelding 1.5 Furunkel.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-19_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-19_1.png",
+        "pageName": "8"
+      },
+      "label": "Afbeelding 1.5:",
+      "pageIndex": 6,
+      "pageName": "8"
+    },
+    {
+      "caption": "Herpesinfectie.",
+      "captionFull": "Afbeelding 1.6 Herpesinfectie.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-19_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-19_2.png",
+        "pageName": "9"
+      },
+      "label": "Afbeelding 1.6:",
+      "pageIndex": 7,
+      "pageName": "9"
+    },
+    {
+      "caption": "Varicella.",
+      "captionFull": "Afbeelding 1.7 Varicella.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-19_3.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-19_3.png",
+        "pageName": "9"
+      },
+      "label": "Afbeelding 1.7:",
+      "pageIndex": 7,
+      "pageName": "9"
+    },
+    {
+      "caption": "Wrat.",
+      "captionFull": "Afbeelding 1.8 Wrat.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-20_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-20_1.png",
+        "pageName": "10"
+      },
+      "label": "Afbeelding 1.8:",
+      "pageIndex": 8,
+      "pageName": "10"
+    },
+    {
+      "caption": "Schimmelinfectie van de huid.",
+      "captionFull": "Afbeelding 1.9 Schimmelinfectie van de huid.",
+      "chapter": 1,
+      "image": {
+        "linkName": "chapter1-21_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH01_03/Links/chapter1-21_1.png",
+        "pageName": "10"
+      },
+      "label": "Afbeelding 1.9:",
+      "pageIndex": 8,
+      "pageName": "10"
+    },
+    {
+      "caption": "Gewrichtspunctie.",
+      "captionFull": "Afbeelding 2.10 Gewrichtspunctie.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-62_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-62_1.png",
+        "pageName": "58"
+      },
+      "label": "Afbeelding 2.10:",
+      "pageIndex": 22,
+      "pageName": "58"
+    },
+    {
+      "caption": "Ziekte van Bechterew.",
+      "captionFull": "Afbeelding 2.11 Ziekte van Bechterew.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-63_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-63_1.png",
+        "pageName": "60"
+      },
+      "label": "Afbeelding 2.11:",
+      "pageIndex": 24,
+      "pageName": "60"
+    },
+    {
+      "caption": "Op een röntgenfoto kunnen afwijkingen van de gewrichten door de ziekte van Bechterew zichtbaar worden gemaakt.",
+      "captionFull": "Afbeelding 2.12 Op een röntgenfoto kunnen afwijkingen van de gewrichten door de ziekte van Bechterew zichtbaar worden gemaakt.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-65_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-65_1.png",
+        "pageName": "62"
+      },
+      "label": "Afbeelding 2.12:",
+      "pageIndex": 26,
+      "pageName": "62"
+    },
+    {
+      "caption": "Gewrichten bestaan uit: het gewrichtskapsel, het gewrichtskraakbeen en de gewrichtsvloeistof.",
+      "captionFull": "Afbeelding 2.1 Gewrichten bestaan uit: het gewrichtskapsel, het gewrichtskraakbeen en de gewrichtsvloeistof.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-49_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-49_2.png",
+        "pageName": "37"
+      },
+      "label": "Afbeelding 2.1:",
+      "pageIndex": 1,
+      "pageName": "37"
+    },
+    {
+      "caption": "Een röntgenfoto van de knie, waarop artrose te zien is.",
+      "captionFull": "Afbeelding 2.2 Een röntgenfoto van de knie, waarop artrose te zien is.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-51_4.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-51_4.png",
+        "pageName": "41"
+      },
+      "label": "Afbeelding 2.2:",
+      "pageIndex": 5,
+      "pageName": "41"
+    },
+    {
+      "caption": "Fysiotherapie kan helpen bij de behandeling van artrose.",
+      "captionFull": "Afbeelding 2.3 Fysiotherapie kan helpen bij de behandeling van artrose.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-52_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-52_1.png",
+        "pageName": "43"
+      },
+      "label": "Afbeelding 2.3:",
+      "pageIndex": 7,
+      "pageName": "43"
+    },
+    {
+      "caption": "Handen met reumatoïde artritis.",
+      "captionFull": "Afbeelding 2.4 Handen met reumatoïde artritis.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-53_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-53_1.png",
+        "pageName": "44"
+      },
+      "label": "Afbeelding 2.4:",
+      "pageIndex": 8,
+      "pageName": "44"
+    },
+    {
+      "caption": "Reumatoïde artritis.",
+      "captionFull": "Afbeelding 2.5 Reumatoïde artritis.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-55_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-55_1.png",
+        "pageName": "47"
+      },
+      "label": "Afbeelding 2.5:",
+      "pageIndex": 11,
+      "pageName": "47"
+    },
+    {
+      "caption": "Bij botontkalking (osteoporose) wordt meer bot afgebroken dan aangemaakt.",
+      "captionFull": "Afbeelding 2.6 Bij botontkalking (osteoporose) wordt meer bot afgebroken dan aangemaakt.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-58_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-58_1.png",
+        "pageName": "52"
+      },
+      "label": "Afbeelding 2.6:",
+      "pageIndex": 16,
+      "pageName": "52"
+    },
+    {
+      "caption": "Met een DEXA-scan wordt de zorgvrager onderzocht op botontkalking.",
+      "captionFull": "Afbeelding 2.7 Met een DEXA-scan wordt de zorgvrager onderzocht op botontkalking.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-59_3.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-59_3.png",
+        "pageName": "54"
+      },
+      "label": "Afbeelding 2.7:",
+      "pageIndex": 18,
+      "pageName": "54"
+    },
+    {
+      "caption": "Urinezuurkristallen in de grote teen.",
+      "captionFull": "Afbeelding 2.8 Urinezuurkristallen in de grote teen.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-60_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-60_1.png",
+        "pageName": "55"
+      },
+      "label": "Afbeelding 2.8:",
+      "pageIndex": 19,
+      "pageName": "55"
+    },
+    {
+      "caption": "Jicht van de enkel.",
+      "captionFull": "Afbeelding 2.9 Jicht van de enkel.",
+      "chapter": 2,
+      "image": {
+        "linkName": "chapter2-61_3.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH02_03/Links/chapter2-61_3.png",
+        "pageName": "57"
+      },
+      "label": "Afbeelding 2.9:",
+      "pageIndex": 21,
+      "pageName": "57"
+    },
+    {
+      "caption": "Een depressie kan een direct gevolg zijn van een hersenbeschadiging.",
+      "captionFull": "Afbeelding 3.10 Een depressie kan een direct gevolg zijn van een hersenbeschadiging.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-84_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-84_1.png",
+        "pageName": "89"
+      },
+      "label": "Afbeelding 3.10:",
+      "pageIndex": 25,
+      "pageName": "89"
+    },
+    {
+      "caption": "De hersenvliezen.",
+      "captionFull": "Afbeelding 3.11 De hersenvliezen.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-86_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-86_1.png",
+        "pageName": "91"
+      },
+      "label": "Afbeelding 3.11:",
+      "pageIndex": 27,
+      "pageName": "91"
+    },
+    {
+      "caption": "Magnetic Resonance Imaging, kortweg MRI, kan door middel van magnetische straling een 3D-weergave van het lichaam vastleggen.",
+      "captionFull": "Afbeelding 3.12 Magnetic Resonance Imaging, kortweg MRI, kan door middel van magnetische straling een 3D-weergave van het lichaam vastleggen.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-87_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-87_1.png",
+        "pageName": "94"
+      },
+      "label": "Afbeelding 3.12:",
+      "pageIndex": 30,
+      "pageName": "94"
+    },
+    {
+      "caption": "Het elektro-encefalogram (EEG) kan elektrische activiteit van de hersencellen meten. Hierdoor kan een EEG informatie geven over de aard en de plaats van een mogelijke afwijking.",
+      "captionFull": "Afbeelding 3.13 Het elektro-encefalogram (EEG) kan elektrische activiteit van de hersencellen meten. Hierdoor kan een EEG informatie geven over de aard en de plaats van een mogelijke afwijking.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-91_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-91_1.png",
+        "pageName": "99"
+      },
+      "label": "Afbeelding 3.13:",
+      "pageIndex": 35,
+      "pageName": "99"
+    },
+    {
+      "caption": "Glasgow Coma Scale.",
+      "captionFull": "Afbeelding 3.14 Glasgow Coma Scale.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-92_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-92_1.png",
+        "pageName": "100"
+      },
+      "label": "Afbeelding 3.14:",
+      "pageIndex": 36,
+      "pageName": "100"
+    },
+    {
+      "caption": "Normaal EEG en EEG bij epilepsie.",
+      "captionFull": "Afbeelding 3.15 Normaal EEG en EEG bij epilepsie.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-100_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-100_1.png",
+        "pageName": "113"
+      },
+      "label": "Afbeelding 3.15:",
+      "pageIndex": 49,
+      "pageName": "113"
+    },
+    {
+      "caption": "Ketogeen dieet.",
+      "captionFull": "Afbeelding 3.16 Ketogeen dieet.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-103_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-103_1.png",
+        "pageName": "117"
+      },
+      "label": "Afbeelding 3.16:",
+      "pageIndex": 53,
+      "pageName": "117"
+    },
+    {
+      "caption": "Dopamineproducerende cellen.",
+      "captionFull": "Afbeelding 3.17 Dopamineproducerende cellen.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-104_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-104_1.png",
+        "pageName": "118"
+      },
+      "label": "Afbeelding 3.17:",
+      "pageIndex": 54,
+      "pageName": "118"
+    },
+    {
+      "caption": "Tremor bij parkinson.",
+      "captionFull": "Afbeelding 3.18 Tremor bij parkinson.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-105_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-105_1.png",
+        "pageName": "119"
+      },
+      "label": "Afbeelding 3.18:",
+      "pageIndex": 55,
+      "pageName": "119"
+    },
+    {
+      "caption": "Pijn is een vervelende, zintuigelijke en emotionele ervaring die het gevolg kan zijn van schade aan weefsels. Overal in het lichaam bevinden zich pijnreceptoren die pijn kunnen registreren.",
+      "captionFull": "Afbeelding 3.19 Pijn is een vervelende, zintuigelijke en emotionele ervaring die het gevolg kan zijn van schade aan weefsels. Overal in het lichaam bevinden zich pijnreceptoren die pijn kunnen registreren.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-108_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-108_1.png",
+        "pageName": "124"
+      },
+      "label": "Afbeelding 3.19:",
+      "pageIndex": 60,
+      "pageName": "124"
+    },
+    {
+      "caption": "Zenuwen en hun distributiepatronen over het lichaam.",
+      "captionFull": "Afbeelding 3.1 Zenuwen en hun distributiepatronen over het lichaam.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-67_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-67_1.png",
+        "pageName": "65"
+      },
+      "label": "Afbeelding 3.1:",
+      "pageIndex": 1,
+      "pageName": "65"
+    },
+    {
+      "caption": "De wervelkolom met wervels en tussenwervelschijven.",
+      "captionFull": "Afbeelding 3.20 De wervelkolom met wervels en tussenwervelschijven.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-112_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-112_1.png",
+        "pageName": "129"
+      },
+      "label": "Afbeelding 3.20:",
+      "pageIndex": 65,
+      "pageName": "129"
+    },
+    {
+      "caption": "Carpaal tunnelsyndroom.",
+      "captionFull": "Afbeelding 3.21 Carpaal tunnelsyndroom.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-114_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-114_1.png",
+        "pageName": "132"
+      },
+      "label": "Afbeelding 3.21:",
+      "pageIndex": 68,
+      "pageName": "132"
+    },
+    {
+      "caption": "De kniepeesreflex wordt opgewekt door met een hamertje vlak onder de knieschijf te slaan.",
+      "captionFull": "Afbeelding 3.22 De kniepeesreflex wordt opgewekt door met een hamertje vlak onder de knieschijf te slaan.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-117_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-117_1.png",
+        "pageName": "136"
+      },
+      "label": "Afbeelding 3.22:",
+      "pageIndex": 72,
+      "pageName": "136"
+    },
+    {
+      "caption": "Anatomie van het oor.",
+      "captionFull": "Afbeelding 3.23 Anatomie van het oor.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-121_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-121_1.png",
+        "pageName": "141"
+      },
+      "label": "Afbeelding 3.23:",
+      "pageIndex": 77,
+      "pageName": "141"
+    },
+    {
+      "caption": "Anatomie van het oog.",
+      "captionFull": "Afbeelding 3.24 Anatomie van het oog.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-124_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-124_1.png",
+        "pageName": "147"
+      },
+      "label": "Afbeelding 3.24:",
+      "pageIndex": 83,
+      "pageName": "147"
+    },
+    {
+      "caption": "Bijziendheid en correctie met lens.",
+      "captionFull": "Afbeelding 3.25 Bijziendheid en correctie met lens.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-125_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-125_1.png",
+        "pageName": "149"
+      },
+      "label": "Afbeelding 3.25:",
+      "pageIndex": 85,
+      "pageName": "149"
+    },
+    {
+      "caption": "Netvliesloslating.",
+      "captionFull": "Afbeelding 3.26 Netvliesloslating.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-126_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-126_1.png",
+        "pageName": "151"
+      },
+      "label": "Afbeelding 3.26:",
+      "pageIndex": 87,
+      "pageName": "151"
+    },
+    {
+      "caption": "Staar (cataract).",
+      "captionFull": "Afbeelding 3.27 Staar (cataract).",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-127_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-127_1.png",
+        "pageName": "153"
+      },
+      "label": "Afbeelding 3.27:",
+      "pageIndex": 89,
+      "pageName": "153"
+    },
+    {
+      "caption": "Glaucoom.",
+      "captionFull": "Afbeelding 3.28 Glaucoom.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-129_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-129_1.png",
+        "pageName": "155"
+      },
+      "label": "Afbeelding 3.28:",
+      "pageIndex": 91,
+      "pageName": "155"
+    },
+    {
+      "caption": "Soorten oorontsteking.",
+      "captionFull": "Afbeelding 3.29 Soorten oorontsteking.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-132_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-132_1.png",
+        "pageName": "159"
+      },
+      "label": "Afbeelding 3.29:",
+      "pageIndex": 95,
+      "pageName": "159"
+    },
+    {
+      "caption": "Virussen die encefalitis veroorzaken worden overgebracht via insecten, waaronder muggen.",
+      "captionFull": "Afbeelding 3.2 Virussen die encefalitis veroorzaken worden overgebracht via insecten, waaronder muggen.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-68_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-68_1.png",
+        "pageName": "67"
+      },
+      "label": "Afbeelding 3.2:",
+      "pageIndex": 3,
+      "pageName": "67"
+    },
+    {
+      "caption": "Trommelvliesperforatie.",
+      "captionFull": "Afbeelding 3.30 Trommelvliesperforatie.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-134_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-134_1.png",
+        "pageName": "161"
+      },
+      "label": "Afbeelding 3.30:",
+      "pageIndex": 97,
+      "pageName": "161"
+    },
+    {
+      "caption": "Herpes-simplexvirus.",
+      "captionFull": "Afbeelding 3.3 Herpes-simplexvirus.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-69_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-69_1.png",
+        "pageName": "68"
+      },
+      "label": "Afbeelding 3.3:",
+      "pageIndex": 4,
+      "pageName": "68"
+    },
+    {
+      "caption": "Door middel van een ruggenprik wordt er hersenvocht afgenomen (lumbaalpunctie).",
+      "captionFull": "Afbeelding 3.4 Door middel van een ruggenprik wordt er hersenvocht afgenomen (lumbaalpunctie).",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-70_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-70_1.png",
+        "pageName": "70"
+      },
+      "label": "Afbeelding 3.4:",
+      "pageIndex": 6,
+      "pageName": "70"
+    },
+    {
+      "caption": "Bij een bacteriële meningitis kan de huid kleine, niet-wegdrukbare plekjes vertonen. Deze plekjes ontstaan door ernstige stollingsstoornissen.",
+      "captionFull": "Afbeelding 3.5 Bij een bacteriële meningitis kan de huid kleine, niet-wegdrukbare plekjes vertonen. Deze plekjes ontstaan door ernstige stollingsstoornissen.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-72_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-72_1.png",
+        "pageName": "73"
+      },
+      "label": "Afbeelding 3.5:",
+      "pageIndex": 9,
+      "pageName": "73"
+    },
+    {
+      "caption": "Tegenwoordig worden kinderen gevaccineerd tegen bepaalde verwekkers van bacteriële meningitis.",
+      "captionFull": "Afbeelding 3.6 Tegenwoordig worden kinderen gevaccineerd tegen bepaalde verwekkers van bacteriële meningitis.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-74_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-74_1.png",
+        "pageName": "76"
+      },
+      "label": "Afbeelding 3.6:",
+      "pageIndex": 12,
+      "pageName": "76"
+    },
+    {
+      "caption": "Bij een hersenbloeding ontstaat een scheur in een bloedvat en bij een herseninfarct is sprake van afsluiting van een bloedvat.",
+      "captionFull": "Afbeelding 3.7 Bij een hersenbloeding ontstaat een scheur in een bloedvat en bij een herseninfarct is sprake van afsluiting van een bloedvat.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-75_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-75_1.png",
+        "pageName": "78"
+      },
+      "label": "Afbeelding 3.7:",
+      "pageIndex": 14,
+      "pageName": "78"
+    },
+    {
+      "caption": "Op een CT-scan is een hersenbloeding zichtbaar als een witte vlek.",
+      "captionFull": "Afbeelding 3.8 Op een CT-scan is een hersenbloeding zichtbaar als een witte vlek.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-77_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-77_1.png",
+        "pageName": "82"
+      },
+      "label": "Afbeelding 3.8:",
+      "pageIndex": 18,
+      "pageName": "82"
+    },
+    {
+      "caption": "Verlammingsverschijnselen in het gezicht.",
+      "captionFull": "Afbeelding 3.9 Verlammingsverschijnselen in het gezicht.",
+      "chapter": 3,
+      "image": {
+        "linkName": "chapter3-81_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH03_03/Links/chapter3-81_1.png",
+        "pageName": "86"
+      },
+      "label": "Afbeelding 3.9:",
+      "pageIndex": 22,
+      "pageName": "86"
+    },
+    {
+      "caption": "De schildklier bevindt zich aan de voorzijde van de hals.",
+      "captionFull": "Afbeelding 4.1 De schildklier bevindt zich aan de voorzijde van de hals.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-139_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-139_1.png",
+        "pageName": "166"
+      },
+      "label": "Afbeelding 4.1:",
+      "pageIndex": 2,
+      "pageName": "166"
+    },
+    {
+      "caption": "Een normale schildklier en een vergrote schildklier (struma).",
+      "captionFull": "Afbeelding 4.2 Een normale schildklier en een vergrote schildklier (struma).",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-144_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-144_1.png",
+        "pageName": "175"
+      },
+      "label": "Afbeelding 4.2:",
+      "pageIndex": 11,
+      "pageName": "175"
+    },
+    {
+      "caption": "Nier en bijnier.",
+      "captionFull": "Afbeelding 4.3 Nier en bijnier.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-147_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-147_1.png",
+        "pageName": "177"
+      },
+      "label": "Afbeelding 4.3:",
+      "pageIndex": 13,
+      "pageName": "177"
+    },
+    {
+      "caption": "Syndroom van Cushing.",
+      "captionFull": "Afbeelding 4.4 Syndroom van Cushing.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-148_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-148_1.png",
+        "pageName": "179"
+      },
+      "label": "Afbeelding 4.4:",
+      "pageIndex": 15,
+      "pageName": "179"
+    },
+    {
+      "caption": "Ziekte van Addison.",
+      "captionFull": "Afbeelding 4.5 Ziekte van Addison.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-152_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-152_1.png",
+        "pageName": "187"
+      },
+      "label": "Afbeelding 4.5:",
+      "pageIndex": 23,
+      "pageName": "187"
+    },
+    {
+      "caption": "Diabetes mellitus type 1 en de eilandjes van Langerhans.",
+      "captionFull": "Afbeelding 4.6 Diabetes mellitus type 1 en de eilandjes van Langerhans.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-156_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-156_1.png",
+        "pageName": "194"
+      },
+      "label": "Afbeelding 4.6:",
+      "pageIndex": 30,
+      "pageName": "194"
+    },
+    {
+      "caption": "Diabetes mellitus type 1 en type 2.",
+      "captionFull": "Afbeelding 4.7 Diabetes mellitus type 1 en type 2.",
+      "chapter": 4,
+      "image": {
+        "linkName": "chapter4-161_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH04_03/Links/chapter4-161_1.png",
+        "pageName": "196"
+      },
+      "label": "Afbeelding 4.7:",
+      "pageIndex": 32,
+      "pageName": "196"
+    },
+    {
+      "caption": "De uitkomst van een sputumkweek met in blauw de witte bloedcellen en in rood de bacteriën.",
+      "captionFull": "Afbeelding 5.10 De uitkomst van een sputumkweek met in blauw de witte bloedcellen en in rood de bacteriën.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-189_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-189_1.png",
+        "pageName": "238"
+      },
+      "label": "Afbeelding 5.10:",
+      "pageIndex": 36,
+      "pageName": "238"
+    },
+    {
+      "caption": "We kennen twee verschillende soorten kortademigheid: kortademigheid in rust en bij inspanning.",
+      "captionFull": "Afbeelding 5.1 We kennen twee verschillende soorten kortademigheid: kortademigheid in rust en bij inspanning.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-167_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-167_1.png",
+        "pageName": "207"
+      },
+      "label": "Afbeelding 5.1:",
+      "pageIndex": 5,
+      "pageName": "207"
+    },
+    {
+      "caption": "Spieren die betrokken zijn bij de ademhaling.",
+      "captionFull": "Afbeelding 5.2 Spieren die betrokken zijn bij de ademhaling.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-168_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-168_1.png",
+        "pageName": "209"
+      },
+      "label": "Afbeelding 5.2:",
+      "pageIndex": 7,
+      "pageName": "209"
+    },
+    {
+      "caption": "Een thoraxfoto waarop de longen zwart zijn afgebeeld, omdat ze lucht bevatten. De botten zijn wit en ook de vorm van het hart en het middenrif zijn zichtbaar.",
+      "captionFull": "Afbeelding 5.3 Een thoraxfoto waarop de longen zwart zijn afgebeeld, omdat ze lucht bevatten. De botten zijn wit en ook de vorm van het hart en het middenrif zijn zichtbaar.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-171_1.jpg",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-171_1.jpg",
+        "pageName": "215"
+      },
+      "label": "Afbeelding 5.3:",
+      "pageIndex": 13,
+      "pageName": "215"
+    },
+    {
+      "caption": "Feiten over astma.",
+      "captionFull": "Afbeelding 5.4 Feiten over astma.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-173_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-173_1.png",
+        "pageName": "219"
+      },
+      "label": "Afbeelding 5.4:",
+      "pageIndex": 17,
+      "pageName": "219"
+    },
+    {
+      "caption": "Inhalatiemedicatie bij astma.",
+      "captionFull": "Afbeelding 5.5 Inhalatiemedicatie bij astma.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-176_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-176_1.png",
+        "pageName": "222"
+      },
+      "label": "Afbeelding 5.5:",
+      "pageIndex": 20,
+      "pageName": "222"
+    },
+    {
+      "caption": "Intubatie bij acuut astma.",
+      "captionFull": "Afbeelding 5.6 Intubatie bij acuut astma.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-177_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-177_1.png",
+        "pageName": "223"
+      },
+      "label": "Afbeelding 5.6:",
+      "pageIndex": 21,
+      "pageName": "223"
+    },
+    {
+      "caption": "COPD en emfyseem.",
+      "captionFull": "Afbeelding 5.7 COPD en emfyseem.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-179_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-179_1.png",
+        "pageName": "227"
+      },
+      "label": "Afbeelding 5.7:",
+      "pageIndex": 25,
+      "pageName": "227"
+    },
+    {
+      "caption": "Pleuritis is een ontsteking van de borstvlies (pleura).",
+      "captionFull": "Afbeelding 5.8 Pleuritis is een ontsteking van de borstvlies (pleura).",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-184_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-184_1.png",
+        "pageName": "231"
+      },
+      "label": "Afbeelding 5.8:",
+      "pageIndex": 29,
+      "pageName": "231"
+    },
+    {
+      "caption": "Een longontsteking kan worden veroorzaakt door verschillende ziekteverwekkers.",
+      "captionFull": "Afbeelding 5.9 Een longontsteking kan worden veroorzaakt door verschillende ziekteverwekkers.",
+      "chapter": 5,
+      "image": {
+        "linkName": "chapter5-187_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH05_03/Links/chapter5-187_1.png",
+        "pageName": "234"
+      },
+      "label": "Afbeelding 5.9:",
+      "pageIndex": 32,
+      "pageName": "234"
+    },
+    {
+      "caption": "Renine angiotensine-aldosteronsysteem (RAAS).",
+      "captionFull": "Afbeelding 6.10 Renine angiotensine-aldosteronsysteem (RAAS).",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-213_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-213_1.png",
+        "pageName": "263"
+      },
+      "label": "Afbeelding 6.10:",
+      "pageIndex": 23,
+      "pageName": "263"
+    },
+    {
+      "caption": "Symptomen van een hoge bloeddruk.",
+      "captionFull": "Afbeelding 6.11 Symptomen van een hoge bloeddruk.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-219_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-219_1.png",
+        "pageName": "270"
+      },
+      "label": "Afbeelding 6.11:",
+      "pageIndex": 30,
+      "pageName": "270"
+    },
+    {
+      "caption": "Diep veneuze trombose.",
+      "captionFull": "Afbeelding 6.12 Diep veneuze trombose.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-226_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-226_1.png",
+        "pageName": "279"
+      },
+      "label": "Afbeelding 6.12:",
+      "pageIndex": 39,
+      "pageName": "279"
+    },
+    {
+      "caption": "Om de diagnose diep veneuze trombose te bevestigen, wordt een echo van het been gemaakt.",
+      "captionFull": "Afbeelding 6.13 Om de diagnose diep veneuze trombose te bevestigen, wordt een echo van het been gemaakt.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-229_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-229_1.png",
+        "pageName": "282"
+      },
+      "label": "Afbeelding 6.13:",
+      "pageIndex": 42,
+      "pageName": "282"
+    },
+    {
+      "caption": "Samenstelling van het bloed.",
+      "captionFull": "Afbeelding 6.14 Samenstelling van het bloed.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-234_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-234_1.png",
+        "pageName": "289"
+      },
+      "label": "Afbeelding 6.14:",
+      "pageIndex": 49,
+      "pageName": "289"
+    },
+    {
+      "caption": "Een normale bloedcel en een sikkelcel.",
+      "captionFull": "Afbeelding 6.15 Een normale bloedcel en een sikkelcel.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-238_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-238_1.png",
+        "pageName": "294"
+      },
+      "label": "Afbeelding 6.15:",
+      "pageIndex": 54,
+      "pageName": "294"
+    },
+    {
+      "caption": "AB0-bloedgroepen.",
+      "captionFull": "Afbeelding 6.16 AB0-bloedgroepen.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-241_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-241_1.png",
+        "pageName": "297"
+      },
+      "label": "Afbeelding 6.16:",
+      "pageIndex": 57,
+      "pageName": "297"
+    },
+    {
+      "caption": "Vergrote milt bij een tekort aan bloedplaatjes.",
+      "captionFull": "Afbeelding 6.17 Vergrote milt bij een tekort aan bloedplaatjes.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-247_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-247_1.png",
+        "pageName": "303"
+      },
+      "label": "Afbeelding 6.17:",
+      "pageIndex": 63,
+      "pageName": "303"
+    },
+    {
+      "caption": "Het verloop van vaatverkalking.",
+      "captionFull": "Afbeelding 6.1 Het verloop van vaatverkalking.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-194_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-194_1.png",
+        "pageName": "243"
+      },
+      "label": "Afbeelding 6.1:",
+      "pageIndex": 3,
+      "pageName": "243"
+    },
+    {
+      "caption": "Een stent wordt op de plaats van de vernauwing in het bloedvat geplaatst.",
+      "captionFull": "Afbeelding 6.2 Een stent wordt op de plaats van de vernauwing in het bloedvat geplaatst.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-196_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-196_1.png",
+        "pageName": "245"
+      },
+      "label": "Afbeelding 6.2:",
+      "pageIndex": 5,
+      "pageName": "245"
+    },
+    {
+      "caption": "Bypassoperatie.",
+      "captionFull": "Afbeelding 6.3 Bypassoperatie.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-197_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-197_1.png",
+        "pageName": "246"
+      },
+      "label": "Afbeelding 6.3:",
+      "pageIndex": 6,
+      "pageName": "246"
+    },
+    {
+      "caption": "Zuurstoftekort van het hart veroorzaakt pijn op de borst.",
+      "captionFull": "Afbeelding 6.4 Zuurstoftekort van het hart veroorzaakt pijn op de borst.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-198_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-198_1.png",
+        "pageName": "247"
+      },
+      "label": "Afbeelding 6.4:",
+      "pageIndex": 7,
+      "pageName": "247"
+    },
+    {
+      "caption": "ST-elevatie myocardinfarct.",
+      "captionFull": "Afbeelding 6.5 ST-elevatie myocardinfarct.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-198_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-198_2.png",
+        "pageName": "251"
+      },
+      "label": "Afbeelding 6.5:",
+      "pageIndex": 11,
+      "pageName": "251"
+    },
+    {
+      "caption": "Bij hartfalen is het hart vaak ernstig vergroot, zoals te zien op deze röntgenfoto.",
+      "captionFull": "Afbeelding 6.6 Bij hartfalen is het hart vaak ernstig vergroot, zoals te zien op deze röntgenfoto.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-203_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-203_1.png",
+        "pageName": "254"
+      },
+      "label": "Afbeelding 6.6:",
+      "pageIndex": 14,
+      "pageName": "254"
+    },
+    {
+      "caption": "Pompfunctie van het hart.",
+      "captionFull": "Afbeelding 6.7 Pompfunctie van het hart.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-207_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-207_1.png",
+        "pageName": "258"
+      },
+      "label": "Afbeelding 6.7:",
+      "pageIndex": 18,
+      "pageName": "258"
+    },
+    {
+      "caption": "Verschillende typen hartziekten.",
+      "captionFull": "Afbeelding 6.8 Verschillende typen hartziekten.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-209_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-209_1.png",
+        "pageName": "260"
+      },
+      "label": "Afbeelding 6.8:",
+      "pageIndex": 20,
+      "pageName": "260"
+    },
+    {
+      "caption": "Bypassoperatie.",
+      "captionFull": "Afbeelding 6.9 Bypassoperatie.",
+      "chapter": 6,
+      "image": {
+        "linkName": "chapter6-211_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH06_03/Links/chapter6-211_1.png",
+        "pageName": "261"
+      },
+      "label": "Afbeelding 6.9:",
+      "pageIndex": 21,
+      "pageName": "261"
+    },
+    {
+      "caption": "Mechanische ileus.",
+      "captionFull": "Afbeelding 7.10 Mechanische ileus.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-276_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-276_1.png",
+        "pageName": "336"
+      },
+      "label": "Afbeelding 7.10:",
+      "pageIndex": 30,
+      "pageName": "336"
+    },
+    {
+      "caption": "Neusmaagsonde.",
+      "captionFull": "Afbeelding 7.11 Neusmaagsonde.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-280_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-280_1.png",
+        "pageName": "341"
+      },
+      "label": "Afbeelding 7.11:",
+      "pageIndex": 35,
+      "pageName": "341"
+    },
+    {
+      "caption": "Ontlastingtypes.",
+      "captionFull": "Afbeelding 7.12 Ontlastingtypes.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-281_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-281_1.png",
+        "pageName": "343"
+      },
+      "label": "Afbeelding 7.12:",
+      "pageIndex": 37,
+      "pageName": "343"
+    },
+    {
+      "caption": "Ziekte van Crohn.",
+      "captionFull": "Afbeelding 7.13 Ziekte van Crohn.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-282_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-282_1.png",
+        "pageName": "345"
+      },
+      "label": "Afbeelding 7.13:",
+      "pageIndex": 39,
+      "pageName": "345"
+    },
+    {
+      "caption": "Colitis ulcerosa.",
+      "captionFull": "Afbeelding 7.14 Colitis ulcerosa.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-289_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-289_1.png",
+        "pageName": "350"
+      },
+      "label": "Afbeelding 7.14:",
+      "pageIndex": 44,
+      "pageName": "350"
+    },
+    {
+      "caption": "Vetten.",
+      "captionFull": "Afbeelding 7.1 Vetten.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-255_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-255_1.png",
+        "pageName": "309"
+      },
+      "label": "Afbeelding 7.1:",
+      "pageIndex": 3,
+      "pageName": "309"
+    },
+    {
+      "caption": "Body Mass Index.",
+      "captionFull": "Afbeelding 7.2 Body Mass Index.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-258_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-258_1.png",
+        "pageName": "314"
+      },
+      "label": "Afbeelding 7.2:",
+      "pageIndex": 8,
+      "pageName": "314"
+    },
+    {
+      "caption": "Pijn op de borst bij refluxziekte.",
+      "captionFull": "Afbeelding 7.3 Pijn op de borst bij refluxziekte.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-265_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-265_1.png",
+        "pageName": "322"
+      },
+      "label": "Afbeelding 7.3:",
+      "pageIndex": 16,
+      "pageName": "322"
+    },
+    {
+      "caption": "Maag- en darmzweer.",
+      "captionFull": "Afbeelding 7.4 Maag- en darmzweer.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-268_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-268_1.png",
+        "pageName": "326"
+      },
+      "label": "Afbeelding 7.4:",
+      "pageIndex": 20,
+      "pageName": "326"
+    },
+    {
+      "caption": "Endoscopie.",
+      "captionFull": "Afbeelding 7.5 Endoscopie.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-270_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-270_1.png",
+        "pageName": "329"
+      },
+      "label": "Afbeelding 7.5:",
+      "pageIndex": 23,
+      "pageName": "329"
+    },
+    {
+      "caption": "Levercirrose.",
+      "captionFull": "Afbeelding 7.6 Levercirrose.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-271_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-271_1.png",
+        "pageName": "330"
+      },
+      "label": "Afbeelding 7.6:",
+      "pageIndex": 24,
+      "pageName": "330"
+    },
+    {
+      "caption": "De lever.",
+      "captionFull": "Afbeelding 7.7 De lever.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-272_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-272_1.png",
+        "pageName": "331"
+      },
+      "label": "Afbeelding 7.7:",
+      "pageIndex": 25,
+      "pageName": "331"
+    },
+    {
+      "caption": "Geelzucht (icterus).",
+      "captionFull": "Afbeelding 7.8 Geelzucht (icterus).",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-273_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-273_1.png",
+        "pageName": "332"
+      },
+      "label": "Afbeelding 7.8:",
+      "pageIndex": 26,
+      "pageName": "332"
+    },
+    {
+      "caption": "Slokdarmspataderen.",
+      "captionFull": "Afbeelding 7.9 Slokdarmspataderen.",
+      "chapter": 7,
+      "image": {
+        "linkName": "chapter7-275_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH07_03/Links/chapter7-275_1.png",
+        "pageName": "334"
+      },
+      "label": "Afbeelding 7.9:",
+      "pageIndex": 28,
+      "pageName": "334"
+    },
+    {
+      "caption": "Bekkenbodemspieren bij de vrouw.",
+      "captionFull": "Afbeelding 8.10 Bekkenbodemspieren bij de vrouw.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-318_10.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-318_10.png",
+        "pageName": "389"
+      },
+      "label": "Afbeelding 8.10:",
+      "pageIndex": 27,
+      "pageName": "389"
+    },
+    {
+      "caption": "Bekkenbodemspieroefeningen.",
+      "captionFull": "Afbeelding 8.11 Bekkenbodemspieroefeningen.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-325_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-325_1.png",
+        "pageName": "396"
+      },
+      "label": "Afbeelding 8.11:",
+      "pageIndex": 34,
+      "pageName": "396"
+    },
+    {
+      "caption": "Benigne prostaathypertrofie.",
+      "captionFull": "Afbeelding 8.12 Benigne prostaathypertrofie.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-329_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-329_1.png",
+        "pageName": "401"
+      },
+      "label": "Afbeelding 8.12:",
+      "pageIndex": 39,
+      "pageName": "401"
+    },
+    {
+      "caption": "Urineweginfectie.",
+      "captionFull": "Afbeelding 8.1 Urineweginfectie.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-301_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-301_1.png",
+        "pageName": "364"
+      },
+      "label": "Afbeelding 8.1:",
+      "pageIndex": 2,
+      "pageName": "364"
+    },
+    {
+      "caption": "Nierbekkenontsteking.",
+      "captionFull": "Afbeelding 8.2 Nierbekkenontsteking.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-302_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-302_1.png",
+        "pageName": "366"
+      },
+      "label": "Afbeelding 8.2:",
+      "pageIndex": 4,
+      "pageName": "366"
+    },
+    {
+      "caption": "Met een dipstick kan de urine snel op aanwezigheid van een urineweginfectie worden onderzocht.",
+      "captionFull": "Afbeelding 8.3 Met een dipstick kan de urine snel op aanwezigheid van een urineweginfectie worden onderzocht.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-304_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-304_1.png",
+        "pageName": "369"
+      },
+      "label": "Afbeelding 8.3:",
+      "pageIndex": 7,
+      "pageName": "369"
+    },
+    {
+      "caption": "Nierstenen.",
+      "captionFull": "Afbeelding 8.4 Nierstenen.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-306_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-306_1.png",
+        "pageName": "371"
+      },
+      "label": "Afbeelding 8.4:",
+      "pageIndex": 9,
+      "pageName": "371"
+    },
+    {
+      "caption": "Nierstenen in de nierkelk.",
+      "captionFull": "Afbeelding 8.5 Nierstenen in de nierkelk.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-306_2.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-306_2.png",
+        "pageName": "372"
+      },
+      "label": "Afbeelding 8.5:",
+      "pageIndex": 10,
+      "pageName": "372"
+    },
+    {
+      "caption": "Nierfalen.",
+      "captionFull": "Afbeelding 8.6 Nierfalen.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-310_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-310_1.png",
+        "pageName": "375"
+      },
+      "label": "Afbeelding 8.6:",
+      "pageIndex": 13,
+      "pageName": "375"
+    },
+    {
+      "caption": "De nier.",
+      "captionFull": "Afbeelding 8.7 De nier.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-312_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-312_1.png",
+        "pageName": "379"
+      },
+      "label": "Afbeelding 8.7:",
+      "pageIndex": 17,
+      "pageName": "379"
+    },
+    {
+      "caption": "Buikspoeling.",
+      "captionFull": "Afbeelding 8.8 Buikspoeling.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-316_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-316_1.png",
+        "pageName": "385"
+      },
+      "label": "Afbeelding 8.8:",
+      "pageIndex": 23,
+      "pageName": "385"
+    },
+    {
+      "caption": "De nieren.",
+      "captionFull": "Afbeelding 8.9 De nieren.",
+      "chapter": 8,
+      "image": {
+        "linkName": "chapter8-318_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH08_03/Links/chapter8-318_1.png",
+        "pageName": "386"
+      },
+      "label": "Afbeelding 8.9:",
+      "pageIndex": 24,
+      "pageName": "386"
+    },
+    {
+      "caption": "Verschillende stadia van de geboorte.",
+      "captionFull": "Afbeelding 9.1 Verschillende stadia van de geboorte.",
+      "chapter": 9,
+      "image": {
+        "linkName": "chapter9-333_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH09_03/Links/chapter9-333_1.png",
+        "pageName": "407"
+      },
+      "label": "Afbeelding 9.1:",
+      "pageIndex": 1,
+      "pageName": "407"
+    },
+    {
+      "caption": "Voorliggende placenta.",
+      "captionFull": "Afbeelding 9.2 Voorliggende placenta.",
+      "chapter": 9,
+      "image": {
+        "linkName": "chapter9-338_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH09_03/Links/chapter9-338_1.png",
+        "pageName": "417"
+      },
+      "label": "Afbeelding 9.2:",
+      "pageIndex": 11,
+      "pageName": "417"
+    },
+    {
+      "caption": "Bacterie.",
+      "captionFull": "Afbeelding 10.1 Bacterie.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-346_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-346_1.png",
+        "pageName": "424"
+      },
+      "label": "Afbeelding 10.1:",
+      "pageIndex": 4,
+      "pageName": "424"
+    },
+    {
+      "caption": "Wormen.",
+      "captionFull": "Afbeelding 10.2 Wormen.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-347_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-347_1.png",
+        "pageName": "425"
+      },
+      "label": "Afbeelding 10.2:",
+      "pageIndex": 5,
+      "pageName": "425"
+    },
+    {
+      "caption": "Vaccinatie.",
+      "captionFull": "Afbeelding 10.3 Vaccinatie.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-349_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-349_1.png",
+        "pageName": "431"
+      },
+      "label": "Afbeelding 10.3:",
+      "pageIndex": 11,
+      "pageName": "431"
+    },
+    {
+      "caption": "Anafylactische (allergische) reactie.",
+      "captionFull": "Afbeelding 10.4 Anafylactische (allergische) reactie.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-352_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-352_1.png",
+        "pageName": "433"
+      },
+      "label": "Afbeelding 10.4:",
+      "pageIndex": 13,
+      "pageName": "433"
+    },
+    {
+      "caption": "Een wespensteek kan leiden tot een levensbedreigende anafylactische reactie.",
+      "captionFull": "Afbeelding 10.5 Een wespensteek kan leiden tot een levensbedreigende anafylactische reactie.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-353_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-353_1.png",
+        "pageName": "434"
+      },
+      "label": "Afbeelding 10.5:",
+      "pageIndex": 14,
+      "pageName": "434"
+    },
+    {
+      "caption": "Als  een  zorgvrager  een   EpiPen  (adrenaline- injectie) bij zich heeft, moet deze bij anafylaxie direct worden gebruikt.",
+      "captionFull": "Afbeelding 10.6 Als  een  zorgvrager  een   EpiPen  (adrenaline- injectie) bij zich heeft, moet deze bij anafylaxie direct worden gebruikt.",
+      "chapter": 10,
+      "image": {
+        "linkName": "chapter10-355_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH10_03/Links/chapter10-355_1.png",
+        "pageName": "437"
+      },
+      "label": "Afbeelding 10.6:",
+      "pageIndex": 17,
+      "pageName": "437"
+    },
+    {
+      "caption": "De ontwikkeling van kanker.",
+      "captionFull": "Afbeelding 11.1 De ontwikkeling van kanker.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-359_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-359_1.png",
+        "pageName": "445"
+      },
+      "label": "Afbeelding 11.1:",
+      "pageIndex": 1,
+      "pageName": "445"
+    },
+    {
+      "caption": "DNA.",
+      "captionFull": "Afbeelding 11.2 DNA.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-361_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-361_1.png",
+        "pageName": "447"
+      },
+      "label": "Afbeelding 11.2:",
+      "pageIndex": 3,
+      "pageName": "447"
+    },
+    {
+      "caption": "Borstkanker.",
+      "captionFull": "Afbeelding 11.3 Borstkanker.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-365_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-365_1.png",
+        "pageName": "451"
+      },
+      "label": "Afbeelding 11.3:",
+      "pageIndex": 7,
+      "pageName": "451"
+    },
+    {
+      "caption": "Uitzaaiing van longkanker.",
+      "captionFull": "Afbeelding 11.4 Uitzaaiing van longkanker.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-368_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-368_1.png",
+        "pageName": "454"
+      },
+      "label": "Afbeelding 11.4:",
+      "pageIndex": 10,
+      "pageName": "454"
+    },
+    {
+      "caption": "Leukemie.",
+      "captionFull": "Afbeelding 11.5 Leukemie.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-373_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-373_1.png",
+        "pageName": "460"
+      },
+      "label": "Afbeelding 11.5:",
+      "pageIndex": 16,
+      "pageName": "460"
+    },
+    {
+      "caption": "Het lymfatisch systeem.",
+      "captionFull": "Afbeelding 11.6 Het lymfatisch systeem.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-382_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-382_1.png",
+        "pageName": "467"
+      },
+      "label": "Afbeelding 11.6:",
+      "pageIndex": 23,
+      "pageName": "467"
+    },
+    {
+      "caption": "Hodgkinlymfoom.",
+      "captionFull": "Afbeelding 11.7 Hodgkinlymfoom.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-383_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-383_1.png",
+        "pageName": "469"
+      },
+      "label": "Afbeelding 11.7:",
+      "pageIndex": 25,
+      "pageName": "469"
+    },
+    {
+      "caption": "Prostaatkanker.",
+      "captionFull": "Afbeelding 11.8 Prostaatkanker.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-387_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-387_1.png",
+        "pageName": "473"
+      },
+      "label": "Afbeelding 11.8:",
+      "pageIndex": 29,
+      "pageName": "473"
+    },
+    {
+      "caption": "Rectaal toucher bij prostaatkanker.",
+      "captionFull": "Afbeelding 11.9 Rectaal toucher bij prostaatkanker.",
+      "chapter": 11,
+      "image": {
+        "linkName": "chapter11-388_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH11_03/Links/chapter11-388_1.png",
+        "pageName": "474"
+      },
+      "label": "Afbeelding 11.9:",
+      "pageIndex": 30,
+      "pageName": "474"
+    },
+    {
+      "caption": "Ziekte van Alzheimer.",
+      "captionFull": "Afbeelding 12.6 Ziekte van Alzheimer.",
+      "chapter": 12,
+      "image": {
+        "linkName": "chapter12-419_1.png",
+        "linkPath": "file:/Users/asafgafni/Desktop/BookArchive/originals/Pathologie_mbo_CH12_03/Links/chapter12-419_1.png",
+        "pageName": "509"
+      },
+      "label": "Afbeelding 12.6:",
+      "pageIndex": 25,
+      "pageName": "509"
+    }
+  ],
+  "totalFigures": 148
+}

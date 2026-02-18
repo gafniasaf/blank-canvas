@@ -1,0 +1,2478 @@
+{
+  "6c0ed191-b2c3-43be-841c-21e985e181ed": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.10.png",
+      "alt": "Afbeelding 1.10: DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+      "figureNumber": "Afbeelding 1.10:",
+      "caption": "DNA draagt de code die wordt gebruikt om eiwitten te produceren. Elk groepje van drie basen is de code voor een bepaald aminozuur. Eiwitten bestaan uit een keten van aminozuren.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "fce7e85d-f69a-4c2d-918f-0402e4071fd8": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.11.png",
+      "alt": "Afbeelding 1.11: In de celkern zit het erfelijk materiaal.",
+      "figureNumber": "Afbeelding 1.11:",
+      "caption": "In de celkern zit het erfelijk materiaal.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "4dc1bd36-06ff-4ad8-9e15-13135c444738": [
+    {
+      "src": "new_pipeline/assets/images/ch1/fromSteven.PNG",
+      "alt": "Afbeelding 1.12: De cyclus van de cel opgedeeld in verschillende fasen.",
+      "figureNumber": "Afbeelding 1.12:",
+      "caption": "De cyclus van de cel opgedeeld in verschillende fasen.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "f0bd2cf9-7ef3-44cb-8a44-02d7eac22437": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.13.png",
+      "alt": "Afbeelding 1.13: Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+      "figureNumber": "Afbeelding 1.13:",
+      "caption": "Tijdens de interfase kopieert je cel het DNA. Deze fase kan ook weer worden verdeeld in verschillende fasen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "3c9a3f11-cce7-4653-b38c-e85219ccd9ec": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.14.png",
+      "alt": "Afbeelding 1.14: De vijf fasen van de mitose.",
+      "figureNumber": "Afbeelding 1.14:",
+      "caption": "De vijf fasen van de mitose.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "741212a0-41a4-403c-928c-7752366f3959": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.15.png",
+      "alt": "Afbeelding 1.15: Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+      "figureNumber": "Afbeelding 1.15:",
+      "caption": "Overzicht van de verschillende mogelijkheden waarbij stoffen door de celmembraan heen gaan.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "b92e4185-65cd-4ed7-b072-dc82a0d396f6": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.16.png",
+      "alt": "Afbeelding 1.16: Overzicht van endocytose en exocytose.",
+      "figureNumber": "Afbeelding 1.16:",
+      "caption": "Overzicht van endocytose en exocytose.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6603822c-b1d9-4faf-8b10-274dca384342": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.2.png",
+      "alt": "Afbeelding 1.2: Anatomie van de celwand.",
+      "figureNumber": "Afbeelding 1.2:",
+      "caption": "Anatomie van de celwand.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "0aef29a4-4612-447b-95bd-730e0561e3fe": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.3.png",
+      "alt": "Afbeelding 1.3: Anatomie van een mitochondrion.",
+      "figureNumber": "Afbeelding 1.3:",
+      "caption": "Anatomie van een mitochondrion.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6d59527e-e42a-4904-a5ec-0755fc04ec28": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.4.png",
+      "alt": "Afbeelding 1.4: Schematisch overzicht van het endoplasmatisch reticulum.",
+      "figureNumber": "Afbeelding 1.4:",
+      "caption": "Schematisch overzicht van het endoplasmatisch reticulum.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f811aef6-d252-41a1-9895-6b9f1b178181": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.5.png",
+      "alt": "Afbeelding 1.5: Anatomie van een ribosoom.",
+      "figureNumber": "Afbeelding 1.5:",
+      "caption": "Anatomie van een ribosoom.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "c94707a4-28a3-4615-91c9-28dc2345ef78": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.6.png",
+      "alt": "Afbeelding 1.6: Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+      "figureNumber": "Afbeelding 1.6:",
+      "caption": "Het spoellichaampje (centrosoom) bestaat uit twee centriolen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "242e967a-8e27-4fe0-9ec7-ea5ad12ef156": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.7.png",
+      "alt": "Afbeelding 1.7: Anatomie van het Golgi-systeem.",
+      "figureNumber": "Afbeelding 1.7:",
+      "caption": "Anatomie van het Golgi-systeem.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "74b8af33-ab8b-4d2b-8f78-89dde0238a93": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.8.png",
+      "alt": "Afbeelding 1.8: DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+      "figureNumber": "Afbeelding 1.8:",
+      "caption": "DNA ligt in een dubbele helix en bevat verschillende stikstofbasen. Adenine vormt een paar met thymine en cytosine bindt alleen aan guanine.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "3a08aac9-c473-43df-82e8-d7489b51c1e9": [
+    {
+      "src": "new_pipeline/assets/figures/ch1/Afbeelding_1.9.png",
+      "alt": "Afbeelding 1.9: Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+      "figureNumber": "Afbeelding 1.9:",
+      "caption": "Transcriptie is het proces waarbij de cel DNA kopieert naar mRNA. Tijdens translatie maakt je lichaam eiwitten vanuit mRNA.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "86ed7dbc-102c-4c6e-b6fd-86ff44da899e": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.1.png",
+      "alt": "Afbeelding 2.1: Doorsnede van de huid.",
+      "figureNumber": "Afbeelding 2.1:",
+      "caption": "Doorsnede van de huid.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "e7437aea-a21e-486c-ad9b-6ccc7344d843": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.2.png",
+      "alt": "Afbeelding 2.2: Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+      "figureNumber": "Afbeelding 2.2:",
+      "caption": "Anatomie van de nagel (boven) en doorsnede van een vingerkootje met nagel (onder).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "0a44abcd-8c7e-4ef2-bbdd-cc91f4cfd51a": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.3.png",
+      "alt": "Afbeelding 2.3: Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+      "figureNumber": "Afbeelding 2.3:",
+      "caption": "Doorsnede van de vrouwelijke borst met melkklieren, melkkanalen en vetweefsel.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "240823b2-38e7-4fd7-8912-1b079e6a4009": [
+    {
+      "src": "new_pipeline/assets/figures/ch2/Afbeelding_2.4.png",
+      "alt": "Afbeelding 2.4: Doorsnede van de huid met een zweet- en talgklier.",
+      "figureNumber": "Afbeelding 2.4:",
+      "caption": "Doorsnede van de huid met een zweet- en talgklier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "88b885c6-9bff-410f-a4f5-d1d9d171f173": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.10.png",
+      "alt": "Afbeelding 3.10: Structuren van de schedel.",
+      "figureNumber": "Afbeelding 3.10:",
+      "caption": "Structuren van de schedel.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "9fa34522-137d-4bce-b242-68a0e2423b03": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.11.png",
+      "alt": "Afbeelding 3.11: De schedelnaden vormen een stevige verbinding tussen de botten van de schedel.",
+      "figureNumber": "Afbeelding 3.11:",
+      "caption": "De schedelnaden vormen een stevige verbinding tussen de botten van de schedel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "c488a0d5-9d5b-4ed0-b656-c74512bdfa5d": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.12.png",
+      "alt": "Afbeelding 3.12: De neusbijholten in zij- en vooraanzicht.",
+      "figureNumber": "Afbeelding 3.12:",
+      "caption": "De neusbijholten in zij- en vooraanzicht.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.13.png",
+      "alt": "Afbeelding 3.13: De wervelkolom bestaat uit zeven halswervels, twaalf borstwervels, vijf lendenwervels, het heiligbeen en het staartbeen.",
+      "figureNumber": "Afbeelding 3.13:",
+      "caption": "De wervelkolom bestaat uit zeven halswervels, twaalf borstwervels, vijf lendenwervels, het heiligbeen en het staartbeen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "c5c002a7-5ace-40d2-a87e-1d6804248bca": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.14.png",
+      "alt": "Afbeelding 3.14: De wervelkolom heeft een dubbele S-vorm.",
+      "figureNumber": "Afbeelding 3.14:",
+      "caption": "De wervelkolom heeft een dubbele S-vorm.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "a405ff02-3e50-42bd-be93-de2ec17b7841": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.15.png",
+      "alt": "Afbeelding 3.15: Halswervels (cervicale wervels), borstwervels (thoracale wervels) en lendenwervels (lumbale wervels) hebben kenmerkende vormen.",
+      "figureNumber": "Afbeelding 3.15:",
+      "caption": "Halswervels (cervicale wervels), borstwervels (thoracale wervels) en lendenwervels (lumbale wervels) hebben kenmerkende vormen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2214a67d-4f67-4b8f-8798-fe0853870dfc": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.16.png",
+      "alt": "Afbeelding 3.16: De structuren van een wervel.",
+      "figureNumber": "Afbeelding 3.16:",
+      "caption": "De structuren van een wervel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e6dda186-3a7b-4800-bc91-19bb47e4de73": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.17.png",
+      "alt": "Afbeelding 3.17: De tussenwervelschijf bestaat uit een anulus fibrosus (buitenkant) en een geleiachtige nucleus pulposus (binnenkant).",
+      "figureNumber": "Afbeelding 3.17:",
+      "caption": "De tussenwervelschijf bestaat uit een anulus fibrosus (buitenkant) en een geleiachtige nucleus pulposus (binnenkant).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b7e6fb7c-8bb5-499a-aa78-2ddfb05a175c": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.18.png",
+      "alt": "Afbeelding 3.18: Het staartbeen bevindt zich onder het heiligbeen.",
+      "figureNumber": "Afbeelding 3.18:",
+      "caption": "Het staartbeen bevindt zich onder het heiligbeen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f762bfe0-f3c0-418e-8f09-994e0f7a4028": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.19.png",
+      "alt": "Afbeelding 3.19: De bindweefselbanden van de wervelkolom.",
+      "figureNumber": "Afbeelding 3.19:",
+      "caption": "De bindweefselbanden van de wervelkolom.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f950223e-531c-4d36-8a8d-c26506283365": [
+    {
+      "src": "new_pipeline/assets/images/ch3/1.png",
+      "alt": "Afbeelding 3.1: Bouw van een bot.",
+      "figureNumber": "Afbeelding 3.1:",
+      "caption": "Bouw van een bot.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "d1f570ab-cbbb-4424-978c-e6eafe06eda3": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.20.png",
+      "alt": "Afbeelding 3.20: De ribben en het borstbeen.",
+      "figureNumber": "Afbeelding 3.20:",
+      "caption": "De ribben en het borstbeen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "c1ad584c-1f70-4b7a-b460-70de336891d0": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.21.png",
+      "alt": "Afbeelding 3.21: Het schoudergewricht is een kogelgewricht.",
+      "figureNumber": "Afbeelding 3.21:",
+      "caption": "Het schoudergewricht is een kogelgewricht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cfa91578-65ff-475b-9cd1-816db6ac0220": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.22.png",
+      "alt": "Afbeelding 3.22: De elleboog is een scharniergewricht.",
+      "figureNumber": "Afbeelding 3.22:",
+      "caption": "De elleboog is een scharniergewricht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ce019263-a4aa-4ed2-9a07-4c9fe05069a3": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.23.png",
+      "alt": "Afbeelding 3.23: Botten van de hand.",
+      "figureNumber": "Afbeelding 3.23:",
+      "caption": "Botten van de hand.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "fc8534da-7702-4af7-ac21-426fbbb71595": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.24.png",
+      "alt": "Afbeelding 3.24: Tussen de middenhandsbeentjes en de vingerkoot van de duim zit een zadelgewricht. Hierdoor kan de duim in alle richtingen bewegen.",
+      "figureNumber": "Afbeelding 3.24:",
+      "caption": "Tussen de middenhandsbeentjes en de vingerkoot van de duim zit een zadelgewricht. Hierdoor kan de duim in alle richtingen bewegen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "a91b1c98-68c3-4dc6-93e2-bf18aa1460ae": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.25.png",
+      "alt": "Afbeelding 3.25: Het bekken.",
+      "figureNumber": "Afbeelding 3.25:",
+      "caption": "Het bekken.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ad397da8-ed65-47e2-9608-ca46735fdb65": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.26.png",
+      "alt": "Afbeelding 3.26: De botten van het been.",
+      "figureNumber": "Afbeelding 3.26:",
+      "caption": "De botten van het been.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "63ef2e64-08ac-4318-9791-8fbe9cc9bd01": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.27.png",
+      "alt": "Afbeelding 3.27: Botten van de voet en de enkel.",
+      "figureNumber": "Afbeelding 3.27:",
+      "caption": "Botten van de voet en de enkel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "33ad1080-1f7c-4974-8880-6e4e33ef323e": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2: De buitenkant van een bot, net onder het botvlies, noemen we compact botweefsel. De binnenkant van het bot bevat sponsachtig botweefsel.",
+      "figureNumber": "Afbeelding 3.2:",
+      "caption": "De buitenkant van een bot, net onder het botvlies, noemen we compact botweefsel. De binnenkant van het bot bevat sponsachtig botweefsel.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "8e639f00-6648-4325-be85-fd02edec2320": [
+    {
+      "src": "new_pipeline/assets/images/ch3/2.png",
+      "alt": "Afbeelding 3.3: De kanalen van Havers bevinden zich direct onder het botvlies.",
+      "figureNumber": "Afbeelding 3.3:",
+      "caption": "De kanalen van Havers bevinden zich direct onder het botvlies.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "0b03a9c1-97fd-46d8-920d-6daece87774a": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.4.png",
+      "alt": "Afbeelding 3.4: Het botvlies (periost) is de buitenste laag van het bot.",
+      "figureNumber": "Afbeelding 3.4:",
+      "caption": "Het botvlies (periost) is de buitenste laag van het bot.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "efadf99d-8a24-47cc-8efd-8131d23beba5": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.5.png",
+      "alt": "Afbeelding 3.5: Verschillende cellen in het bot zorgen voor remodellering.",
+      "figureNumber": "Afbeelding 3.5:",
+      "caption": "Verschillende cellen in het bot zorgen voor remodellering.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "282eaa32-51ca-43fb-af62-2de2a5ba0ad3": [
+    {
+      "src": "new_pipeline/assets/images/ch3/MAF_Ch3_Img6.png",
+      "alt": "Afbeelding 3.6: Een deel van de ribben bestaat uit hyalien kraakbeen terwijl tussenwervelschijven uit vezelig kraakbeen bestaan.",
+      "figureNumber": "Afbeelding 3.6:",
+      "caption": "Een deel van de ribben bestaat uit hyalien kraakbeen terwijl tussenwervelschijven uit vezelig kraakbeen bestaan.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.8.png",
+      "alt": "Afbeelding 3.8: De anatomische lichaamsvlakken en -assen.",
+      "figureNumber": "Afbeelding 3.8:",
+      "caption": "De anatomische lichaamsvlakken en -assen.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "b63434be-910b-4f83-9614-cfd436486c93": [
+    {
+      "src": "new_pipeline/assets/images/ch3/MAF_Ch3_Img7.png",
+      "alt": "Afbeelding 3.7: De knie is een synoviaal gewricht.",
+      "figureNumber": "Afbeelding 3.7:",
+      "caption": "De knie is een synoviaal gewricht.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "d72bb272-70a5-494f-88bb-19b96824b5b1": [
+    {
+      "src": "new_pipeline/assets/figures/ch3/Afbeelding_3.9.png",
+      "alt": "Afbeelding 3.9: De ellepijp en het spaakbeen draaien om elkaar en vormen zo een rolgewricht.",
+      "figureNumber": "Afbeelding 3.9:",
+      "caption": "De ellepijp en het spaakbeen draaien om elkaar en vormen zo een rolgewricht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "670bc0b1-5858-4d89-b2e4-39f39c6dc79e": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.10.png",
+      "alt": "Afbeelding 4.10: De kauwspieren.",
+      "figureNumber": "Afbeelding 4.10:",
+      "caption": "De kauwspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ff89c3ab-ab78-4412-8853-7e245b365537": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.11.png",
+      "alt": "Afbeelding 4.11: De oogspieren.",
+      "figureNumber": "Afbeelding 4.11:",
+      "caption": "De oogspieren.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f0f3109f-bc86-45e2-8f6f-25fbc0ba0067": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.12.png",
+      "alt": "Afbeelding 4.12: De halsspieren.",
+      "figureNumber": "Afbeelding 4.12:",
+      "caption": "De halsspieren.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "254e668c-7fa1-4993-bd6e-9377ae7fe3d1": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_CH4_Img_4.13.png",
+      "alt": "Afbeelding 4.13: De hoofdspalkspier.",
+      "figureNumber": "Afbeelding 4.13:",
+      "caption": "De hoofdspalkspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4544ebc6-3203-4456-83e0-be37d6b886cd": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.14.png",
+      "alt": "Afbeelding 4.14: De rugstrekker.",
+      "figureNumber": "Afbeelding 4.14:",
+      "caption": "De rugstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "fd075af5-b6b5-4adb-90e5-3efc87e7b94b": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.15.png",
+      "alt": "Afbeelding 4.15: De spier van de halve ruggengraat.",
+      "figureNumber": "Afbeelding 4.15:",
+      "caption": "De spier van de halve ruggengraat.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.16.png",
+      "alt": "Afbeelding 4.16: De meermalen gespleten rugspier.",
+      "figureNumber": "Afbeelding 4.16:",
+      "caption": "De meermalen gespleten rugspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.17.png",
+      "alt": "Afbeelding 4.17: Draaispieren van de rug.",
+      "figureNumber": "Afbeelding 4.17:",
+      "caption": "Draaispieren van de rug.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.18.png",
+      "alt": "Afbeelding 4.18: De tussenribspieren.",
+      "figureNumber": "Afbeelding 4.18:",
+      "caption": "De tussenribspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "de8aa8a5-d358-4678-80bb-30d2608043bd": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.20.png",
+      "alt": "Afbeelding 4.19: Het middenrif.",
+      "figureNumber": "Afbeelding 4.19:",
+      "caption": "Het middenrif.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.20.png",
+      "alt": "Afbeelding 4.20: De rechte buikspier.",
+      "figureNumber": "Afbeelding 4.20:",
+      "caption": "De rechte buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "eeb0a00f-890d-48ba-a00c-3a1cd6d7660c": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.1.png",
+      "alt": "Afbeelding 4.1: De structuur van de verschillende soorten spierweefsel.",
+      "figureNumber": "Afbeelding 4.1:",
+      "caption": "De structuur van de verschillende soorten spierweefsel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "56c30883-59e4-40a1-a8ad-6afc76aa268f": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.21.png",
+      "alt": "Afbeelding 4.21: De binnenste schuine buikspier.",
+      "figureNumber": "Afbeelding 4.21:",
+      "caption": "De binnenste schuine buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.21.png",
+      "alt": "Afbeelding 4.22: De buitenste schuine buikspier.",
+      "figureNumber": "Afbeelding 4.22:",
+      "caption": "De buitenste schuine buikspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9f032fc0-78c4-41bb-8a32-2f19760760b6": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.23.png",
+      "alt": "Afbeelding 4.23: De bekkenbodemspieren.",
+      "figureNumber": "Afbeelding 4.23:",
+      "caption": "De bekkenbodemspieren.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4f26b7ff-2f8d-4f87-b823-44afde07778f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.24.png",
+      "alt": "Afbeelding 4.24: De monnikskapspier.",
+      "figureNumber": "Afbeelding 4.24:",
+      "caption": "De monnikskapspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.25.png",
+      "alt": "Afbeelding 4.25: De kleine borstspier.",
+      "figureNumber": "Afbeelding 4.25:",
+      "caption": "De kleine borstspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7bbe707c-a3a6-4dec-b674-ca0775aaf821": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.26.png",
+      "alt": "Afbeelding 4.26: De ruitvormige spier.",
+      "figureNumber": "Afbeelding 4.26:",
+      "caption": "De ruitvormige spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.27.png",
+      "alt": "Afbeelding 4.27: De schouderbladheffer.",
+      "figureNumber": "Afbeelding 4.27:",
+      "caption": "De schouderbladheffer.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2922f61f-bd92-4faa-b2de-fa106157d9de": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.28.png",
+      "alt": "Afbeelding 4.28: De voorste gezaagde spier.",
+      "figureNumber": "Afbeelding 4.28:",
+      "caption": "De voorste gezaagde spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.29.png",
+      "alt": "Afbeelding 4.29: De ondersleutelbeenspier.",
+      "figureNumber": "Afbeelding 4.29:",
+      "caption": "De ondersleutelbeenspier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "98c54a31-8fbb-441f-a718-8a7a63dae79f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.2.png",
+      "alt": "Afbeelding 4.2: Dwarsdoorsnede van een skeletspier.",
+      "figureNumber": "Afbeelding 4.2:",
+      "caption": "Dwarsdoorsnede van een skeletspier.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1c2e5a92-9fd3-44eb-8eac-d5b7c8578121": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.30.png",
+      "alt": "Afbeelding 4.30: De deltaspier.",
+      "figureNumber": "Afbeelding 4.30:",
+      "caption": "De deltaspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "32525154-a8f9-40ae-96d4-08a6b6d041b6": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.31.png",
+      "alt": "Afbeelding 4.31: De bovendoornspier.",
+      "figureNumber": "Afbeelding 4.31:",
+      "caption": "De bovendoornspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.32.png",
+      "alt": "Afbeelding 4.32: De onderschouderbladspier.",
+      "figureNumber": "Afbeelding 4.32:",
+      "caption": "De onderschouderbladspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "07bf8753-9584-4dc6-9a8a-623c04fdb34a": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.33.png",
+      "alt": "Afbeelding 4.33: De grote ronde spier.",
+      "figureNumber": "Afbeelding 4.33:",
+      "caption": "De grote ronde spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f2e31db9-605d-4d60-92c8-daf234296ada": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.34.png",
+      "alt": "Afbeelding 4.34: De onderdoornspier.",
+      "figureNumber": "Afbeelding 4.34:",
+      "caption": "De onderdoornspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "996e9620-ce44-491d-bbc1-b876bca28c76": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.35.png",
+      "alt": "Afbeelding 4.35: De kleine ronde spier.",
+      "figureNumber": "Afbeelding 4.35:",
+      "caption": "De kleine ronde spier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.36.png",
+      "alt": "Afbeelding 4.36: De brede rugspier.",
+      "figureNumber": "Afbeelding 4.36:",
+      "caption": "De brede rugspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "5690ceee-41f4-4234-82c7-d6d052baf2e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.37.png",
+      "alt": "Afbeelding 4.37: De ravenbek-armspier.",
+      "figureNumber": "Afbeelding 4.37:",
+      "caption": "De ravenbek-armspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "8a1bff78-3c73-4521-8196-39be4951a843": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.38.png",
+      "alt": "Afbeelding 4.38: De grote borstspier.",
+      "figureNumber": "Afbeelding 4.38:",
+      "caption": "De grote borstspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7ddf8dc4-b77b-48d5-bb67-ab19d83a4f3c": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.39.png",
+      "alt": "Afbeelding 4.39: De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+      "figureNumber": "Afbeelding 4.39:",
+      "caption": "De rotatorenmanchet bestaat uit de bovendoornspier, onderdoornspier, onderschouderbladspier en kleine ronde spier. Links een vooraanzicht van het schouderblad, opperarmbeen en sleutelbeen. Rechts een achteraanzicht.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ab0ac57f-d15d-41db-bd70-8e1a159fe255": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.3.png",
+      "alt": "Afbeelding 4.3: De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+      "figureNumber": "Afbeelding 4.3:",
+      "caption": "De tweehoofdige bovenarmspier en driehoofdige bovenarmspier in de bovenarm werken als agonist en antagonist. Wanneer de ene spier aanspant, zal de andere spier ontspannen en omgekeerd.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f9ed9a5c-404c-40a7-bd18-ec92e4151b5f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.40.png",
+      "alt": "Afbeelding 4.40: De tweehoofdige bovenarmspier.",
+      "figureNumber": "Afbeelding 4.40:",
+      "caption": "De tweehoofdige bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.41.png",
+      "alt": "Afbeelding 4.41: De driehoofdige bovenarmspier.",
+      "figureNumber": "Afbeelding 4.41:",
+      "caption": "De driehoofdige bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "1478ece8-5e04-4e8c-abb7-2b9d72ea749d": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.42.png",
+      "alt": "Afbeelding 4.42: De bovenarmspier.",
+      "figureNumber": "Afbeelding 4.42:",
+      "caption": "De bovenarmspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.43.png",
+      "alt": "Afbeelding 4.43: De opperarm-spaakbeenspier.",
+      "figureNumber": "Afbeelding 4.43:",
+      "caption": "De opperarm-spaakbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.44.png",
+      "alt": "Afbeelding 4.44: De supinatiespier.",
+      "figureNumber": "Afbeelding 4.44:",
+      "caption": "De supinatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ec57492e-112d-4411-8eac-17aa43dd5f21": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.45.png",
+      "alt": "Afbeelding 4.45: De vierkante pronatiespier.",
+      "figureNumber": "Afbeelding 4.45:",
+      "caption": "De vierkante pronatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.46.png",
+      "alt": "Afbeelding 4.46: De ronde pronatiespier.",
+      "figureNumber": "Afbeelding 4.46:",
+      "caption": "De ronde pronatiespier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "441b9334-1c19-4033-8000-f5822cbc21ea": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.47.png",
+      "alt": "Afbeelding 4.47: De ulnaire handbuiger.",
+      "figureNumber": "Afbeelding 4.47:",
+      "caption": "De ulnaire handbuiger.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7f53a63f-140c-4fed-99b9-989ddf0aadf0": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.48.png",
+      "alt": "Afbeelding 4.48: De radiale handbuiger.",
+      "figureNumber": "Afbeelding 4.48:",
+      "caption": "De radiale handbuiger.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "713eaf78-a46c-440b-9c6d-7a397d4fbefc": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.49.png",
+      "alt": "Afbeelding 4.49: De lange handpalmspier.",
+      "figureNumber": "Afbeelding 4.49:",
+      "caption": "De lange handpalmspier.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e8e8d51a-7272-444d-87ea-064872f3f2ad": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.4.png",
+      "alt": "Afbeelding 4.4: Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+      "figureNumber": "Afbeelding 4.4:",
+      "caption": "Spiercontractie ontstaat door samenwerking tussen myosine en actine.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "a5ad92bf-fef9-4720-b2f9-b36ff9fa7165": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.50.png",
+      "alt": "Afbeelding 4.50: De ulnaire handstrekker.",
+      "figureNumber": "Afbeelding 4.50:",
+      "caption": "De ulnaire handstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e03bacb1-5ea4-41bb-97a0-12f831968fa8": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.51.png",
+      "alt": "Afbeelding 4.51: De radiale handstrekker.",
+      "figureNumber": "Afbeelding 4.51:",
+      "caption": "De radiale handstrekker.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.52.png",
+      "alt": "Afbeelding 4.52: De handspieren.",
+      "figureNumber": "Afbeelding 4.52:",
+      "caption": "De handspieren.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.55.png",
+      "alt": "Afbeelding 4.55: De kleine bilspier.",
+      "figureNumber": "Afbeelding 4.55:",
+      "caption": "De kleine bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.57.png",
+      "alt": "Afbeelding 4.57: De darmbeenspier.",
+      "figureNumber": "Afbeelding 4.57:",
+      "caption": "De darmbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.58.png",
+      "alt": "Afbeelding 4.58: De grote dij-adductor.",
+      "figureNumber": "Afbeelding 4.58:",
+      "caption": "De grote dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "fecfdd2b-64f4-4994-b14b-44d13fe4c679": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.53.png",
+      "alt": "Afbeelding 4.53: De grote bilspier.",
+      "figureNumber": "Afbeelding 4.53:",
+      "caption": "De grote bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.54.png",
+      "alt": "Afbeelding 4.54: De middelste bilspier.",
+      "figureNumber": "Afbeelding 4.54:",
+      "caption": "De middelste bilspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.59.png",
+      "alt": "Afbeelding 4.59: De korte dij-adductor.",
+      "figureNumber": "Afbeelding 4.59:",
+      "caption": "De korte dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.60.png",
+      "alt": "Afbeelding 4.60: De lange dij-adductor.",
+      "figureNumber": "Afbeelding 4.60:",
+      "caption": "De lange dij-adductor.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "6e052f4f-1f88-4cd9-b3a2-a95c3652315d": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.56.png",
+      "alt": "Afbeelding 4.56: De grote lendenspier.",
+      "figureNumber": "Afbeelding 4.56:",
+      "caption": "De grote lendenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b67e5354-178e-4e9f-807f-7006288dec68": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.5.png",
+      "alt": "Afbeelding 4.5: Overzicht van een sarcomeer.",
+      "figureNumber": "Afbeelding 4.5:",
+      "caption": "Overzicht van een sarcomeer.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "dc6203af-a410-4ea8-945b-f14c0c327c9c": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.61.png",
+      "alt": "Afbeelding 4.61: De schaambeenkamspier.",
+      "figureNumber": "Afbeelding 4.61:",
+      "caption": "De schaambeenkamspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.64.png",
+      "alt": "Afbeelding 4.64: De kleermakersspier.",
+      "figureNumber": "Afbeelding 4.64:",
+      "caption": "De kleermakersspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.65.png",
+      "alt": "Afbeelding 4.65: De rechte dijbeenspier.",
+      "figureNumber": "Afbeelding 4.65:",
+      "caption": "De rechte dijbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "aab988de-934d-4595-9bf8-b7a834dc5b74": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.62.png",
+      "alt": "Afbeelding 4.62: De slanke spier.",
+      "figureNumber": "Afbeelding 4.62:",
+      "caption": "De slanke spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "deba6b49-58d3-4c70-b15f-6187efe8805f": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.63.png",
+      "alt": "Afbeelding 4.63: De hamstrings.",
+      "figureNumber": "Afbeelding 4.63:",
+      "caption": "De hamstrings.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.66.png",
+      "alt": "Afbeelding 4.66: De brede zijspier.",
+      "figureNumber": "Afbeelding 4.66:",
+      "caption": "De brede zijspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f0d40752-40a3-4b0e-8367-a0284684be9a": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.67.png",
+      "alt": "Afbeelding 4.67: De brede middenspier.",
+      "figureNumber": "Afbeelding 4.67:",
+      "caption": "De brede middenspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.68.png",
+      "alt": "Afbeelding 4.68: De middelste brede spier.",
+      "figureNumber": "Afbeelding 4.68:",
+      "caption": "De middelste brede spier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "921a21cb-3cb9-43c5-a09d-eb82d746ba07": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.69.png",
+      "alt": "Afbeelding 4.69: De tweehoofdige kuitspier.",
+      "figureNumber": "Afbeelding 4.69:",
+      "caption": "De tweehoofdige kuitspier.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.70.png",
+      "alt": "Afbeelding 4.70: De scholspier.",
+      "figureNumber": "Afbeelding 4.70:",
+      "caption": "De scholspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7f2cf37f-837e-4e8d-804d-1b132ebfcece": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.6.png",
+      "alt": "Afbeelding 4.6: Overzicht van een motorneuron.",
+      "figureNumber": "Afbeelding 4.6:",
+      "caption": "Overzicht van een motorneuron.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2b8ef73e-9db8-4a4c-a4ab-3a5df53cb49e": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.71.png",
+      "alt": "Afbeelding 4.71: De voorste scheenbeenspier.",
+      "figureNumber": "Afbeelding 4.71:",
+      "caption": "De voorste scheenbeenspier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f6c86b11-0a74-496a-85d5-5f0e38de9c77": [
+    {
+      "src": "new_pipeline/assets/figures/ch4/Afbeelding_4.7.png",
+      "alt": "Afbeelding 4.7: Spiervezel met motorische eindplaat.",
+      "figureNumber": "Afbeelding 4.7:",
+      "caption": "Spiervezel met motorische eindplaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2c90dcc4-a9f3-4b06-8fb3-0757b7fb24c1": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img_4.08.png",
+      "alt": "Afbeelding 4.8: Spieren van de nek en het gezicht (zijaanzicht).",
+      "figureNumber": "Afbeelding 4.8:",
+      "caption": "Spieren van de nek en het gezicht (zijaanzicht).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cb643192-3af2-4d5f-96f2-aea01eac7829": [
+    {
+      "src": "new_pipeline/assets/images/ch4/MAF_Ch4_Img9.png",
+      "alt": "Afbeelding 4.9: Spieren van de nek en het gezicht (vooraanzicht).",
+      "figureNumber": "Afbeelding 4.9:",
+      "caption": "Spieren van de nek en het gezicht (vooraanzicht).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1d4aa1dc-c1bc-4af8-b226-73602da393a0": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.10.png",
+      "alt": "Afbeelding 5.10: Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+      "figureNumber": "Afbeelding 5.10:",
+      "caption": "Hoe je vanuit de ademhaling in rust extra kunt inademen (IRV) en extra kunt uitademen (ERV). Toch blijft altijd een klein deel van de lucht achter in je longen. Dit noemen we het residuale volume (RV).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "470b79fc-c44c-4e31-83f1-a1fb6bdb03ef": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.11.png",
+      "alt": "Afbeelding 5.11: Anatomie van de alveoli en de respiratoire membraan.",
+      "figureNumber": "Afbeelding 5.11:",
+      "caption": "Anatomie van de alveoli en de respiratoire membraan.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7525c09e-6185-4eb0-8fd3-26fd6014cf86": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.12.png",
+      "alt": "Afbeelding 5.12: Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+      "figureNumber": "Afbeelding 5.12:",
+      "caption": "Schematische dwarsdoorsnede van een longblaasje met haarvaten en omliggende structuren. Zuurstof diffundeert vanuit het bloed het longblaasje in, terwijl koolstofdioxide vanuit het longblaasje naar het bloed diffundeert.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "90d1342e-4dc0-48fe-939b-3f9fd8b0151c": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.13.png",
+      "alt": "Afbeelding 5.13: Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+      "figureNumber": "Afbeelding 5.13:",
+      "caption": "Doorsnede van een longblaasje (alveolus) met daaromheen de longhaarvaatjes (capillairen).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "12c79384-e375-4005-9a56-3af94cf03d65": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.14.png",
+      "alt": "Afbeelding 5.14: De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+      "figureNumber": "Afbeelding 5.14:",
+      "caption": "De kleine bloedsomloop (longcirculatie) en grote bloedsomloop (systemische circulatie).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "001a6292-4bc2-4e09-bfb5-6b5699849742": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.15.png",
+      "alt": "Afbeelding 5.15: Zuurstof bindt aan hemoglobinemoleculen.",
+      "figureNumber": "Afbeelding 5.15:",
+      "caption": "Zuurstof bindt aan hemoglobinemoleculen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "2b2d5a47-85f2-4a06-a8a9-fb5011b27e57": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.16.png",
+      "alt": "Afbeelding 5.16: Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+      "figureNumber": "Afbeelding 5.16:",
+      "caption": "Zuurstofdissociatiecurve met op de x-as de zuurstofdruk (pO2) en op de y-as de zuurstofsaturatie (SaO2).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7b2ec9cf-9ad9-4939-823e-12d0b3f93a0b": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.1.png",
+      "alt": "Afbeelding 5.1: Anatomie van de luchtwegen – vooraanzicht.",
+      "figureNumber": "Afbeelding 5.1:",
+      "caption": "Anatomie van de luchtwegen – vooraanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b5fe85ab-e2a0-42d8-acab-5b34a9ef681d": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.2.png",
+      "alt": "Afbeelding 5.2: Overzicht van de luchtwegen, van groot naar klein.",
+      "figureNumber": "Afbeelding 5.2:",
+      "caption": "Overzicht van de luchtwegen, van groot naar klein.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e6de1e34-fa87-4554-b4c8-d0c253ac96bc": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.3.png",
+      "alt": "Afbeelding 5.3: Vertakkingen van de grote luchtwegen – vooraanzicht.",
+      "figureNumber": "Afbeelding 5.3:",
+      "caption": "Vertakkingen van de grote luchtwegen – vooraanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d1f121af-6d58-46f0-9340-c4e2ddaa5566": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.4.png",
+      "alt": "Afbeelding 5.4: Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+      "figureNumber": "Afbeelding 5.4:",
+      "caption": "Doorsnede van het hoofd met de bovenste luchtwegen – zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d716dbcb-d968-463f-bd37-8ed3c34b7090": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.5.png",
+      "alt": "Afbeelding 5.5: Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+      "figureNumber": "Afbeelding 5.5:",
+      "caption": "Anatomie van de neusholte en voorhoofdsholte – doorsnede met zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9135ad78-e33f-4ad3-b259-dc3ed472b21e": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.6.png",
+      "alt": "Afbeelding 5.6: Anatomie van de keelholte – doorsnede met zijaanzicht.",
+      "figureNumber": "Afbeelding 5.6:",
+      "caption": "Anatomie van de keelholte – doorsnede met zijaanzicht.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "844c25ab-ce9a-4fc6-b505-a728748e4ea0": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.7.png",
+      "alt": "Afbeelding 5.7: Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+      "figureNumber": "Afbeelding 5.7:",
+      "caption": "Vooraanzicht van het strottenhoofd (linksboven) en bovenaanzicht van de stembanden (rechtsboven en links- en rechtsonder).",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "dc5ad916-c315-4e5a-b6c2-1b17f19a1270": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.8.png",
+      "alt": "Afbeelding 5.8: Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+      "figureNumber": "Afbeelding 5.8:",
+      "caption": "Positie van het middenrif (diafragma) tijdens de inademing en uitademing.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ee48296f-5d2d-43bd-969d-c1ace422f905": [
+    {
+      "src": "new_pipeline/assets/figures/ch5/Afbeelding_5.9.png",
+      "alt": "Afbeelding 5.9: Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+      "figureNumber": "Afbeelding 5.9:",
+      "caption": "Gedetailleerde anatomie van de luchtwegen en longblaasjes (alveoli).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "947cd572-d65e-4f6b-8e86-845a74375c58": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.10.png",
+      "alt": "Afbeelding 6.10: Het J-punt en het ST-segment op het ECG.",
+      "figureNumber": "Afbeelding 6.10:",
+      "caption": "Het J-punt en het ST-segment op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.9.png",
+      "alt": "Afbeelding 6.9: De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+      "figureNumber": "Afbeelding 6.9:",
+      "caption": "De vertraging van de hartprikkel (actiepotentiaal) in de AV-knoop.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "70ba657e-0eb7-4e55-966d-753e100851e7": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.11.png",
+      "alt": "Afbeelding 6.11: De T-top op het ECG.",
+      "figureNumber": "Afbeelding 6.11:",
+      "caption": "De T-top op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "da16d1cd-0622-4731-a585-faa945525d6d": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.12.png",
+      "alt": "Afbeelding 6.12: De berekening van het hartminuutvolume.",
+      "figureNumber": "Afbeelding 6.12:",
+      "caption": "De berekening van het hartminuutvolume.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "696e8cd9-2c4e-4eb6-9d71-5f34285ad163": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.13.png",
+      "alt": "Afbeelding 6.13: De verschillende soorten weefsel in een slagader en ader.",
+      "figureNumber": "Afbeelding 6.13:",
+      "caption": "De verschillende soorten weefsel in een slagader en ader.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "551d4d45-c282-406b-96a4-9f31c3ffd291": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.14.png",
+      "alt": "Afbeelding 6.14: Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+      "figureNumber": "Afbeelding 6.14:",
+      "caption": "Een kleine slagader (arteriole) met de vaatholte (lumen), dekcellen en de kringspieren. De kringspieren kunnen het bloedvat vernauwen als deze samentrekken.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d484597f-94db-4752-a3dc-d20cb574f5f1": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.15.png",
+      "alt": "Afbeelding 6.15: Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+      "figureNumber": "Afbeelding 6.15:",
+      "caption": "Bloedvaten in het lichaam gaan van groot naar heel klein en weer naar groot.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "4d203091-8b3f-43ac-9b9b-3ea15b90dc2b": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.16.png",
+      "alt": "Afbeelding 6.16: Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+      "figureNumber": "Afbeelding 6.16:",
+      "caption": "Een haarvat (capillair) met de vaatholte (lumen), het endotheel en de poriën tussen de cellen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "9e498b99-ea14-4cbb-bd17-064a38c7f28c": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.17.png",
+      "alt": "Afbeelding 6.17: De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+      "figureNumber": "Afbeelding 6.17:",
+      "caption": "De kringspieren tussen de kleine vaten en de haarvaten regelen hoeveel bloed naar het haarvatennetwerk gaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e20c73b0-16cf-4ddf-8295-709d1274beb3": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.18.png",
+      "alt": "Afbeelding 6.18: De grote slagaders in het lichaam.",
+      "figureNumber": "Afbeelding 6.18:",
+      "caption": "De grote slagaders in het lichaam.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1ed6d7cb-288f-4b82-94bf-039f6bada6bf": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.19.png",
+      "alt": "Afbeelding 6.19: Voorbeeld van een verbindende circulatie.",
+      "figureNumber": "Afbeelding 6.19:",
+      "caption": "Voorbeeld van een verbindende circulatie.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "b0b80840-df71-48a7-8e01-83fe3336946a": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.20.png",
+      "alt": "Afbeelding 6.20: Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+      "figureNumber": "Afbeelding 6.20:",
+      "caption": "Door bewegingen van de spieren wordt bloed naar het hart vervoerd. De kleppen voorkomen dat het bloed de verkeerde kant op gaat.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "05c10ca3-7e3c-403a-b526-e03dd93efcfd": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.21.png",
+      "alt": "Afbeelding 6.21: De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+      "figureNumber": "Afbeelding 6.21:",
+      "caption": "De bloeddruk wordt in de haarvaten verlaagd. Daarnaast neemt de snelheid van het stromen van het bloed af. Na de haarvaten blijft de bloeddruk laag en neemt de snelheid weer iets toe. De totale oppervlakte van de bloedvaten is het grootst in de haarvaten.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "08859971-3baf-4cd0-b9d4-7124b44fe190": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.22.png",
+      "alt": "Afbeelding 6.22: Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+      "figureNumber": "Afbeelding 6.22:",
+      "caption": "Rode bloedcellen bevatten hemoglobine waaraan zuurstofmoleculen kunnen binden.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "35753fb6-bafa-4f4a-985e-06e2855f16bb": [
+    {
+      "src": "new_pipeline/assets/images/ch6/MAF Ch6_Img6.25-EDIT.png",
+      "alt": "Afbeelding 6.23: Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+      "figureNumber": "Afbeelding 6.23:",
+      "caption": "Witte bloedcellen beschermen ons tegen ziekteverwekkers door bijvoorbeeld bacteriën op te eten (fagocytose) en te vernietigen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "3ba46835-6ba1-430d-a9c3-445111615795": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.24.png",
+      "alt": "Afbeelding 6.24: Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+      "figureNumber": "Afbeelding 6.24:",
+      "caption": "Als een bloeding optreedt doordat de wand van een bloedvat is beschadigd, komen stollingsfactoren vrij. Deze stollingsfactoren trekken bloedplaatjes aan. De bloedplaatjes zorgen samen met stoffen zoals fibrine dat de bloeding stopt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "c3e3c376-90ab-4b36-9b86-c11d9ae8e728": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.25.png",
+      "alt": "Afbeelding 6.25: De twee afvoerwegen van lymfe in het lichaam.",
+      "figureNumber": "Afbeelding 6.25:",
+      "caption": "De twee afvoerwegen van lymfe in het lichaam.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1ab9cc32-b687-4181-a7bc-0d99feef5f95": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.2.png",
+      "alt": "Afbeelding 6.2: In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+      "figureNumber": "Afbeelding 6.2:",
+      "caption": "In het haarvatennetwerk van de longen wordt zuurstof opgenomen in het bloed en koolstofdioxide afgegeven. Dit is de gasuitwisseling in de longen. In het netwerk van haarvaten in het lichaam wordt zuurstof afgegeven aan de lichaamscellen en wordt koolstofdioxide opgenomen in het bloed.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "2d8a21b7-4c55-4da2-9c02-6e20dd0fec74": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.3.png",
+      "alt": "Afbeelding 6.3: Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+      "figureNumber": "Afbeelding 6.3:",
+      "caption": "Het hart krijgt zuurstofrijk bloed via de kransslagaders.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6ade1b3b-0877-4076-9b7d-49de85128148": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.4.png",
+      "alt": "Afbeelding 6.4: Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+      "figureNumber": "Afbeelding 6.4:",
+      "caption": "Overzicht van het hart met de sinusknoop, AV-knoop, bundel van His, linker- en rechterbundeltak en de purkinjevezels.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "323bca32-2c0a-4c01-84fd-723e0c73c077": [
+    {
+      "src": "new_pipeline/assets/images/ch6/MAF_Ch6_Img5.png",
+      "alt": "Afbeelding 6.5: De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+      "figureNumber": "Afbeelding 6.5:",
+      "caption": "De rustfase van het hart op het ECG. Voor de depolarisatie van de boezems begint, is het hart in een relatieve elektrische rustfase. Dit is zichtbaar als een vlakke lijn op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1027d9fe-eaf6-49b2-9a35-8c90f68c75d3": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.6.png",
+      "alt": "Afbeelding 6.6: De P-top op het ECG.",
+      "figureNumber": "Afbeelding 6.6:",
+      "caption": "De P-top op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "2656d759-ea12-42b2-a164-c65bf698ad09": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.7.png",
+      "alt": "Afbeelding 6.7: Het PR-interval op het ECG.",
+      "figureNumber": "Afbeelding 6.7:",
+      "caption": "Het PR-interval op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "e9e31830-39f3-4851-b03f-bebd76011fad": [
+    {
+      "src": "new_pipeline/assets/figures/ch6/Afbeelding_6.8.png",
+      "alt": "Afbeelding 6.8: Het QRS-complex op het ECG.",
+      "figureNumber": "Afbeelding 6.8:",
+      "caption": "Het QRS-complex op het ECG.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "8bbec534-43de-4df5-83e0-aad94953f737": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.1.png",
+      "alt": "Afbeelding 7.1: Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+      "figureNumber": "Afbeelding 7.1:",
+      "caption": "Overzicht van de ontwikkeling van de verschillende soorten bloedcellen vanuit de stamcellen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e9347313-d6ee-40d3-af30-bf11432cd555": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.2.png",
+      "alt": "Afbeelding 7.2: Overzicht van verschillende soorten granulocyten.",
+      "figureNumber": "Afbeelding 7.2:",
+      "caption": "Overzicht van verschillende soorten granulocyten.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "27adf599-1902-4c9b-80ea-03242cabcd60": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.3.png",
+      "alt": "Afbeelding 7.3: Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+      "figureNumber": "Afbeelding 7.3:",
+      "caption": "Macrofagen zijn als witte bloedcellen onderdeel van het immuunsysteem.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cdc3835f-ae50-442c-8cd7-ab41af7fb2b3": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.4.png",
+      "alt": "Afbeelding 7.4: De amandelen.",
+      "figureNumber": "Afbeelding 7.4:",
+      "caption": "De amandelen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "70bd60f0-0ab4-4d6c-a7d3-8779a98165aa": [
+    {
+      "src": "new_pipeline/assets/figures/ch7/Afbeelding_7.5.png",
+      "alt": "Afbeelding 7.5: Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+      "figureNumber": "Afbeelding 7.5:",
+      "caption": "Een schematisch overzicht van de bloedgroepen volgens het AB0-systeem. De aanwezigheid van antigenen en antilichamen bepaalt de bloedgroep.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "b2035c59-bd45-411f-b01a-8ba0404b07aa": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.10.png",
+      "alt": "Afbeelding 8.10: De ligging van de speekselklieren in de mondholte.",
+      "figureNumber": "Afbeelding 8.10:",
+      "caption": "De ligging van de speekselklieren in de mondholte.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "c13c5196-73fc-4764-bd09-5621e3d53602": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.11.png",
+      "alt": "Afbeelding 8.11: De eerste fase van slikken: de kauwfase.",
+      "figureNumber": "Afbeelding 8.11:",
+      "caption": "De eerste fase van slikken: de kauwfase.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.12.png",
+      "alt": "Afbeelding 8.12: De tweede fase van slikken: de mondfase.",
+      "figureNumber": "Afbeelding 8.12:",
+      "caption": "De tweede fase van slikken: de mondfase.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.13.png",
+      "alt": "Afbeelding 8.13: De derde fase van slikken: de keelholtefase.",
+      "figureNumber": "Afbeelding 8.13:",
+      "caption": "De derde fase van slikken: de keelholtefase.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ad7cb97b-ef51-4467-b106-7715d8f5ab90": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.14.png",
+      "alt": "Afbeelding 8.14: De vierde fase van slikken: de slokdarmfase.",
+      "figureNumber": "Afbeelding 8.14:",
+      "caption": "De vierde fase van slikken: de slokdarmfase.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "496c094f-fcdc-4492-9ac6-412c3f1ef317": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.15.png",
+      "alt": "Afbeelding 8.15: De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+      "figureNumber": "Afbeelding 8.15:",
+      "caption": "De keel kan worden onderverdeeld in drie gebieden: de neuskeelholte, de mondkeelholte en de strottenhoofd-keelholte.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "57b40914-4a78-45cb-a0d2-cc88c072f864": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.16.png",
+      "alt": "Afbeelding 8.16: De slokdarm eindigt bij de onderste slokdarmkringspier waar de slokdarm overgaat in de maag.",
+      "figureNumber": "Afbeelding 8.16:",
+      "caption": "De slokdarm eindigt bij de onderste slokdarmkringspier waar de slokdarm overgaat in de maag.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "3474f99b-d0db-4b42-8ba9-f1f0acb835af": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.17.png",
+      "alt": "Afbeelding 8.17: De anatomie van de maag.",
+      "figureNumber": "Afbeelding 8.17:",
+      "caption": "De anatomie van de maag.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4e1d21a1-4ff7-4e3d-b479-9624b8369107": [
+    {
+      "src": "new_pipeline/assets/images/ch8/MAF_Ch8_Img18 & 20 (1).png",
+      "alt": "Afbeelding 8.18: De positie van de darmen in de buikholte.",
+      "figureNumber": "Afbeelding 8.18:",
+      "caption": "De positie van de darmen in de buikholte.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "edcf0aa3-202a-4ec5-9f3b-6e2d9187493e": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.19.png",
+      "alt": "Afbeelding 8.19: De dunne darm bestaat uit uitsteeksels die we villi noemen. Hier zitten ook weer kleine uitsteeksels op, die we microvilli noemen. Deze villi en microvilli maken de oppervlakte van de darm groter. Hierdoor kan voedsel makkelijker worden verteerd.",
+      "figureNumber": "Afbeelding 8.19:",
+      "caption": "De dunne darm bestaat uit uitsteeksels die we villi noemen. Hier zitten ook weer kleine uitsteeksels op, die we microvilli noemen. Deze villi en microvilli maken de oppervlakte van de darm groter. Hierdoor kan voedsel makkelijker worden verteerd.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "645c4dd2-6986-4b75-889a-b722973cb5e6": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.1.png",
+      "alt": "Afbeelding 8.1: Opbouw van het spijsverteringsstelsel.",
+      "figureNumber": "Afbeelding 8.1:",
+      "caption": "Opbouw van het spijsverteringsstelsel.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "5fdf8353-c8ea-4a10-b025-f333839b83eb": [
+    {
+      "src": "new_pipeline/assets/images/ch8/MAF_Ch8_Img18 & 20 (1).png",
+      "alt": "Afbeelding 8.20: De anatomie van de dikke darm.",
+      "figureNumber": "Afbeelding 8.20:",
+      "caption": "De anatomie van de dikke darm.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "86bfa750-5c3e-49f6-a610-0d47adf89585": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.21.png",
+      "alt": "Afbeelding 8.21: In de dikke darm zijn darmplooien (haustraties) te zien. Deze darmplooien ontstaan door banden van glad spierweefsel (teniae coli).",
+      "figureNumber": "Afbeelding 8.21:",
+      "caption": "In de dikke darm zijn darmplooien (haustraties) te zien. Deze darmplooien ontstaan door banden van glad spierweefsel (teniae coli).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "c6e81cf1-71e1-48b6-9508-72605116cbab": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.22.png",
+      "alt": "Afbeelding 8.22: Anatomie van de endeldarm. De anus heeft een inwendige en uitwendige kringspier. De uitwendige kringspier kun je bewust aanspannen en ontspannen. Op de inwendige kringspier heb je zelf geen invloed.",
+      "figureNumber": "Afbeelding 8.22:",
+      "caption": "Anatomie van de endeldarm. De anus heeft een inwendige en uitwendige kringspier. De uitwendige kringspier kun je bewust aanspannen en ontspannen. Op de inwendige kringspier heb je zelf geen invloed.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ff210947-d300-4aa1-982d-43823e7c486f": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.23.png",
+      "alt": "Afbeelding 8.23: De ligging van de lever, alvleesklier en de galblaas ten opzichte van de twaalfvingerige darm. Gal wordt via de papil van Vater aan de twaalfvingerige darm afgegeven.",
+      "figureNumber": "Afbeelding 8.23:",
+      "caption": "De ligging van de lever, alvleesklier en de galblaas ten opzichte van de twaalfvingerige darm. Gal wordt via de papil van Vater aan de twaalfvingerige darm afgegeven.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "0a1cb222-7ecd-4661-ad54-fec4cc56940c": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.24.png",
+      "alt": "Afbeelding 8.24: De bloedvoorziening van de lever.",
+      "figureNumber": "Afbeelding 8.24:",
+      "caption": "De bloedvoorziening van de lever.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "5970a679-7850-4911-b06b-885ff5200a53": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.25.png",
+      "alt": "Afbeelding 8.25: Het regelmechanisme voor bloedsuiker van het lichaam. Belangrijke hormonen hierbij zijn glucagon en insuline.",
+      "figureNumber": "Afbeelding 8.25:",
+      "caption": "Het regelmechanisme voor bloedsuiker van het lichaam. Belangrijke hormonen hierbij zijn glucagon en insuline.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "0fdcc5c5-83af-4b3a-a207-0a3972dd082e": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.26.png",
+      "alt": "Afbeelding 8.26: De alvleesklier bestaat uit endocriene en exocriene cellen. De exocriene cellen scheiden verteringsenzymen uit. De endocriene cellen scheiden hormonen uit.",
+      "figureNumber": "Afbeelding 8.26:",
+      "caption": "De alvleesklier bestaat uit endocriene en exocriene cellen. De exocriene cellen scheiden verteringsenzymen uit. De endocriene cellen scheiden hormonen uit.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "a22ede8a-6cc1-4171-8712-158eccb99d02": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.27.png",
+      "alt": "Afbeelding 8.27: De opbouw van de galblaas. De galbuis en de alvleesklierbuis komen voor de papil van Vater samen.",
+      "figureNumber": "Afbeelding 8.27:",
+      "caption": "De opbouw van de galblaas. De galbuis en de alvleesklierbuis komen voor de papil van Vater samen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "9f1ee4b2-591a-47b7-8236-91154c15ffbd": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.28.png",
+      "alt": "Afbeelding 8.28: Suikers kunnen zowel in ketens (disachariden en polysachariden) als enkelvoudig voorkomen (monosacharide).",
+      "figureNumber": "Afbeelding 8.28:",
+      "caption": "Suikers kunnen zowel in ketens (disachariden en polysachariden) als enkelvoudig voorkomen (monosacharide).",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "3e410289-dbc7-4485-ae15-e15bee8432fe": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.29.png",
+      "alt": "Afbeelding 8.29: Verzadigde en onverzadigde vetzuren.",
+      "figureNumber": "Afbeelding 8.29:",
+      "caption": "Verzadigde en onverzadigde vetzuren.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "b5f822eb-5abc-4618-aa73-43b2fb86c633": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.2.png",
+      "alt": "Afbeelding 8.2: De opbouw van de wand van de maag.",
+      "figureNumber": "Afbeelding 8.2:",
+      "caption": "De opbouw van de wand van de maag.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "b88777d3-f2ec-48e0-899b-46af76d7243f": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.3.png",
+      "alt": "Afbeelding 8.3: De bloedvoorziening van de dikke darm.",
+      "figureNumber": "Afbeelding 8.3:",
+      "caption": "De bloedvoorziening van de dikke darm.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "d481088b-bd6f-4121-b0e7-79c64f71dd9d": [
+    {
+      "src": "new_pipeline/assets/images/ch8/MAF_Ch8_Img18 & 20 (1).png",
+      "alt": "Afbeelding 8.4: Vooraanzicht van de organen van het spijsverteringsstelsel.",
+      "figureNumber": "Afbeelding 8.4:",
+      "caption": "Vooraanzicht van de organen van het spijsverteringsstelsel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7b5d5f98-1f8a-4186-9893-47067846fe2d": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.5.png",
+      "alt": "Afbeelding 8.5: Ligging van de organen en structuren ten opzichte van het buikvlies.",
+      "figureNumber": "Afbeelding 8.5:",
+      "caption": "Ligging van de organen en structuren ten opzichte van het buikvlies.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "f3bf88fc-1461-4af2-89ae-08c1667a9533": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.6.png",
+      "alt": "Afbeelding 8.6: Anatomische ligging van de ruimte van Douglas.",
+      "figureNumber": "Afbeelding 8.6:",
+      "caption": "Anatomische ligging van de ruimte van Douglas.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "3213786a-d63a-433e-a0df-0f791fc98d58": [
+    {
+      "src": "new_pipeline/assets/images/ch8/MAF_Ch8_Img7&15.png",
+      "alt": "Afbeelding 8.7: De anatomie van de mondholte.",
+      "figureNumber": "Afbeelding 8.7:",
+      "caption": "De anatomie van de mondholte.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ef4fffce-640f-4932-b480-23e026497b84": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.8.png",
+      "alt": "Afbeelding 8.8: De ligging en anatomie van een tand. De kroon bevindt zich boven het tandvlees. De hals en wortel bevinden zich in het tandvlees en het kaakbot.",
+      "figureNumber": "Afbeelding 8.8:",
+      "caption": "De ligging en anatomie van een tand. De kroon bevindt zich boven het tandvlees. De hals en wortel bevinden zich in het tandvlees en het kaakbot.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "600316fe-7991-41ea-b44b-6c7515ec2f4a": [
+    {
+      "src": "new_pipeline/assets/figures/ch8/Afbeelding_8.9.png",
+      "alt": "Afbeelding 8.9: De namen van tanden en kiezen.",
+      "figureNumber": "Afbeelding 8.9:",
+      "caption": "De namen van tanden en kiezen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "282a8109-593e-4404-99e0-177ace019e67": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.10.png",
+      "alt": "Afbeelding 9.10: Ligging van primaire sensorische schorsgebieden.",
+      "figureNumber": "Afbeelding 9.10:",
+      "caption": "Ligging van primaire sensorische schorsgebieden.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "55e0444f-6162-4d81-8a99-6d1c53976e4d": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.11.png",
+      "alt": "Afbeelding 9.11: De hersenen, het ruggenmerg en de zenuwen.",
+      "figureNumber": "Afbeelding 9.11:",
+      "caption": "De hersenen, het ruggenmerg en de zenuwen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "eccd6611-b02c-45bb-ab64-0a41983739c4": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.12.png",
+      "alt": "Afbeelding 9.12: Dwarsdoorsnede van het ruggenmerg.",
+      "figureNumber": "Afbeelding 9.12:",
+      "caption": "Dwarsdoorsnede van het ruggenmerg.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "748a64b2-35ae-4668-b341-09d33c564649": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.13.png",
+      "alt": "Afbeelding 9.13: De opbouw van een zenuwcel (neuron).",
+      "figureNumber": "Afbeelding 9.13:",
+      "caption": "De opbouw van een zenuwcel (neuron).",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "70c515c8-6f41-4c86-95ff-2f57d3cdc6ce": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.14.png",
+      "alt": "Afbeelding 9.14: Positieve cel.",
+      "figureNumber": "Afbeelding 9.14:",
+      "caption": "Positieve cel.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.15.png",
+      "alt": "Afbeelding 9.15: Negatieve cel.",
+      "figureNumber": "Afbeelding 9.15:",
+      "caption": "Negatieve cel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4dee872f-b7f9-4edb-a5fd-0099a9fd19e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.17.png",
+      "alt": "Afbeelding 9.17: Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+      "figureNumber": "Afbeelding 9.17:",
+      "caption": "Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "291bb496-50e3-45c9-8b84-8c7c530903de": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.2.png",
+      "alt": "Afbeelding 9.2: Sensorische informatieverwerking.",
+      "figureNumber": "Afbeelding 9.2:",
+      "caption": "Sensorische informatieverwerking.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6c43f979-a4ee-4ba1-8608-6a39942b09d8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.3.png",
+      "alt": "Afbeelding 9.3: Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+      "figureNumber": "Afbeelding 9.3:",
+      "caption": "Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e21a674c-a2d8-4d0d-8b5a-f6118b8a77d8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.4.png",
+      "alt": "Afbeelding 9.4: Functies van het autonome zenuwstelsel.",
+      "figureNumber": "Afbeelding 9.4:",
+      "caption": "Functies van het autonome zenuwstelsel.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "b3d75b3c-41ce-40a7-985f-f0f87f8d50af": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.5.png",
+      "alt": "Afbeelding 9.5: Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+      "figureNumber": "Afbeelding 9.5:",
+      "caption": "Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "380a45bf-d20b-4ac7-a3bc-091f19a4661e": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.6.png",
+      "alt": "Afbeelding 9.6: Doorsnede van de hersenen en de hersenstam.",
+      "figureNumber": "Afbeelding 9.6:",
+      "caption": "Doorsnede van de hersenen en de hersenstam.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ff6bbeb4-8aff-4f6c-a990-07c5290e1707": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.7.png",
+      "alt": "Afbeelding 9.7: Doorsnede van de kleine hersenen en de hersenstam.",
+      "figureNumber": "Afbeelding 9.7:",
+      "caption": "Doorsnede van de kleine hersenen en de hersenstam.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cc85a09e-02e7-41d3-b578-b591221f5f2c": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.8.png",
+      "alt": "Afbeelding 9.8: Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+      "figureNumber": "Afbeelding 9.8:",
+      "caption": "Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7954352d-dc87-458d-83e1-cc234f930605": [
+    {
+      "src": "new_pipeline/assets/images/ch9/MAF_Ch9_Img 9.png",
+      "alt": "Afbeelding 9.9: Links de motorische homunculus en rechts de sensorische homunculus.",
+      "figureNumber": "Afbeelding 9.9:",
+      "caption": "Links de motorische homunculus en rechts de sensorische homunculus.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "fef08467-2d15-4e10-80b1-114ea45c731f": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.1.png",
+      "alt": "Afbeelding 10.1: De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+      "figureNumber": "Afbeelding 10.1:",
+      "caption": "De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "973d45c2-d9ba-4a96-b2e8-0823769c3f67": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.2.png",
+      "alt": "Afbeelding 10.2: Doorsnede van de nier.",
+      "figureNumber": "Afbeelding 10.2:",
+      "caption": "Doorsnede van de nier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "0a3c6a6d-6ed2-43ff-a775-1a759600d99c": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.3.png",
+      "alt": "Afbeelding 10.3: Functionele onderdelen van het nefron.",
+      "figureNumber": "Afbeelding 10.3:",
+      "caption": "Functionele onderdelen van het nefron.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "09a77d0e-9d77-4106-bff9-64ecc20b611a": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.4.png",
+      "alt": "Afbeelding 10.4: Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+      "figureNumber": "Afbeelding 10.4:",
+      "caption": "Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "e21a0903-7cd9-4e1a-9ade-523c11091bb0": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.5.png",
+      "alt": "Afbeelding 10.5: Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+      "figureNumber": "Afbeelding 10.5:",
+      "caption": "Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e9a7dd9f-a9db-4564-a88a-f8d55d3411e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.6.png",
+      "alt": "Afbeelding 10.6: 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+      "figureNumber": "Afbeelding 10.6:",
+      "caption": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "90504378-bb37-4cd8-afd5-27a2a71649d0": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.7.png",
+      "alt": "Afbeelding 10.7: Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+      "figureNumber": "Afbeelding 10.7:",
+      "caption": "Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "46aa5fca-482f-4c2b-aab9-a70c241d0856": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.10.png",
+      "alt": "Afbeelding 11.10: Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+      "figureNumber": "Afbeelding 11.10:",
+      "caption": "Overzicht van de volledige meiose die is verdeeld in meiose I en meiose II.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e7432359-3a8d-469f-8744-28bfe367798c": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.11.png",
+      "alt": "Afbeelding 11.11: Overzicht van de verschillende fasen van meiose I.",
+      "figureNumber": "Afbeelding 11.11:",
+      "caption": "Overzicht van de verschillende fasen van meiose I.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.2.png",
+      "alt": "Afbeelding 11.2: Fysieke verandering tijdens de puberteit bij meisjes.",
+      "figureNumber": "Afbeelding 11.2:",
+      "caption": "Fysieke verandering tijdens de puberteit bij meisjes.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "66d9d179-a8b0-49ff-8b24-d64959c20a80": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.12.png",
+      "alt": "Afbeelding 11.12: Overzicht van de verschillende fasen van meiose II.",
+      "figureNumber": "Afbeelding 11.12:",
+      "caption": "Overzicht van de verschillende fasen van meiose II.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "ad6b8073-21b0-4545-88d9-2c1f538deae6": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.13.png",
+      "alt": "Afbeelding 11.13: Ontwikkeling van zaadcellen.",
+      "figureNumber": "Afbeelding 11.13:",
+      "caption": "Ontwikkeling van zaadcellen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "8f3d5d0b-df9a-4be1-9321-327e5e9728b5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.14.png",
+      "alt": "Afbeelding 11.14: Schematisch overzicht van de menstruatiecyclus.",
+      "figureNumber": "Afbeelding 11.14:",
+      "caption": "Schematisch overzicht van de menstruatiecyclus.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "699c2c4b-4de9-45f2-becc-89b50763fc69": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.15.png",
+      "alt": "Afbeelding 11.15: De hormonale regeling van de geslachtsklieren bij mannen.",
+      "figureNumber": "Afbeelding 11.15:",
+      "caption": "De hormonale regeling van de geslachtsklieren bij mannen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "d35af05c-95a4-4e0d-80b0-2553b3e64e20": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.16.png",
+      "alt": "Afbeelding 11.16: Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+      "figureNumber": "Afbeelding 11.16:",
+      "caption": "Het moment van de bevruchting waarbij een zaadcel de eicel binnendringt.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "72d69534-999f-43c0-a707-cd1d78b3ad0a": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.17.png",
+      "alt": "Afbeelding 11.17: Zaadcellen bestaan uit een kop, middenstuk en staart.",
+      "figureNumber": "Afbeelding 11.17:",
+      "caption": "Zaadcellen bestaan uit een kop, middenstuk en staart.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "69adc069-355a-49b8-b1e0-1a7bef1790d9": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.3.png",
+      "alt": "Afbeelding 11.3: Dwarsdoorsnede van de penis.",
+      "figureNumber": "Afbeelding 11.3:",
+      "caption": "Dwarsdoorsnede van de penis.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "095ecbb0-9c75-4c4e-90ff-f870b87370d5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.4.png",
+      "alt": "Afbeelding 11.4: Schematisch overzicht van de zaadballen.",
+      "figureNumber": "Afbeelding 11.4:",
+      "caption": "Schematisch overzicht van de zaadballen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ad857c0a-9068-45ab-a639-868cf102f27f": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.5.png",
+      "alt": "Afbeelding 11.5: Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+      "figureNumber": "Afbeelding 11.5:",
+      "caption": "Schematisch overzicht van de zaadleider, de zaadbuisjes, de prostaat, de urinebuis en het spuitbuisje.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b09a9399-f290-48be-8819-0215944b02d5": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.6.png",
+      "alt": "Afbeelding 11.6: Vulva van de vrouw.",
+      "figureNumber": "Afbeelding 11.6:",
+      "caption": "Vulva van de vrouw.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "9d82a7d0-df39-4486-8a4e-c8343c359923": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.7.png",
+      "alt": "Afbeelding 11.7: Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+      "figureNumber": "Afbeelding 11.7:",
+      "caption": "Anatomie van de inwendige vrouwelijke geslachtsorganen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4544f4b5-6d24-4bf1-b9ec-cdfac2219597": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.8.png",
+      "alt": "Afbeelding 11.8: In de celkern zit het erfelijk materiaal.",
+      "figureNumber": "Afbeelding 11.8:",
+      "caption": "In de celkern zit het erfelijk materiaal.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "34e2c165-30e4-41d8-9b26-7d0e02ed2452": [
+    {
+      "src": "new_pipeline/assets/figures/ch11/Afbeelding_11.9.png",
+      "alt": "Afbeelding 11.9: Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+      "figureNumber": "Afbeelding 11.9:",
+      "caption": "Hemofilie (bloederziekte) is een erfelijke ziekte die door een fout op het X-chromosoom wordt veroorzaakt. Als het ene X-chromosoom bij een vrouw een fout heeft, dan zorgt het gezonde X-chromosoom dat de vrouw geen klachten heeft. De vrouw is dan alleen drager zonder dit te weten. Pas als allebei de X-chromosomen zijn aangedaan, leidt dit tot hemofilie. Mannen hebben maar één X-chromosoon. Hierdoor hebben ze de ziekte als dit chromosoon is aangedaan. Ze kunnen dus niet alleen drager zijn.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "ebb13131-b26e-4c43-ac66-d7e9fd65494d": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.10.png",
+      "alt": "Afbeelding 12.10: Schematisch overzicht van schildklierhormoon.",
+      "figureNumber": "Afbeelding 12.10:",
+      "caption": "Schematisch overzicht van schildklierhormoon.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.9.png",
+      "alt": "Afbeelding 12.9: De schildklier.",
+      "figureNumber": "Afbeelding 12.9:",
+      "caption": "De schildklier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "b1a8b635-b951-4a1e-852a-18f4799b4ee8": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img11.png",
+      "alt": "Afbeelding 12.11: Schematisch overzicht van de glucosehouding.",
+      "figureNumber": "Afbeelding 12.11:",
+      "caption": "Schematisch overzicht van de glucosehouding.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "dace778c-886c-4bd7-a274-231f7d28de7b": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.12.png",
+      "alt": "Afbeelding 12.12: De bijnier.",
+      "figureNumber": "Afbeelding 12.12:",
+      "caption": "De bijnier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "99af19bb-95ea-4b4d-a21f-59a68bf57ab9": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.13.png",
+      "alt": "Afbeelding 12.13: 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+      "figureNumber": "Afbeelding 12.13:",
+      "caption": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat de nieren minder zout en water uitscheiden, waardoor de bloeddruk stijgt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7cb3e1ca-f682-4b28-89fb-7a1673e4ed36": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.14.png",
+      "alt": "Afbeelding 12.14: Doorsnede van een testikel.",
+      "figureNumber": "Afbeelding 12.14:",
+      "caption": "Doorsnede van een testikel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4a1c1176-be15-4b85-9d0e-da14e94083b7": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.15.png",
+      "alt": "Afbeelding 12.15: Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+      "figureNumber": "Afbeelding 12.15:",
+      "caption": "Schematisch overzicht van de vrouwelijke geslachtsorganen.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "dda1e140-c660-4830-8729-8deb0bd56a2f": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.1.png",
+      "alt": "Afbeelding 12.1: Levensduur van hormonen.",
+      "figureNumber": "Afbeelding 12.1:",
+      "caption": "Levensduur van hormonen.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.2.png",
+      "alt": "Afbeelding 12.2: Overzicht van het hormoonstelsel.",
+      "figureNumber": "Afbeelding 12.2:",
+      "caption": "Overzicht van het hormoonstelsel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "6ac5c5b3-22c5-4188-bbd9-fbf92ff0693b": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.3.png",
+      "alt": "Afbeelding 12.3: Hypothalamus-hypofyse-as.",
+      "figureNumber": "Afbeelding 12.3:",
+      "caption": "Hypothalamus-hypofyse-as.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "964dd0da-2d07-4c4f-a420-75c4a8100253": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img4.png",
+      "alt": "Afbeelding 12.4: De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+      "figureNumber": "Afbeelding 12.4:",
+      "caption": "De hypofyse-achterkwab (neurohypofyse) en de werking van ADH en oxytocine.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img05.png",
+      "alt": "Afbeelding 12.5: Oxytocine.",
+      "figureNumber": "Afbeelding 12.5:",
+      "caption": "Oxytocine.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ab32be68-a571-4ab6-af91-991ef1fce065": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.6.png",
+      "alt": "Afbeelding 12.6: De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+      "figureNumber": "Afbeelding 12.6:",
+      "caption": "De hypofysevoorkwab en de werking op de schildklier, de bijnier en de eierstokken.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "7bd526a5-b4ae-4cf9-a646-b15fbe5a0b59": [
+    {
+      "src": "new_pipeline/assets/figures/ch12/Afbeelding_12.7.png",
+      "alt": "Afbeelding 12.7: Feedback in de hypothalamus-hypofyse-as.",
+      "figureNumber": "Afbeelding 12.7:",
+      "caption": "Feedback in de hypothalamus-hypofyse-as.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "302b2c04-850a-48eb-8a72-3ffd79f63fa4": [
+    {
+      "src": "new_pipeline/assets/images/ch12/MAF_Ch12_Img08.png",
+      "alt": "Afbeelding 12.8: Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+      "figureNumber": "Afbeelding 12.8:",
+      "caption": "Doorsnede van de hersenen met de pijnappelklier, thalamus, hypothalamus en hypofyse.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "1beee900-ee4c-4b27-9ef1-a3de6fd25204": [
+    {
+      "src": "new_pipeline/assets/images/ch13/13.01.png",
+      "alt": "Afbeelding 13.1: Overzicht van de verschillende manieren waarop het lichaam warmte verliest.",
+      "figureNumber": "Afbeelding 13.1:",
+      "caption": "Overzicht van de verschillende manieren waarop het lichaam warmte verliest.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "ba4a2c2b-8f0d-4b7a-bcc9-ea4ef2a7ebb6": [
+    {
+      "src": "new_pipeline/assets/images/ch14/MAF_Ch14_Img10.png",
+      "alt": "Afbeelding 14.10: Anatomie van de oogleden en samenstelling van de traanfilm.",
+      "figureNumber": "Afbeelding 14.10:",
+      "caption": "Anatomie van de oogleden en samenstelling van de traanfilm.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch14/MAF_Ch14_Img11.png",
+      "alt": "Afbeelding 14.11: Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+      "figureNumber": "Afbeelding 14.11:",
+      "caption": "Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.12.png",
+      "alt": "Afbeelding 14.12: De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+      "figureNumber": "Afbeelding 14.12:",
+      "caption": "De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.1.png",
+      "alt": "Afbeelding 14.1: Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+      "figureNumber": "Afbeelding 14.1:",
+      "caption": "Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.2.png",
+      "alt": "Afbeelding 14.2: Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+      "figureNumber": "Afbeelding 14.2:",
+      "caption": "Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.3.png",
+      "alt": "Afbeelding 14.3: Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+      "figureNumber": "Afbeelding 14.3:",
+      "caption": "Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.4.png",
+      "alt": "Afbeelding 14.4: Overzicht van de verschillende lagen van het hoornvlies.",
+      "figureNumber": "Afbeelding 14.4:",
+      "caption": "Overzicht van de verschillende lagen van het hoornvlies.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.5.png",
+      "alt": "Afbeelding 14.5: Anatomie van het menselijk oog.",
+      "figureNumber": "Afbeelding 14.5:",
+      "caption": "Anatomie van het menselijk oog.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.6.png",
+      "alt": "Afbeelding 14.6: De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+      "figureNumber": "Afbeelding 14.6:",
+      "caption": "De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.7.png",
+      "alt": "Afbeelding 14.7: Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+      "figureNumber": "Afbeelding 14.7:",
+      "caption": "Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.8.png",
+      "alt": "Afbeelding 14.8: De oogspieren.",
+      "figureNumber": "Afbeelding 14.8:",
+      "caption": "De oogspieren.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.9.png",
+      "alt": "Afbeelding 14.9: De menselijke schedel.",
+      "figureNumber": "Afbeelding 14.9:",
+      "caption": "De menselijke schedel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

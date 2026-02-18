@@ -1,0 +1,150 @@
+{
+  "282a8109-593e-4404-99e0-177ace019e67": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.10.png",
+      "alt": "Afbeelding 9.10: Ligging van primaire sensorische schorsgebieden.",
+      "figureNumber": "Afbeelding 9.10:",
+      "caption": "Ligging van primaire sensorische schorsgebieden.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "55e0444f-6162-4d81-8a99-6d1c53976e4d": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.11.png",
+      "alt": "Afbeelding 9.11: De hersenen, het ruggenmerg en de zenuwen.",
+      "figureNumber": "Afbeelding 9.11:",
+      "caption": "De hersenen, het ruggenmerg en de zenuwen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "eccd6611-b02c-45bb-ab64-0a41983739c4": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.12.png",
+      "alt": "Afbeelding 9.12: Dwarsdoorsnede van het ruggenmerg.",
+      "figureNumber": "Afbeelding 9.12:",
+      "caption": "Dwarsdoorsnede van het ruggenmerg.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "748a64b2-35ae-4668-b341-09d33c564649": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.13.png",
+      "alt": "Afbeelding 9.13: De opbouw van een zenuwcel (neuron).",
+      "figureNumber": "Afbeelding 9.13:",
+      "caption": "De opbouw van een zenuwcel (neuron).",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "70c515c8-6f41-4c86-95ff-2f57d3cdc6ce": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.14.png",
+      "alt": "Afbeelding 9.14: Positieve cel.",
+      "figureNumber": "Afbeelding 9.14:",
+      "caption": "Positieve cel.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.15.png",
+      "alt": "Afbeelding 9.15: Negatieve cel.",
+      "figureNumber": "Afbeelding 9.15:",
+      "caption": "Negatieve cel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "4dee872f-b7f9-4edb-a5fd-0099a9fd19e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.17.png",
+      "alt": "Afbeelding 9.17: Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+      "figureNumber": "Afbeelding 9.17:",
+      "caption": "Verloop reflexboog van receptor zintuigcel naar spier- of kliercel.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "291bb496-50e3-45c9-8b84-8c7c530903de": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.2.png",
+      "alt": "Afbeelding 9.2: Sensorische informatieverwerking.",
+      "figureNumber": "Afbeelding 9.2:",
+      "caption": "Sensorische informatieverwerking.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "6c43f979-a4ee-4ba1-8608-6a39942b09d8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.3.png",
+      "alt": "Afbeelding 9.3: Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+      "figureNumber": "Afbeelding 9.3:",
+      "caption": "Primair en secundair motorisch en sensorisch gebied in de grote hersenen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "e21a674c-a2d8-4d0d-8b5a-f6118b8a77d8": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.4.png",
+      "alt": "Afbeelding 9.4: Functies van het autonome zenuwstelsel.",
+      "figureNumber": "Afbeelding 9.4:",
+      "caption": "Functies van het autonome zenuwstelsel.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "b3d75b3c-41ce-40a7-985f-f0f87f8d50af": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.5.png",
+      "alt": "Afbeelding 9.5: Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+      "figureNumber": "Afbeelding 9.5:",
+      "caption": "Anatomie van de grote hersenen met de verschillende hersenkwabben.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "380a45bf-d20b-4ac7-a3bc-091f19a4661e": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.6.png",
+      "alt": "Afbeelding 9.6: Doorsnede van de hersenen en de hersenstam.",
+      "figureNumber": "Afbeelding 9.6:",
+      "caption": "Doorsnede van de hersenen en de hersenstam.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "ff6bbeb4-8aff-4f6c-a990-07c5290e1707": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.7.png",
+      "alt": "Afbeelding 9.7: Doorsnede van de kleine hersenen en de hersenstam.",
+      "figureNumber": "Afbeelding 9.7:",
+      "caption": "Doorsnede van de kleine hersenen en de hersenstam.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "cc85a09e-02e7-41d3-b578-b591221f5f2c": [
+    {
+      "src": "new_pipeline/assets/figures/ch9/Afbeelding_9.8.png",
+      "alt": "Afbeelding 9.8: Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+      "figureNumber": "Afbeelding 9.8:",
+      "caption": "Doorsnede van de grote hersenen en de hersenstam ter hoogte van de thalamus, hypothalamus, hypofyse en pijnappelklier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7954352d-dc87-458d-83e1-cc234f930605": [
+    {
+      "src": "new_pipeline/assets/images/ch9/MAF_Ch9_Img 9.png",
+      "alt": "Afbeelding 9.9: Links de motorische homunculus en rechts de sensorische homunculus.",
+      "figureNumber": "Afbeelding 9.9:",
+      "caption": "Links de motorische homunculus en rechts de sensorische homunculus.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

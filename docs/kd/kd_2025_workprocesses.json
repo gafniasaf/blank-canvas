@@ -1,0 +1,162 @@
+{
+  "version": "KD 2025 (workprocess codes/titles only; user-provided list)",
+  "domain": "Zorg",
+  "qualifications": [
+    {
+      "name": "Verzorgende IG",
+      "level": "3",
+      "profile_kerntaak_code": "P1-K1",
+      "notes": "P1-K1 has no own werkprocessen; uses basisdeel werkprocessen at N3 complexity."
+    },
+    {
+      "name": "Mbo-Verpleegkundige",
+      "level": "4",
+      "profile_kerntaak_code": "P2-K1"
+    }
+  ],
+  "basisdeel": {
+    "applies_to_levels": [
+      "3",
+      "4"
+    ],
+    "kerntaken": [
+      {
+        "code": "B1-K1",
+        "title": "Biedt zorg, ondersteuning en begeleiding",
+        "werkprocessen": [
+          {
+            "code": "B1-K1-W1",
+            "title": "Inventariseert de zorgbehoefte"
+          },
+          {
+            "code": "B1-K1-W2",
+            "title": "Stelt het zorgplan op en stuurt bij"
+          },
+          {
+            "code": "B1-K1-W3",
+            "title": "Voert interventies uit"
+          },
+          {
+            "code": "B1-K1-W4",
+            "title": "Voert verpleegtechnische handelingen uit"
+          },
+          {
+            "code": "B1-K1-W5",
+            "title": "Handelt in acute situaties"
+          },
+          {
+            "code": "B1-K1-W6",
+            "title": "Geeft informatie en advies"
+          }
+        ]
+      },
+      {
+        "code": "B1-K2",
+        "title": "Stemt de zorg en ondersteuning af",
+        "werkprocessen": [
+          {
+            "code": "B1-K2-W1",
+            "title": "Stemt af met informele zorgverleners"
+          },
+          {
+            "code": "B1-K2-W2",
+            "title": "Werkt samen met professionals"
+          }
+        ]
+      },
+      {
+        "code": "B1-K3",
+        "title": "Draagt bij aan kwaliteit van zorg",
+        "werkprocessen": [
+          {
+            "code": "B1-K3-W1",
+            "title": "Innoveert met zorgtechnologie en ethiek"
+          },
+          {
+            "code": "B1-K3-W2",
+            "title": "Evalueert en ontwikkelt zich"
+          },
+          {
+            "code": "B1-K3-W3",
+            "title": "Draagt bij aan een veilige werkomgeving"
+          }
+        ]
+      }
+    ],
+    "total_werkprocessen": 11
+  },
+  "profieldeel_niveau_4": {
+    "applies_to_levels": [
+      "4"
+    ],
+    "kerntaken": [
+      {
+        "code": "P2-K1",
+        "title": "Voert verpleegkundige taken uit",
+        "werkprocessen": [
+          {
+            "code": "P2-K1-W1",
+            "title": "Stelt verpleegkundige diagnose"
+          },
+          {
+            "code": "P2-K1-W2",
+            "title": "Coacht en begeleidt collega's"
+          },
+          {
+            "code": "P2-K1-W3",
+            "title": "Coördineert en optimaliseert zorg"
+          }
+        ]
+      }
+    ],
+    "total_werkprocessen": 3
+  },
+  "totals": {
+    "total_werkprocessen": 14,
+    "kerntaken_count": 5,
+    "basisdeel_kerntaken": [
+      "B1-K1",
+      "B1-K2",
+      "B1-K3"
+    ],
+    "profile_n3_kerntaak": "P1-K1",
+    "profile_n4_kerntaak": "P2-K1"
+  },
+  "source": {
+    "type": "user_provided",
+    "captured_at": "2025-12-26",
+    "note": "This file stores the codes and titles as pasted in chat. It is not the full official KD text with descriptions/performance criteria."
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

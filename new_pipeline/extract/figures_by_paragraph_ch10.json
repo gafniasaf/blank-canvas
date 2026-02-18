@@ -1,0 +1,72 @@
+{
+  "fef08467-2d15-4e10-80b1-114ea45c731f": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.1.png",
+      "alt": "Afbeelding 10.1: De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+      "figureNumber": "Afbeelding 10.1:",
+      "caption": "De linkernier ligt hoger dan de rechternier. Bij de nierpoort (nierhilus) zijn de urineleider (ureter), de nierader (niervene) en de nierslagader (nierarterie) te vinden. De nieren ontvangen bloed uit de lichaamsslagader (aorta) en geven bloed af aan de onderste holle ader (vena cava inferior).",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "973d45c2-d9ba-4a96-b2e8-0823769c3f67": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.2.png",
+      "alt": "Afbeelding 10.2: Doorsnede van de nier.",
+      "figureNumber": "Afbeelding 10.2:",
+      "caption": "Doorsnede van de nier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "0a3c6a6d-6ed2-43ff-a775-1a759600d99c": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.3.png",
+      "alt": "Afbeelding 10.3: Functionele onderdelen van het nefron.",
+      "figureNumber": "Afbeelding 10.3:",
+      "caption": "Functionele onderdelen van het nefron.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "09a77d0e-9d77-4106-bff9-64ecc20b611a": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.4.png",
+      "alt": "Afbeelding 10.4: Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+      "figureNumber": "Afbeelding 10.4:",
+      "caption": "Een overzicht van een nierlichaampje. Een nierlichaampje wordt omgeven door het kapsel van Bowman. In het nierlichaampje bevindt zich een kluwen van haarvaten, de glomerulus. Op deze haarvaten bevinden zich de podocyten met hun boogvoetjes.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "e21a0903-7cd9-4e1a-9ade-523c11091bb0": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.5.png",
+      "alt": "Afbeelding 10.5: Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+      "figureNumber": "Afbeelding 10.5:",
+      "caption": "Antidiuretisch hormoon bevordert het vasthouden van water door de nieren te stimuleren meer water terug te nemen.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "e9a7dd9f-a9db-4564-a88a-f8d55d3411e8": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.6.png",
+      "alt": "Afbeelding 10.6: 1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+      "figureNumber": "Afbeelding 10.6:",
+      "caption": "1. Als de bloeddruk daalt, scheiden de nieren renine af. 2. Renine zet angiotensinogeen om in angiotensine I. 3. ACE zet angiotensine I om in angiotensine II. 4. Angiotensine II zorgt dat de bloeddruk stijgt (aanmaak aldosteron en vernauwing bloedvaten). 5. Aldosteron zorgt dat minder zout en water worden uitgescheiden door de nieren waardoor de bloeddruk stijgt.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "90504378-bb37-4cd8-afd5-27a2a71649d0": [
+    {
+      "src": "new_pipeline/assets/figures/ch10/Afbeelding_10.7.png",
+      "alt": "Afbeelding 10.7: Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+      "figureNumber": "Afbeelding 10.7:",
+      "caption": "Koolstofdioxide (CO2) en water (H20) vormen samen bicarbonaat (H2CO3). Bicarbonaat kan zich splitsen in H+ (een zuur) en in HCO3- (een base) of weer in koolstofdioxide (CO2) en water (H20). Door deze wisselwerking wordt het zuur-base-evenwicht geregeld.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "bodyStory": {
+    "index": 21,
+    "words": 2124
+  },
+  "chapter": "9",
+  "chapterRange": {
+    "endOff": 84,
+    "ok": true,
+    "startOff": 78
+  },
+  "exportedAt": "Sat Jan 03 2026 00:44:49 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "de toezichthouding moet passend zijn voor de instelling.",
+        "pageDocumentOffset": 80,
+        "paragraphIndexInBodyStory": 756,
+        "text": "Daarnaast krijgen zorgvragers soms extramurale zorg. Dit is zorg aan huis, zoals de thuiszorg.Binnen extramurale organisaties geldt ook een speciale regel: als in de woonsituatie van een zorgvrager problemen ontstaan, moet dit op tijd worden aangegeven. Soms moet een zorgvrager dan doorverwezen worden naar een andere organisatie.",
+        "x": 187.5,
+        "y": 76.7430152893075
+      },
+      "asset": null,
+      "caption": {
+        "body": "Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.",
+        "bounds": null,
+        "label": "Afbeelding 9.2.",
+        "raw": "Afbeelding 9.2. Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          95.2527027893054,
+          187.5,
+          177.969444444445,
+          319.60986650255
+        ],
+        "kind": "link",
+        "linkName": "2.9 Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.jpg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/2.9%20Medewerker%20die%20ambulante%20zorg%20komt%20geven%20bij%20de%20zorgvrager%20thuis.jpg"
+      },
+      "page": {
+        "documentOffset": 80,
+        "name": "67"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "zorgprofessionals vertellen de zorgvrager over mogelijkheden op het gebied van gezondheidsactiviteiten en activiteiten met vrijwilligers;",
+        "pageDocumentOffset": 81,
+        "paragraphIndexInBodyStory": 765,
+        "text": "zorgprofessionals geven het aan als ze vermoeden dat zorgvragers last hebben van eenzaamheid. Je moet aandacht hebben voor de mogelijke oorzaken van eenzaamheid. Daarnaast moet je de zorgvrager zo nodig doorsturen naar een andere zorgprofessional.",
+        "x": 25.500000111262,
+        "y": 38.0541264004177
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verpleegkundige en zorgvrager maken afspraken in het elektronisch cliëntendossier.",
+        "bounds": null,
+        "label": "Afbeelding 9.3:",
+        "raw": "Afbeelding 9.3 Verpleegkundige en zorgvrager maken afspraken in het elektronisch cliëntendossier.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          58.5638139004165,
+          17.5,
+          134.980555555562,
+          149.60986650255
+        ],
+        "kind": "link",
+        "linkName": "WBF_1.8_Verpleegkundige en zorgvrager maken afspraken in het elektronisch clientendossier.jpeg",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Wetgeving_9789083412061_03/Links/WBF_1.8_Verpleegkundige%20en%20zorgvrager%20maken%20afspraken%20in%20het%20elektronisch%20clientendossier.jpeg"
+      },
+      "page": {
+        "documentOffset": 81,
+        "name": "68"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Wetgeving_9789083412061_03/MBO Wetgeving_9789083412061_03.2024.indd"
+}

@@ -1,0 +1,100 @@
+{
+  "ba4a2c2b-8f0d-4b7a-bcc9-ea4ef2a7ebb6": [
+    {
+      "src": "new_pipeline/assets/images/ch14/MAF_Ch14_Img10.png",
+      "alt": "Afbeelding 14.10: Anatomie van de oogleden en samenstelling van de traanfilm.",
+      "figureNumber": "Afbeelding 14.10:",
+      "caption": "Anatomie van de oogleden en samenstelling van de traanfilm.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/images/ch14/MAF_Ch14_Img11.png",
+      "alt": "Afbeelding 14.11: Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+      "figureNumber": "Afbeelding 14.11:",
+      "caption": "Overzicht van het rechteroog met de traanklier, traanzak en traanbuis.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.12.png",
+      "alt": "Afbeelding 14.12: De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+      "figureNumber": "Afbeelding 14.12:",
+      "caption": "De pupilreflex zorgt dat de pupil kleiner wordt bij veel licht en groter bij weinig licht.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.1.png",
+      "alt": "Afbeelding 14.1: Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+      "figureNumber": "Afbeelding 14.1:",
+      "caption": "Anatomie van het oor met een close-up van het middenoor en binnenoor.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.2.png",
+      "alt": "Afbeelding 14.2: Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+      "figureNumber": "Afbeelding 14.2:",
+      "caption": "Anatomie van het evenwichtsorgaan. Het statische evenwicht neemt draaiingen waar. Het dynamische evenwicht neemt plotselinge lineaire versnellingen of vertragingen waar.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.3.png",
+      "alt": "Afbeelding 14.3: Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+      "figureNumber": "Afbeelding 14.3:",
+      "caption": "Doorsnede van de huid met de receptoren die betrokken zijn bij de tast.",
+      "placement": "inline",
+      "width": "100%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.4.png",
+      "alt": "Afbeelding 14.4: Overzicht van de verschillende lagen van het hoornvlies.",
+      "figureNumber": "Afbeelding 14.4:",
+      "caption": "Overzicht van de verschillende lagen van het hoornvlies.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.5.png",
+      "alt": "Afbeelding 14.5: Anatomie van het menselijk oog.",
+      "figureNumber": "Afbeelding 14.5:",
+      "caption": "Anatomie van het menselijk oog.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.6.png",
+      "alt": "Afbeelding 14.6: De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+      "figureNumber": "Afbeelding 14.6:",
+      "caption": "De receptoren op het netvlies bestaan uit kegeltjes en staafjes.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.7.png",
+      "alt": "Afbeelding 14.7: Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+      "figureNumber": "Afbeelding 14.7:",
+      "caption": "Door het aanpassen van de vorm en dikte van de ooglens (accommoderen) zijn we in staat voorwerpen veraf en dichtbij scherp te zien.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.8.png",
+      "alt": "Afbeelding 14.8: De oogspieren.",
+      "figureNumber": "Afbeelding 14.8:",
+      "caption": "De oogspieren.",
+      "placement": "inline",
+      "width": "55%"
+    },
+    {
+      "src": "new_pipeline/assets/figures/ch14/Afbeelding_14.9.png",
+      "alt": "Afbeelding 14.9: De menselijke schedel.",
+      "figureNumber": "Afbeelding 14.9:",
+      "caption": "De menselijke schedel.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

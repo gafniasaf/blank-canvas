@@ -1,0 +1,22 @@
+{
+  "c0d17096-f9ea-487b-befb-0c158d901486": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch9/linked/2.9 Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.jpg",
+      "alt": "Afbeelding 9.2. Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.",
+      "figureNumber": "Afbeelding 9.2.",
+      "caption": "Medewerker die ambulante zorg komt geven bij de zorgvrager thuis.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "7aa8174e-20e6-49ae-8747-21044340f12a": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_WETGEVING_9789083412061_03_2024/ch9/linked/WBF_1.8_Verpleegkundige en zorgvrager maken afspraken in het elektronisch clientendossier.jpeg",
+      "alt": "Afbeelding 9.3: Verpleegkundige en zorgvrager maken afspraken in het elektronisch cliëntendossier.",
+      "figureNumber": "Afbeelding 9.3:",
+      "caption": "Verpleegkundige en zorgvrager maken afspraken in het elektronisch cliëntendossier.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

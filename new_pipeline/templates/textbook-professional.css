@@ -1,0 +1,608 @@
+/**
+ * Professional Educational Textbook Styles
+ * 
+ * MBO Healthcare Textbook - Print-ready CSS
+ * Page size: 195mm x 265mm (MBO standard)
+ */
+
+/* =============================================================================
+   CSS Variables
+   ============================================================================= */
+
+:root {
+  /* Typography - Professional book fonts */
+  --font-serif: 'Crimson Pro', 'Crimson Text', 'Georgia', serif;
+  --font-sans: 'Inter', 'Helvetica Neue', 'Arial', sans-serif;
+  
+  /* Font sizes - optimized for print */
+  --size-base: 11pt;
+  --size-small: 9.5pt;
+  --size-tiny: 8.5pt;
+  --size-h1: 28pt;
+  --size-h2: 18pt;
+  --size-h3: 14pt;
+  --size-h4: 12pt;
+  
+  /* Colors */
+  --color-text: #1a1a1a;
+  --color-text-muted: #555;
+  --color-heading: #0a2540;
+  --color-accent: #0066cc;
+  
+  /* Praktijk - Professional teal */
+  --color-praktijk: #006d6d;
+  --color-praktijk-bg: #e6f3f3;
+  --color-praktijk-border: #008080;
+  
+  /* Verdieping - Professional purple */
+  --color-verdieping: #4a3660;
+  --color-verdieping-bg: #f0ebf5;
+  --color-verdieping-border: #6b4d8a;
+  
+  /* Layout */
+  --line-height: 1.5;
+  --paragraph-spacing: 0.85em;
+}
+
+/* =============================================================================
+   Page Setup
+   ============================================================================= */
+
+@page {
+  size: 195mm 265mm;
+  margin: 25mm 20mm 30mm 25mm;
+  
+  @top-center {
+    content: string(chapter-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    font-weight: 500;
+    color: var(--color-text-muted);
+    letter-spacing: 0.02em;
+  }
+  
+  @bottom-center {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 500;
+    color: var(--color-text-muted);
+  }
+}
+
+@page :left {
+  margin: 25mm 25mm 30mm 20mm;
+  
+  @top-left {
+    content: string(section-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    color: var(--color-text-muted);
+  }
+  
+  @top-center {
+    content: none;
+  }
+  
+  @bottom-left {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 500;
+  }
+  
+  @bottom-center {
+    content: none;
+  }
+}
+
+@page :right {
+  margin: 25mm 20mm 30mm 25mm;
+  
+  @top-right {
+    content: string(chapter-title);
+    font-family: var(--font-sans);
+    font-size: var(--size-tiny);
+    color: var(--color-text-muted);
+  }
+  
+  @top-center {
+    content: none;
+  }
+  
+  @bottom-right {
+    content: counter(page);
+    font-family: var(--font-sans);
+    font-size: var(--size-small);
+    font-weight: 500;
+  }
+  
+  @bottom-center {
+    content: none;
+  }
+}
+
+@page :first {
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+  @bottom-left { content: none; }
+  @bottom-right { content: none; }
+  @bottom-center { content: none; }
+}
+
+@page chapter-opener {
+  @top-left { content: none; }
+  @top-right { content: none; }
+  @top-center { content: none; }
+}
+
+/* =============================================================================
+   Base Typography
+   ============================================================================= */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--size-base);
+}
+
+body {
+  font-family: var(--font-serif);
+  font-size: var(--size-base);
+  line-height: var(--line-height);
+  color: var(--color-text);
+  text-align: left;
+  hyphens: none;
+  -webkit-hyphens: none;
+  orphans: 3;
+  widows: 3;
+}
+
+/* =============================================================================
+   Headings
+   ============================================================================= */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  color: var(--color-heading);
+  line-height: 1.2;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+/* =============================================================================
+   Title Page
+   ============================================================================= */
+
+.title-page {
+  page: first;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  page-break-after: always;
+}
+
+.title-page .book-title {
+  font-family: var(--font-sans);
+  font-size: 32pt;
+  font-weight: 700;
+  color: var(--color-heading);
+  margin-bottom: 0.5em;
+  line-height: 1.1;
+  max-width: 80%;
+}
+
+.title-page .book-subtitle {
+  font-family: var(--font-sans);
+  font-size: 16pt;
+  font-weight: 400;
+  color: var(--color-text-muted);
+  margin-bottom: 2em;
+}
+
+.title-page .book-level {
+  font-family: var(--font-sans);
+  font-size: 14pt;
+  font-weight: 600;
+  color: var(--color-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  padding: 0.5em 1.5em;
+  border: 2px solid var(--color-accent);
+  border-radius: 4px;
+}
+
+.title-page .book-meta {
+  margin-top: 4em;
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  color: var(--color-text-muted);
+}
+
+/* =============================================================================
+   Table of Contents
+   ============================================================================= */
+
+.toc {
+  page-break-before: always;
+  page-break-after: always;
+}
+
+.toc-title {
+  font-size: var(--size-h1);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin-bottom: 1.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 3px solid var(--color-heading);
+}
+
+.toc-chapter {
+  margin-bottom: 1.5em;
+}
+
+.toc-chapter-link {
+  display: flex;
+  align-items: baseline;
+  font-family: var(--font-sans);
+  font-size: 13pt;
+  font-weight: 600;
+  color: var(--color-heading);
+  text-decoration: none;
+  padding: 0.3em 0;
+}
+
+.toc-chapter-link:hover {
+  color: var(--color-accent);
+}
+
+.toc-number {
+  min-width: 2.5em;
+  font-weight: 600;
+}
+
+.toc-section-list {
+  margin-left: 2.5em;
+  margin-top: 0.3em;
+}
+
+.toc-section-link {
+  display: flex;
+  align-items: baseline;
+  font-family: var(--font-serif);
+  font-size: var(--size-base);
+  color: var(--color-text);
+  text-decoration: none;
+  padding: 0.2em 0;
+}
+
+.toc-section-link .toc-number {
+  min-width: 3em;
+  font-weight: 400;
+}
+
+.toc-dots {
+  flex: 1;
+  border-bottom: 1px dotted var(--color-text-muted);
+  margin: 0 0.5em 0.3em 0.5em;
+}
+
+.toc-page {
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  color: var(--color-text-muted);
+}
+
+/* =============================================================================
+   Chapter
+   ============================================================================= */
+
+.chapter {
+  page: chapter-opener;
+  page-break-before: always;
+}
+
+.chapter-opener {
+  min-height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: 3em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ddd;
+}
+
+.chapter-label {
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--color-accent);
+  margin-bottom: 0.5em;
+}
+
+.chapter-number {
+  font-family: var(--font-sans);
+  font-size: 72pt;
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1;
+  margin-bottom: 0.1em;
+  string-set: chapter-title attr(data-title);
+}
+
+.chapter-title {
+  font-family: var(--font-sans);
+  font-size: var(--size-h1);
+  font-weight: 700;
+  color: var(--color-heading);
+  line-height: 1.1;
+  string-set: chapter-title content();
+}
+
+/* =============================================================================
+   Section
+   ============================================================================= */
+
+.section {
+  margin-top: 2.5em;
+  page-break-inside: avoid;
+}
+
+.section:first-of-type {
+  margin-top: 0;
+}
+
+.section-header {
+  margin-bottom: 1em;
+  page-break-after: avoid;
+  string-set: section-title content();
+}
+
+.section-number {
+  font-family: var(--font-sans);
+  font-size: var(--size-h2);
+  font-weight: 700;
+  color: var(--color-heading);
+  margin-right: 0.3em;
+}
+
+.section-title {
+  font-family: var(--font-sans);
+  font-size: var(--size-h2);
+  font-weight: 600;
+  color: var(--color-heading);
+}
+
+/* =============================================================================
+   Subparagraph
+   ============================================================================= */
+
+.subparagraph {
+  margin-top: 1.8em;
+}
+
+.subparagraph-header {
+  font-family: var(--font-sans);
+  font-size: var(--size-h3);
+  font-weight: 600;
+  color: var(--color-heading);
+  margin-bottom: 0.8em;
+  page-break-after: avoid;
+}
+
+/* =============================================================================
+   Paragraphs
+   ============================================================================= */
+
+.paragraph-block {
+  margin-bottom: var(--paragraph-spacing);
+}
+
+.basis-text {
+  text-align: left;
+  text-indent: 0;
+}
+
+.paragraph-block + .paragraph-block .basis-text {
+  text-indent: 1.5em;
+}
+
+/* =============================================================================
+   Praktijk Block
+   ============================================================================= */
+
+.praktijk-block {
+  margin: 1.2em 0;
+  padding: 1em 1.2em;
+  background: var(--color-praktijk-bg);
+  border-left: 4px solid var(--color-praktijk-border);
+  border-radius: 0 6px 6px 0;
+  page-break-inside: avoid;
+}
+
+.praktijk-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.praktijk-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5em;
+  fill: var(--color-praktijk);
+}
+
+.praktijk-label {
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  font-weight: 700;
+  color: var(--color-praktijk);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.praktijk-text {
+  font-family: var(--font-serif);
+  font-size: var(--size-base);
+  color: var(--color-text);
+  line-height: var(--line-height);
+  text-align: left;
+}
+
+/* =============================================================================
+   Verdieping Block
+   ============================================================================= */
+
+.verdieping-block {
+  margin: 1.2em 0;
+  padding: 1em 1.2em;
+  background: var(--color-verdieping-bg);
+  border-left: 4px solid var(--color-verdieping-border);
+  border-radius: 0 6px 6px 0;
+  page-break-inside: avoid;
+}
+
+.verdieping-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+
+.verdieping-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5em;
+  fill: var(--color-verdieping);
+}
+
+.verdieping-label {
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  font-weight: 700;
+  color: var(--color-verdieping);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.verdieping-text {
+  font-family: var(--font-serif);
+  font-size: var(--size-base);
+  color: var(--color-text);
+  line-height: var(--line-height);
+  text-align: left;
+}
+
+/* =============================================================================
+   Figures
+   ============================================================================= */
+
+figure {
+  margin: 1.5em 0;
+  page-break-inside: avoid;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-family: var(--font-sans);
+  font-size: var(--size-small);
+  color: var(--color-text-muted);
+  margin-top: 0.5em;
+  text-align: left;
+}
+
+.figure-number {
+  font-weight: 600;
+  color: var(--color-heading);
+}
+
+/* =============================================================================
+   Colophon
+   ============================================================================= */
+
+.colophon {
+  page-break-before: always;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 80vh;
+  text-align: center;
+}
+
+.colophon-text {
+  font-family: var(--font-sans);
+  font-size: var(--size-tiny);
+  color: var(--color-text-muted);
+  line-height: 1.8;
+}
+
+/* =============================================================================
+   Utility
+   ============================================================================= */
+
+.page-break {
+  page-break-before: always;
+  break-before: page;
+}
+
+.no-break {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* =============================================================================
+   Print
+   ============================================================================= */
+
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

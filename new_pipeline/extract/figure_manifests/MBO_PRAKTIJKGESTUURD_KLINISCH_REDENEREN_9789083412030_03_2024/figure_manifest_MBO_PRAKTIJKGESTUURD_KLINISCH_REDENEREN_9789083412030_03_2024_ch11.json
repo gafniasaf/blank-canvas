@@ -1,0 +1,2362 @@
+{
+  "bodyStory": {
+    "index": 35,
+    "words": 26140
+  },
+  "chapter": "11",
+  "chapterRange": {
+    "endOff": 141,
+    "ok": true,
+    "startOff": 9
+  },
+  "exportedAt": "Sat Jan 03 2026 01:47:09 GMT+0800",
+  "figures": [
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿1.1  De methode ‘Praktijkgestuurd klinisch redeneren voor het mbo’",
+        "pageDocumentOffset": 17,
+        "paragraphIndexInBodyStory": 5,
+        "text": "De methode ‘Praktijkgestuurd klinisch redeneren’ berust, de naam zegt het al, op de praktijk. Ervaren zorgprofessionals hebben een selectie gemaakt van de relevante problematiek. Deze problematiek presenteren we in de vorm van praktijkcasuïstiek, relevante achtergrondinformatie, aandachtsgebieden en redeneerhulpen. Een belangrijk onderdeel binnen de methode is de selectie van de relevante aandachtsgebieden en redeneerhulpen bij de specifieke casuïstiek. Een casus over verslavingsproblematiek kan bijvoorbeeld vaak vanuit de psychosociale hoek worden benaderd, terwijl een casus rond een longontsteking meestal meer raakvlakken heeft met het functioneren van de orgaansystemen.",
+        "x": 17.5,
+        "y": 28.1258995480011
+      },
+      "asset": null,
+      "caption": {
+        "body": "De zeven aandachtsgebieden bij deze methode.",
+        "bounds": null,
+        "label": "Afbeelding 1.1:",
+        "raw": "Afbeelding 1.1 De zeven aandachtsgebieden bij deze methode.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          64.9800314924456,
+          25.4383793301053,
+          173.213888888889,
+          144.561618720703
+        ],
+        "kind": "link",
+        "linkName": "Image03-p25.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image03-p25.tif"
+      },
+      "page": {
+        "documentOffset": 17,
+        "name": "2"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij elke casus in deze methode zijn één of meerdere relevante aandachtsgebieden geselecteerd en uitgewerkt. Waar dit relevant is, zijn ook de redeneerhulpen uitgewerkt. Voor docenten bevat de digitale leeromgeving oefenopdrachten en bijbehorende uitwerkingen. De opdrachten zijn gerelateerd aan de casuïstiek en het boek. Ook hebben we extra casuïstiek met uitgewerkte opdrachten voor de studenten toegevoegd aan de digitale leeromgeving.",
+        "pageDocumentOffset": 18,
+        "paragraphIndexInBodyStory": 14,
+        "text": "Ter voorbereiding voor casusbespreking in de klas bevelen we de studenten steeds specifieke e-learning aan. Je kunt natuurlijk ook ander materiaal ter voorbereiding gebruiken. De e-learning kan in de klas of thuis worden doorlopen. Voor docenten wordt verwezen naar de docentenhandleiding bij deze methode.",
+        "x": 187.5,
+        "y": 60.8985708448625
+      },
+      "asset": null,
+      "caption": {
+        "body": "Voorbeeld van een uitgewerkte casus voor docenten.",
+        "bounds": null,
+        "label": "Afbeelding 1.2:",
+        "raw": "Afbeelding 1.2 Voorbeeld van een uitgewerkte casus voor docenten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          79.4082583448623,
+          203.706721538968,
+          209.902777777778,
+          306.293283730524
+        ],
+        "kind": "link",
+        "linkName": "Image04-p26.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image04-p26.tif"
+      },
+      "page": {
+        "documentOffset": 18,
+        "name": "3"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿Casuïstiek bij het ademhalingsstelsel",
+        "pageDocumentOffset": 126,
+        "paragraphIndexInBodyStory": 979,
+        "text": "﻿10.1  Casus: COPD",
+        "x": 187.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Roken en hoestklachten.",
+        "bounds": null,
+        "label": "Afbeelding 10.1:",
+        "raw": "Afbeelding 10.1 Roken en hoestklachten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936891,
+          214.671561516656,
+          92.6650907626686,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image75-p151.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image75-p151.tif"
+      },
+      "page": {
+        "documentOffset": 126,
+        "name": "111"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿10.1.3  Aandachtsgebied ‘beleid’: welk aanvullend onderzoek kan helpen om het vermoeden op COPD te bevestigen?",
+        "pageDocumentOffset": 127,
+        "paragraphIndexInBodyStory": 990,
+        "text": "￼",
+        "x": 17.5,
+        "y": 28.5791741604279
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij longfunctieonderzoek blaast de zorgvrager in de spirometer. Hierbij worden het volume en de kracht van de longen gemeten.",
+        "bounds": null,
+        "label": "Afbeelding 10.2:",
+        "raw": "Afbeelding 10.2 Bij longfunctieonderzoek blaast de zorgvrager in de spirometer. Hierbij worden het volume en de kracht van de longen gemeten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          30.8305283270934,
+          27.9794171651204,
+          79.7827783270957,
+          142.020587072898
+        ],
+        "kind": "link",
+        "linkName": "Image76-p152.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image76-p152.tif"
+      },
+      "page": {
+        "documentOffset": 127,
+        "name": "112"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Zorgvragers met COPD wordt ook altijd geadviseerd te stoppen met roken.",
+        "pageDocumentOffset": 128,
+        "paragraphIndexInBodyStory": 1005,
+        "text": "﻿10.2  Casus: astma",
+        "x": 187.5,
+        "y": 84.3624597337509
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij een astma-aanval worden inhalatiemedicijnen gebruikt.",
+        "bounds": null,
+        "label": "Afbeelding 10.3:",
+        "raw": "Afbeelding 10.3 Bij een astma-aanval worden inhalatiemedicijnen gebruikt.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          88.6138139004172,
+          214.671561516656,
+          157.566063900418,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image77-p154.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image77-p154.tif"
+      },
+      "page": {
+        "documentOffset": 128,
+        "name": "113"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿10.2.4  Aandachtsgebied ‘beleid’: Wat moeten we doen om astma te behandelen?",
+        "pageDocumentOffset": 130,
+        "paragraphIndexInBodyStory": 1029,
+        "text": "￼",
+        "x": 187.5,
+        "y": 94.3313486226392
+      },
+      "asset": null,
+      "caption": {
+        "body": "Luchtwegverwijders zorgen ervoor dat de spieren rondom de kleine luchtwegen zich ontspannen. Hierdoor gaan de luchtwegen open en kan je weer makkelijker ademhalen. Helemaal rechts zie je dat de luchtweg vernauwd is. Er kan maar weinig lucht langs. Dit gebeurt tijdens een astma-aanval. Helemaal links zie je hoe de luchtweg eruitziet na toediening van luchtwegverwijders.",
+        "bounds": null,
+        "label": "Afbeelding 10.4:",
+        "raw": "Afbeelding 10.4 Luchtwegverwijders zorgen ervoor dat de spieren rondom de kleine luchtwegen zich ontspannen. Hierdoor gaan de luchtwegen open en kan je weer makkelijker ademhalen. Helemaal rechts zie je dat de luchtweg vernauwd is. Er kan maar weinig lucht langs. Dit gebeurt tijdens een astma-aanval. Helemaal links zie je hoe de luchtweg eruitziet na toediening van luchtwegverwijders.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          96.5827027893046,
+          198.186596594916,
+          181.866261804168,
+          311.813401909361
+        ],
+        "kind": "link",
+        "linkName": "Image78-p157.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image78-p157.tif"
+      },
+      "page": {
+        "documentOffset": 130,
+        "name": "115"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿Casuïstiek bij de nieren en de urinewegen",
+        "pageDocumentOffset": 133,
+        "paragraphIndexInBodyStory": 1039,
+        "text": "﻿11.1  Casus: urineretentie",
+        "x": 17.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Plassen gaat vaak moeizaam bij een vergrote prostaat.",
+        "bounds": null,
+        "label": "Afbeelding 11.1:",
+        "raw": "Afbeelding 11.1 Plassen gaat vaak moeizaam bij een vergrote prostaat.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936891,
+          44.6715615166558,
+          89.4517259368913,
+          125.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image79-p159.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image79-p159.tif"
+      },
+      "page": {
+        "documentOffset": 133,
+        "name": "118"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Verder onderzoek kan worden gedaan om te bekijken wat de oorzaak van de urineretentie is en wat de gevolgen zijn. Vervolgens kan de oorzaak van de urineretentie worden behandeld. Als de oorzaak van de urineretentie niet wordt behandeld, is er een grote kans dat urine zich opnieuw ophoopt in de blaas.",
+        "pageDocumentOffset": 136,
+        "paragraphIndexInBodyStory": 1098,
+        "text": "﻿11.2  Casus: hematurie",
+        "x": 187.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bloed bij de urine en pijn met plassen.",
+        "bounds": null,
+        "label": "Afbeelding 11.2:",
+        "raw": "Afbeelding 11.2 Bloed bij de urine en pijn met plassen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936891,
+          214.671561516656,
+          89.4517259368913,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image80-p163.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image80-p163.tif"
+      },
+      "page": {
+        "documentOffset": 136,
+        "name": "121"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Bij een blaasontsteking kan de huisarts antibiotica voorschrijven. Bij andere oorzaken is het nodig om de zorgvrager in het ziekenhuis te behandelen, bijvoorbeeld bij kanker of nierontstekingen. Ook wordt de zorgvrager geadviseerd goed te drinken en in de gaten te houden of hij of zij andere klachten krijgt.",
+        "pageDocumentOffset": 138,
+        "paragraphIndexInBodyStory": 1130,
+        "text": "﻿11.3  Casus: nierstenen",
+        "x": 187.5,
+        "y": 87.3964414299851
+      },
+      "asset": null,
+      "caption": {
+        "body": "Nierstenen en pijn in de rug/flank.",
+        "bounds": null,
+        "label": "Afbeelding 11.3:",
+        "raw": "Afbeelding 11.3 Nierstenen en pijn in de rug/flank.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          91.6477955966539,
+          195.506258477105,
+          168.067213257436,
+          314.493745997661
+        ],
+        "kind": "link",
+        "linkName": "Image81-p166.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image81-p166.tif"
+      },
+      "page": {
+        "documentOffset": 138,
+        "name": "123"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Meestal wordt geprobeerd de nierstenen te laten passeren. De zorgvrager krijgt dan pijnstillers die niet alleen de pijn verminderen, maar ook een spierverslappende werking hebben op de spieren van de urineleiders. Daarmee wordt ervoor gezorgd dat de urinewegen wijder worden, waardoor de steen makkelijker uitgeplast kan worden.",
+        "pageDocumentOffset": 140,
+        "paragraphIndexInBodyStory": 1158,
+        "text": "Als dit niet lukt, bijvoorbeeld omdat de steen te groot is, kan de steen worden vergruisd met een niersteenvergruizer. Dit apparaat stuurt geluidsgolven (ultrasone trillingen) naar de plek waar de niersteen vastzit. De trillingen zorgen ervoor dat de steen uit elkaar valt en via de urine afgevoerd kan worden.",
+        "x": 187.5,
+        "y": 110.003570844862
+      },
+      "asset": null,
+      "caption": {
+        "body": "Met geluidsgolven kunnen nierstenen worden vergruisd, zodat ze klein genoeg worden om uit te kunnen plassen.",
+        "bounds": null,
+        "label": "Afbeelding 11.4:",
+        "raw": "Afbeelding 11.4 Met geluidsgolven kunnen nierstenen worden vergruisd, zodat ze klein genoeg worden om uit te kunnen plassen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          128.513258344863,
+          202.012391281128,
+          197.465508344863,
+          307.98760855585
+        ],
+        "kind": "link",
+        "linkName": "Image82-p168.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image82-p168.tif"
+      },
+      "page": {
+        "documentOffset": 140,
+        "name": "125"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.1 Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "beforeText": "﻿Wat is klinisch redeneren?",
+        "pageDocumentOffset": 21,
+        "paragraphIndexInBodyStory": 32,
+        "text": "￼",
+        "x": 32.8715388827854,
+        "y": 92.9569444444444
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "bounds": null,
+        "label": "Afbeelding 2.1:",
+        "raw": "Afbeelding 2.1 Bij het klinisch redeneren spelen veel factoren een rol. Wij denken na over deze factoren en leggen verbanden hiertussen. Ook bedenken we of we actie moeten ondernemen en zo ja, waarom.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          32.8715388827854,
+          92.9569444444444,
+          137.128464251717
+        ],
+        "kind": "link",
+        "linkName": "Image05-p29.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image05-p29.tif"
+      },
+      "page": {
+        "documentOffset": 21,
+        "name": "6"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Hiervoor moeten we risico’s kunnen inschatten en problemen al in een vroeg stadium kunnen herkennen. Ook moeten we kunnen bepalen wanneer we moeten ingrijpen (interventie) en wanneer we de zorgvrager extra goed in de gaten moeten houden (monitoring). Klinisch redeneren doe je ook als de zorgvrager niet in de buurt is, bijvoorbeeld als je overlegt met een collega, met de arts of met de familie van de zorgvrager. Ook tijdens het opstellen van een verpleegplan of zorgplan. Omdat je steeds nieuwe informatie krijgt, kun je steeds verder klinisch redeneren. Klinisch redeneren is dus een continu (voortdurend) proces. Niet alle informatie is even belangrijk bij het klinisch redeneren. Hoe meer kennis en ervaring je hebt, hoe beter je kunt inschatten wat van groot belang is en wat minder belangrijk is.",
+        "pageDocumentOffset": 22,
+        "paragraphIndexInBodyStory": 38,
+        "text": "﻿2.2  Klinisch redeneren en risico-inschatting",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het klinisch redeneren gaan we ook na of we risicofactoren kunnen vinden bij de zorgvrager of in zijn of haar omgeving. In dit geval gaat het om een zorgvrager met pijn op de borst. We proberen in te schatten of het risico op een hartaanval voor deze zorgvrager groter is door een verhoogd cholesterolgehalte in het bloed, waardoor een verstopping in een kransslagader kan ontstaan, of door familieleden die bekende hartproblemen hebben.",
+        "bounds": null,
+        "label": "Afbeelding 2.2:",
+        "raw": "Afbeelding 2.2 Bij het klinisch redeneren gaan we ook na of we risicofactoren kunnen vinden bij de zorgvrager of in zijn of haar omgeving. In dit geval gaat het om een zorgvrager met pijn op de borst. We proberen in te schatten of het risico op een hartaanval voor deze zorgvrager groter is door een verhoogd cholesterolgehalte in het bloed, waardoor een verstopping in een kransslagader kan ontstaan, of door familieleden die bekende hartproblemen hebben.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368897,
+          201.579089779324,
+          89.2911426035564,
+          308.420911612109
+        ],
+        "kind": "link",
+        "linkName": "Image06-p30.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image06-p30.tif"
+      },
+      "page": {
+        "documentOffset": 22,
+        "name": "7"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.3 Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "beforeText": "Probleemherkenning is bij klinisch redeneren gerelateerd aan risico-inschatting. Problemen kunnen ontstaan in lichamelijke, psychologische en/of sociale zin. Het herkennen van het hoofdprobleem is slechts een deel van de probleemherkenning. Je moet je bij elk probleem ook afvragen of andere problemen kunnen hebben geleid tot wat je werkelijk ziet. Als je bij elk probleem jezelf blijft afvragen waarom en hoe het is ontstaan, kom je uiteindelijk in veel gevallen tot de kern van het probleem. We geven hier enkele voorbeelden van problemen.",
+        "pageDocumentOffset": 23,
+        "paragraphIndexInBodyStory": 46,
+        "text": "￼",
+        "x": 26.5770210689968,
+        "y": 118.180555555556
+      },
+      "asset": null,
+      "caption": {
+        "body": "Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "bounds": null,
+        "label": "Afbeelding 2.3:",
+        "raw": "Afbeelding 2.3 Diverse onderzoeken en bevindingen helpen om het risico op verslechtering van de situatie bij een zorgvrager in te schatten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          33.1332583448618,
+          26.5770210689968,
+          118.180555555556,
+          143.422975865105
+        ],
+        "kind": "link",
+        "linkName": "Image07-p32.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image07-p32.tif"
+      },
+      "page": {
+        "documentOffset": 23,
+        "name": "8"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De zorgvrager onttrekt zich aan groepsactiviteiten. Dit zou kunnen passen bij een depressie, maar ook bij een beginnende dementie.",
+        "pageDocumentOffset": 24,
+        "paragraphIndexInBodyStory": 54,
+        "text": "﻿2.3  Klinisch redeneren en interventies",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Als we zien dat het misgaat met de zorgvrager, moeten we vaak ingrijpen. In vaktermen heet dit ‘een interventie doen’ of ‘interveniëren’.",
+        "bounds": null,
+        "label": "Afbeelding 2.4:",
+        "raw": "Afbeelding 2.4 Als we zien dat het misgaat met de zorgvrager, moeten we vaak ingrijpen. In vaktermen heet dit ‘een interventie doen’ of ‘interveniëren’.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936889,
+          211.892098850674,
+          106.715277777778,
+          298.107900691563
+        ],
+        "kind": "link",
+        "linkName": "Image08-p33.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image08-p33.tif"
+      },
+      "page": {
+        "documentOffset": 24,
+        "name": "9"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.5 Pijn bij diclofenacgebruik.",
+        "beforeText": "Bij klinisch redeneren gaat het niet alleen om de situatie observeren en hier uitspraken over doen. Je moet vaak ook ingrijpen om de zorg in goede banen te blijven leiden. We noemen dit ook wel ‘een interventie doen’ of ‘interveniëren’. Een interventie kan groot zijn, bijvoorbeeld een reanimatie starten bij een zorgvrager met een circulatiestilstand. Als zorgprofessional houd je je meestal echter bezig met kleinere interventies, bijvoorbeeld de zorgvrager rechtop zetten bij kortademigheid, of de familie betrekken bij sociale problematiek. Een interventie is dus een actie van jouw kant waardoor de zorgvrager wordt beïnvloed. Een interventie heeft niet altijd het gewenste effect. Soms reageert de zorgvrager er slecht op, ook al bedoel je het goed en is je interventie correct beargumenteerd. Dit betekent niet automatisch dat je iets verkeerd hebt gedaan. Het is echter wel belangrijk dat je niet alleen de positieve effecten van een interventie meeneemt in je beslissingen, maar ook altijd de mogelijke ongewenste effecten.",
+        "pageDocumentOffset": 25,
+        "paragraphIndexInBodyStory": 58,
+        "text": "￼",
+        "x": 34.4239742702908,
+        "y": 95.25
+      },
+      "asset": null,
+      "caption": {
+        "body": "Pijn bij diclofenacgebruik.",
+        "bounds": null,
+        "label": "Afbeelding 2.5:",
+        "raw": "Afbeelding 2.5 Pijn bij diclofenacgebruik.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          34.4239742702908,
+          95.25,
+          135.576021826434
+        ],
+        "kind": "link",
+        "linkName": "Image09-p34.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image09-p34.tif"
+      },
+      "page": {
+        "documentOffset": 25,
+        "name": "10"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 2.6 Verwardheid bij een delier.",
+        "beforeText": "Wanneer je interventies uitvoert, wil je natuurlijk ook weten of deze interventies het juiste effect (of misschien helaas ook een ongewenst effect) hebben op de zorgvrager. Hiervoor moet je de zorgvrager goed in de gaten houden. Dit noemen we monitoren.",
+        "pageDocumentOffset": 26,
+        "paragraphIndexInBodyStory": 65,
+        "text": "￼",
+        "x": 214.671561516656,
+        "y": 98.958893453333
+      },
+      "asset": null,
+      "caption": {
+        "body": "Verwardheid bij een delier.",
+        "bounds": null,
+        "label": "Afbeelding 2.6:",
+        "raw": "Afbeelding 2.6 Verwardheid bij een delier.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          214.671561516656,
+          98.9588934533337,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image10-p35.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image10-p35.tif"
+      },
+      "page": {
+        "documentOffset": 26,
+        "name": "11"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In het voorbeeld over mevrouw Verbaars wordt beschreven hoe je op basis van nieuwe informatie beredeneert wat voor zorg een zorgvrager moet krijgen. De toestand van de zorgvrager kan elke keer anders zijn en daar pas je je beleid steeds op aan. Dit kan alleen als je de zorgvrager goed monitort. Risico-inschatting, interventies en monitoring zijn allemaal onderdelen van het verpleegkundig proces, zoals ook wordt aangeleerd in de verpleegkundeopleiding. Om te weten wat er aan de hand is, verzamel je gegevens. Met behulp van deze gegevens bedenk je wat er moet gebeuren: je maakt een plan. Dan voer je je plan uit en door de zorgvrager te monitoren, kom je erachter wat het resultaat is (evaluatie). Klinisch redeneren kan dus heel goed geoefend worden door het opstellen van een doordacht verpleegplan of zorgplan. Hoe vaker je dit doet, des te meer het een automatisme wordt.",
+        "pageDocumentOffset": 27,
+        "paragraphIndexInBodyStory": 70,
+        "text": "﻿2.4  Klinisch redeneren met kennis én ervaring",
+        "x": 17.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Naarmate je meer weet én meer ervaring hebt, zul je beter kunnen klinisch redeneren.",
+        "bounds": null,
+        "label": "Afbeelding 2.7:",
+        "raw": "Afbeelding 2.7 Naarmate je meer weet én meer ervaring hebt, zul je beter kunnen klinisch redeneren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368897,
+          29.3478521558973,
+          106.715277777778,
+          140.65214282692
+        ],
+        "kind": "link",
+        "linkName": "Image11-p36.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image11-p36.tif"
+      },
+      "page": {
+        "documentOffset": 27,
+        "name": "12"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De zorgvrager wordt tegenwoordig in de praktijk benaderd door een team met overlappende verantwoordelijkheden. Bij deze nieuwe rol van de zorgprofessional past een nieuw kennis- en competentieprofiel. Dit betekent dat jij je als verpleegkundige, net als een arts, moet verdiepen in geneeskundige concepten als toegepaste anatomie en fysiologie. Ook maak je gebruik van steeds meer kennisstromen die van oudsher met name door artsen werden gebruikt. Daarnaast wordt tegenwoordig van je verwacht dat je actief je argumenten benoemt bij medische besluitvorming. De relatie tussen artsen en andere zorgprofessionals is veranderd onder invloed van dit nieuwe profiel. Omdat je veel met artsen samenwerkt, is het belangrijk dat jullie dezelfde taal gebruiken bij het klinisch redeneren.",
+        "pageDocumentOffset": 29,
+        "paragraphIndexInBodyStory": 96,
+        "text": "﻿2.6  Hoe kom je erachter of wat je denkt ook waar is?",
+        "x": 17.5,
+        "y": 40.1735708448621
+      },
+      "asset": null,
+      "caption": {
+        "body": "Soms denk je te weten wat er aan de hand is, maar hoe kom je erachter of dit ook echt zo is?",
+        "bounds": null,
+        "label": "Afbeelding 2.8:",
+        "raw": "Afbeelding 2.8 Soms denk je te weten wat er aan de hand is, maar hoe kom je erachter of dit ook echt zo is?",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          44.4249250115284,
+          45.6698990503947,
+          122.766666666667,
+          124.330103069985
+        ],
+        "kind": "link",
+        "linkName": "Image12-p39.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image12-p39.tif"
+      },
+      "page": {
+        "documentOffset": 29,
+        "name": "14"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿De verschillende vormen van klinisch redeneren",
+        "pageDocumentOffset": 32,
+        "paragraphIndexInBodyStory": 112,
+        "text": "﻿3.1  Type I- en type II-denken",
+        "x": 187.5,
+        "y": 16.2481217702228
+      },
+      "asset": null,
+      "caption": {
+        "body": "We kunnen heel snel denken en beslissingen nemen als we een bepaalde situatie al vaak hebben meegemaakt. Een nieuwe situatie vraagt om een andere, langzamere manier van denken.",
+        "bounds": null,
+        "label": "Afbeelding 3.1:",
+        "raw": "Afbeelding 3.1 We kunnen heel snel denken en beslissingen nemen als we een bepaalde situatie al vaak hebben meegemaakt. Een nieuwe situatie vraagt om een andere, langzamere manier van denken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.499475936889,
+          184.506509992811,
+          124.637584768763,
+          325.493488103657
+        ],
+        "kind": "link",
+        "linkName": "Image13-p41.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image13-p41.tif"
+      },
+      "page": {
+        "documentOffset": 32,
+        "name": "17"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.2 Buikpijn bij een jonge vrouw.",
+        "beforeText": "Onze hersenen zijn van nature ‘lui’ en houden van type I-denken. Dat is vaak handig en effectief, maar type I-denken zorgt ook voor vooroordelen. We moeten daarom voorzichtig zijn en ons steeds afvragen of onze conclusies niet te veel worden beïnvloed door type I-denken.",
+        "pageDocumentOffset": 33,
+        "paragraphIndexInBodyStory": 118,
+        "text": "￼",
+        "x": 39.1084428575304,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Buikpijn bij een jonge vrouw.",
+        "bounds": null,
+        "label": "Afbeelding 3.2:",
+        "raw": "Afbeelding 3.2 Buikpijn bij een jonge vrouw.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          39.1084428575304,
+          90.6638888888889,
+          130.891558652099
+        ],
+        "kind": "link",
+        "linkName": "Image14-p42.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image14-p42.tif"
+      },
+      "page": {
+        "documentOffset": 33,
+        "name": "18"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In de praktijk en ook in de opleidingen voor zorgprofessionals wordt verschillend gedacht over wat klinisch redeneren nu eigenlijk is. Soms maakt men onderscheid tussen ‘verpleegkundig redeneren’ (alleen bedoeld voor verpleegkundigen, gebaseerd op verpleegkundige diagnosen) en ‘medisch klinisch redeneren’ (met name bestemd voor artsen, verpleegkundig specialisten en physician assistants). Ook wordt de term ‘nosologisch klinisch redeneren’ soms gebruikt. Daarbij wordt puur beredeneerd welke achterliggende ziekte de zorgvrager kan hebben.",
+        "pageDocumentOffset": 34,
+        "paragraphIndexInBodyStory": 125,
+        "text": "In dit boek gaan we uit van een alomvattende definitie van het klinisch redeneren, waarbij de domeinen van zorgprofessionals elkaar overlappen. Wij werken in Nederland immers steeds meer multidisciplinair (met beroepsbeoefenaars uit veel verschillende zorgprofielen). De zorgvrager is afhankelijk van de bundeling van kennis uit veel verschillende disciplines. Bovendien komt het dagelijks voor dat bijvoorbeeld een arts en een andere zorgprofessional elkaar aanspreken op elkaars kennisdomein. Zo kunnen we beter informatie aan elkaar overdragen, van elkaar leren en met elkaar de beste zorg bedenken en geven.",
+        "x": 187.5,
+        "y": 14.623570844862
+      },
+      "asset": null,
+      "caption": {
+        "body": "Kritisch denken richt zich op de ‘kwaliteit’ van de vragen en de antwoorden.",
+        "bounds": null,
+        "label": "Afbeelding 3.3:",
+        "raw": "Afbeelding 3.3 Kritisch denken richt zich op de ‘kwaliteit’ van de vragen en de antwoorden.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          46.8915916781951,
+          214.562715339661,
+          127.427774072765,
+          295.437285055216
+        ],
+        "kind": "link",
+        "linkName": "Image15-p44.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image15-p44.tif"
+      },
+      "page": {
+        "documentOffset": 34,
+        "name": "19"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.4 De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "beforeText": "Je wordt benaderd door een nieuwe collega, die je vertelt dat mevrouw De Bruin van kamer 2 pijn heeft en vraagt of ze daarvoor iets mag krijgen. Je vraagt hoeveel pijn mevrouw De Bruin heeft. Je collega kan hierop geen antwoord geven. Je vraagt hoe je collega weet dat mevrouw De Bruin pijn heeft en zij vertelt je dat haar broer dit aan haar heeft verteld. Je vraagt aan je collega een VAS (een visuele pijnscore, zie afbeelding 3.4) af te nemen bij mevrouw De Bruin. Je collega komt even later terug en vertelt dat mevrouw De Bruin eigenlijk geen pijn had, maar nodig naar het toilet moest.",
+        "pageDocumentOffset": 35,
+        "paragraphIndexInBodyStory": 132,
+        "text": "￼",
+        "x": 15.8478310055203,
+        "y": 72.3194444444444
+      },
+      "asset": null,
+      "caption": {
+        "body": "De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "bounds": null,
+        "label": "Afbeelding 3.4:",
+        "raw": "Afbeelding 3.4 De visueel analoge schaal (VAS) wordt gebruikt om pijn te meten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          15.8478310055203,
+          72.3194444444444,
+          154.152168717617
+        ],
+        "kind": "link",
+        "linkName": "Image16-p45.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image16-p45.tif"
+      },
+      "page": {
+        "documentOffset": 35,
+        "name": "20"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 3.5 Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "beforeText": "moet je veel oefenen.",
+        "pageDocumentOffset": 36,
+        "paragraphIndexInBodyStory": 144,
+        "text": "￼",
+        "x": 214.562715339661,
+        "y": 92.7361823945698
+      },
+      "asset": null,
+      "caption": {
+        "body": "Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "bounds": null,
+        "label": "Afbeelding 3.5:",
+        "raw": "Afbeelding 3.5 Reflecteren betekent dat je weet waardoor je gedrag wordt beïnvloed.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999998,
+          214.562715339661,
+          92.7361823945698,
+          295.437285055216
+        ],
+        "kind": "link",
+        "linkName": "Image17-p46.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image17-p46.tif"
+      },
+      "page": {
+        "documentOffset": 36,
+        "name": "21"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.10 Vermoeidheid bij suikerziekte.",
+        "beforeText": "In afbeelding 5.13 zie je een voorbeeld van een EWS-score. Bij een score van drie punten of meer hoor je hulp in te schakelen. Een EWS-kaart zoals deze kan als redeneerhulp worden gebruikt, omdat de score aangeeft welke parameters afwijken, of een zorgvrager vitaal bedreigd is en of je iemand moet waarschuwen. Aan de hand hiervan kun je steeds proberen te beredeneren waarom een parameter bedreigd is. Ook al hoef je niet precies te weten wat er aan de hand is, probeer toch een lijst van mogelijke oorzaken te bedenken. Dat is handig als je gaat overleggen met de arts en helpt je om je vaardigheden voor het klinisch redeneren verder te ontwikkelen. Misschien blijkt achteraf dat er iets anders aan de hand was dan jij dacht. Ook hier kun je weer veel van leren.",
+        "pageDocumentOffset": 61,
+        "paragraphIndexInBodyStory": 413,
+        "text": "￼",
+        "x": 33.917109213935,
+        "y": 80.6773136080905
+      },
+      "asset": null,
+      "caption": {
+        "body": "Vermoeidheid bij suikerziekte.",
+        "bounds": null,
+        "label": "Afbeelding 5.10:",
+        "raw": "Afbeelding 5.10 Vermoeidheid bij suikerziekte.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          33.917109213935,
+          80.6773136080905,
+          136.082891074213
+        ],
+        "kind": "link",
+        "linkName": "Image34-p77.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image34-p77.tif"
+      },
+      "page": {
+        "documentOffset": 61,
+        "name": "46"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "assessment;",
+        "pageDocumentOffset": 49,
+        "paragraphIndexInBodyStory": 302,
+        "text": "recommendation.",
+        "x": 25.500000111262,
+        "y": 93.0013486226399
+      },
+      "asset": null,
+      "caption": {
+        "body": "De afkorting SBAR staat voor Situation, Background, Assessment en Recommendation.",
+        "bounds": null,
+        "label": "Afbeelding 5.1:",
+        "raw": "Afbeelding 5.1 De afkorting SBAR staat voor Situation, Background, Assessment en Recommendation.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          97.7527027893057,
+          20.508630710178,
+          191.558333333333,
+          149.491372708215
+        ],
+        "kind": "link",
+        "linkName": "Image22-p63.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image22-p63.tif"
+      },
+      "page": {
+        "documentOffset": 49,
+        "name": "34"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.2 De polsfrequentie wordt benoemd in de A (Assessment) van de SBAR.",
+        "beforeText": "Zaken die niet relevant zijn, hoef je niet te benoemen; dit leidt alleen maar de aandacht af van wat werkelijk belangrijk is.",
+        "pageDocumentOffset": 51,
+        "paragraphIndexInBodyStory": 327,
+        "text": "￼",
+        "x": 30.3593429565429,
+        "y": 86.0777777777778
+      },
+      "asset": null,
+      "caption": {
+        "body": "De polsfrequentie wordt benoemd in de A (Assessment) van de SBAR.",
+        "bounds": null,
+        "label": "Afbeelding 5.2:",
+        "raw": "Afbeelding 5.2 De polsfrequentie wordt benoemd in de A (Assessment) van de SBAR.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          30.3593429565429,
+          86.0777777777778,
+          139.640652383329
+        ],
+        "kind": "link",
+        "linkName": "Image23-p65.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image23-p65.tif"
+      },
+      "page": {
+        "documentOffset": 51,
+        "name": "36"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.3 De toestand van mevrouw De Witt kan met de SBAR worden samengevat.",
+        "beforeText": "Laten we de arts meteen roepen.",
+        "pageDocumentOffset": 52,
+        "paragraphIndexInBodyStory": 339,
+        "text": "￼",
+        "x": 208.707902060615,
+        "y": 99.8361111111111
+      },
+      "asset": null,
+      "caption": {
+        "body": "De toestand van mevrouw De Witt kan met de SBAR worden samengevat.",
+        "bounds": null,
+        "label": "Afbeelding 5.3:",
+        "raw": "Afbeelding 5.3 De toestand van mevrouw De Witt kan met de SBAR worden samengevat.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          208.707902060615,
+          99.8361111111111,
+          301.29209974638
+        ],
+        "kind": "link",
+        "linkName": "Image24-p66.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image24-p66.tif"
+      },
+      "page": {
+        "documentOffset": 52,
+        "name": "37"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.4 Als je snel wilt weten of de zorgvrager tekenen vertoont van een ernstige infectie, met name van een bloedvergiftiging (sepsis), kun je de SIRS-criteria als redeneerhulp gebruiken. Tegenwoordig wordt ook de nieuwe QSOFA-score gebruikt bij de definities van sepsis. Deze score gaat niet uit van een vroege herkenning van sepsis, maar van de kans op overlijden bij ernstige sepsis. De score wordt niet verder uitgewerkt in dit boek.",
+        "beforeText": "R (Recommendation) - Ik stel voor een glucosevingerprik te doen om te kijken of de vrouw een te lage bloedsuikerspiegel heeft. Ook stel ik voor om de zaalarts meteen te bellen om haar na te kijken.",
+        "pageDocumentOffset": 53,
+        "paragraphIndexInBodyStory": 349,
+        "text": "￼",
+        "x": 22.954217868381,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Als je snel wilt weten of de zorgvrager tekenen vertoont van een ernstige infectie, met name van een bloedvergiftiging (sepsis), kun je de SIRS-criteria als redeneerhulp gebruiken. Tegenwoordig wordt ook de nieuwe QSOFA-score gebruikt bij de definities van sepsis. Deze score gaat niet uit van een vroege herkenning van sepsis, maar van de kans op overlijden bij ernstige sepsis. De score wordt niet verder uitgewerkt in dit boek.",
+        "bounds": null,
+        "label": "Afbeelding 5.4:",
+        "raw": "Afbeelding 5.4 Als je snel wilt weten of de zorgvrager tekenen vertoont van een ernstige infectie, met name van een bloedvergiftiging (sepsis), kun je de SIRS-criteria als redeneerhulp gebruiken. Tegenwoordig wordt ook de nieuwe QSOFA-score gebruikt bij de definities van sepsis. Deze score gaat niet uit van een vroege herkenning van sepsis, maar van de kans op overlijden bij ernstige sepsis. De score wordt niet verder uitgewerkt in dit boek.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          22.954217868381,
+          90.6638888888889,
+          147.045783502098
+        ],
+        "kind": "link",
+        "linkName": "Image25-p67.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image25-p67.tif"
+      },
+      "page": {
+        "documentOffset": 53,
+        "name": "38"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 5.5 Een oudere man met positieve SIRS-criteria.",
+        "beforeText": "De SIRS-criteria zijn geschikt als redeneerhulp bij zorgvragers bij wie je denkt aan een mogelijke infectie. Je kunt beredeneren hoeveel SIRS-criteria afwijkend zijn en waar je denkt dat de infectie vandaan komt, bijvoorbeeld uit de longen (longontsteking, pneumonie) of de nieren (urineweginfectie), de darmen of een wond. Zo kun je ook beredeneren welke onderzoeken verder gedaan moeten worden (misschien wel een röntgenfoto van de longen of onderzoek van de urine). Ook kun je beredeneren welke zorg nodig is (bijvoorbeeld het toedienen van antibiotica of vocht).",
+        "pageDocumentOffset": 54,
+        "paragraphIndexInBodyStory": 361,
+        "text": "￼",
+        "x": 220.81669676039,
+        "y": 104.422222222222
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een oudere man met positieve SIRS-criteria.",
+        "bounds": null,
+        "label": "Afbeelding 5.5:",
+        "raw": "Afbeelding 5.5 Een oudere man met positieve SIRS-criteria.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          28.547147233752,
+          220.81669676039,
+          104.422222222222,
+          289.183300786459
+        ],
+        "kind": "link",
+        "linkName": "Image26-p68.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image26-p68.tif"
+      },
+      "page": {
+        "documentOffset": 54,
+        "name": "39"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "In het voorbeeld over mevrouw Weiland helpt de EMV-score ons om een neurologische achteruitgang te herkennen. Bij neurologische achteruitgang is het belangrijk om hulp in te schakelen van een ervaren collega of arts. In veel gevallen zal aanvullend onderzoek worden aangevraagd om de oorzaak van de achteruitgang te achterhalen.",
+        "pageDocumentOffset": 57,
+        "paragraphIndexInBodyStory": 383,
+        "text": "﻿5.2.4  De AVPU-score als redeneerhulp",
+        "x": 17.5,
+        "y": 15.1463963826502
+      },
+      "asset": null,
+      "caption": {
+        "body": "De AVPU-score wordt als alternatief voor de EMV-score gebruikt bij kinderen.",
+        "bounds": null,
+        "label": "Afbeelding 5.7:",
+        "raw": "Afbeelding 5.7 De AVPU-score wordt als alternatief voor de EMV-score gebruikt bij kinderen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          18.3977505493173,
+          20.7229587131076,
+          88.3708333333333,
+          149.277039618867
+        ],
+        "kind": "link",
+        "linkName": "Image29-p72.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image29-p72.tif"
+      },
+      "page": {
+        "documentOffset": 57,
+        "name": "42"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voorbeeld: toepassen van de avpu-score bij het klinisch redeneren",
+        "pageDocumentOffset": 58,
+        "paragraphIndexInBodyStory": 392,
+        "text": "Joost-Jan is 16 jaar en staat onder toezicht van Bureau Jeugdzorg vanwege verwaarlozing en drugsgebruik. Hij meldt zich bij zijn zorgprofessional omdat hij een flinke slok GHB heeft genomen. Dit heeft hij wel vaker gedaan, maar de laatste tijd ging het beter: hij had al vier maanden geen GHB genomen. Nu had hij ruziegemaakt met zijn vrienden en wilde hij daarna ‘ontspannen’. De zorgprofessional ziet dat Joost-Jan wat versuft is en besluit contact op te nemen met de afdeling Spoedeisende Hulp (SEH) van het ziekenhuis. Joost-Jan opent zijn ogen namelijk alleen maar als hij een vraag krijgt. Verder reageert hij normaal. De zorgprofessional overlegt met de triageverpleegkundige op de SEH en Joost-Jan scoort een V op de AVPU-schaal. Omdat Joost-Jan niet suffer lijkt te worden tijdens dit gesprek, wordt uiteindelijk besloten om hem nog niet naar de SEH te sturen. Uiteindelijk wordt hij weer helder en kan hij zijn traject via Bureau Jeugdzorg voortzetten, zonder hulp van de SEH.",
+        "x": 189.5,
+        "y": 21.2414414299859
+      },
+      "asset": null,
+      "caption": {
+        "body": "De ABCDE-methode is ontwikkeld om in een logische volgorde levensbedreigende problemen op te merken en te behandelen.",
+        "bounds": null,
+        "label": "Afbeelding 5.8:",
+        "raw": "Afbeelding 5.8 De ABCDE-methode is ontwikkeld om in een logische volgorde levensbedreigende problemen op te merken en te behandelen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          73.3539067077641,
+          214.671561516656,
+          142.306156707764,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image31-p73.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image31-p73.tif"
+      },
+      "page": {
+        "documentOffset": 58,
+        "name": "43"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "D (Disability): het controleren of de hersenfunctie bedreigd is. Is de zorgvrager bij bewustzijn? Heeft de zorgvrager een ernstige aandoening in het hoofd, zoals een beroerte of een bloeding?",
+        "pageDocumentOffset": 59,
+        "paragraphIndexInBodyStory": 403,
+        "text": "E (Exposure/Environment): het controleren of er zaken in de omgeving zijn waardoor de gezondheid van de zorgvrager op korte termijn ernstig gevaar loopt. Is bijvoorbeeld sprake van ernstige onderkoeling, grote brandwonden of een vergiftiging?",
+        "x": 25.500000111262,
+        "y": 55.8985708448626
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een val in huis kan bedreigend zijn voor de ABCDE’s.",
+        "bounds": null,
+        "label": "Afbeelding 5.9:",
+        "raw": "Afbeelding 5.9 Een val in huis kan bedreigend zijn voor de ABCDE’s.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          69.822147233752,
+          36.6623012542725,
+          134.025000000001,
+          133.33769515952
+        ],
+        "kind": "link",
+        "linkName": "Image32-p75.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image32-p75.tif"
+      },
+      "page": {
+        "documentOffset": 59,
+        "name": "44"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voorbeeld: het stellen van relevante vragen",
+        "pageDocumentOffset": 72,
+        "paragraphIndexInBodyStory": 506,
+        "text": "Meneer Ten Dam heeft last van rugpijn. Je vraagt hoe deze pijn is begonnen en hij vertelt dat hij er ineens last van kreeg tijdens het werken in de tuin. Rugpijn kan worden veroorzaakt door spieren die vastzitten, dus je besluit te vragen of het ook pijn doet als hij beweegt. Meneer Ten Dam vertelt dat dit inderdaad zo is. Hij kan bijna niet opstaan uit een stoel, omdat de pijn dan enorm toeneemt.",
+        "x": 189.5,
+        "y": 94.4905313771615
+      },
+      "asset": null,
+      "caption": {
+        "body": "Rugpijn na het werken in de tuin.",
+        "bounds": null,
+        "label": "Afbeelding 6.10:",
+        "raw": "Afbeelding 6.10 Rugpijn na het werken in de tuin.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          119.086329988273,
+          211.404257180956,
+          193.624909976853,
+          298.595743801539
+        ],
+        "kind": "link",
+        "linkName": "Image44-p90.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image44-p90.tif"
+      },
+      "page": {
+        "documentOffset": 72,
+        "name": "57"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De differentiaalhypothese",
+        "pageDocumentOffset": 74,
+        "paragraphIndexInBodyStory": 529,
+        "text": "Als je nog maar weinig informatie hebt, moet je vaak denken aan een lange lijst met mogelijke aandoeningen. Naarmate je meer relevante informatie verzamelt, zul je erachter komen dat de informatie niet past bij bepaalde aandoeningen en kun je die van je lijstje strepen. Soms kun je twijfelen of een bepaalde aandoening past bij de bevindingen. Misschien zou het kunnen, maar denk je dat de kans klein is. In dat geval schrap je de aandoening niet van je lijst, maar zet je deze onder aan de lijst. Zo krijg je uiteindelijk een lijst van aandoeningen waarbij de meest waarschijnlijke aandoening bovenaan staat en de minst waarschijnlijke onderaan. Deze lijst noemen we de ‘differentiaalhypothese’.",
+        "x": 187.5,
+        "y": 19.1849741617843
+      },
+      "asset": null,
+      "caption": {
+        "body": "Migraine is een bekende vorm van hoofdpijn.",
+        "bounds": null,
+        "label": "Afbeelding 6.11:",
+        "raw": "Afbeelding 6.11 Migraine is een bekende vorm van hoofdpijn.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          56.0391061062279,
+          214.671561516656,
+          124.991356106228,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image45-p93.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image45-p93.tif"
+      },
+      "page": {
+        "documentOffset": 74,
+        "name": "59"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.11 Migraine is een bekende vorm van hoofdpijn.",
+        "beforeText": "Als je nog maar weinig informatie hebt, moet je vaak denken aan een lange lijst met mogelijke aandoeningen. Naarmate je meer relevante informatie verzamelt, zul je erachter komen dat de informatie niet past bij bepaalde aandoeningen en kun je die van je lijstje strepen. Soms kun je twijfelen of een bepaalde aandoening past bij de bevindingen. Misschien zou het kunnen, maar denk je dat de kans klein is. In dat geval schrap je de aandoening niet van je lijst, maar zet je deze onder aan de lijst. Zo krijg je uiteindelijk een lijst van aandoeningen waarbij de meest waarschijnlijke aandoening bovenaan staat en de minst waarschijnlijke onderaan. Deze lijst noemen we de ‘differentiaalhypothese’.",
+        "pageDocumentOffset": 74,
+        "paragraphIndexInBodyStory": 530,
+        "text": "￼",
+        "x": 214.671561516656,
+        "y": 124.991356106228
+      },
+      "asset": null,
+      "caption": {
+        "body": "Buikpijn als ingangsklacht.",
+        "bounds": null,
+        "label": "Afbeelding 6.12:",
+        "raw": "Afbeelding 6.12 Buikpijn als ingangsklacht.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          133.770488050673,
+          214.671561516656,
+          202.722738050673,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image46-p93.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image46-p93.tif"
+      },
+      "page": {
+        "documentOffset": 74,
+        "name": "59"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿6.5.4  Klinisch redeneren met ingangsklachten",
+        "pageDocumentOffset": 76,
+        "paragraphIndexInBodyStory": 545,
+        "text": "Vaak heeft de zorgvrager een bepaalde klacht (of meerdere klachten) en zoekt hij of zij daarom contact met een zorgprofessional. De klacht die al door de zorgvrager wordt gepresenteerd nog voordat je er specifiek naar hebt gevraagd, noemen we de ingangsklacht. De ingangsklacht vertelt je in veel gevallen nog niet welke ziekte of aandoening een zorgvrager precies heeft, maar kan je wel verder op weg helpen om belangrijke andere vragen te stellen.",
+        "x": 187.5,
+        "y": 133.590624999999
+      },
+      "asset": null,
+      "caption": {
+        "body": "De orgaansystemen worden in deze afbeelding onderverdeeld in skelet, ademhalingsstelsel, spierstelsel, hartvaatstelsel, spijsverteringsstelsel en zenuwstelsel. Je kunt ook een verder onderscheid maken in bijvoorbeeld bloed, vocht en elektrolyten, afweerstelsel en thermoregulatie.",
+        "bounds": null,
+        "label": "Afbeelding 6.13:",
+        "raw": "Afbeelding 6.13 De orgaansystemen worden in deze afbeelding onderverdeeld in skelet, ademhalingsstelsel, spierstelsel, hartvaatstelsel, spijsverteringsstelsel en zenuwstelsel. Je kunt ook een verder onderscheid maken in bijvoorbeeld bloed, vocht en elektrolyten, afweerstelsel en thermoregulatie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          156.686423611114,
+          182.406180614895,
+          202.547534722222,
+          327.593819288229
+        ],
+        "kind": "link",
+        "linkName": "Image48-p95.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image48-p95.tif"
+      },
+      "page": {
+        "documentOffset": 76,
+        "name": "61"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.14 Alle acties die we plannen rondom de zorgvrager maken onderdeel uit van het ‘beleid’.",
+        "beforeText": "Sommige parameters van de EWS hebben niet direct te maken met de vitale functies, maar geven wel aan dat de toestand van de zorgvrager op korte termijn klinisch kan verslechteren. Eén van de belangrijkste parameters hierbij is de urineproductie. Als de zorgvrager een urineproductie van minder dan 75 ml per 4 uur heeft, moeten er alarmbelletjes in je hoofd gaan rinkelen. De urineproductie vertelt ons veel over de bloedsomloop. Wanneer de nieren niet genoeg bloed aangevoerd krijgen, gaan ze minder goed werken en wordt er minder urine geproduceerd. Dit gebeurt bijvoorbeeld wanneer de zorgvrager uitgedroogd is of beginnende shockverschijnselen heeft.",
+        "pageDocumentOffset": 78,
+        "paragraphIndexInBodyStory": 555,
+        "text": "￼",
+        "x": 201.893433210585,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Alle acties die we plannen rondom de zorgvrager maken onderdeel uit van het ‘beleid’.",
+        "bounds": null,
+        "label": "Afbeelding 6.14:",
+        "raw": "Afbeelding 6.14 Alle acties die we plannen rondom de zorgvrager maken onderdeel uit van het ‘beleid’.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          7.99999999933081,
+          201.893433210585,
+          90.6638888888889,
+          308.106566014508
+        ],
+        "kind": "link",
+        "linkName": "Image49-p96.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image49-p96.tif"
+      },
+      "page": {
+        "documentOffset": 78,
+        "name": "63"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Afhankelijk van wat je wilt weten (dit noemen we ook wel de ‘vraagstelling’) kun je beredeneren welk aanvullend onderzoek relevant is.",
+        "pageDocumentOffset": 79,
+        "paragraphIndexInBodyStory": 571,
+        "text": "Pas op voor de valkuil waarin je aanvullend onderzoek aanvraagt ‘omdat alle anderen dat ook altijd doen’. Je moet altijd kunnen beredeneren waarom je in een bepaalde situatie een bepaald onderzoek nodig hebt. Vraag het gerust aan een collega als je niet goed begrijpt waarom een bepaald onderzoek wordt aangevraagd.",
+        "x": 17.5,
+        "y": 74.0936186048701
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het aanvragen van radiodiagnostiek zoals een röntgenfoto of CT-scan is onderdeel van het beleid.",
+        "bounds": null,
+        "label": "Afbeelding 6.15:",
+        "raw": "Afbeelding 6.15 Het aanvragen van radiodiagnostiek zoals een röntgenfoto of CT-scan is onderdeel van het beleid.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          92.6033061048732,
+          27.957196299235,
+          172.443658871123,
+          142.042798413755
+        ],
+        "kind": "link",
+        "linkName": "Image50-p98.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image50-p98.tif"
+      },
+      "page": {
+        "documentOffset": 79,
+        "name": "64"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.16 Echografie geeft geen stralenbelasting en is hierom veilig toe te passen bij zwangeren.",
+        "beforeText": "Soms kunnen meerdere soorten aanvullend onderzoek je vraag beantwoorden. Het is dan belangrijk dat je weet welk onderzoek het minst ‘belastend’ is voor de zorgvrager.",
+        "pageDocumentOffset": 80,
+        "paragraphIndexInBodyStory": 575,
+        "text": "￼",
+        "x": 212.131584125095,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Echografie geeft geen stralenbelasting en is hierom veilig toe te passen bij zwangeren.",
+        "bounds": null,
+        "label": "Afbeelding 6.16:",
+        "raw": "Afbeelding 6.16 Echografie geeft geen stralenbelasting en is hierom veilig toe te passen bij zwangeren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999966,
+          212.131584125095,
+          90.6638888888889,
+          297.868418151637
+        ],
+        "kind": "link",
+        "linkName": "Image51-p99.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image51-p99.tif"
+      },
+      "page": {
+        "documentOffset": 80,
+        "name": "65"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿6.8  Aandachtsgebied ‘ethiek’",
+        "pageDocumentOffset": 81,
+        "paragraphIndexInBodyStory": 586,
+        "text": "Moreel gedrag heeft te maken met onderscheid kunnen maken tussen goed en kwaad. Ethiek is de manier waarop wij nadenken over goed gedrag. Bij klinisch redeneren gaat het om het welzijn van de zorgvrager en zijn of haar omgeving, maar ook om je eigen welzijn als zorgprofessional. Je wilt natuurlijk dat alles optimaal is om de beste zorg en veiligheid voor iedereen te garanderen. Soms is dit echter helaas niet mogelijk, bijvoorbeeld omdat de ideeën van de zorgvrager en/of zijn of haar familie botsen met de ideeën van de zorgprofessionals (bijvoorbeeld met die van jou).",
+        "x": 21,
+        "y": 25.6272884368879
+      },
+      "asset": null,
+      "caption": {
+        "body": "De beslissing om wel of geen bloed toe te dienen kan bij sommige zorgvragers een ethisch dilemma vormen.",
+        "bounds": null,
+        "label": "Afbeelding 6.17:",
+        "raw": "Afbeelding 6.17 De beslissing om wel of geen bloed toe te dienen kan bij sommige zorgvragers een ethisch dilemma vormen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          53.309198159108,
+          44.578520266215,
+          130.145833333332,
+          132.671477790802
+        ],
+        "kind": "link",
+        "linkName": "Image52-p100.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image52-p100.tif"
+      },
+      "page": {
+        "documentOffset": 81,
+        "name": "66"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "ethiek.",
+        "pageDocumentOffset": 63,
+        "paragraphIndexInBodyStory": 431,
+        "text": "Bij veel aandachtsgebieden kun je redeneerhulpen gebruiken. In deze methode vind je hier verschillende voorbeelden van.",
+        "x": 17.5,
+        "y": 124.156455103555
+      },
+      "asset": null,
+      "caption": {
+        "body": "De aandachtsgebieden bij de methode ‘Praktijkgestuurd klinisch redeneren’.",
+        "bounds": null,
+        "label": "Afbeelding 6.1:",
+        "raw": "Afbeelding 6.1 De aandachtsgebieden bij de methode ‘Praktijkgestuurd klinisch redeneren’.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          133.493920381335,
+          37.628074561225,
+          214.488888888889,
+          132.371920151564
+        ],
+        "kind": "link",
+        "linkName": "Image35-p80.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image35-p80.tif"
+      },
+      "page": {
+        "documentOffset": 63,
+        "name": "48"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.2 Dementie heeft een grote invloed op participatie in de maatschappij.",
+        "beforeText": "In de ICF wordt het functioneren van een zorgvrager gezien als een balans tussen de gezondheidstoestand, persoonlijke omstandigheden en alle andere omstandigheden die de zorgvrager kunnen beïnvloeden.",
+        "pageDocumentOffset": 65,
+        "paragraphIndexInBodyStory": 447,
+        "text": "￼",
+        "x": 44.900361612108,
+        "y": 81.4916666666667
+      },
+      "asset": null,
+      "caption": {
+        "body": "Dementie heeft een grote invloed op participatie in de maatschappij.",
+        "bounds": null,
+        "label": "Afbeelding 6.2:",
+        "raw": "Afbeelding 6.2 Dementie heeft een grote invloed op participatie in de maatschappij.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          11.2750000000004,
+          44.900361612108,
+          81.4916666666667,
+          125.099638720542
+        ],
+        "kind": "link",
+        "linkName": "Image36-p82.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image36-p82.tif"
+      },
+      "page": {
+        "documentOffset": 65,
+        "name": "50"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voorbeeld: dementie en psychosociaal functioneren",
+        "pageDocumentOffset": 65,
+        "paragraphIndexInBodyStory": 450,
+        "text": "Een man van 91 jaar oud heeft last van dementie. Dit betekent dat er een stoornis in de hersenen is waardoor de man niet goed meer kan nadenken en dingen kan onthouden. Hierdoor kan hij sommige dingen niet meer doen, zoals de boodschappen en koken. Hierdoor kan hij niet meer normaal deelnemen aan de maatschappij (participeren). De omstandigheden die van invloed kunnen zijn, zijn de beschikbaarheid van een plaats in een verzorgingstehuis en het vinden van huishoudelijke hulp.",
+        "x": 19.5,
+        "y": 101.191666666667
+      },
+      "asset": null,
+      "caption": {
+        "body": "Toepassing van de ICF bij een 91-jarige man met dementie.",
+        "bounds": null,
+        "label": "Afbeelding 6.3:",
+        "raw": "Afbeelding 6.3 Toepassing van de ICF bij een 91-jarige man met dementie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          130.37357638889,
+          12.8727757347955,
+          214.48888888889,
+          157.127220749621
+        ],
+        "kind": "link",
+        "linkName": "Image37-p83.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image37-p83.tif"
+      },
+      "page": {
+        "documentOffset": 65,
+        "name": "50"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "monitoring (een monitor kan veel waarden tonen, waaronder de bloeddruk, de saturatie en de hartfrequentie).",
+        "pageDocumentOffset": 66,
+        "paragraphIndexInBodyStory": 461,
+        "text": "Door bepaalde metingen te verrichten, kun je uitspraken doen over de bedreiging van de vitale functies (bijvoorbeeld met de Early Warning Signs als redeneerhulp), of over de snelheid (urgentie) waarmee zorg nodig is (bijvoorbeeld met een triageprotocol (zie paragraaf 6.3.2) als redeneerhulp). Soms zul je door vragen te stellen ontdekken dat je te maken hebt met een spoedeisende situatie. Vaak weet je dan zelf niet precies wat er aan de hand is, maar de antwoorden op de vragen zijn zo verontrustend dat je beredeneert dat je actie moet ondernemen en bijvoorbeeld een arts gaat waarschuwen.",
+        "x": 187.5,
+        "y": 77.356455103557
+      },
+      "asset": null,
+      "caption": {
+        "body": "Hoofdpijn in combinatie met flauwvallen is alarmerend.",
+        "bounds": null,
+        "label": "Afbeelding 6.4:",
+        "raw": "Afbeelding 6.4 Hoofdpijn in combinatie met flauwvallen is alarmerend.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          109.624475936891,
+          202.883569802178,
+          184.679166666667,
+          307.116430698565
+        ],
+        "kind": "link",
+        "linkName": "Image38-p84.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image38-p84.tif"
+      },
+      "page": {
+        "documentOffset": 66,
+        "name": "51"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.5 Het bepalen van de urgentie op basis van alarmsymptomen vormt de basis voor triage.",
+        "beforeText": "Op basis van de vragen die je stelt aan de zorgvrager (de anamnesevragen) en de symptomen die de zorgvrager heeft, is het in veel gevallen mogelijk om te beredeneren welke acties uitgevoerd moeten worden. Vaak zijn deze acties zelfs spoedeisend. Denk aan het waarschuwen van een arts wanneer de toestand van de zorgvrager snel achteruitgaat. Je weet dan nog niet wat er precies aan de hand is, maar je hebt door dat het niet goed gaat. In de meeste gevallen heb je misschien wel een aantal ziektebeelden in je hoofd die de oorzaak kunnen zijn van wat je ziet, maar je moet ook denken aan andere mogelijke gevaarlijke oorzaken en daar vragen over stellen. Bedenken welke vragen je moet stellen om de urgentie te bepalen, is een belangrijk onderdeel van klinisch redeneren.",
+        "pageDocumentOffset": 68,
+        "paragraphIndexInBodyStory": 474,
+        "text": "￼",
+        "x": 214.671561516656,
+        "y": 98.0361755157856
+      },
+      "asset": null,
+      "caption": {
+        "body": "Het bepalen van de urgentie op basis van alarmsymptomen vormt de basis voor triage.",
+        "bounds": null,
+        "label": "Afbeelding 6.5:",
+        "raw": "Afbeelding 6.5 Het bepalen van de urgentie op basis van alarmsymptomen vormt de basis voor triage.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          214.671561516656,
+          98.0361755157856,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image39-p86.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image39-p86.tif"
+      },
+      "page": {
+        "documentOffset": 68,
+        "name": "53"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Voorbeeld: toepassen van alarmsymptomen bij urgentiebepaling",
+        "pageDocumentOffset": 68,
+        "paragraphIndexInBodyStory": 477,
+        "text": "Een zorgvrager met koorts meldt zich op de Spoedeisende Hulp. De triageverpleegkundige meet een hartfrequentie van 110 per minuut en deelt de zorgvrager op basis hiervan in als ‘hoog urgent’. De zorgvrager wordt hierop direct binnengezet en volgens het sepsisprotocol opgevangen. Vervolgens blijkt de zorgvrager een ongecompliceerde oorontsteking te hebben en wordt hij met lichte antibiotica naar huis gestuurd.",
+        "x": 189.5,
+        "y": 117.736175515786
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een zorgvrager kan er in eerste instantie niet ziek uitzien, maar bij observatie kun je verrast worden, bijvoorbeeld door een snelle ademhaling en een snelle pols. Een hoge ademhalingsfrequentie en een hoge polsfrequentie zijn alarmsymptomen. Je hoort dan snel een arts te waarschuwen. De zorgvrager kan bijvoorbeeld een beginnende bloedvergiftiging (sepsis) hebben en moet dan met antibiotica worden behandeld.",
+        "bounds": null,
+        "label": "Afbeelding 6.6:",
+        "raw": "Afbeelding 6.6 Een zorgvrager kan er in eerste instantie niet ziek uitzien, maar bij observatie kun je verrast worden, bijvoorbeeld door een snelle ademhaling en een snelle pols. Een hoge ademhalingsfrequentie en een hoge polsfrequentie zijn alarmsymptomen. Je hoort dan snel een arts te waarschuwen. De zorgvrager kan bijvoorbeeld een beginnende bloedvergiftiging (sepsis) hebben en moet dan met antibiotica worden behandeld.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          142.331974126896,
+          201.604002126058,
+          202.808397738007,
+          308.395996636522
+        ],
+        "kind": "link",
+        "linkName": "Image40-p87.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image40-p87.tif"
+      },
+      "page": {
+        "documentOffset": 68,
+        "name": "53"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.7 De SBAR is het officiële overdrachtsprotocol binnen de gezondheidszorg in Nederland.",
+        "beforeText": "De gouden regel is: als je niet kunt bedenken waarom je iets moet overdragen, moet je het niet overdragen. Als je nog niet veel ervaring hebt, weet je vaak niet wat relevant is en wat niet. Dat is normaal. Toch moet je vanaf het begin jezelf aanleren dat je alleen informatie overdraagt die je begrijpt. Door feedback vanuit je omgeving, maar ook doordat je steeds meer leert, zul je uiteindelijk goed kunnen overdragen. Als je klakkeloos alles overdraagt wat bijvoorbeeld in het dossier staat, zul je te veel informatie overdragen. Degene die de overdracht krijgt, zal dan niet snel kunnen achterhalen wat de hoofdzaken en wat de bijzaken zijn. Bovendien heb je kans dat je informatie verkeerd overdraagt, omdat je het zelf niet begrijpt.",
+        "pageDocumentOffset": 70,
+        "paragraphIndexInBodyStory": 486,
+        "text": "￼",
+        "x": 214.671561516656,
+        "y": 86.9494960845302
+      },
+      "asset": null,
+      "caption": {
+        "body": "De SBAR is het officiële overdrachtsprotocol binnen de gezondheidszorg in Nederland.",
+        "bounds": null,
+        "label": "Afbeelding 6.7:",
+        "raw": "Afbeelding 6.7 De SBAR is het officiële overdrachtsprotocol binnen de gezondheidszorg in Nederland.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          214.671561516656,
+          86.9494960845302,
+          295.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image41-p87.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image41-p87.tif"
+      },
+      "page": {
+        "documentOffset": 70,
+        "name": "55"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.8 Hypothesevorming is het proces waarbij je op basis van de beschikbare informatie bedenkt wat er aan de hand zou kunnen zijn met de zorgvrager.",
+        "beforeText": "urineproductie.",
+        "pageDocumentOffset": 71,
+        "paragraphIndexInBodyStory": 499,
+        "text": "￼",
+        "x": 41.6778462092082,
+        "y": 93.2598127275653
+      },
+      "asset": null,
+      "caption": {
+        "body": "Hypothesevorming is het proces waarbij je op basis van de beschikbare informatie bedenkt wat er aan de hand zou kunnen zijn met de zorgvrager.",
+        "bounds": null,
+        "label": "Afbeelding 6.8:",
+        "raw": "Afbeelding 6.8 Hypothesevorming is het proces waarbij je op basis van de beschikbare informatie bedenkt wat er aan de hand zou kunnen zijn met de zorgvrager.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.2000000000004,
+          41.6778462092082,
+          93.2598127275653,
+          128.322155429486
+        ],
+        "kind": "link",
+        "linkName": "Image42-p89.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image42-p89.tif"
+      },
+      "page": {
+        "documentOffset": 71,
+        "name": "56"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 6.9 De ingangsklacht is belangrijk voor het bedenken van andere relevante vragen die je stelt aan de zorgvrager.",
+        "beforeText": "We komen vaak in een situatie terecht waarin we nog niet weten wat de zorgvrager precies heeft. Hypothesevorming is het proces waarbij je op basis van de beschikbare informatie bedenkt wat er aan de hand zou kunnen zijn met de zorgvrager. Je hoeft niet zeker te weten wat er daadwerkelijk aan de hand is. In plaats daarvan maak je een ‘rijtje’ in je hoofd van de aandoeningen waar de zorgvrager last van zou kunnen hebben. Om dit ‘rijtje’ te kunnen bedenken, heb je informatie nodig. Deze informatie vind je bijvoorbeeld in het dossier, door om je heen te kijken (observeren) en door vragen te stellen aan de zorgvrager. Deze vragen kunnen gaan over de klachten, achtergronden, voorgeschiedenis, het medicatiegebruik en meer. De antwoorden op deze vragen zijn belangrijk om een idee te krijgen van wat er aan de hand zou kunnen zijn met de zorgvrager; dit heet hypothesevorming.",
+        "pageDocumentOffset": 72,
+        "paragraphIndexInBodyStory": 503,
+        "text": "￼",
+        "x": 211.380760553148,
+        "y": 71.2627535993834
+      },
+      "asset": null,
+      "caption": {
+        "body": "De ingangsklacht is belangrijk voor het bedenken van andere relevante vragen die je stelt aan de zorgvrager.",
+        "bounds": null,
+        "label": "Afbeelding 6.9:",
+        "raw": "Afbeelding 6.9 De ingangsklacht is belangrijk voor het bedenken van andere relevante vragen die je stelt aan de zorgvrager.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          7.49999999938258,
+          211.380760553148,
+          71.2627535993834,
+          298.619240246356
+        ],
+        "kind": "link",
+        "linkName": "Image43-p90.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image43-p90.tif"
+      },
+      "page": {
+        "documentOffset": 72,
+        "name": "57"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿Casuïstiek in gynaecologie en obstetrie (verloskunde)",
+        "pageDocumentOffset": 85,
+        "paragraphIndexInBodyStory": 612,
+        "text": "﻿7.1  Casus: zwangerschapshypertensie",
+        "x": 17.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Zwanger en hoofdpijn.",
+        "bounds": null,
+        "label": "Afbeelding 7.1:",
+        "raw": "Afbeelding 7.1 Zwanger en hoofdpijn.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368884,
+          58.1681806352403,
+          86.0777777777778,
+          111.831820077711
+        ],
+        "kind": "link",
+        "linkName": "Image55-p105.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image55-p105.tif"
+      },
+      "page": {
+        "documentOffset": 85,
+        "name": "70"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Mevrouw Maas heeft het HELLP-syndroom. HELLP staat voor Hemolysis Elevated Liver enzymes Low Platelet.",
+        "pageDocumentOffset": 87,
+        "paragraphIndexInBodyStory": 641,
+        "text": "﻿7.1.6  Aandachtsgebied ‘hypothesevorming’: wanneer kan mevrouw Maas last krijgen van het HELLP-syndroom?",
+        "x": 17.5,
+        "y": 116.016441429984
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het HELLP-syndroom worden rode bloedcellen afgebroken (hemolyse).",
+        "bounds": null,
+        "label": "Afbeelding 7.2:",
+        "raw": "Afbeelding 7.2 Bij het HELLP-syndroom worden rode bloedcellen afgebroken (hemolyse).",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          149.035810885958,
+          23.5,
+          201.976088664482,
+          111.371048699329
+        ],
+        "kind": "link",
+        "linkName": "Image56-p108.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image56-p108.tif"
+      },
+      "page": {
+        "documentOffset": 87,
+        "name": "72"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 7.3 Bij het vermoeden van zwangerschapsvergiftiging (en dus ook bij een mogelijk HELLP-syndroom) wordt bloed voor onderzoek afgenomen.",
+        "beforeText": "concentratieproblemen.",
+        "pageDocumentOffset": 90,
+        "paragraphIndexInBodyStory": 673,
+        "text": "￼",
+        "x": 206.885532675849,
+        "y": 82.1923776348384
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij het vermoeden van zwangerschapsvergiftiging (en dus ook bij een mogelijk HELLP-syndroom) wordt bloed voor onderzoek afgenomen.",
+        "bounds": null,
+        "label": "Afbeelding 7.3:",
+        "raw": "Afbeelding 7.3 Bij het vermoeden van zwangerschapsvergiftiging (en dus ook bij een mogelijk HELLP-syndroom) wordt bloed voor onderzoek afgenomen.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999966,
+          206.885532675849,
+          82.1923776348359,
+          303.114472664738
+        ],
+        "kind": "link",
+        "linkName": "Image57-p110.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image57-p110.tif"
+      },
+      "page": {
+        "documentOffset": 90,
+        "name": "75"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿7.1.10  Aandachtsgebied ‘beleid’: welk aanvullend onderzoek is nodig om het vermoeden op het HELLP-syndroom te bevestigen?",
+        "pageDocumentOffset": 90,
+        "paragraphIndexInBodyStory": 676,
+        "text": "￼",
+        "x": 187.500001907349,
+        "y": 135.671509579282
+      },
+      "asset": null,
+      "caption": {
+        "body": "Om de diagnose zwangerschapsvergiftiging of het HELLP-syndroom te kunnen stellen, wordt de bloeddruk gemeten.",
+        "bounds": null,
+        "label": "Afbeelding 7.4:",
+        "raw": "Afbeelding 7.4 Om de diagnose zwangerschapsvergiftiging of het HELLP-syndroom te kunnen stellen, wordt de bloeddruk gemeten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          138.922863745949,
+          214.950848409865,
+          210.478477771193,
+          295.049153944031
+        ],
+        "kind": "link",
+        "linkName": "Image58-p111.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image58-p111.tif"
+      },
+      "page": {
+        "documentOffset": 90,
+        "name": "75"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 7.5 Bij de moeder met het HELLP-syndroom wordt het kindje via een keizersnede geboren.",
+        "beforeText": "￼",
+        "pageDocumentOffset": 92,
+        "paragraphIndexInBodyStory": 687,
+        "text": "￼",
+        "x": 200.622467507256,
+        "y": 90.6638888888889
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij de moeder met het HELLP-syndroom wordt het kindje via een keizersnede geboren.",
+        "bounds": null,
+        "label": "Afbeelding 7.5:",
+        "raw": "Afbeelding 7.5 Bij de moeder met het HELLP-syndroom wordt het kindje via een keizersnede geboren.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999992,
+          200.622467507256,
+          90.6638888888889,
+          309.377534452745
+        ],
+        "kind": "link",
+        "linkName": "Image59-p112.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image59-p112.tif"
+      },
+      "page": {
+        "documentOffset": 92,
+        "name": "77"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 93,
+        "paragraphIndexInBodyStory": 691,
+        "text": "﻿7.2  Casus: stuipen tijdens zwangerschap",
+        "x": 17.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Stuipen tijdens de zwangerschap als gevolg van zwangerschapsvergiftiging.",
+        "bounds": null,
+        "label": "Afbeelding 7.6:",
+        "raw": "Afbeelding 7.6 Stuipen tijdens de zwangerschap als gevolg van zwangerschapsvergiftiging.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368884,
+          17.1444949679904,
+          97.5430555555556,
+          152.855506456414
+        ],
+        "kind": "link",
+        "linkName": "Image60-p113.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image60-p113.tif"
+      },
+      "page": {
+        "documentOffset": 93,
+        "name": "78"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "￼",
+        "pageDocumentOffset": 95,
+        "paragraphIndexInBodyStory": 711,
+        "text": "Eclampsie wordt behandeld door het geven van medicijnen om de stuiptrekkingen te laten stoppen en nieuwe stuiptrekkingen te voorkomen. Daarnaast worden moeder en kind goed in de gaten gehouden, aangezien dit een levensbedreigende situatie is. Eclampsie kan bij de moeder leiden tot een hersenbloeding, beschadiging van de nieren en de lever, en problemen met de bloedstolling. Het kindje kan een zuurstoftekort krijgen of komen te overlijden, omdat de placenta nog slechter gaat werken en zelfs kan loslaten. Zo nodig wordt de bevalling opgewekt of wordt het kindje met behulp van een keizersnede gehaald.",
+        "x": 17.5,
+        "y": 14.423570844862
+      },
+      "asset": null,
+      "caption": {
+        "body": "Een te vroeg geboren kindje verblijft op de couveuseafdeling.",
+        "bounds": null,
+        "label": "Afbeelding 7.7:",
+        "raw": "Afbeelding 7.7 Een te vroeg geboren kindje verblijft op de couveuseafdeling.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          46.6915916781958,
+          46.1036930931939,
+          134.231944444444,
+          123.896309281146
+        ],
+        "kind": "link",
+        "linkName": "Image61-p115.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image61-p115.tif"
+      },
+      "page": {
+        "documentOffset": 95,
+        "name": "80"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿Casuïstiek bij het hormoonstelsel",
+        "pageDocumentOffset": 98,
+        "paragraphIndexInBodyStory": 723,
+        "text": "﻿8.1  Casus: hyperthyreoïdie (te snel werkende schildklier)",
+        "x": 187.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Gejaagdheid en een knobbel in de nek.",
+        "bounds": null,
+        "label": "Afbeelding 8.1:",
+        "raw": "Afbeelding 8.1 Gejaagdheid en een knobbel in de nek.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          25.7911426035576,
+          239.183651404911,
+          90.6638888888889,
+          270.816348305192
+        ],
+        "kind": "link",
+        "linkName": "Image62-p117.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image62-p117.tif"
+      },
+      "page": {
+        "documentOffset": 98,
+        "name": "83"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De ziekte van Plummer (multinodale struma) is in 10% tot 15% van de gevallen de oorzaak van een te snel werkende schildklier. Bij de ziekte van Plummer ontstaan in de schildklier goedaardige knobbels die veel schildklierhormonen maken.",
+        "pageDocumentOffset": 99,
+        "paragraphIndexInBodyStory": 733,
+        "text": "￼",
+        "x": 17.5,
+        "y": 51.1999999999986
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij de ziekte van Plummer (multinodale struma) ontstaan in de schildklier goedaardige knobbels die veel schildklierhormonen maken.",
+        "bounds": null,
+        "label": "Afbeelding 8.2:",
+        "raw": "Afbeelding 8.2 Bij de ziekte van Plummer (multinodale struma) ontstaan in de schildklier goedaardige knobbels die veel schildklierhormonen maken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          55.9513541666683,
+          44.6715615166558,
+          124.903604166669,
+          125.328439931234
+        ],
+        "kind": "link",
+        "linkName": "Image63-p118.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image63-p118.tif"
+      },
+      "page": {
+        "documentOffset": 99,
+        "name": "84"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Wanneer behandeling met radioactief jodium ook onvoldoende effect heeft of als de zorgvrager een heel groot struma (een vergrote schildklier) heeft, wordt een (groot) deel van de schildklier verwijderd middels een operatie. Hierdoor zal de schildklierfunctie afnemen. Deze behandeling kan er echter ook voor zorgen dat de aanmaak van schildklierhormonen juist te laag wordt. Zonder behandeling kan hyperthyreoïdie leiden tot hartaandoeningen en extreem verlies van spiermassa.",
+        "pageDocumentOffset": 102,
+        "paragraphIndexInBodyStory": 763,
+        "text": "﻿8.2  Casus: hypothyreoïdie",
+        "x": 187.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Haaruitval en extreme vermoeidheid.",
+        "bounds": null,
+        "label": "Afbeelding 8.3:",
+        "raw": "Afbeelding 8.3 Haaruitval en extreme vermoeidheid.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368884,
+          209.179885525174,
+          98.8412175920267,
+          300.820119621446
+        ],
+        "kind": "link",
+        "linkName": "Image64-p122.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image64-p122.tif"
+      },
+      "page": {
+        "documentOffset": 102,
+        "name": "87"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "gewichtstoename;",
+        "pageDocumentOffset": 104,
+        "paragraphIndexInBodyStory": 794,
+        "text": "hese/diepere stem.",
+        "x": 195.500000111262,
+        "y": 132.104126400417
+      },
+      "asset": null,
+      "caption": {
+        "body": "Haaruitval is een van de symptomen van een te traag werkende schildklier.",
+        "bounds": null,
+        "label": "Afbeelding 8.4:",
+        "raw": "Afbeelding 8.4 Haaruitval is een van de symptomen van een te traag werkende schildklier.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          134.355480567082,
+          206.823989274767,
+          214.488888888889,
+          303.176015568292
+        ],
+        "kind": "link",
+        "linkName": "Image65-p125.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image65-p125.tif"
+      },
+      "page": {
+        "documentOffset": 104,
+        "name": "89"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Gelukkig reageert mevrouw De Vries, net als de meeste zorgvragers, goed op de behandeling en voelt ze zich enkele weken na de start van de behandeling al een stuk beter.",
+        "pageDocumentOffset": 106,
+        "paragraphIndexInBodyStory": 808,
+        "text": "﻿8.3  Casus: suikerziekte (diabetes)",
+        "x": 187.5,
+        "y": 38.1192192077627
+      },
+      "asset": null,
+      "caption": {
+        "body": "Dorst, veel plassen en slechter zien.",
+        "bounds": null,
+        "label": "Afbeelding 8.5:",
+        "raw": "Afbeelding 8.5 Dorst, veel plassen en slechter zien.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          42.370573374429,
+          218.125003284878,
+          116.120568467204,
+          291.874998377656
+        ],
+        "kind": "link",
+        "linkName": "Image66-p127.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image66-p127.tif"
+      },
+      "page": {
+        "documentOffset": 106,
+        "name": "91"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿8.3.3  Aandachtsgebied ‘beleid’: hoe wordt diabetes gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op diabetes te bevestigen?",
+        "pageDocumentOffset": 108,
+        "paragraphIndexInBodyStory": 836,
+        "text": "￼",
+        "x": 187.5,
+        "y": 41.3699727715422
+      },
+      "asset": null,
+      "caption": {
+        "body": "De glucosespiegel in het bloed wordt via de vingerprikmethode bepaald.",
+        "bounds": null,
+        "label": "Afbeelding 8.6:",
+        "raw": "Afbeelding 8.6 De glucosespiegel in het bloed wordt via de vingerprikmethode bepaald.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          44.6213269382093,
+          208.434727520413,
+          99.6213269382077,
+          301.565272514075
+        ],
+        "kind": "link",
+        "linkName": "Image67-p129.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image67-p129.tif"
+      },
+      "page": {
+        "documentOffset": 108,
+        "name": "93"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿Casuïstiek bij het spijsverteringsstelsel",
+        "pageDocumentOffset": 110,
+        "paragraphIndexInBodyStory": 848,
+        "text": "﻿9.1  Casus: maagzweer",
+        "x": 187.5,
+        "y": 16.2481217702221
+      },
+      "asset": null,
+      "caption": {
+        "body": "Pijn in de bovenbuik na eten.",
+        "bounds": null,
+        "label": "Afbeelding 9.1:",
+        "raw": "Afbeelding 9.1 Pijn in de bovenbuik na eten.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          20.4994759368884,
+          201.583164681329,
+          93.2174845209713,
+          308.416839690773
+        ],
+        "kind": "link",
+        "linkName": "Image68-p131.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image68-p131.tif"
+      },
+      "page": {
+        "documentOffset": 110,
+        "name": "95"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 9.2 Bij een maagzweer is de wand van de maag geïrriteerd en beschadigd.",
+        "beforeText": "￼",
+        "pageDocumentOffset": 112,
+        "paragraphIndexInBodyStory": 862,
+        "text": "￼",
+        "x": 195.000001695421,
+        "y": 99.4496464891115
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij een maagzweer is de wand van de maag geïrriteerd en beschadigd.",
+        "bounds": null,
+        "label": "Afbeelding 9.2:",
+        "raw": "Afbeelding 9.2 Bij een maagzweer is de wand van de maag geïrriteerd en beschadigd.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999992,
+          195.000001695421,
+          99.4496464891115,
+          315.000000455421
+        ],
+        "kind": "link",
+        "linkName": "Image69-p133.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image69-p133.tif"
+      },
+      "page": {
+        "documentOffset": 112,
+        "name": "97"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "﻿9.1.5.  Aandachtsgebied ‘beleid’: hoe wordt een maagzweer gediagnosticeerd? Welk aanvullend onderzoek kan helpen om het vermoeden op een maagzweer te bevestigen?",
+        "pageDocumentOffset": 113,
+        "paragraphIndexInBodyStory": 873,
+        "text": "￼",
+        "x": 17.5,
+        "y": 128.786951938205
+      },
+      "asset": null,
+      "caption": {
+        "body": "Bij een gastroscopie wordt in de maag gekeken via een dunne draad die verbonden is met een camera en een beeldscherm.",
+        "bounds": null,
+        "label": "Afbeelding 9.3:",
+        "raw": "Afbeelding 9.3 Bij een gastroscopie wordt in de maag gekeken via een dunne draad die verbonden is met een camera en een beeldscherm.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          133.038306104871,
+          31.0418056064181,
+          211.502194993758,
+          138.958192070476
+        ],
+        "kind": "link",
+        "linkName": "Image70-p135.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image70-p135.tif"
+      },
+      "page": {
+        "documentOffset": 113,
+        "name": "98"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "﻿9.2  Casus: diarree",
+        "beforeText": "Als de wand van het maag-darmkanaal is doorboord, ontstaat een verbinding tussen de maag en de buikholte. Dit leidt tot hevige buikklachten.",
+        "pageDocumentOffset": 115,
+        "paragraphIndexInBodyStory": 891,
+        "text": "Sommige mensen hebben een lange tijd een maagzweer zonder dit te merken. Een plotselinge bloeding of perforatie kan dan de eerste uiting van de maagzweer zijn.",
+        "x": 17.5,
+        "y": 122.121441429986
+      },
+      "asset": null,
+      "caption": {
+        "body": "Diarree, koorts en braken.",
+        "bounds": null,
+        "label": "Afbeelding 9.4:",
+        "raw": "Afbeelding 9.4 Diarree, koorts en braken.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          127.635500648004,
+          61.0856442890798,
+          226.315519237196,
+          135.027446236558
+        ],
+        "kind": "link",
+        "linkName": "Image71-p138.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image71-p138.tif"
+      },
+      "page": {
+        "documentOffset": 115,
+        "name": "100"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "Afbeelding 9.5 Gastro-enteritis is het gevolg van een infectie met een virus of bacterie.",
+        "beforeText": "￼",
+        "pageDocumentOffset": 117,
+        "paragraphIndexInBodyStory": 903,
+        "text": "￼",
+        "x": 38.2212661743164,
+        "y": 99.8361111111111
+      },
+      "asset": null,
+      "caption": {
+        "body": "Gastro-enteritis is het gevolg van een infectie met een virus of bacterie.",
+        "bounds": null,
+        "label": "Afbeelding 9.5:",
+        "raw": "Afbeelding 9.5 Gastro-enteritis is het gevolg van een infectie met een virus of bacterie.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          12.1999999999992,
+          38.2212661743164,
+          99.8361111111111,
+          131.778736144287
+        ],
+        "kind": "link",
+        "linkName": "Image72-p139.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image72-p139.tif"
+      },
+      "page": {
+        "documentOffset": 117,
+        "name": "102"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "Soms wordt diarree gecompliceerd door ernstige uitdroging, of is de diarree het gevolg van een ernstige andere ziekte. Vraag een arts om advies bij verschijnselen als sufheid, weinig plassen, hevige buikpijn, hoge koorts of een bloederige ontlasting.",
+        "pageDocumentOffset": 122,
+        "paragraphIndexInBodyStory": 953,
+        "text": "﻿9.3  Casus: blindedarmontsteking (appendicitis)",
+        "x": 187.5,
+        "y": 103.209126400418
+      },
+      "asset": null,
+      "caption": {
+        "body": "Buikpijn en koorts.",
+        "bounds": null,
+        "label": "Afbeelding 9.6:",
+        "raw": "Afbeelding 9.6 Buikpijn en koorts.",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          107.460480567084,
+          209.836730660333,
+          184.679166666667,
+          300.163270781466
+        ],
+        "kind": "link",
+        "linkName": "Image73-p146.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image73-p146.tif"
+      },
+      "page": {
+        "documentOffset": 122,
+        "name": "107"
+      }
+    },
+    {
+      "anchor": {
+        "afterText": "￼",
+        "beforeText": "De blindedarm bevindt zich rechts onder in de buik, op de plek waar de dunne darm overgaat in de dikke darm. De blindedarm wordt ook wel wormvormig aanhangsel of appendix genoemd en heeft de dikte van een potlood. De lengte van de blindedarm varieert tussen de 2-20 cm. De functie van de blindedarm is tot op heden onduidelijk; mogelijk speelt het orgaan een rol binnen het afweersysteem van het menselijk lichaam.",
+        "pageDocumentOffset": 123,
+        "paragraphIndexInBodyStory": 962,
+        "text": "Het wormvormig aanhangsel (appendix) van de blindedarm kan ontstoken raken. Dit komt bij ongeveer 7% van de bevolking voor en is de meest voorkomende reden voor een acute buikoperatie. Een blindedarmontsteking kan op elke leeftijd voorkomen, maar treedt meestal op tussen de 15 en 30 jaar, bij mannen en vrouwen in gelijke mate.",
+        "x": 17.5,
+        "y": 76.1797297159821
+      },
+      "asset": null,
+      "caption": {
+        "body": "De naam blindedarmontsteking is eigenlijk misleidend, omdat niet de blindedarm zelf ontstoken is, maar het wormvormig aanhangsel (appendix).",
+        "bounds": null,
+        "label": "Afbeelding 9.7:",
+        "raw": "Afbeelding 9.7 De naam blindedarmontsteking is eigenlijk misleidend, omdat niet de blindedarm zelf ontstoken is, maar het wormvormig aanhangsel (appendix).",
+        "styleName": "•Fotobijschrift"
+      },
+      "image": {
+        "bounds": [
+          94.6894172159826,
+          37.7318580627441,
+          175.506944444444,
+          132.268141758096
+        ],
+        "kind": "link",
+        "linkName": "Image74-p147.tif",
+        "linkPath": "file:/Users/asafgafni/Downloads/MBO%202024/Binnenwerk/MBO%20Praktijkgestuurd%20klinisch%20redeneren_9789083412030_03/Links/Image74-p147.tif"
+      },
+      "page": {
+        "documentOffset": 123,
+        "name": "108"
+      }
+    }
+  ],
+  "sourceIndd": "/Users/asafgafni/Downloads/MBO 2024/Binnenwerk/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03/MBO Praktijkgestuurd klinisch redeneren_9789083412030_03.2024.indd"
+}

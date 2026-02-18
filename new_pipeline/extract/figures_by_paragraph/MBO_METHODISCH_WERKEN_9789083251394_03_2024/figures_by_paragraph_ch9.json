@@ -1,0 +1,32 @@
+{
+  "289e0f30-603a-4dda-afac-da80f2bf042e": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch9/linked/Image 2.5 Aanpak van het interpreteren van gegevens.png",
+      "alt": "Afbeelding 9.1: Aanpak van het interpreteren van gegevens.",
+      "figureNumber": "Afbeelding 9.1:",
+      "caption": "Aanpak van het interpreteren van gegevens.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "c84c6fcc-8643-4948-b7a0-d4d583bff127": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch9/linked/Image 6.7 Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.png",
+      "alt": "Afbeelding 9.2: Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.",
+      "figureNumber": "Afbeelding 9.2:",
+      "caption": "Een verpleegkundige diagnose is het startpunt voor verpleegkundig handelen.",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ],
+  "50d2b561-e036-4fdf-9dbd-bbcefaae5df4": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_METHODISCH_WERKEN_9789083251394_03_2024/ch9/linked/Afbeelding 9.3.png",
+      "alt": "Afbeelding 9.3: Voorbeeld van het begin van het Edmonton Symptom Assessment System (ESAS).",
+      "figureNumber": "Afbeelding 9.3:",
+      "caption": "Voorbeeld van het begin van het Edmonton Symptom Assessment System (ESAS).",
+      "placement": "full-width",
+      "width": "140.2mm"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "apiMode": "edge",
+  "supabase": {
+    "url": "https://blbpvrvsctpkdadmjffx.supabase.co",
+    "publishableKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJsYnB2cnZzY3Rwa2RhZG1qZmZ4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA5MDE1NzgsImV4cCI6MjA4NjQ3NzU3OH0.YCPPoG3Ib3VNbVCBrKJAun2gOKgvtENbELMPP0UA_Bw"
+  }
+}
+

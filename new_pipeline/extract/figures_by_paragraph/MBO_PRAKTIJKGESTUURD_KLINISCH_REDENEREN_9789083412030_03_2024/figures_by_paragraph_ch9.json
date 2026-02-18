@@ -1,0 +1,68 @@
+{
+  "03e402c2-1404-4697-b38a-eb6b119a0054": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image68-p131.png",
+      "alt": "Afbeelding 9.1: Pijn in de bovenbuik na eten.",
+      "figureNumber": "Afbeelding 9.1:",
+      "caption": "Pijn in de bovenbuik na eten.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image69-p133.png",
+      "alt": "Afbeelding 9.2: Bij een maagzweer is de wand van de maag geïrriteerd en beschadigd.",
+      "figureNumber": "Afbeelding 9.2:",
+      "caption": "Bij een maagzweer is de wand van de maag geïrriteerd en beschadigd.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f6024925-f1ae-4faf-a89f-79f045904bc5": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image70-p135.png",
+      "alt": "Afbeelding 9.3: Bij een gastroscopie wordt in de maag gekeken via een dunne draad die verbonden is met een camera en een beeldscherm.",
+      "figureNumber": "Afbeelding 9.3:",
+      "caption": "Bij een gastroscopie wordt in de maag gekeken via een dunne draad die verbonden is met een camera en een beeldscherm.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "aaf4c8fd-f6f4-421f-be2d-d8f8d990e9cd": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image71-p138.png",
+      "alt": "Afbeelding 9.4: Diarree, koorts en braken.",
+      "figureNumber": "Afbeelding 9.4:",
+      "caption": "Diarree, koorts en braken.",
+      "placement": "inline",
+      "width": "55%"
+    }
+  ],
+  "d2633c0a-6b16-4fc2-852b-7ce25da1a356": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image72-p139.png",
+      "alt": "Afbeelding 9.5: Gastro-enteritis is het gevolg van een infectie met een virus of bacterie.",
+      "figureNumber": "Afbeelding 9.5:",
+      "caption": "Gastro-enteritis is het gevolg van een infectie met een virus of bacterie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "42db99a5-f56c-407a-8476-60b8089d7ded": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image73-p146.png",
+      "alt": "Afbeelding 9.6: Buikpijn en koorts.",
+      "figureNumber": "Afbeelding 9.6:",
+      "caption": "Buikpijn en koorts.",
+      "placement": "inline",
+      "width": "75%"
+    },
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_PRAKTIJKGESTUURD_KLINISCH_REDENEREN_9789083412030_03_2024/ch9/linked/Image74-p147.png",
+      "alt": "Afbeelding 9.7: De naam blindedarmontsteking is eigenlijk misleidend, omdat niet de blindedarm zelf ontstoken is, maar het wormvormig aanhangsel (appendix).",
+      "figureNumber": "Afbeelding 9.7:",
+      "caption": "De naam blindedarmontsteking is eigenlijk misleidend, omdat niet de blindedarm zelf ontstoken is, maar het wormvormig aanhangsel (appendix).",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}

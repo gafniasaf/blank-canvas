@@ -1,0 +1,82 @@
+{
+  "4d432946-2864-4af1-a4b5-b814d637a3fd": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch1/linked/Communication_Image_08.png",
+      "alt": "Afbeelding 1.1: Zender en ontvanger wisselen informatie uit.",
+      "figureNumber": "Afbeelding 1.1:",
+      "caption": "Zender en ontvanger wisselen informatie uit.",
+      "placement": "inline",
+      "width": "100%"
+    }
+  ],
+  "29975dd4-b3c5-42dd-9c21-6427160b3d23": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.1.png",
+      "alt": "Afbeelding 3.1: De zes cultuurdimensies van Hofstede.",
+      "figureNumber": "Afbeelding 3.1:",
+      "caption": "De zes cultuurdimensies van Hofstede.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "019cb7b1-d12c-49b4-bcd4-a5b3489c10f3": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch3/Afbeelding_3.2.png",
+      "alt": "Afbeelding 3.2: Het proces van culturele competentie.",
+      "figureNumber": "Afbeelding 3.2:",
+      "caption": "Het proces van culturele competentie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "f8c0d2bf-e54c-48a2-ac3e-fa441bea5e20": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch5/linked/Circle_arrows-02.jpg",
+      "alt": "Afbeelding 5.1: De sterstructuur voor groepscommunicatie.",
+      "figureNumber": "Afbeelding 5.1:",
+      "caption": "De sterstructuur voor groepscommunicatie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "97a283a3-c407-4ede-8ea1-a36c8c5e0c60": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch5/linked/Circle_arrows-01.jpg",
+      "alt": "Afbeelding 5.2: De wielstructuur voor groepscommunicatie.",
+      "figureNumber": "Afbeelding 5.2:",
+      "caption": "De wielstructuur voor groepscommunicatie.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "576641ed-c814-42a9-adc2-0c65ca385e48": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.1.png",
+      "alt": "Afbeelding 7.1: Het Johari-venster.",
+      "figureNumber": "Afbeelding 7.1:",
+      "caption": "Het Johari-venster.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "2b3b54a2-4fe5-4255-80ea-3f76c3689c8a": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch7/Afbeelding_7.2.png",
+      "alt": "Afbeelding 7.2: Het reflectiemodel van Korthagen.",
+      "figureNumber": "Afbeelding 7.2:",
+      "caption": "Het reflectiemodel van Korthagen.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ],
+  "3a18693d-955e-487e-9705-258cd908ed18": [
+    {
+      "src": "new_pipeline/assets/figures_by_book/MBO_COMMUNICATIE_9789083251387_03_2024/ch8/Afbeelding_8.1.png",
+      "alt": "Afbeelding 8.1: De roos van Leary.",
+      "figureNumber": "Afbeelding 8.1:",
+      "caption": "De roos van Leary.",
+      "placement": "inline",
+      "width": "75%"
+    }
+  ]
+}
