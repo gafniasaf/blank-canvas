@@ -25,7 +25,9 @@
     "mcp:require": "node scripts/mcp-require.mjs",
     "cli:enqueue": "tsx cli/enqueue.ts",
     "cli:monitor": "tsx cli/monitor.ts",
-    "cli:status": "tsx cli/status.ts"
+    "cli:status": "tsx cli/status.ts",
+    "build:dev": "vite build --mode development",
+    "build": "vite build"
   },
   "dependencies": {
     "@napi-rs/canvas": "^0.1.92",

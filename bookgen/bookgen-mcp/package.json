@@ -8,7 +8,9 @@
     "dev": "tsx src/index.ts",
     "build": "tsc -p tsconfig.json",
     "start": "node dist/index.js",
-    "typecheck": "tsc -p tsconfig.json --noEmit"
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "build:dev": "vite build --mode development",
+    "build": "vite build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.93.3",
@@ -20,4 +22,3 @@
     "typescript": "^5.3.2"
   }
 }
-

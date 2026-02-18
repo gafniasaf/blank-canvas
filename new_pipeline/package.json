@@ -25,7 +25,9 @@
     "export:figure-placeholders": "python3 extract/generate-figure-placeholders.py",
     "bundle:review": "tsx scripts/prepare-review-bundle.ts",
     "test:fixture": "tsx scripts/test-fixture.ts",
-    "test:demo-chapter": "tsx scripts/test-demo-chapter.ts"
+    "test:demo-chapter": "tsx scripts/test-demo-chapter.ts",
+    "build:dev": "vite build --mode development",
+    "build": "vite build"
   },
   "dependencies": {
     "@types/adm-zip": "^0.5.7",

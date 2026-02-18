@@ -9,7 +9,9 @@
     "start": "node server.js & vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "build:dev": "vite build --mode development",
+    "build": "vite build"
   },
   "dependencies": {
     "cors": "^2.8.5",
